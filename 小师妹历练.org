@@ -11,6 +11,14 @@
 * 如何使用
 浏览器按下 ~Ctrl+F~ 输入标题即可跳转（例如下图搜索： ~孤鸿之赠~ ）
 
+关于选项前面数字的问题，例如
+
+#+BEGIN_EXAMPLE
+2.2.1. 气劲残页【侠誉图：孤鸿之赠 气劲+30】
+#+END_EXAMPLE
+
+表示依次选择第 2，2，1 个选项（单选的对话不算）
+
 [[file:0.jpg]]
 
 * 事件
@@ -2753,3 +2761,4 @@
 ❤ 不哭了，来，我们重新写一封吧。
 #+END_EXAMPLE
 
+转载标明源地址（https://github.com/tsurumi-hakutyou/MoonlightBlade_data/blob/master/%E5%B0%8F%E5%B8%88%E5%A6%B9%E5%8E%86%E7%BB%83.org）
