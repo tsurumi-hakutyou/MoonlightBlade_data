@@ -3,42 +3,49 @@
 
 * 切磋
 ** 小试身手
+[[https://img.shields.io/badge/成就-成就点25点-ff69b4.svg]]
 - 赢得一次切磋
 #+BEGIN_EXAMPLE
 切磋胜利
 #+END_EXAMPLE
 
 ** 不伤和气
+[[https://img.shields.io/badge/成就-成就点25点-ff69b4.svg]]
 - 赢得10次切磋
 #+BEGIN_EXAMPLE
 赢得10次切磋
 #+END_EXAMPLE
 
 ** 技高一筹
+[[https://img.shields.io/badge/成就-成就点25点-ff69b4.svg]]
 - 赢得120次切磋
 #+BEGIN_EXAMPLE
 赢得120次切磋
 #+END_EXAMPLE
 
 ** 初尝败绩
+[[https://img.shields.io/badge/成就-成就点25点-ff69b4.svg]]
 - 输掉一次切磋
 #+BEGIN_EXAMPLE
 切磋失败
 #+END_EXAMPLE
 
 ** 战无不胜
+[[https://img.shields.io/badge/成就-成就点25点-ff69b4.svg]]
 - 切磋连赢3次
 #+BEGIN_EXAMPLE
 已胜利场次
 #+END_EXAMPLE
 
 ** 屡败屡战
+[[https://img.shields.io/badge/成就-成就点25点-ff69b4.svg]]
 - 切磋连输3次
 #+BEGIN_EXAMPLE
 已经失利场次
 #+END_EXAMPLE
 
 ** 疾风骤雨
+[[https://img.shields.io/badge/成就-成就点25点-ff69b4.svg]]
 - 30秒内结束切磋
 #+BEGIN_EXAMPLE
 极速切磋
@@ -142,186 +149,217 @@
 #+END_EXAMPLE
 
 ** 激战证明
+[[https://img.shields.io/badge/成就-成就点60点-ff69b4.svg]]
 - 累计获得15000胜负令
 #+BEGIN_EXAMPLE
 累计获得15000胜负令
 #+END_EXAMPLE
 
 ** 激战证明·二
+[[https://img.shields.io/badge/成就-成就点120点-ff69b4.svg]]
 - 累计获得30000胜负令
 #+BEGIN_EXAMPLE
 累计获得30000胜负令
 #+END_EXAMPLE
 
 ** 激战证明·三
+[[https://img.shields.io/badge/成就-成就点180点-ff69b4.svg]]
 - 累计获得100000胜负令
 #+BEGIN_EXAMPLE
 累计获得100000胜负令
 #+END_EXAMPLE
 
 ** 激战证明·四
+[[https://img.shields.io/badge/成就-成就点220点-ff69b4.svg]]
 - 累计获得200000胜负令
 #+BEGIN_EXAMPLE
 累计获得200000胜负令
 #+END_EXAMPLE
 
 ** 激战证明·五
+[[https://img.shields.io/badge/成就-成就点250点-ff69b4.svg]]
 - 累计获得500000胜负令
 #+BEGIN_EXAMPLE
 累计获得500000胜负令
 #+END_EXAMPLE
 
 ** 战绩彪悍
+[[https://img.shields.io/badge/成就-成就点60点-ff69b4.svg]]
 - 累计获得10000名望
 #+BEGIN_EXAMPLE
 累计获得10000名望
 #+END_EXAMPLE
 
 ** 战绩彪悍·二
+[[https://img.shields.io/badge/成就-成就点120点-ff69b4.svg]]
 - 累计获得30000名望
 #+BEGIN_EXAMPLE
 累计获得30000名望
 #+END_EXAMPLE
 
 ** 战绩彪悍·三
+[[https://img.shields.io/badge/成就-成就点180点-ff69b4.svg]]
 - 累计获得80000名望
 #+BEGIN_EXAMPLE
 累计获得80000名望
 #+END_EXAMPLE
 
 ** 战绩彪悍·四
+[[https://img.shields.io/badge/成就-成就点220点-ff69b4.svg]]
 - 累计获得150000名望
 #+BEGIN_EXAMPLE
 累计获得150000名望
 #+END_EXAMPLE
 
 ** 松林之道
+[[https://img.shields.io/badge/成就-成就点200点-ff69b4.svg]]
 - 松林问战获胜60场
 #+BEGIN_EXAMPLE
 松林问战60场
 #+END_EXAMPLE
 
 ** 松林之道·二
+[[https://img.shields.io/badge/成就-成就点225点-ff69b4.svg]]
 - 松林问战获胜100场
 #+BEGIN_EXAMPLE
 松林问战100场
 #+END_EXAMPLE
 
 ** 松林之道·三
+[[https://img.shields.io/badge/成就-成就点250点-ff69b4.svg]]
 - 松林问战获胜150场
 #+BEGIN_EXAMPLE
 松林问战150场
 #+END_EXAMPLE
 
 ** 孤月之道
+[[https://img.shields.io/badge/成就-成就点200点-ff69b4.svg]]
 - 长洲孤月获胜60场
 #+BEGIN_EXAMPLE
 长洲孤月60场
 #+END_EXAMPLE
 
 ** 孤月之道·二
+[[https://img.shields.io/badge/成就-成就点225点-ff69b4.svg]]
 - 长洲孤月获胜100场
 #+BEGIN_EXAMPLE
 长洲孤月100场
 #+END_EXAMPLE
 
 ** 孤月之道·三
+[[https://img.shields.io/badge/成就-成就点250点-ff69b4.svg]]
 - 长洲孤月获胜150场
 #+BEGIN_EXAMPLE
 长洲孤月150场
 #+END_EXAMPLE
 
 ** 松林杀手
+[[https://img.shields.io/badge/成就-成就点50点-ff69b4.svg]]
 - 在松林问战中击杀150人
 #+BEGIN_EXAMPLE
 在松林问战中击杀150人
 #+END_EXAMPLE
 
 ** 松林杀手·二
+[[https://img.shields.io/badge/成就-成就点75点-ff69b4.svg]]
 - 在松林问战中击杀250人
 #+BEGIN_EXAMPLE
 在松林问战中击杀250人
 #+END_EXAMPLE
 
 ** 松林杀手·三
+[[https://img.shields.io/badge/成就-成就点125点-ff69b4.svg]]
 - 在松林问战中击杀450人
 #+BEGIN_EXAMPLE
 在松林问战中击杀450人
 #+END_EXAMPLE
 
 ** 松林杀手·四
+[[https://img.shields.io/badge/成就-成就点150点-ff69b4.svg]]
 - 在松林问战中击杀600人
 #+BEGIN_EXAMPLE
 在松林问战中击杀600人
 #+END_EXAMPLE
 
 ** 孤月杀手
+[[https://img.shields.io/badge/成就-成就点50点-ff69b4.svg]]
 - 长洲孤月中击杀150人
 #+BEGIN_EXAMPLE
 长洲孤月中击杀150人
 #+END_EXAMPLE
 
 ** 孤月杀手·二
+[[https://img.shields.io/badge/成就-成就点75点-ff69b4.svg]]
 - 长洲孤月中击杀250人
 #+BEGIN_EXAMPLE
 长洲孤月中击杀250人
 #+END_EXAMPLE
 
 ** 孤月杀手·三
+[[https://img.shields.io/badge/成就-成就点125点-ff69b4.svg]]
 - 长洲孤月中击杀450人
 #+BEGIN_EXAMPLE
 长洲孤月中击杀450人
 #+END_EXAMPLE
 
 ** 孤月杀手·四
+[[https://img.shields.io/badge/成就-成就点150点-ff69b4.svg]]
 - 长洲孤月中击杀600人
 #+BEGIN_EXAMPLE
 长洲孤月中击杀600人
 #+END_EXAMPLE
 
 ** 联盟勇士
+[[https://img.shields.io/badge/成就-成就点150点-ff69b4.svg]]
 - 掠夺战中击杀150人
 #+BEGIN_EXAMPLE
 掠夺战中击杀150人
 #+END_EXAMPLE
 
 ** 联盟勇士·二
+[[https://img.shields.io/badge/成就-成就点175点-ff69b4.svg]]
 - 掠夺战中击杀250人
 #+BEGIN_EXAMPLE
 掠夺战中击杀250人
 #+END_EXAMPLE
 
 ** 联盟勇士·三
+[[https://img.shields.io/badge/成就-成就点225点-ff69b4.svg]]
 - 掠夺战中击杀450人
 #+BEGIN_EXAMPLE
 掠夺战中击杀450人
 #+END_EXAMPLE
 
 ** 联盟勇士·四
+[[https://img.shields.io/badge/成就-成就点250点-ff69b4.svg]]
 - 掠夺战中击杀600人
 #+BEGIN_EXAMPLE
 掠夺战中击杀600人
 #+END_EXAMPLE
 
 ** 争锋难敌
+[[https://img.shields.io/badge/成就-成就点150点-ff69b4.svg]]
 - 争锋战中击杀150人
 #+BEGIN_EXAMPLE
 争锋战中击杀150人
 #+END_EXAMPLE
 
 ** 争锋难敌·二
+[[https://img.shields.io/badge/成就-成就点175点-ff69b4.svg]]
 - 争锋战中击杀250人
 #+BEGIN_EXAMPLE
 争锋战中击杀250人
 #+END_EXAMPLE
 
 ** 争锋难敌·三
+[[https://img.shields.io/badge/成就-成就点225点-ff69b4.svg]]
 - 争锋战中击杀450人
 #+BEGIN_EXAMPLE
 争锋战中击杀450人
 #+END_EXAMPLE
 
 ** 争锋难敌·四
+[[https://img.shields.io/badge/成就-成就点250点-ff69b4.svg]]
 - 争锋战中击杀600人
 #+BEGIN_EXAMPLE
 争锋战中击杀600人
@@ -329,162 +367,189 @@
 
 * 论剑
 ** 一段
+[[https://img.shields.io/badge/成就-成就点25点-ff69b4.svg]]
 - 竞技场1段
 #+BEGIN_EXAMPLE
 竞技场1段
 #+END_EXAMPLE
 
 ** 二段
+[[https://img.shields.io/badge/成就-成就点25点-ff69b4.svg]]
 - 竞技场2段
 #+BEGIN_EXAMPLE
 竞技场2段
 #+END_EXAMPLE
 
 ** 三段
+[[https://img.shields.io/badge/成就-成就点25点-ff69b4.svg]]
 - 竞技场3段
 #+BEGIN_EXAMPLE
 竞技场3段
 #+END_EXAMPLE
 
 ** 四段
+[[https://img.shields.io/badge/成就-成就点25点-ff69b4.svg]]
 - 竞技场4段
 #+BEGIN_EXAMPLE
 竞技场4段
 #+END_EXAMPLE
 
 ** 五段
+[[https://img.shields.io/badge/成就-成就点25点-ff69b4.svg]]
 - 竞技场5段
 #+BEGIN_EXAMPLE
 竞技场5段
 #+END_EXAMPLE
 
 ** 六段
+[[https://img.shields.io/badge/成就-成就点50点-ff69b4.svg]]
 - 竞技场6段
 #+BEGIN_EXAMPLE
 竞技场6段
 #+END_EXAMPLE
 
 ** 七段
+[[https://img.shields.io/badge/成就-成就点50点-ff69b4.svg]]
 - 竞技场7段
 #+BEGIN_EXAMPLE
 竞技场7段
 #+END_EXAMPLE
 
 ** 八段
+[[https://img.shields.io/badge/成就-成就点50点-ff69b4.svg]]
 - 竞技场8段
 #+BEGIN_EXAMPLE
 竞技场8段
 #+END_EXAMPLE
 
 ** 九段
+[[https://img.shields.io/badge/成就-成就点50点-ff69b4.svg]]
 - 竞技场9段
 #+BEGIN_EXAMPLE
 竞技场9段
 #+END_EXAMPLE
 
 ** 试剑
+[[https://img.shields.io/badge/成就-成就点50点-ff69b4.svg]]
 - 竞技场10段
 #+BEGIN_EXAMPLE
 竞技场10段
 #+END_EXAMPLE
 
 ** 利剑
+[[https://img.shields.io/badge/成就-成就点75点-ff69b4.svg]]
 - 竞技场11段
 #+BEGIN_EXAMPLE
 竞技场11段
 #+END_EXAMPLE
 
 ** 快剑
+[[https://img.shields.io/badge/成就-成就点75点-ff69b4.svg]]
 - 竞技场12段
 #+BEGIN_EXAMPLE
 竞技场12段
 #+END_EXAMPLE
 
 ** 飞剑
+[[https://img.shields.io/badge/成就-成就点75点-ff69b4.svg]]
 - 竞技场13段
 #+BEGIN_EXAMPLE
 竞技场13段
 #+END_EXAMPLE
 
 ** 神剑
+[[https://img.shields.io/badge/成就-成就点75点-ff69b4.svg]]
 - 竞技场14段
 #+BEGIN_EXAMPLE
 竞技场14段
 #+END_EXAMPLE
 
 ** 意剑
+[[https://img.shields.io/badge/成就-成就点75点-ff69b4.svg]]
 - 竞技场15段
 #+BEGIN_EXAMPLE
 竞技场15段
 #+END_EXAMPLE
 
 ** 心剑
+[[https://img.shields.io/badge/成就-成就点100点-ff69b4.svg]]
 - 竞技场16段
 #+BEGIN_EXAMPLE
 竞技场16段
 #+END_EXAMPLE
 
 ** 白虹
+[[https://img.shields.io/badge/成就-成就点100点-ff69b4.svg]]
 - 竞技场17段
 #+BEGIN_EXAMPLE
 竞技场17段
 #+END_EXAMPLE
 
 ** 秋水
+[[https://img.shields.io/badge/成就-成就点100点-ff69b4.svg]]
 - 竞技场18段
 #+BEGIN_EXAMPLE
 竞技场18段
 #+END_EXAMPLE
 
 ** 吹雪
+[[https://img.shields.io/badge/成就-成就点100点-ff69b4.svg]]
 - 竞技场19段
 #+BEGIN_EXAMPLE
 竞技场19段
 #+END_EXAMPLE
 
 ** 登峰
+[[https://img.shields.io/badge/成就-成就点100点-ff69b4.svg]]
 - 竞技场20段
 #+BEGIN_EXAMPLE
 竞技场20段
 #+END_EXAMPLE
 
 ** 造极
+[[https://img.shields.io/badge/成就-成就点125点-ff69b4.svg]]
 - 竞技场21段
 #+BEGIN_EXAMPLE
 竞技场21段
 #+END_EXAMPLE
 
 ** 化境
+[[https://img.shields.io/badge/成就-成就点125点-ff69b4.svg]]
 - 竞技场22段
 #+BEGIN_EXAMPLE
 竞技场22段
 #+END_EXAMPLE
 
 ** 武痴
+[[https://img.shields.io/badge/成就-成就点125点-ff69b4.svg]]
 - 竞技场23段
 #+BEGIN_EXAMPLE
 竞技场23段
 #+END_EXAMPLE
 
 ** 武尊
+[[https://img.shields.io/badge/成就-成就点125点-ff69b4.svg]]
 - 竞技场24段
 #+BEGIN_EXAMPLE
 竞技场24段
 #+END_EXAMPLE
 
 ** 武圣
+[[https://img.shields.io/badge/成就-成就点125点-ff69b4.svg]]
 - 竞技场25段
 #+BEGIN_EXAMPLE
 竞技场25段
 #+END_EXAMPLE
 
 ** 求败
+[[https://img.shields.io/badge/成就-成就点125点-ff69b4.svg]]
 - 竞技场26段
 #+BEGIN_EXAMPLE
 竞技场26段
 #+END_EXAMPLE
 
 ** 四海论英雄·新秀
+[[https://img.shields.io/badge/成就-成就点25点-ff69b4.svg]]
 - 四海论英雄活动到达第二关
 #+BEGIN_EXAMPLE
 四海论英雄活动到达第二关
@@ -496,6 +561,7 @@
 #+END_EXAMPLE
 
 ** 四海论英雄·锐气
+[[https://img.shields.io/badge/成就-成就点25点-ff69b4.svg]]
 - 四海论英雄活动到达第三关
 #+BEGIN_EXAMPLE
 四海论英雄活动到达第三关
@@ -506,6 +572,7 @@
 #+END_EXAMPLE
 
 ** 四海论英雄·英武
+[[https://img.shields.io/badge/成就-成就点25点-ff69b4.svg]]
 - 四海论英雄活动到达第四关
 #+BEGIN_EXAMPLE
 四海论英雄活动到达第四关
@@ -515,6 +582,7 @@
 #+END_EXAMPLE
 
 ** 四海论英雄·上游
+[[https://img.shields.io/badge/成就-成就点25点-ff69b4.svg]]
 - 四海论英雄活动到达第五关
 #+BEGIN_EXAMPLE
 四海论英雄活动到达第五关
@@ -523,6 +591,7 @@
 #+END_EXAMPLE
 
 ** 四海论英雄·出众
+[[https://img.shields.io/badge/成就-成就点25点-ff69b4.svg]]
 - 四海论英雄活动到达第六关
 #+BEGIN_EXAMPLE
 四海论英雄活动到达第六关
@@ -530,6 +599,7 @@
 #+END_EXAMPLE
 
 ** 四海论英雄·卓越
+[[https://img.shields.io/badge/成就-成就点25点-ff69b4.svg]]
 - 四海论英雄活动到达第七关
 #+BEGIN_EXAMPLE
 四海论英雄活动到达第七关
@@ -537,198 +607,231 @@
 
 * 一代宗师
 ** 一代宗师·壹
+[[https://img.shields.io/badge/成就-成就点50点-ff69b4.svg]]
 - 一代宗师战场小队第一名1次
 #+BEGIN_EXAMPLE
 一代宗师战场小队第一名1次
 #+END_EXAMPLE
 
 ** 一代宗师·贰
+[[https://img.shields.io/badge/成就-成就点60点-ff69b4.svg]]
 - 一代宗师战场小队第一名3次
 #+BEGIN_EXAMPLE
 一代宗师战场小队第一名3次
 #+END_EXAMPLE
 
 ** 一代宗师·叁
+[[https://img.shields.io/badge/成就-成就点70点-ff69b4.svg]]
 - 一代宗师战场小队第一名5次
 #+BEGIN_EXAMPLE
 一代宗师战场小队第一名5次
 #+END_EXAMPLE
 
 ** 一代宗师·肆
+[[https://img.shields.io/badge/成就-成就点80点-ff69b4.svg]]
 - 一代宗师战场小队第一名10次
 #+BEGIN_EXAMPLE
 一代宗师战场小队第一名10次
 #+END_EXAMPLE
 
 ** 竞秀于林·壹
+[[https://img.shields.io/badge/成就-成就点50点-ff69b4.svg]]
 - 一代宗师战场单局击杀超过10人1次
 #+BEGIN_EXAMPLE
 一代宗师战场单局击杀超过10人1次
 #+END_EXAMPLE
 
 ** 竞秀于林·贰
+[[https://img.shields.io/badge/成就-成就点60点-ff69b4.svg]]
 - 一代宗师战场单局击杀超过10人3次
 #+BEGIN_EXAMPLE
 一代宗师战场单局击杀超过10人3次
 #+END_EXAMPLE
 
 ** 竞秀于林·叁
+[[https://img.shields.io/badge/成就-成就点70点-ff69b4.svg]]
 - 一代宗师战场单局击杀超过10人5次
 #+BEGIN_EXAMPLE
 一代宗师战场单局击杀超过10人5次
 #+END_EXAMPLE
 
 ** 竞秀于林·肆
+[[https://img.shields.io/badge/成就-成就点80点-ff69b4.svg]]
 - 一代宗师战场单局击杀超过10人10次
 #+BEGIN_EXAMPLE
 一代宗师战场单局击杀超过10人10次
 #+END_EXAMPLE
 
 ** 适者生存·壹
+[[https://img.shields.io/badge/成就-成就点50点-ff69b4.svg]]
 - 一代宗师战场累积击杀10人
 #+BEGIN_EXAMPLE
 一代宗师战场累积击杀10人
 #+END_EXAMPLE
 
 ** 适者生存·贰
+[[https://img.shields.io/badge/成就-成就点60点-ff69b4.svg]]
 - 一代宗师战场累积击杀20人
 #+BEGIN_EXAMPLE
 一代宗师战场累积击杀20人
 #+END_EXAMPLE
 
 ** 适者生存·叁
+[[https://img.shields.io/badge/成就-成就点70点-ff69b4.svg]]
 - 一代宗师战场累积击杀50人
 #+BEGIN_EXAMPLE
 一代宗师战场累积击杀50人
 #+END_EXAMPLE
 
 ** 适者生存·肆
+[[https://img.shields.io/badge/成就-成就点80点-ff69b4.svg]]
 - 一代宗师战场累积击杀100人
 #+BEGIN_EXAMPLE
 一代宗师战场累积击杀100人
 #+END_EXAMPLE
 
 ** 适者生存·伍
+[[https://img.shields.io/badge/成就-成就点80点-ff69b4.svg]]
 - 一代宗师战场累积击杀200人
 #+BEGIN_EXAMPLE
 一代宗师战场累积击杀200人
 #+END_EXAMPLE
 
 ** 宗师之路·壹
+[[https://img.shields.io/badge/成就-成就点50点-ff69b4.svg]]
 - 一代宗师积分达到1201
 #+BEGIN_EXAMPLE
 一代宗师积分达到1201
 #+END_EXAMPLE
 
 ** 宗师之路·贰
+[[https://img.shields.io/badge/成就-成就点60点-ff69b4.svg]]
 - 一代宗师积分达到1401
 #+BEGIN_EXAMPLE
 一代宗师积分达到1401
 #+END_EXAMPLE
 
 ** 宗师之路·叁
+[[https://img.shields.io/badge/成就-成就点70点-ff69b4.svg]]
 - 一代宗师积分达到1601
 #+BEGIN_EXAMPLE
 一代宗师积分达到1601
 #+END_EXAMPLE
 
 ** 宗师之路·肆
+[[https://img.shields.io/badge/成就-成就点80点-ff69b4.svg]]
 - 一代宗师积分达到1801
 #+BEGIN_EXAMPLE
 一代宗师积分达到1801
 #+END_EXAMPLE
 
 ** 宗师之路·伍
+[[https://img.shields.io/badge/成就-成就点100点-ff69b4.svg]]
 - 一代宗师积分达到3000
 #+BEGIN_EXAMPLE
 一代宗师积分达到3000
 #+END_EXAMPLE
 
 ** 立地成佛
+[[https://img.shields.io/badge/成就-成就点50点-ff69b4.svg]]
 - 一代宗师战场中0杀获得第一
 #+BEGIN_EXAMPLE
 一代宗师战场中0杀获得第一
 #+END_EXAMPLE
 
 ** 天命龙套
+[[https://img.shields.io/badge/成就-成就点50点-ff69b4.svg]]
 - 一代宗师战场中小队排名倒数第一
 #+BEGIN_EXAMPLE
 一代宗师战场中小队排名倒数第一
 #+END_EXAMPLE
 
 ** 一人之下
+[[https://img.shields.io/badge/成就-成就点50点-ff69b4.svg]]
 - 一代宗师战场中小队排名第二
 #+BEGIN_EXAMPLE
 一代宗师战场中小队排名第二
 #+END_EXAMPLE
 
 ** 一代宗师·伍
+[[https://img.shields.io/badge/成就-成就点100点-ff69b4.svg]]
 - 一代宗师战场小队第一名15次
 #+BEGIN_EXAMPLE
 一代宗师战场小队第一名15次
 #+END_EXAMPLE
 
 ** 一代宗师·陆
+[[https://img.shields.io/badge/成就-成就点125点-ff69b4.svg]]
 - 一代宗师战场小队第一名25次
 #+BEGIN_EXAMPLE
 一代宗师战场小队第一名25次
 #+END_EXAMPLE
 
 ** 一代宗师·柒
+[[https://img.shields.io/badge/成就-成就点150点-ff69b4.svg]]
 - 一代宗师战场小队第一名50次
 #+BEGIN_EXAMPLE
 一代宗师战场小队第一名50次
 #+END_EXAMPLE
 
 ** 竞秀于林·伍
+[[https://img.shields.io/badge/成就-成就点100点-ff69b4.svg]]
 - 一代宗师战场单局击杀超过10人15次
 #+BEGIN_EXAMPLE
 一代宗师单局击杀10人15次
 #+END_EXAMPLE
 
 ** 竞秀于林·陆
+[[https://img.shields.io/badge/成就-成就点125点-ff69b4.svg]]
 - 一代宗师战场单局击杀超过10人25次
 #+BEGIN_EXAMPLE
 一代宗师单局击杀10人25次
 #+END_EXAMPLE
 
 ** 竞秀于林·柒
+[[https://img.shields.io/badge/成就-成就点150点-ff69b4.svg]]
 - 一代宗师战场单局击杀超过10人50次
 #+BEGIN_EXAMPLE
 一代宗师单局击杀10人50次
 #+END_EXAMPLE
 
 ** 竞秀于林·捌
+[[https://img.shields.io/badge/成就-成就点200点-ff69b4.svg]]
 - 一代宗师战场单局击杀超过10人100次
 #+BEGIN_EXAMPLE
 一代宗师单局击杀10人100次
 #+END_EXAMPLE
 
 ** 适者生存·陆
+[[https://img.shields.io/badge/成就-成就点100点-ff69b4.svg]]
 - 一代宗师战场累积击杀250人
 #+BEGIN_EXAMPLE
 一代宗师战场累计击杀250人
 #+END_EXAMPLE
 
 ** 适者生存·柒
+[[https://img.shields.io/badge/成就-成就点125点-ff69b4.svg]]
 - 一代宗师战场累积击杀300人
 #+BEGIN_EXAMPLE
 一代宗师战场累计击杀300人
 #+END_EXAMPLE
 
 ** 适者生存·捌
+[[https://img.shields.io/badge/成就-成就点150点-ff69b4.svg]]
 - 一代宗师战场累积击杀350人
 #+BEGIN_EXAMPLE
 一代宗师战场累计击杀350人
 #+END_EXAMPLE
 
 ** 适者生存·玖
+[[https://img.shields.io/badge/成就-成就点200点-ff69b4.svg]]
 - 一代宗师战场累积击杀500人
 #+BEGIN_EXAMPLE
 一代宗师战场累计击杀500人
 #+END_EXAMPLE
 
 ** 适者生存·拾
+[[https://img.shields.io/badge/成就-成就点250点-ff69b4.svg]]
 - 一代宗师战场累积击杀1000人
 #+BEGIN_EXAMPLE
 一代宗师战场累计击杀1000人
@@ -736,12 +839,14 @@
 
 * 师妹
 ** 钟灵毓秀
+[[https://img.shields.io/badge/成就-成就点10点-ff69b4.svg]]
 - 迎接一位师妹
 #+BEGIN_EXAMPLE
 第一次领养师妹
 #+END_EXAMPLE
 
 ** 前程锦绣
+[[https://img.shields.io/badge/成就-成就点20点-ff69b4.svg]]
 - 培养一位师妹至出师
 #+BEGIN_EXAMPLE
 师妹第一次出师
@@ -754,72 +859,84 @@
 #+END_EXAMPLE
 
 ** 游历江湖·壹
+[[https://img.shields.io/badge/成就-成就点10点-ff69b4.svg]]
 - 师妹完成1次游历
 #+BEGIN_EXAMPLE
 师妹完成1次游历
 #+END_EXAMPLE
 
 ** 游历江湖·贰
+[[https://img.shields.io/badge/成就-成就点20点-ff69b4.svg]]
 - 师妹完成10次游历
 #+BEGIN_EXAMPLE
 师妹完成10次游历
 #+END_EXAMPLE
 
 ** 游历江湖·叁
+[[https://img.shields.io/badge/成就-成就点30点-ff69b4.svg]]
 - 师妹完成50次游历
 #+BEGIN_EXAMPLE
 师妹完成50次游历
 #+END_EXAMPLE
 
 ** 游历江湖·肆
+[[https://img.shields.io/badge/成就-成就点40点-ff69b4.svg]]
 - 师妹完成100次游历
 #+BEGIN_EXAMPLE
 师妹完成100次游历
 #+END_EXAMPLE
 
 ** 游历江湖·伍
+[[https://img.shields.io/badge/成就-成就点50点-ff69b4.svg]]
 - 师妹完成200次游历
 #+BEGIN_EXAMPLE
 师妹完成200次游历
 #+END_EXAMPLE
 
 ** 游历江湖·陆
+[[https://img.shields.io/badge/成就-成就点100点-ff69b4.svg]]
 - 师妹完成500次游历
 #+BEGIN_EXAMPLE
 师妹完成500次游历
 #+END_EXAMPLE
 
 ** 名师高徒·壹
+[[https://img.shields.io/badge/成就-成就点20点-ff69b4.svg]]
 - 使用1次名师帖
 #+BEGIN_EXAMPLE
 使用1次名师帖
 #+END_EXAMPLE
 
 ** 名师高徒·贰
+[[https://img.shields.io/badge/成就-成就点50点-ff69b4.svg]]
 - 累计使用15次名师帖
 #+BEGIN_EXAMPLE
 累计使用15次名师帖
 #+END_EXAMPLE
 
 ** 名师高徒·叁
+[[https://img.shields.io/badge/成就-成就点100点-ff69b4.svg]]
 - 累计使用30次名师帖
 #+BEGIN_EXAMPLE
 累计使用30次名师帖
 #+END_EXAMPLE
 
 ** 名师高徒·肆
+[[https://img.shields.io/badge/成就-成就点150点-ff69b4.svg]]
 - 累计使用50次名师帖
 #+BEGIN_EXAMPLE
 累计使用50次名师帖
 #+END_EXAMPLE
 
 ** 清新雅丽
+[[https://img.shields.io/badge/成就-成就点20点-ff69b4.svg]]
 - 为师妹收集一件时装
 #+BEGIN_EXAMPLE
 收集第一件师妹时装
 #+END_EXAMPLE
 
 ** 劳逸结合
+[[https://img.shields.io/badge/成就-成就点10点-ff69b4.svg]]
 - 师妹上一节休息课
 #+BEGIN_EXAMPLE
 师妹第一次进行休息课
@@ -832,6 +949,7 @@
 #+END_EXAMPLE
 
 ** 侠誉绘采
+[[https://img.shields.io/badge/成就-成就点20点-ff69b4.svg]]
 - 收集到第一张侠誉图
 #+BEGIN_EXAMPLE
 第一次获得侠誉图
@@ -844,168 +962,196 @@
 #+END_EXAMPLE
 
 ** 心助·壹
+[[https://img.shields.io/badge/成就-成就点25点-ff69b4.svg]]
 - 习得蓝色心助技能
 #+BEGIN_EXAMPLE
 习得蓝色心助技能
 #+END_EXAMPLE
 
 ** 心助·贰
+[[https://img.shields.io/badge/成就-成就点50点-ff69b4.svg]]
 - 习得紫色心助技能
 #+BEGIN_EXAMPLE
 习得紫色心助技能
 #+END_EXAMPLE
 
 ** 心助·叁
+[[https://img.shields.io/badge/成就-成就点200点-ff69b4.svg]]
 - 习得金色心助技能
 #+BEGIN_EXAMPLE
 习得金色心助技能
 #+END_EXAMPLE
 
 ** 通力合作
+[[https://img.shields.io/badge/成就-成就点20点-ff69b4.svg]]
 - 习得合击技能
 #+BEGIN_EXAMPLE
 师妹习得1本合击技能
 #+END_EXAMPLE
 
 ** 心领神会·壹
+[[https://img.shields.io/badge/成就-成就点20点-ff69b4.svg]]
 - 将任意蓝色品质心助技能提升至20级
 #+BEGIN_EXAMPLE
 将任意蓝色心助技能升至满级
 #+END_EXAMPLE
 
 ** 心领神会·贰
+[[https://img.shields.io/badge/成就-成就点50点-ff69b4.svg]]
 - 将任意紫色品质心助技能提升至30级
 #+BEGIN_EXAMPLE
 将任意紫色心助技能升至满级
 #+END_EXAMPLE
 
 ** 心领神会·叁
+[[https://img.shields.io/badge/成就-成就点200点-ff69b4.svg]]
 - 将任意金色品质心助技能提升至40级
 #+BEGIN_EXAMPLE
 将任意金色心助技能升至满级
 #+END_EXAMPLE
 
 ** 心领神悟！
+[[https://img.shields.io/badge/成就-成就点50点-ff69b4.svg]]
 - 将任意合击技能提升至30级
 #+BEGIN_EXAMPLE
 将任意合击技能升至满级
 #+END_EXAMPLE
 
 ** 笃实好学
+[[https://img.shields.io/badge/成就-成就点25点-ff69b4.svg]]
 - 使用岁寒系列研习书籍进行1次属性提升
 #+BEGIN_EXAMPLE
 师妹完成1次研习
 #+END_EXAMPLE
 
 ** 学而不厌
+[[https://img.shields.io/badge/成就-成就点50点-ff69b4.svg]]
 - 使用岁寒系列研习书籍进行20次属性提升
 #+BEGIN_EXAMPLE
 师妹完成20次研习
 #+END_EXAMPLE
 
 ** 笃学不倦
+[[https://img.shields.io/badge/成就-成就点150点-ff69b4.svg]]
 - 使用岁寒系列研习书籍进行100次属性提升
 #+BEGIN_EXAMPLE
 师妹完成100次研习
 #+END_EXAMPLE
 
 ** 谋无遗策
+[[https://img.shields.io/badge/成就-成就点25点-ff69b4.svg]]
 - 师妹的韬略属性达到1000点
 #+BEGIN_EXAMPLE
 师妹的韬略属性达到1000点
 #+END_EXAMPLE
 
 ** 典则俊雅
+[[https://img.shields.io/badge/成就-成就点25点-ff69b4.svg]]
 - 师妹的风雅属性达到1000点
 #+BEGIN_EXAMPLE
 师妹的风雅属性达到1000点
 #+END_EXAMPLE
 
 ** 慧心灵性
+[[https://img.shields.io/badge/成就-成就点25点-ff69b4.svg]]
 - 师妹的灵性属性达到1000点
 #+BEGIN_EXAMPLE
 师妹的灵性属性达到1000点
 #+END_EXAMPLE
 
 ** 余音绕梁
+[[https://img.shields.io/badge/成就-成就点25点-ff69b4.svg]]
 - 师妹的乐理属性达到1000点
 #+BEGIN_EXAMPLE
 师妹的乐理属性达到1000点
 #+END_EXAMPLE
 
 ** 目不转睛
+[[https://img.shields.io/badge/成就-成就点25点-ff69b4.svg]]
 - 师妹的专注属性达到1000点
 #+BEGIN_EXAMPLE
 师妹的专注属性达到1000点
 #+END_EXAMPLE
 
 ** 武艺超群·壹
+[[https://img.shields.io/badge/成就-成就点25点-ff69b4.svg]]
 - 师妹武艺总属性达到6000点
 #+BEGIN_EXAMPLE
 师妹武艺总属性达到6000点
 #+END_EXAMPLE
 
 ** 武艺超群·贰
+[[https://img.shields.io/badge/成就-成就点50点-ff69b4.svg]]
 - 师妹武艺总属性达到7500点
 #+BEGIN_EXAMPLE
 师妹武艺总属性达到7500点
 #+END_EXAMPLE
 
 ** 武艺超群·叁
+[[https://img.shields.io/badge/成就-成就点75点-ff69b4.svg]]
 - 师妹武艺总属性达到9000点
 #+BEGIN_EXAMPLE
 师妹武艺总属性达到9000点
 #+END_EXAMPLE
 
 ** 武艺超群·肆
+[[https://img.shields.io/badge/成就-成就点100点-ff69b4.svg]]
 - 师妹武艺总属性达到10500点
 #+BEGIN_EXAMPLE
 师妹武艺总属性达到10500点
 #+END_EXAMPLE
 
 ** 武艺超群·伍
+[[https://img.shields.io/badge/成就-成就点125点-ff69b4.svg]]
 - 师妹武艺总属性达到12000点
 #+BEGIN_EXAMPLE
 师妹武艺总属性达到12000点
 #+END_EXAMPLE
 
 ** 武艺超群·陆
+[[https://img.shields.io/badge/成就-成就点150点-ff69b4.svg]]
 - 师妹武艺总属性达到14000点
 #+BEGIN_EXAMPLE
 师妹武艺总属性达到14000点
 #+END_EXAMPLE
 
 ** 金声玉振·壹
+[[https://img.shields.io/badge/成就-成就点25点-ff69b4.svg]]
 - 师妹才艺总属性达到2500
 #+BEGIN_EXAMPLE
 师妹才艺总属性达到2500
 #+END_EXAMPLE
 
 ** 金声玉振·贰
+[[https://img.shields.io/badge/成就-成就点50点-ff69b4.svg]]
 - 师妹才艺总属性达到3000
 #+BEGIN_EXAMPLE
 师妹才艺总属性达到3000
 #+END_EXAMPLE
 
 ** 金声玉振·叁
+[[https://img.shields.io/badge/成就-成就点75点-ff69b4.svg]]
 - 师妹才艺总属性达到3500
 #+BEGIN_EXAMPLE
 师妹才艺总属性达到3500
 #+END_EXAMPLE
 
 ** 金声玉振·肆
+[[https://img.shields.io/badge/成就-成就点100点-ff69b4.svg]]
 - 师妹才艺总属性达到4000
 #+BEGIN_EXAMPLE
 师妹才艺总属性达到4000
 #+END_EXAMPLE
 
 ** 金声玉振·伍
+[[https://img.shields.io/badge/成就-成就点125点-ff69b4.svg]]
 - 师妹才艺总属性达到4500
 #+BEGIN_EXAMPLE
 师妹才艺总属性达到4500
 #+END_EXAMPLE
 
 ** 金声玉振·陆
+[[https://img.shields.io/badge/成就-成就点150点-ff69b4.svg]]
 - 师妹才艺总属性达到5000
 #+BEGIN_EXAMPLE
 师妹才艺总属性达到5000

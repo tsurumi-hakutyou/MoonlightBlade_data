@@ -3,189 +3,222 @@
 
 * 帮派
 ** 天波府之试
+[[https://img.shields.io/badge/成就-成就点25点-ff69b4.svg]]
 - 28级去杭州找天波府执事参加考验，完成试练后，能得到朝廷的认可，就可以创建属于自己的帮派了！
 #+BEGIN_EXAMPLE
 天波府之试
 #+END_EXAMPLE
 
 ** 初入帮派
+[[https://img.shields.io/badge/成就-成就点50点-ff69b4.svg]]
 - 加入一个帮派，从此不再孤军奋战！
 #+BEGIN_EXAMPLE
 加入帮派
 #+END_EXAMPLE
 
 ** 帮派福利
+[[https://img.shields.io/badge/成就-成就点25点-ff69b4.svg]]
 - 初次领取帮派福利
 #+BEGIN_EXAMPLE
 领取福利
 #+END_EXAMPLE
 
 ** 累计三天
+[[https://img.shields.io/badge/成就-成就点25点-ff69b4.svg]]
 - 领取帮派福利达到3次
 #+BEGIN_EXAMPLE
 领取福利
 #+END_EXAMPLE
 
 ** 累计七天
+[[https://img.shields.io/badge/成就-成就点25点-ff69b4.svg]]
 - 领取帮派福利达到7次
 #+BEGIN_EXAMPLE
 领取福利
 #+END_EXAMPLE
 
 ** 帮派骨干
+[[https://img.shields.io/badge/成就-成就点50点-ff69b4.svg]]
 - 领取帮派福利达到35次
 
 ** 长情帮众
+[[https://img.shields.io/badge/成就-成就点75点-ff69b4.svg]]
 - 领取帮派福利达到120次
 
 ** 帮派元老
+[[https://img.shields.io/badge/成就-成就点100点-ff69b4.svg]]
 - 领取帮派福利达到360次
 
 ** 一级帮派
+[[https://img.shields.io/badge/成就-成就点25点-ff69b4.svg]]
 - 所在的帮派达到1级
 #+BEGIN_EXAMPLE
 1级帮
 #+END_EXAMPLE
 
 ** 二级帮派
+[[https://img.shields.io/badge/成就-成就点25点-ff69b4.svg]]
 - 所在的帮派达到2级
 #+BEGIN_EXAMPLE
 2级帮
 #+END_EXAMPLE
 
 ** 三级帮派
+[[https://img.shields.io/badge/成就-成就点25点-ff69b4.svg]]
 - 所在的帮派达到3级
 #+BEGIN_EXAMPLE
 3级帮
 #+END_EXAMPLE
 
 ** 四级帮派
+[[https://img.shields.io/badge/成就-成就点25点-ff69b4.svg]]
 - 所在的帮派达到4级
 #+BEGIN_EXAMPLE
 4级帮
 #+END_EXAMPLE
 
 ** 五级帮派
+[[https://img.shields.io/badge/成就-成就点25点-ff69b4.svg]]
 - 所在的帮派达到5级
 #+BEGIN_EXAMPLE
 5级帮
 #+END_EXAMPLE
 
 ** 六级帮派
+[[https://img.shields.io/badge/成就-成就点25点-ff69b4.svg]]
 - 所在的帮派达到6级
 #+BEGIN_EXAMPLE
 6级帮
 #+END_EXAMPLE
 
 ** 七级帮派
+[[https://img.shields.io/badge/成就-成就点25点-ff69b4.svg]]
 - 所在的帮派达到7级
 #+BEGIN_EXAMPLE
 7级帮
 #+END_EXAMPLE
 
 ** 八级帮派
+[[https://img.shields.io/badge/成就-成就点25点-ff69b4.svg]]
 - 所在的帮派达到8级
 #+BEGIN_EXAMPLE
 8级帮
 #+END_EXAMPLE
 
 ** 九级帮派
+[[https://img.shields.io/badge/成就-成就点25点-ff69b4.svg]]
 - 所在的帮派达到9级
 #+BEGIN_EXAMPLE
 9级帮
 #+END_EXAMPLE
 
 ** 十级帮派
+[[https://img.shields.io/badge/成就-成就点25点-ff69b4.svg]]
 - 所在的帮派达到10级
 #+BEGIN_EXAMPLE
 10级帮
 #+END_EXAMPLE
 
 ** 十一级帮
+[[https://img.shields.io/badge/成就-成就点50点-ff69b4.svg]]
 - 所在的帮派达到11级
 #+BEGIN_EXAMPLE
 11级帮
 #+END_EXAMPLE
 
 ** 十二级帮
+[[https://img.shields.io/badge/成就-成就点50点-ff69b4.svg]]
 - 所在的帮派达到12级
 #+BEGIN_EXAMPLE
 12级帮
 #+END_EXAMPLE
 
 ** 十三级帮派
+[[https://img.shields.io/badge/成就-成就点50点-ff69b4.svg]]
 - 所在的帮派达到13级
 #+BEGIN_EXAMPLE
 13级帮
 #+END_EXAMPLE
 
 ** 十四级帮派
+[[https://img.shields.io/badge/成就-成就点50点-ff69b4.svg]]
 - 所在的帮派达到14级
 #+BEGIN_EXAMPLE
 14级帮
 #+END_EXAMPLE
 
 ** 十五级帮派
+[[https://img.shields.io/badge/成就-成就点50点-ff69b4.svg]]
 - 所在的帮派达到15级
 #+BEGIN_EXAMPLE
 15级帮
 #+END_EXAMPLE
 
 ** 十六级帮派
+[[https://img.shields.io/badge/成就-成就点50点-ff69b4.svg]]
 - 所在的帮派达到16级
 #+BEGIN_EXAMPLE
 16级帮
 #+END_EXAMPLE
 
 ** 十七级帮派
+[[https://img.shields.io/badge/成就-成就点50点-ff69b4.svg]]
 - 所在的帮派达到17级
 #+BEGIN_EXAMPLE
 17级帮
 #+END_EXAMPLE
 
 ** 十八级帮派
+[[https://img.shields.io/badge/成就-成就点50点-ff69b4.svg]]
 - 所在的帮派达到18级
 #+BEGIN_EXAMPLE
 18级帮
 #+END_EXAMPLE
 
 ** 十九级帮派
+[[https://img.shields.io/badge/成就-成就点50点-ff69b4.svg]]
 - 所在的帮派达到19级
 #+BEGIN_EXAMPLE
 19级帮
 #+END_EXAMPLE
 
 ** 二十级帮派
+[[https://img.shields.io/badge/成就-成就点50点-ff69b4.svg]]
 - 所在的帮派达到20级
 #+BEGIN_EXAMPLE
 20级帮
 #+END_EXAMPLE
 
 ** 二十一级帮派
+[[https://img.shields.io/badge/成就-成就点50点-ff69b4.svg]]
 - 所在的帮派达到21级
 #+BEGIN_EXAMPLE
 21级帮
 #+END_EXAMPLE
 
 ** 二十二级帮派
+[[https://img.shields.io/badge/成就-成就点50点-ff69b4.svg]]
 - 所在的帮派达到22级
 #+BEGIN_EXAMPLE
 22级帮
 #+END_EXAMPLE
 
 ** 二十三级帮派
+[[https://img.shields.io/badge/成就-成就点50点-ff69b4.svg]]
 - 所在的帮派达到23级
 #+BEGIN_EXAMPLE
 23级帮
 #+END_EXAMPLE
 
 ** 二十四级帮派
+[[https://img.shields.io/badge/成就-成就点50点-ff69b4.svg]]
 - 所在的帮派达到24级
 #+BEGIN_EXAMPLE
 24级帮
 #+END_EXAMPLE
 
 ** 二十五级帮派
+[[https://img.shields.io/badge/成就-成就点50点-ff69b4.svg]]
 - 所在的帮派达到25级
 #+BEGIN_EXAMPLE
 25级帮
@@ -193,66 +226,77 @@
 
 * 盟会
 ** 斗智斗勇
+[[https://img.shields.io/badge/成就-成就点25点-ff69b4.svg]]
 - 完成5个任意盟会日常
 #+BEGIN_EXAMPLE
 5个盟会日常
 #+END_EXAMPLE
 
 ** 初入盟会
+[[https://img.shields.io/badge/成就-成就点25点-ff69b4.svg]]
 - 第一次加入盟会
 #+BEGIN_EXAMPLE
 加入盟会
 #+END_EXAMPLE
 
 ** 帝王州!
+[[https://img.shields.io/badge/成就-成就点25点-ff69b4.svg]]
 - 加入帝王州
 #+BEGIN_EXAMPLE
 加入帝王州
 #+END_EXAMPLE
 
 ** 寒江城!
+[[https://img.shields.io/badge/成就-成就点25点-ff69b4.svg]]
 - 加入寒江城
 #+BEGIN_EXAMPLE
 加入寒江城
 #+END_EXAMPLE
 
 ** 水龙吟!
+[[https://img.shields.io/badge/成就-成就点25点-ff69b4.svg]]
 - 加入水龙吟
 #+BEGIN_EXAMPLE
 加入水龙吟
 #+END_EXAMPLE
 
 ** 万里杀!
+[[https://img.shields.io/badge/成就-成就点25点-ff69b4.svg]]
 - 加入万里杀
 #+BEGIN_EXAMPLE
 加入万里杀
 #+END_EXAMPLE
 
 ** 尊为盟主
+[[https://img.shields.io/badge/成就-成就点25点-ff69b4.svg]]
 - 盟主:义薄云天气盖世，叱诧风云自生威。
 #+BEGIN_EXAMPLE
 盟主
 #+END_EXAMPLE
 
 ** 尊为副盟主
+[[https://img.shields.io/badge/成就-成就点25点-ff69b4.svg]]
 - 副盟主:   结义之交同手足，励精图治必躬亲。
 #+BEGIN_EXAMPLE
 副盟主
 #+END_EXAMPLE
 
 ** 尊为军师
+[[https://img.shields.io/badge/成就-成就点25点-ff69b4.svg]]
 - 盟会军师:    运筹帷幄定山河，宁静致远淡名利。
 #+BEGIN_EXAMPLE
 军师
 #+END_EXAMPLE
 
 ** 尊为统领
+[[https://img.shields.io/badge/成就-成就点25点-ff69b4.svg]]
 - 盟会统领:    忠肝义胆英雄志，铁血安邦扫千军。
 #+BEGIN_EXAMPLE
 统领
 #+END_EXAMPLE
 
 ** 盟会照拂
+[[https://img.shields.io/badge/成就-成就点25点-ff69b4.svg]]
 - 加入盟会，自然就有盟会俸禄
 #+BEGIN_EXAMPLE
 领取盟会俸禄
@@ -332,6 +376,7 @@
 #+END_EXAMPLE
 
 ** 君临·寒江
+[[https://img.shields.io/badge/成就-成就点500点-ff69b4.svg]]
 - 寒江城总舵主
 #+BEGIN_EXAMPLE
 盟主
@@ -339,6 +384,7 @@
 #+END_EXAMPLE
 
 ** 君临·帝王
+[[https://img.shields.io/badge/成就-成就点500点-ff69b4.svg]]
 - 帝王州总舵主
 #+BEGIN_EXAMPLE
 盟主
@@ -346,6 +392,7 @@
 #+END_EXAMPLE
 
 ** 君临·万里
+[[https://img.shields.io/badge/成就-成就点500点-ff69b4.svg]]
 - 万里杀总舵主
 #+BEGIN_EXAMPLE
 盟主
@@ -353,6 +400,7 @@
 #+END_EXAMPLE
 
 ** 君临·水龙
+[[https://img.shields.io/badge/成就-成就点500点-ff69b4.svg]]
 - 水龙吟总舵主
 #+BEGIN_EXAMPLE
 盟主
@@ -360,6 +408,7 @@
 #+END_EXAMPLE
 
 ** 一方之主
+[[https://img.shields.io/badge/成就-成就点50点-ff69b4.svg]]
 - 自己的联盟占有地盘，并且自己身为龙首
 #+BEGIN_EXAMPLE
 成为龙首
@@ -367,24 +416,28 @@
 #+END_EXAMPLE
 
 ** 争锋·叶知秋
+[[https://img.shields.io/badge/成就-成就点5点-ff69b4.svg]]
 - 在盟会争锋战中对叶知秋造成最后一击
 #+BEGIN_EXAMPLE
 击败叶知秋
 #+END_EXAMPLE
 
 ** 争锋·曲无忆
+[[https://img.shields.io/badge/成就-成就点5点-ff69b4.svg]]
 - 在盟会争锋战中对曲无忆造成最后一击
 #+BEGIN_EXAMPLE
 击败曲无忆
 #+END_EXAMPLE
 
 ** 争锋·离玉堂
+[[https://img.shields.io/badge/成就-成就点5点-ff69b4.svg]]
 - 在盟会争锋战中对离玉堂造成最后一击
 #+BEGIN_EXAMPLE
 击败离玉堂
 #+END_EXAMPLE
 
 ** 争锋·唐青枫
+[[https://img.shields.io/badge/成就-成就点5点-ff69b4.svg]]
 - 在盟会争锋战中对唐青枫造成最后一击
 #+BEGIN_EXAMPLE
 击败唐青枫
@@ -392,84 +445,100 @@
 
 * 好友
 ** 呼朋唤友
+[[https://img.shields.io/badge/成就-成就点25点-ff69b4.svg]]
 - “从来江湖只一人”？
 #+BEGIN_EXAMPLE
 1个好友
 #+END_EXAMPLE
 
 ** 好友五十人
+[[https://img.shields.io/badge/成就-成就点25点-ff69b4.svg]]
 - 结交拥有了五十个好友，各大门派弟子都有
 #+BEGIN_EXAMPLE
 50好友
 #+END_EXAMPLE
 
 ** 好友二百人
+[[https://img.shields.io/badge/成就-成就点25点-ff69b4.svg]]
 - 结交已经拥有了到达好友上限数目的好友数！
 #+BEGIN_EXAMPLE
 200好友
 #+END_EXAMPLE
 
 ** 挚交好友
+[[https://img.shields.io/badge/成就-成就点25点-ff69b4.svg]]
 - 结交一个友好度达超过23300的好友
 #+BEGIN_EXAMPLE
 1个好友
 #+END_EXAMPLE
 
 ** 金兰之交
+[[https://img.shields.io/badge/成就-成就点25点-ff69b4.svg]]
 - 结交友好度达超过23300的好友5人
 #+BEGIN_EXAMPLE
 5个好友
 #+END_EXAMPLE
 
 ** 断金之友
+[[https://img.shields.io/badge/成就-成就点50点-ff69b4.svg]]
 - 结交友好度达超过23300的好友10人
 #+BEGIN_EXAMPLE
 10个好友
 #+END_EXAMPLE
 
 ** 桃李之馈
+[[https://img.shields.io/badge/成就-成就点50点-ff69b4.svg]]
 - 赠送过礼物给他人
 #+BEGIN_EXAMPLE
 赠送礼物
 #+END_EXAMPLE
 
 ** 礼尚往来
+[[https://img.shields.io/badge/成就-成就点50点-ff69b4.svg]]
 - 收到过他人赠送的礼物
 #+BEGIN_EXAMPLE
 收到礼物
 #+END_EXAMPLE
 
 ** 交际达人
+[[https://img.shields.io/badge/成就-成就点75点-ff69b4.svg]]
 - 赠送过礼物给他人50次
 
 ** 广受欢迎
+[[https://img.shields.io/badge/成就-成就点75点-ff69b4.svg]]
 - 收到过他人赠送的礼物50次
 
 ** 出手大方
+[[https://img.shields.io/badge/成就-成就点100点-ff69b4.svg]]
 - 赠送过礼物给他人150次
 
 ** 门庭若市
+[[https://img.shields.io/badge/成就-成就点100点-ff69b4.svg]]
 - 收到过他人赠送的礼物150次
 
 ** 社交达人
+[[https://img.shields.io/badge/成就-成就点200点-ff69b4.svg]]
 - 赠送过礼物给他人200次
 #+BEGIN_EXAMPLE
 赠送过礼物给他人200次
 #+END_EXAMPLE
 
 ** 广结良缘
+[[https://img.shields.io/badge/成就-成就点300点-ff69b4.svg]]
 - 赠送过礼物给他人250次
 #+BEGIN_EXAMPLE
 赠送过礼物给他人250次
 #+END_EXAMPLE
 
 ** 掷果盈车
+[[https://img.shields.io/badge/成就-成就点200点-ff69b4.svg]]
 - 收到过他人赠送的礼物200次
 #+BEGIN_EXAMPLE
 收到过他人赠送的礼物200次
 #+END_EXAMPLE
 
 ** 众星捧月
+[[https://img.shields.io/badge/成就-成就点300点-ff69b4.svg]]
 - 收到过他人赠送的礼物250次
 #+BEGIN_EXAMPLE
 收到过他人赠送的礼物250次
@@ -477,132 +546,154 @@
 
 * 师徒
 ** 师道尊严
+[[https://img.shields.io/badge/成就-成就点25点-ff69b4.svg]]
 - 教导一位徒弟并完成出师。
 #+BEGIN_EXAMPLE
 出师1人
 #+END_EXAMPLE
 
 ** 诲人不倦
+[[https://img.shields.io/badge/成就-成就点50点-ff69b4.svg]]
 - 教导十位徒弟并完成出师。
 #+BEGIN_EXAMPLE
 出师10人
 #+END_EXAMPLE
 
 ** 师恩似海
+[[https://img.shields.io/badge/成就-成就点75点-ff69b4.svg]]
 - 教导三十位徒弟并完成出师。
 #+BEGIN_EXAMPLE
 出师30人
 #+END_EXAMPLE
 
 ** 桃李天下
+[[https://img.shields.io/badge/成就-成就点125点-ff69b4.svg]]
 - 教导一百位徒弟并完成出师。
 #+BEGIN_EXAMPLE
 出师100人
 #+END_EXAMPLE
 
 ** 披榛采兰
+[[https://img.shields.io/badge/成就-成就点50点-ff69b4.svg]]
 - 收取十位功力战力低于3000的弟子并完成出师。
 #+BEGIN_EXAMPLE
 拜师时战力功力低于3000出师10人
 #+END_EXAMPLE
 
 ** 采光剖璞
+[[https://img.shields.io/badge/成就-成就点75点-ff69b4.svg]]
 - 收取二十位功力战力低于3000的弟子并完成出师。
 #+BEGIN_EXAMPLE
 拜师时战力功力低于3000出师20人
 #+END_EXAMPLE
 
 ** 初识解惑
+[[https://img.shields.io/badge/成就-成就点25点-ff69b4.svg]]
 - 与一位徒弟关系达到初识解惑。
 #+BEGIN_EXAMPLE
 初识解惑
 #+END_EXAMPLE
 
 ** 片言之赐
+[[https://img.shields.io/badge/成就-成就点25点-ff69b4.svg]]
 - 与一位徒弟关系达到片言之赐。
 #+BEGIN_EXAMPLE
 片言之赐
 #+END_EXAMPLE
 
 ** 耳提面命
+[[https://img.shields.io/badge/成就-成就点25点-ff69b4.svg]]
 - 与一位徒弟关系达到耳提面命。
 #+BEGIN_EXAMPLE
 耳提面命
 #+END_EXAMPLE
 
 ** 不立文字
+[[https://img.shields.io/badge/成就-成就点25点-ff69b4.svg]]
 - 与一位徒弟关系达到不立文字。
 #+BEGIN_EXAMPLE
 不立文字
 #+END_EXAMPLE
 
 ** 衣钵相传
+[[https://img.shields.io/badge/成就-成就点25点-ff69b4.svg]]
 - 与一位徒弟关系达到衣钵相传。
 #+BEGIN_EXAMPLE
 衣钵相传
 #+END_EXAMPLE
 
 ** 百世之师
+[[https://img.shields.io/badge/成就-成就点125点-ff69b4.svg]]
 - 与一百位徒弟关系达到百世之师。
 #+BEGIN_EXAMPLE
 百世之师100次
 #+END_EXAMPLE
 
 ** 薪火相传·一
+[[https://img.shields.io/badge/成就-成就点25点-ff69b4.svg]]
 - 累计恩师值获得500点。
 #+BEGIN_EXAMPLE
 恩师值1
 #+END_EXAMPLE
 
 ** 薪火相传·二
+[[https://img.shields.io/badge/成就-成就点25点-ff69b4.svg]]
 - 累计恩师值获得1000点。
 #+BEGIN_EXAMPLE
 恩师值2
 #+END_EXAMPLE
 
 ** 薪火相传·三
+[[https://img.shields.io/badge/成就-成就点50点-ff69b4.svg]]
 - 累计恩师值获得1500点。
 #+BEGIN_EXAMPLE
 恩师值3
 #+END_EXAMPLE
 
 ** 薪火相传·四
+[[https://img.shields.io/badge/成就-成就点75点-ff69b4.svg]]
 - 累计恩师值获得2000点。
 #+BEGIN_EXAMPLE
 恩师值4
 #+END_EXAMPLE
 
 ** 薪火相传·五
+[[https://img.shields.io/badge/成就-成就点125点-ff69b4.svg]]
 - 累计恩师值获得2500点。
 #+BEGIN_EXAMPLE
 恩师值5
 #+END_EXAMPLE
 
 ** 侠者仁心·一
+[[https://img.shields.io/badge/成就-成就点25点-ff69b4.svg]]
 - 累计侠义值获得200点。
 #+BEGIN_EXAMPLE
 侠义点1
 #+END_EXAMPLE
 
 ** 侠者仁心·二
+[[https://img.shields.io/badge/成就-成就点25点-ff69b4.svg]]
 - 累计侠义值获得400点。
 #+BEGIN_EXAMPLE
 侠义点2
 #+END_EXAMPLE
 
 ** 侠者仁心·三
+[[https://img.shields.io/badge/成就-成就点50点-ff69b4.svg]]
 - 累计侠义值获得600点。
 #+BEGIN_EXAMPLE
 侠义点3
 #+END_EXAMPLE
 
 ** 侠者仁心·四
+[[https://img.shields.io/badge/成就-成就点75点-ff69b4.svg]]
 - 累计侠义值获得800点。
 #+BEGIN_EXAMPLE
 侠义点4
 #+END_EXAMPLE
 
 ** 侠者仁心·五
+[[https://img.shields.io/badge/成就-成就点125点-ff69b4.svg]]
 - 累计侠义值获得1000点。
 #+BEGIN_EXAMPLE
 侠义点5

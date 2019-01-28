@@ -3,6 +3,7 @@
 
 * 地图
 ** 九华之风
+[[https://img.shields.io/badge/成就-成就点25点-ff69b4.svg]]
 - 曾到达九华的如下地点
 #+BEGIN_EXAMPLE
 藏峰谷
@@ -20,6 +21,7 @@
 #+END_EXAMPLE
 
 ** 九华云起
+[[https://img.shields.io/badge/成就-成就点25点-ff69b4.svg]]
 - 曾到达九华的如下地点
 #+BEGIN_EXAMPLE
 矿场
@@ -37,6 +39,7 @@
 #+END_EXAMPLE
 
 ** 游历九华
+[[https://img.shields.io/badge/成就-成就点50点-ff69b4.svg]]
 - 完成“九华之风”和“九华云起”两个成就
 #+BEGIN_EXAMPLE
 九华之风
@@ -44,6 +47,7 @@
 #+END_EXAMPLE
 
 ** 太白剑派
+[[https://img.shields.io/badge/成就-成就点25点-ff69b4.svg]]
 - 曾到达秦川的如下地点
 #+BEGIN_EXAMPLE
 太白山门
@@ -60,6 +64,7 @@
 #+END_EXAMPLE
 
 ** 雪峦之颠
+[[https://img.shields.io/badge/成就-成就点25点-ff69b4.svg]]
 - 曾到达秦川的如下地点
 #+BEGIN_EXAMPLE
 太白云海东
@@ -77,6 +82,7 @@
 #+END_EXAMPLE
 
 ** 游历秦川
+[[https://img.shields.io/badge/成就-成就点50点-ff69b4.svg]]
 - 完成“太白剑派”和“雪峦之颠”两个成就
 #+BEGIN_EXAMPLE
 太白剑派
@@ -84,6 +90,7 @@
 #+END_EXAMPLE
 
 ** 神威策马
+[[https://img.shields.io/badge/成就-成就点25点-ff69b4.svg]]
 - 曾到达燕云的如下地点
 #+BEGIN_EXAMPLE
 神威堡
@@ -93,6 +100,7 @@
 #+END_EXAMPLE
 
 ** 大漠孤烟
+[[https://img.shields.io/badge/成就-成就点25点-ff69b4.svg]]
 - 曾到达燕云的如下地点
 #+BEGIN_EXAMPLE
 沙场
@@ -108,6 +116,7 @@
 #+END_EXAMPLE
 
 ** 长河落日
+[[https://img.shields.io/badge/成就-成就点50点-ff69b4.svg]]
 - 曾到达燕云的如下地点
 #+BEGIN_EXAMPLE
 神木谷
@@ -119,6 +128,7 @@
 #+END_EXAMPLE
 
 ** 游历燕云
+[[https://img.shields.io/badge/成就-成就点25点-ff69b4.svg]]
 - 完成“神威策马”、“大漠孤烟”和“长河落日”三个成就
 #+BEGIN_EXAMPLE
 神威策马
@@ -127,6 +137,7 @@
 #+END_EXAMPLE
 
 ** 西子风情
+[[https://img.shields.io/badge/成就-成就点25点-ff69b4.svg]]
 - 曾到达杭州的如下地点
 #+BEGIN_EXAMPLE
 凤凰集
@@ -144,6 +155,7 @@
 #+END_EXAMPLE
 
 ** 吴越旧韵
+[[https://img.shields.io/badge/成就-成就点25点-ff69b4.svg]]
 - 曾到达杭州的如下地点
 #+BEGIN_EXAMPLE
 百里荡分舵
@@ -159,6 +171,7 @@
 #+END_EXAMPLE
 
 ** 游历杭州
+[[https://img.shields.io/badge/成就-成就点50点-ff69b4.svg]]
 - 完成“西子风情”和“吴越旧韵”
 #+BEGIN_EXAMPLE
 西子风情
@@ -166,6 +179,7 @@
 #+END_EXAMPLE
 
 ** 铸神山清
+[[https://img.shields.io/badge/成就-成就点25点-ff69b4.svg]]
 - 曾到达江南的如下地点
 #+BEGIN_EXAMPLE
 飞雪滩
@@ -183,6 +197,7 @@
 #+END_EXAMPLE
 
 ** 春江如蓝
+[[https://img.shields.io/badge/成就-成就点25点-ff69b4.svg]]
 - 曾到达江南的如下地点
 #+BEGIN_EXAMPLE
 折之江
@@ -200,6 +215,7 @@
 #+END_EXAMPLE
 
 ** 游历江南
+[[https://img.shields.io/badge/成就-成就点50点-ff69b4.svg]]
 - 完成“铸神山清”和“春江如蓝”
 #+BEGIN_EXAMPLE
 铸神山清
@@ -207,6 +223,7 @@
 #+END_EXAMPLE
 
 ** 世外桃源
+[[https://img.shields.io/badge/成就-成就点25点-ff69b4.svg]]
 - 曾到达东越的如下地点
 #+BEGIN_EXAMPLE
 永清坊
@@ -222,6 +239,7 @@
 #+END_EXAMPLE
 
 ** 浮天沧海
+[[https://img.shields.io/badge/成就-成就点25点-ff69b4.svg]]
 - 曾到达东越的如下地点
 #+BEGIN_EXAMPLE
 长乐滩
@@ -237,6 +255,7 @@
 #+END_EXAMPLE
 
 ** 游历东越
+[[https://img.shields.io/badge/成就-成就点50点-ff69b4.svg]]
 - 完成“世外桃源”和“浮天沧海”
 #+BEGIN_EXAMPLE
 世外桃源
@@ -244,6 +263,7 @@
 #+END_EXAMPLE
 
 ** 古驿斜阳
+[[https://img.shields.io/badge/成就-成就点25点-ff69b4.svg]]
 - 曾到达徐海的如下地点
 #+BEGIN_EXAMPLE
 古陶驿站
@@ -257,6 +277,7 @@
 #+END_EXAMPLE
 
 ** 古原明月
+[[https://img.shields.io/badge/成就-成就点25点-ff69b4.svg]]
 - 曾到达徐海的如下地点
 #+BEGIN_EXAMPLE
 藏月湾
@@ -271,6 +292,7 @@
 #+END_EXAMPLE
 
 ** 古道远芳
+[[https://img.shields.io/badge/成就-成就点25点-ff69b4.svg]]
 - 曾到达徐海的如下地点
 #+BEGIN_EXAMPLE
 云眉道
@@ -284,6 +306,7 @@
 #+END_EXAMPLE
 
 ** 游历徐海
+[[https://img.shields.io/badge/成就-成就点50点-ff69b4.svg]]
 - 完成“古驿斜阳”和“古道月明”和“古道远芳”
 #+BEGIN_EXAMPLE
 古驿斜阳
@@ -292,6 +315,7 @@
 #+END_EXAMPLE
 
 ** 君山洞庭
+[[https://img.shields.io/badge/成就-成就点25点-ff69b4.svg]]
 - 曾到达荆湖的如下地点
 #+BEGIN_EXAMPLE
 洞庭山
@@ -306,6 +330,7 @@
 #+END_EXAMPLE
 
 ** 故云梦泽
+[[https://img.shields.io/badge/成就-成就点25点-ff69b4.svg]]
 - 曾到达荆湖的如下地点
 #+BEGIN_EXAMPLE
 烟波尾
@@ -321,6 +346,7 @@
 #+END_EXAMPLE
 
 ** 游历荆湖
+[[https://img.shields.io/badge/成就-成就点50点-ff69b4.svg]]
 - 完成“君山洞庭”和“故云梦泽”
 #+BEGIN_EXAMPLE
 君山洞庭
@@ -328,6 +354,7 @@
 #+END_EXAMPLE
 
 ** 巴国奇踪
+[[https://img.shields.io/badge/成就-成就点25点-ff69b4.svg]]
 - 曾到达巴蜀的如下地点
 #+BEGIN_EXAMPLE
 翠海
@@ -345,6 +372,7 @@
 #+END_EXAMPLE
 
 ** 蜀中竹趣
+[[https://img.shields.io/badge/成就-成就点25点-ff69b4.svg]]
 - 曾到达巴蜀的如下地点
 #+BEGIN_EXAMPLE
 凌云壁
@@ -359,6 +387,7 @@
 #+END_EXAMPLE
 
 ** 游历巴蜀
+[[https://img.shields.io/badge/成就-成就点50点-ff69b4.svg]]
 - 完成“巴国奇踪”和“蜀中竹趣”
 #+BEGIN_EXAMPLE
 巴国奇踪
@@ -366,6 +395,7 @@
 #+END_EXAMPLE
 
 ** 花海流萤
+[[https://img.shields.io/badge/成就-成就点25点-ff69b4.svg]]
 - 曾到达云滇的如下地点
 #+BEGIN_EXAMPLE
 伏龙岭总舵
@@ -380,6 +410,7 @@
 #+END_EXAMPLE
 
 ** 万劫焚断
+[[https://img.shields.io/badge/成就-成就点25点-ff69b4.svg]]
 - 曾到达云滇的如下地点
 #+BEGIN_EXAMPLE
 天剑峰
@@ -394,6 +425,7 @@
 #+END_EXAMPLE
 
 ** 游历云滇
+[[https://img.shields.io/badge/成就-成就点50点-ff69b4.svg]]
 - 完成“花海流萤”和“万劫焚断”
 #+BEGIN_EXAMPLE
 花海流萤
@@ -401,6 +433,7 @@
 #+END_EXAMPLE
 
 ** 青龙蟠日
+[[https://img.shields.io/badge/成就-成就点25点-ff69b4.svg]]
 - 曾到达襄州的如下地点
 #+BEGIN_EXAMPLE
 太极道场
@@ -418,6 +451,7 @@
 #+END_EXAMPLE
 
 ** 三生万物
+[[https://img.shields.io/badge/成就-成就点25点-ff69b4.svg]]
 - 曾到达襄州的如下地点
 #+BEGIN_EXAMPLE
 砚首山分舵
@@ -435,6 +469,7 @@
 #+END_EXAMPLE
 
 ** 游历襄州
+[[https://img.shields.io/badge/成就-成就点50点-ff69b4.svg]]
 - 完成“青龙蟠日”和“三生万物”
 #+BEGIN_EXAMPLE
 青龙蟠日
@@ -442,6 +477,7 @@
 #+END_EXAMPLE
 
 ** 帝都繁华
+[[https://img.shields.io/badge/成就-成就点25点-ff69b4.svg]]
 - 曾到达开封的如下地点
 #+BEGIN_EXAMPLE
 黄河
@@ -459,6 +495,7 @@
 #+END_EXAMPLE
 
 ** 黄河九曲
+[[https://img.shields.io/badge/成就-成就点25点-ff69b4.svg]]
 - 曾到达开封的如下地点
 #+BEGIN_EXAMPLE
 黄华岭
@@ -473,6 +510,7 @@
 #+END_EXAMPLE
 
 ** 游历开封
+[[https://img.shields.io/badge/成就-成就点50点-ff69b4.svg]]
 - 完成“帝都繁华”和“黄河九曲”
 #+BEGIN_EXAMPLE
 帝都繁华
@@ -480,6 +518,7 @@
 #+END_EXAMPLE
 
 ** 行在天涯
+[[https://img.shields.io/badge/成就-成就点125点-ff69b4.svg]]
 - 在路上，行者无涯。
 #+BEGIN_EXAMPLE
 游历九华
@@ -497,6 +536,7 @@
 #+END_EXAMPLE
 
 ** 山光
+[[https://img.shields.io/badge/成就-成就点50点-ff69b4.svg]]
 - 游历过众多山川
 #+BEGIN_EXAMPLE
 朝露峰
@@ -508,6 +548,7 @@
 #+END_EXAMPLE
 
 ** 水色
+[[https://img.shields.io/badge/成就-成就点50点-ff69b4.svg]]
 - 游历过众多水系
 #+BEGIN_EXAMPLE
 江音畔
@@ -518,318 +559,371 @@
 #+END_EXAMPLE
 
 ** 极目眺·谷藏锋
+[[https://img.shields.io/badge/成就-成就点25点-ff69b4.svg]]
 - 极目远眺山水，九华之美收录眼底
 #+BEGIN_EXAMPLE
 凭栏
 #+END_EXAMPLE
 
 ** 重岩下·云飞瀑
+[[https://img.shields.io/badge/成就-成就点25点-ff69b4.svg]]
 - 岩下飞瀑湍流，如星云飞洒，美不胜收
 #+BEGIN_EXAMPLE
 飞瀑
 #+END_EXAMPLE
 
 ** 古寺中·佛首瞻
+[[https://img.shields.io/badge/成就-成就点25点-ff69b4.svg]]
 - 登高者望远，在此处可俯览整个九华
 #+BEGIN_EXAMPLE
 佛头
 #+END_EXAMPLE
 
 ** 孤山丘·断栈险
+[[https://img.shields.io/badge/成就-成就点25点-ff69b4.svg]]
 - 孤山中，断栈不知何时建、何时废、何时断
 #+BEGIN_EXAMPLE
 断栈
 #+END_EXAMPLE
 
 ** 石嶙峋·怪树畸
+[[https://img.shields.io/badge/成就-成就点25点-ff69b4.svg]]
 - 怪石嶙峋，枯树干藤死气沉沉，畸形怪树生于乱石上，诡怪异常
 #+BEGIN_EXAMPLE
 怪树
 #+END_EXAMPLE
 
 ** 千丈高·铁索悬
+[[https://img.shields.io/badge/成就-成就点25点-ff69b4.svg]]
 - 脚底即是千丈深渊，此身唯系脚下碗口铁链
 #+BEGIN_EXAMPLE
 铁索
 #+END_EXAMPLE
 
 ** 江音畔·水清波
+[[https://img.shields.io/badge/成就-成就点25点-ff69b4.svg]]
 - 江清波见底，水柔抚如梦
 #+BEGIN_EXAMPLE
 江畔
 #+END_EXAMPLE
 
 ** 水云寒·芦花艳
+[[https://img.shields.io/badge/成就-成就点25点-ff69b4.svg]]
 - 苍白芦花荡中，夹杂艳红花朵，尽得光彩
 #+BEGIN_EXAMPLE
 芦苇荡
 #+END_EXAMPLE
 
 ** 归途远·古藤桥
+[[https://img.shields.io/badge/成就-成就点25点-ff69b4.svg]]
 - 古藤缠绕吊桥，青苔幽怨铺满脚下
 #+BEGIN_EXAMPLE
 古藤桥
 #+END_EXAMPLE
 
 ** 纵横深·孔雀顶
+[[https://img.shields.io/badge/成就-成就点25点-ff69b4.svg]]
 - 孔雀山庄之顶，宏伟壮阔山庄都在睥睨间
 #+BEGIN_EXAMPLE
 孔雀顶
 #+END_EXAMPLE
 
 ** 我为巅·鹧鸪山
+[[https://img.shields.io/badge/成就-成就点25点-ff69b4.svg]]
 - 鹧鸪岭峰上，紫色小花默默绽放，燕来镇就在远处
 #+BEGIN_EXAMPLE
 鹧鸪岭
 #+END_EXAMPLE
 
 ** 江沁月·波碎影
+[[https://img.shields.io/badge/成就-成就点25点-ff69b4.svg]]
 - 在此处可将江青月影尽收眼底
 #+BEGIN_EXAMPLE
 江沁月·波碎影
 #+END_EXAMPLE
 
 ** 总舵遥·危机伏
+[[https://img.shields.io/badge/成就-成就点25点-ff69b4.svg]]
 - 若能避过重重守卫攀上此处，即可远眺对面总舵
 #+BEGIN_EXAMPLE
 总舵遥·危机伏
 #+END_EXAMPLE
 
 ** 湍流疾·奇石凌
+[[https://img.shields.io/badge/成就-成就点25点-ff69b4.svg]]
 - 在狭窄河道内水流飞溅，嶙峋奇石突于河道
 #+BEGIN_EXAMPLE
 湍流疾·奇石凌
 #+END_EXAMPLE
 
 ** 空谷幽·铸神远
+[[https://img.shields.io/badge/成就-成就点25点-ff69b4.svg]]
 - 跃上铸神谷房屋的顶端，空山幽谷皆在眼中
 #+BEGIN_EXAMPLE
 空谷幽·铸神远
 #+END_EXAMPLE
 
 ** 双塔守·水路阔
+[[https://img.shields.io/badge/成就-成就点25点-ff69b4.svg]]
 - 总舵地处江南，除了普通的山门外，水路入口也是一大特色
 #+BEGIN_EXAMPLE
 双塔守·水路阔
 #+END_EXAMPLE
 
 ** 观千山·望万水
+[[https://img.shields.io/badge/成就-成就点25点-ff69b4.svg]]
 - 攀上总舵的高处，平时可赏四面景色，战时可防四周之敌
 #+BEGIN_EXAMPLE
 观千山·望万水
 #+END_EXAMPLE
 
 ** 德甚嘉·行甚懿
+[[https://img.shields.io/badge/成就-成就点25点-ff69b4.svg]]
 - 嘉德懿行，德行美好
 #+BEGIN_EXAMPLE
 德甚嘉·行甚懿
 #+END_EXAMPLE
 
 ** 桃源深·古道观
+[[https://img.shields.io/badge/成就-成就点25点-ff69b4.svg]]
 - 跃上道观顶，重楼飞檐果真灵动
 #+BEGIN_EXAMPLE
 桃源深·古道观
 #+END_EXAMPLE
 
 ** 青苔生·东湖月
+[[https://img.shields.io/badge/成就-成就点25点-ff69b4.svg]]
 - 湖边青石上，静赏湖水美
 #+BEGIN_EXAMPLE
 青苔生·东湖月
 #+END_EXAMPLE
 
 ** 旧城寂·飞瀑疾
+[[https://img.shields.io/badge/成就-成就点25点-ff69b4.svg]]
 - 闽越古城中，一道飞瀑从极高之处落下飞溅
 #+BEGIN_EXAMPLE
 旧城寂·飞瀑疾
 #+END_EXAMPLE
 
 ** 九天顶·望海潮
+[[https://img.shields.io/badge/成就-成就点25点-ff69b4.svg]]
 - 九天阁气度不凡，九天阁之顶视野更是开阔
 #+BEGIN_EXAMPLE
 九天顶·望海潮
 #+END_EXAMPLE
 
 ** 观沧海·浮白沙
+[[https://img.shields.io/badge/成就-成就点25点-ff69b4.svg]]
 - 海边礁石极目远眺，大海蔚蓝壮阔，无边无际
 #+BEGIN_EXAMPLE
 观沧海·浮白沙
 #+END_EXAMPLE
 
 ** 哨岗立·迎白帆
+[[https://img.shields.io/badge/成就-成就点25点-ff69b4.svg]]
 - 岸边泊有大船一艘，跃上岗哨则可以将船上动静悉数收录
 #+BEGIN_EXAMPLE
 哨岗立·迎白帆
 #+END_EXAMPLE
 
 ** 岩上枫·金掩赤
+[[https://img.shields.io/badge/成就-成就点25点-ff69b4.svg]]
 - 悬崖上生出数棵枫树，色极艳丽，岩石陡峭，仅容一人侧立
 #+BEGIN_EXAMPLE
 岩上枫·金掩赤
 #+END_EXAMPLE
 
 ** 登高塔·俯敌营
+[[https://img.shields.io/badge/成就-成就点25点-ff69b4.svg]]
 - 跃上白鹭洲制高处，倭人据点一览无余
 #+BEGIN_EXAMPLE
 登高塔·俯敌营
 #+END_EXAMPLE
 
 ** 海风盛·椰树香
+[[https://img.shields.io/badge/成就-成就点25点-ff69b4.svg]]
 - 海天浩渺，玉屑银末，椰树高耸
 #+BEGIN_EXAMPLE
 海风盛·椰树香
 #+END_EXAMPLE
 
 ** 风沙起·武威扬
+[[https://img.shields.io/badge/成就-成就点25点-ff69b4.svg]]
 - 在此可俯览神威堡
 #+BEGIN_EXAMPLE
 风沙起·武威扬
 #+END_EXAMPLE
 
 ** 山外云·石林孤
+[[https://img.shields.io/badge/成就-成就点25点-ff69b4.svg]]
 - 绿洲饮马诉衷情，残柱矗穿云
 #+BEGIN_EXAMPLE
 山外云·石林孤
 #+END_EXAMPLE
 
 ** 古堡危·砾沙碛
+[[https://img.shields.io/badge/成就-成就点25点-ff69b4.svg]]
 - 千里马场旁古堡，极目远望一片苍黄
 #+BEGIN_EXAMPLE
 古堡危·砾沙碛
 #+END_EXAMPLE
 
 ** 忘来路·苍梧城
+[[https://img.shields.io/badge/成就-成就点25点-ff69b4.svg]]
 - 苍梧城残垣断壁之顶，一片寂静荒凉
 #+BEGIN_EXAMPLE
 忘来路·苍梧城
 #+END_EXAMPLE
 
 ** 阵破乐·神威哨
+[[https://img.shields.io/badge/成就-成就点25点-ff69b4.svg]]
 - 神威堡附近岗哨，可防来犯之敌
 #+BEGIN_EXAMPLE
 阵破乐·神威哨
 #+END_EXAMPLE
 
 ** 乱石滩·芦苇荡
+[[https://img.shields.io/badge/成就-成就点25点-ff69b4.svg]]
 - 冰原雪水，清澈透底，寒冷彻骨
 #+BEGIN_EXAMPLE
 乱石滩·芦苇荡
 #+END_EXAMPLE
 
 ** 山门耸·宝刹丽
+[[https://img.shields.io/badge/成就-成就点25点-ff69b4.svg]]
 - 天龙古刹山门高耸，宝刹庄严
 #+BEGIN_EXAMPLE
 山门耸·宝刹丽
 #+END_EXAMPLE
 
 ** 古陶镇·立高台
+[[https://img.shields.io/badge/成就-成就点25点-ff69b4.svg]]
 - 古陶镇的入口处，来往行人客商都需经由此路
 #+BEGIN_EXAMPLE
 古陶镇·立高台
 #+END_EXAMPLE
 
 ** 时光·剪影
+[[https://img.shields.io/badge/成就-成就点25点-ff69b4.svg]]
 - 桥上离人泪，桥下水自流
 #+BEGIN_EXAMPLE
 时光·剪影
 #+END_EXAMPLE
 
 ** 雪山麓·红草滩
+[[https://img.shields.io/badge/成就-成就点25点-ff69b4.svg]]
 - 一地三季：红草滩、金枫树、积雪山
 #+BEGIN_EXAMPLE
 雪山麓·红草滩
 #+END_EXAMPLE
 
 ** 无影阁·一线天
+[[https://img.shields.io/badge/成就-成就点25点-ff69b4.svg]]
 - 无影阁顶，双檐对供，恰留一线天
 #+BEGIN_EXAMPLE
 无影阁·一线天
 #+END_EXAMPLE
 
 ** 峭壁垂·空中阁
+[[https://img.shields.io/badge/成就-成就点25点-ff69b4.svg]]
 - 神武门最高处，雄伟建筑却是峭壁上凭空而造，精妙异常
 #+BEGIN_EXAMPLE
 峭壁垂·空中阁
 #+END_EXAMPLE
 
 ** 兽獠牙·辟水流
+[[https://img.shields.io/badge/成就-成就点25点-ff69b4.svg]]
 - 雕刻着凶兽图样的厚重门顶端，水流急转而下
 #+BEGIN_EXAMPLE
 兽獠牙·辟水流
 #+END_EXAMPLE
 
 ** 沉剑试·剑坪顶
+[[https://img.shields.io/badge/成就-成就点25点-ff69b4.svg]]
 - 剑坪上发生的一切都尽在眼中！
 #+BEGIN_EXAMPLE
 沉剑试·剑坪顶
 #+END_EXAMPLE
 
 ** 巍峨矗·祭坛顶
+[[https://img.shields.io/badge/成就-成就点25点-ff69b4.svg]]
 - 古祭坛之顶，也是方圆最高的山脉之一
 #+BEGIN_EXAMPLE
 巍峨矗·祭坛顶
 #+END_EXAMPLE
 
 ** 冰晶澈·沉剑池
+[[https://img.shields.io/badge/成就-成就点25点-ff69b4.svg]]
 - 冰原雪化水注入沉剑池中，晶莹透彻
 #+BEGIN_EXAMPLE
 冰晶澈·沉剑池
 #+END_EXAMPLE
 
 ** 逍遥游·剑碑顶
+[[https://img.shields.io/badge/成就-成就点25点-ff69b4.svg]]
 - 除了令狐聪，我也可以上来
 #+BEGIN_EXAMPLE
 逍遥游·剑碑顶
 #+END_EXAMPLE
 
 ** 观云海·蛟龙岭
+[[https://img.shields.io/badge/成就-成就点25点-ff69b4.svg]]
 - 攀蛟龙岭，观太白云海西
 #+BEGIN_EXAMPLE
 观云海·蛟龙岭
 #+END_EXAMPLE
 
 ** 往来繁·巍山门
+[[https://img.shields.io/badge/成就-成就点25点-ff69b4.svg]]
 - 驿站人来人往，山门高耸
 #+BEGIN_EXAMPLE
 往来繁·巍山门
 #+END_EXAMPLE
 
 ** 望杭州·钱塘门
+[[https://img.shields.io/badge/成就-成就点25点-ff69b4.svg]]
 - 钱塘门高耸，如若攀上则可以远望大半个杭州
 #+BEGIN_EXAMPLE
 望杭州·钱塘门
 #+END_EXAMPLE
 
 ** 眺杭州·永兴寺
+[[https://img.shields.io/badge/成就-成就点25点-ff69b4.svg]]
 - 永兴寺凸出的高台上，向下可以看到杭州城
 #+BEGIN_EXAMPLE
 眺杭州·永兴寺
 #+END_EXAMPLE
 
 ** 淬剑谷·剑之顶
+[[https://img.shields.io/badge/成就-成就点25点-ff69b4.svg]]
 - 淬剑谷之巨剑顶，剑柄上仅容一人
 #+BEGIN_EXAMPLE
 淬剑谷·剑之顶
 #+END_EXAMPLE
 
 ** 行龙荡·车水流
+[[https://img.shields.io/badge/成就-成就点25点-ff69b4.svg]]
 - 水车机杼，潺潺水流
 #+BEGIN_EXAMPLE
 行龙荡·车水流
 #+END_EXAMPLE
 
 ** 悬空阁·美雕梁
+[[https://img.shields.io/badge/成就-成就点25点-ff69b4.svg]]
 - 新月山庄最高处的建筑，回廊悬于空中，雕梁画栋精致异常
 #+BEGIN_EXAMPLE
 悬空阁·美雕梁
 #+END_EXAMPLE
 
 ** 晨钟肃·暮鼓鸣
+[[https://img.shields.io/badge/成就-成就点25点-ff69b4.svg]]
 - 庄严肃穆的天绝禅院，华光四射
 #+BEGIN_EXAMPLE
 晨钟肃·暮鼓鸣
 #+END_EXAMPLE
 
 ** 蔷薇之烬
+[[https://img.shields.io/badge/成就-成就点25点-ff69b4.svg]]
 - 不见蔷薇，唯余孤冢。
 #+BEGIN_EXAMPLE
 发现燕南飞之墓
@@ -837,12 +931,14 @@
 #+END_EXAMPLE
 
 ** 嵩高维岳
+[[https://img.shields.io/badge/成就-成就点20点-ff69b4.svg]]
 - 使用龙极图·一
 #+BEGIN_EXAMPLE
 使用龙极图·一
 #+END_EXAMPLE
 
 ** 钟灵应乐
+[[https://img.shields.io/badge/成就-成就点50点-ff69b4.svg]]
 - 使用龙极图·二（地脉）、龙极图·二（玄脉）、龙极图·二（黄脉）
 #+BEGIN_EXAMPLE
 使用龙极图·二（地脉）
@@ -851,6 +947,7 @@
 #+END_EXAMPLE
 
 ** 绥绥白狐
+[[https://img.shields.io/badge/成就-成就点30点-ff69b4.svg]]
 - 使用龙极图·三（宇脉）、龙极图·三（宙脉）
 #+BEGIN_EXAMPLE
 使用龙极图·三（宇脉）
@@ -858,6 +955,7 @@
 #+END_EXAMPLE
 
 ** 颍水知源
+[[https://img.shields.io/badge/成就-成就点50点-ff69b4.svg]]
 - 使用龙极图·四（玄脉）、龙极图·四（黄脉）
 #+BEGIN_EXAMPLE
 使用龙极图·四（玄脉）
@@ -865,6 +963,7 @@
 #+END_EXAMPLE
 
 ** 太室龙极
+[[https://img.shields.io/badge/成就-成就点80点-ff69b4.svg]]
 - 达成成就嵩高维岳、钟灵应乐、绥绥白狐、颍水知源
 #+BEGIN_EXAMPLE
 嵩高维岳
@@ -874,42 +973,49 @@
 #+END_EXAMPLE
 
 ** 灵妃地脉
+[[https://img.shields.io/badge/成就-成就点20点-ff69b4.svg]]
 - 使用龙极图·二（地脉）
 #+BEGIN_EXAMPLE
 龙极图·二（地脉）
 #+END_EXAMPLE
 
 ** 灵妃玄脉
+[[https://img.shields.io/badge/成就-成就点50点-ff69b4.svg]]
 - 使用龙极图·二（玄脉）
 #+BEGIN_EXAMPLE
 龙极图·二（玄脉）
 #+END_EXAMPLE
 
 ** 灵妃黄脉
+[[https://img.shields.io/badge/成就-成就点30点-ff69b4.svg]]
 - 使用龙极图·二（黄脉）
 #+BEGIN_EXAMPLE
 龙极图·二（黄脉）
 #+END_EXAMPLE
 
 ** 涂山宇脉
+[[https://img.shields.io/badge/成就-成就点50点-ff69b4.svg]]
 - 使用龙极图·三（宇脉）
 #+BEGIN_EXAMPLE
 龙极图·三（宇脉）
 #+END_EXAMPLE
 
 ** 涂山宙脉
+[[https://img.shields.io/badge/成就-成就点80点-ff69b4.svg]]
 - 使用龙极图·三（宙脉）
 #+BEGIN_EXAMPLE
 龙极图·三（宙脉）
 #+END_EXAMPLE
 
 ** 颍水玄脉
+[[https://img.shields.io/badge/成就-成就点30点-ff69b4.svg]]
 - 使用龙极图·四（玄脉）
 #+BEGIN_EXAMPLE
 龙极图·四（玄脉）
 #+END_EXAMPLE
 
 ** 颍水黄脉
+[[https://img.shields.io/badge/成就-成就点50点-ff69b4.svg]]
 - 使用龙极图·四（黄脉）
 #+BEGIN_EXAMPLE
 龙极图·四（黄脉）
@@ -2323,78 +2429,94 @@
 
 * 四季时辰
 ** 烟雨濛
+[[https://img.shields.io/badge/成就-成就点25点-ff69b4.svg]]
 - 经历一次靡靡小雨
 #+BEGIN_EXAMPLE
 小雨
 #+END_EXAMPLE
 
 ** 风雨疾
+[[https://img.shields.io/badge/成就-成就点25点-ff69b4.svg]]
 - 经历一次滂沱大雨
 #+BEGIN_EXAMPLE
 大雨
 #+END_EXAMPLE
 
 ** 雪飘零
+[[https://img.shields.io/badge/成就-成就点25点-ff69b4.svg]]
 - 经历一次小雪
 #+BEGIN_EXAMPLE
 小雪
 #+END_EXAMPLE
 
 ** 雪纷飞
+[[https://img.shields.io/badge/成就-成就点25点-ff69b4.svg]]
 - 遭遇一场鹅毛大雪
 #+BEGIN_EXAMPLE
 大雪
 #+END_EXAMPLE
 
 ** 走龙蛇
+[[https://img.shields.io/badge/成就-成就点25点-ff69b4.svg]]
 - 遭遇一场小型沙尘暴
 #+BEGIN_EXAMPLE
 小沙尘暴
 #+END_EXAMPLE
 
 ** 蔽日月
+[[https://img.shields.io/badge/成就-成就点25点-ff69b4.svg]]
 - 遭遇一场大型沙尘暴
 #+BEGIN_EXAMPLE
 大沙尘暴
 #+END_EXAMPLE
 
 ** 落汤鸡
+[[https://img.shields.io/badge/成就-成就点50点-ff69b4.svg]]
 - 遭遇10次大雨
 
 ** 从头淋到脚
+[[https://img.shields.io/badge/成就-成就点100点-ff69b4.svg]]
 - 遭遇100次大雨
 
 ** 进砂
+[[https://img.shields.io/badge/成就-成就点50点-ff69b4.svg]]
 - 遭遇10次小型沙尘暴
 
 ** 迷眼
+[[https://img.shields.io/badge/成就-成就点100点-ff69b4.svg]]
 - 遭遇100次大型沙尘暴
 
 ** 雪漫天
+[[https://img.shields.io/badge/成就-成就点50点-ff69b4.svg]]
 - 遭遇10场大雪
 
 ** 雪弥天
+[[https://img.shields.io/badge/成就-成就点100点-ff69b4.svg]]
 - 遭遇100场大雪
 
 ** 映清晨
+[[https://img.shields.io/badge/成就-成就点25点-ff69b4.svg]]
 - 旭日东升，空气清新，一日之计在于晨
 #+BEGIN_EXAMPLE
 日出
 #+END_EXAMPLE
 
 ** 渐黄昏
+[[https://img.shields.io/badge/成就-成就点25点-ff69b4.svg]]
 - 酉时已至，日渐西沉，黄昏来临
 #+BEGIN_EXAMPLE
 日落
 #+END_EXAMPLE
 
 ** 夜阑珊
+[[https://img.shields.io/badge/成就-成就点25点-ff69b4.svg]]
 - 暮色渐至，居民归家，阑珊夜景中何处是自己的那盏明灯？
 #+BEGIN_EXAMPLE
 夜里
 #+END_EXAMPLE
 
 ** 雪月流光
+[[https://img.shields.io/badge/成就-成就点50点-ff69b4.svg]]
 - 在秦川经历一场漫天大雪
 #+BEGIN_EXAMPLE
 秦川
@@ -2402,6 +2524,7 @@
 #+END_EXAMPLE
 
 ** 霜天霁月
+[[https://img.shields.io/badge/成就-成就点50点-ff69b4.svg]]
 - 在秦川经历一场小雪
 #+BEGIN_EXAMPLE
 秦川
@@ -2409,6 +2532,7 @@
 #+END_EXAMPLE
 
 ** 燕云扬沙
+[[https://img.shields.io/badge/成就-成就点50点-ff69b4.svg]]
 - 在燕云经历一场小型沙尘暴
 #+BEGIN_EXAMPLE
 燕云
@@ -2416,6 +2540,7 @@
 #+END_EXAMPLE
 
 ** 日月无光
+[[https://img.shields.io/badge/成就-成就点50点-ff69b4.svg]]
 - 在燕云经历一场大型沙尘暴
 #+BEGIN_EXAMPLE
 燕云
@@ -2423,6 +2548,7 @@
 #+END_EXAMPLE
 
 ** 秦川晚风
+[[https://img.shields.io/badge/成就-成就点50点-ff69b4.svg]]
 - 在秦川度过一个夜晚
 #+BEGIN_EXAMPLE
 秦川
@@ -2430,6 +2556,7 @@
 #+END_EXAMPLE
 
 ** 燕云烘月
+[[https://img.shields.io/badge/成就-成就点50点-ff69b4.svg]]
 - 在燕云度过一个夜晚
 #+BEGIN_EXAMPLE
 燕云
@@ -2437,6 +2564,7 @@
 #+END_EXAMPLE
 
 ** 烟雨江南
+[[https://img.shields.io/badge/成就-成就点50点-ff69b4.svg]]
 - 在江南龙首山天泉山庄经历过一次小雨
 #+BEGIN_EXAMPLE
 天泉山庄
@@ -2444,6 +2572,7 @@
 #+END_EXAMPLE
 
 ** 望云晚霞
+[[https://img.shields.io/badge/成就-成就点50点-ff69b4.svg]]
 - 在江南折之江经历过一次日落
 #+BEGIN_EXAMPLE
 折之江
@@ -2451,6 +2580,7 @@
 #+END_EXAMPLE
 
 ** 江花胜火
+[[https://img.shields.io/badge/成就-成就点50点-ff69b4.svg]]
 - 在江南塔顶观赏过一次日出
 #+BEGIN_EXAMPLE
 江南云碧塔
@@ -2458,6 +2588,7 @@
 #+END_EXAMPLE
 
 ** 仙山日落
+[[https://img.shields.io/badge/成就-成就点50点-ff69b4.svg]]
 - 在东越海滨经历过一次黄昏
 #+BEGIN_EXAMPLE
 东越海滨
@@ -2465,6 +2596,7 @@
 #+END_EXAMPLE
 
 ** 霞映清永
+[[https://img.shields.io/badge/成就-成就点50点-ff69b4.svg]]
 - 在东越清永坊观赏过一次日出
 #+BEGIN_EXAMPLE
 永清坊
@@ -2472,6 +2604,7 @@
 #+END_EXAMPLE
 
 ** 杭州夜景
+[[https://img.shields.io/badge/成就-成就点50点-ff69b4.svg]]
 - 在杭州城内经历夜晚
 #+BEGIN_EXAMPLE
 杭州城
@@ -2479,6 +2612,7 @@
 #+END_EXAMPLE
 
 ** 重檐送晓
+[[https://img.shields.io/badge/成就-成就点50点-ff69b4.svg]]
 - 在九华水榭观赏一次日出
 #+BEGIN_EXAMPLE
 水榭
@@ -2486,6 +2620,7 @@
 #+END_EXAMPLE
 
 ** 故道斜阳
+[[https://img.shields.io/badge/成就-成就点50点-ff69b4.svg]]
 - 在徐海骅阳林观赏一次日落
 #+BEGIN_EXAMPLE
 徐海骅阳林
@@ -2493,6 +2628,7 @@
 #+END_EXAMPLE
 
 ** 日出苍雪
+[[https://img.shields.io/badge/成就-成就点50点-ff69b4.svg]]
 - 在徐海苍雪岭观赏一次日出
 #+BEGIN_EXAMPLE
 徐海苍雪岭
@@ -2500,6 +2636,7 @@
 #+END_EXAMPLE
 
 ** 日落藏月
+[[https://img.shields.io/badge/成就-成就点50点-ff69b4.svg]]
 - 在徐海藏月湾经历一次黄昏
 #+BEGIN_EXAMPLE
 徐海藏月湾
@@ -2507,6 +2644,7 @@
 #+END_EXAMPLE
 
 ** 生生不息
+[[https://img.shields.io/badge/成就-成就点125点-ff69b4.svg]]
 - 欣赏过以下全部美景
 #+BEGIN_EXAMPLE
 雪月流光
@@ -2520,42 +2658,49 @@
 
 * 钓鱼
 ** 羡鱼
+[[https://img.shields.io/badge/成就-成就点25点-ff69b4.svg]]
 - 完成一次钓鱼大赛
 #+BEGIN_EXAMPLE
 完成一次钓鱼比赛
 #+END_EXAMPLE
 
 ** 闲趣
+[[https://img.shields.io/badge/成就-成就点75点-ff69b4.svg]]
 - 完成五次钓鱼大赛
 #+BEGIN_EXAMPLE
 完成五次钓鱼比赛
 #+END_EXAMPLE
 
 ** 渔趣
+[[https://img.shields.io/badge/成就-成就点125点-ff69b4.svg]]
 - 完成十五次钓鱼大赛
 #+BEGIN_EXAMPLE
 完成十五次钓鱼比赛
 #+END_EXAMPLE
 
 ** 名列前茅
+[[https://img.shields.io/badge/成就-成就点125点-ff69b4.svg]]
 - 钓鱼大赛前10名
 #+BEGIN_EXAMPLE
 获得比赛前十
 #+END_EXAMPLE
 
 ** 聚精会神
+[[https://img.shields.io/badge/成就-成就点125点-ff69b4.svg]]
 - 钓鱼大赛前5名
 #+BEGIN_EXAMPLE
 获得比赛前五
 #+END_EXAMPLE
 
 ** 满载而归
+[[https://img.shields.io/badge/成就-成就点125点-ff69b4.svg]]
 - 钓鱼大赛第3名
 #+BEGIN_EXAMPLE
 获得比赛第三名
 #+END_EXAMPLE
 
 ** 天涯渔夫
+[[https://img.shields.io/badge/成就-成就点125点-ff69b4.svg]]
 - 钓鱼大赛第1名
 #+BEGIN_EXAMPLE
 获得比赛第一名
@@ -2563,6 +2708,7 @@
 
 * 活动
 ** 钟汉良
+[[https://img.shields.io/badge/成就-成就点5点-ff69b4.svg]]
 - 找到神秘商人“钟汉良”并集齐称号
 #+BEGIN_EXAMPLE
 获取称号“哇”
@@ -2572,18 +2718,21 @@
 #+END_EXAMPLE
 
 ** 单身不寂寞
+[[https://img.shields.io/badge/成就-成就点5点-ff69b4.svg]]
 - 完成七夕节日任务
 #+BEGIN_EXAMPLE
 完成七夕节任务“单身不寂寞”
 #+END_EXAMPLE
 
 ** 月照天涯
+[[https://img.shields.io/badge/成就-成就点5点-ff69b4.svg]]
 - 完成中秋节日任务
 #+BEGIN_EXAMPLE
 完成中秋节日任务
 #+END_EXAMPLE
 
 ** 孩子王
+[[https://img.shields.io/badge/成就-成就点5点-ff69b4.svg]]
 - 在陌上·繁花又开节日期间帮助三位孩子找到风筝
 #+BEGIN_EXAMPLE
 找到小耳朵的风筝

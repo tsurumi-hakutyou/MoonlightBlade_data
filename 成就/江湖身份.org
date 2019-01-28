@@ -3,132 +3,154 @@
 
 * 身份
 ** 千人千面
+[[https://img.shields.io/badge/成就-成就点75点-ff69b4.svg]]
 - 获得江湖身份
 #+BEGIN_EXAMPLE
 获取江湖身份
 #+END_EXAMPLE
 
 ** 猎户
+[[https://img.shields.io/badge/成就-成就点25点-ff69b4.svg]]
 - 成为“猎户”的身份
 #+BEGIN_EXAMPLE
 江湖身份1级
 #+END_EXAMPLE
 
 ** 杀手
+[[https://img.shields.io/badge/成就-成就点25点-ff69b4.svg]]
 - 获取“杀手”的身份
 #+BEGIN_EXAMPLE
 江湖身份1级
 #+END_EXAMPLE
 
 ** 游侠
+[[https://img.shields.io/badge/成就-成就点25点-ff69b4.svg]]
 - 成为“游侠”的身份
 #+BEGIN_EXAMPLE
 江湖身份1级
 #+END_EXAMPLE
 
 ** 镖师
+[[https://img.shields.io/badge/成就-成就点25点-ff69b4.svg]]
 - 获取“镖师”的身份
 #+BEGIN_EXAMPLE
 江湖身份1级
 #+END_EXAMPLE
 
 ** 乐伶
+[[https://img.shields.io/badge/成就-成就点25点-ff69b4.svg]]
 - 成为“乐伶”的身份
 #+BEGIN_EXAMPLE
 江湖身份1级
 #+END_EXAMPLE
 
 ** 文士
+[[https://img.shields.io/badge/成就-成就点25点-ff69b4.svg]]
 - 成为“文士”的身份
 #+BEGIN_EXAMPLE
 江湖身份1级
 #+END_EXAMPLE
 
 ** 捕快
+[[https://img.shields.io/badge/成就-成就点25点-ff69b4.svg]]
 - 成为“捕快”的身份
 #+BEGIN_EXAMPLE
 江湖身份1级
 #+END_EXAMPLE
 
 ** 刺客
+[[https://img.shields.io/badge/成就-成就点50点-ff69b4.svg]]
 - 获取杀手身份中阶能力
 #+BEGIN_EXAMPLE
 获取杀手身份中阶能力
 #+END_EXAMPLE
 
 ** 杀神
+[[https://img.shields.io/badge/成就-成就点75点-ff69b4.svg]]
 - 获取杀手身份高阶能力
 #+BEGIN_EXAMPLE
 获取杀手身份高阶能力
 #+END_EXAMPLE
 
 ** 镖头
+[[https://img.shields.io/badge/成就-成就点50点-ff69b4.svg]]
 - 获取镖师身份中阶能力
 #+BEGIN_EXAMPLE
 获取镖师身份中阶能力
 #+END_EXAMPLE
 
 ** 神镖
+[[https://img.shields.io/badge/成就-成就点75点-ff69b4.svg]]
 - 获取镖师身份高阶能力
 #+BEGIN_EXAMPLE
 获取镖师身份高阶能力
 #+END_EXAMPLE
 
 ** 任侠
+[[https://img.shields.io/badge/成就-成就点50点-ff69b4.svg]]
 - 获取游侠身份的中阶能力
 #+BEGIN_EXAMPLE
 获取游侠身份的中阶能力
 #+END_EXAMPLE
 
 ** 豪侠
+[[https://img.shields.io/badge/成就-成就点75点-ff69b4.svg]]
 - 获取游侠身份的高阶能力
 #+BEGIN_EXAMPLE
 获取游侠身份的高阶能力
 #+END_EXAMPLE
 
 ** 狩矢
+[[https://img.shields.io/badge/成就-成就点50点-ff69b4.svg]]
 - 获取猎户身份的中阶能力
 #+BEGIN_EXAMPLE
 获取猎户身份的中阶能力
 #+END_EXAMPLE
 
 ** 猎圣
+[[https://img.shields.io/badge/成就-成就点75点-ff69b4.svg]]
 - 获取猎户身份的高阶能力
 #+BEGIN_EXAMPLE
 获取猎户身份的高阶能力
 #+END_EXAMPLE
 
 ** 雅士
+[[https://img.shields.io/badge/成就-成就点50点-ff69b4.svg]]
 - 获取文士身份的中阶能力
 #+BEGIN_EXAMPLE
 获取文士身份的中阶能力
 #+END_EXAMPLE
 
 ** 国士
+[[https://img.shields.io/badge/成就-成就点75点-ff69b4.svg]]
 - 获取文士身份的高阶能力
 #+BEGIN_EXAMPLE
 获取文士身份的高阶能力
 #+END_EXAMPLE
 
 ** 优伶
+[[https://img.shields.io/badge/成就-成就点50点-ff69b4.svg]]
 - 获取乐伶身份的中阶能力
 #+BEGIN_EXAMPLE
 获取乐伶身份的中阶能力
 #+END_EXAMPLE
 
 ** 名伶
+[[https://img.shields.io/badge/成就-成就点75点-ff69b4.svg]]
 - 获取乐伶身份的高阶能力
 #+BEGIN_EXAMPLE
 获取乐伶身份的高阶能力
 #+END_EXAMPLE
 
 ** 捕头
+[[https://img.shields.io/badge/成就-成就点50点-ff69b4.svg]]
 - 获取捕快身份的中阶能力
 #+BEGIN_EXAMPLE
 获取捕快身份的中阶能力
 #+END_EXAMPLE
 
 ** 捕神
+[[https://img.shields.io/badge/成就-成就点75点-ff69b4.svg]]
 - 获取捕快身份的高阶能力
 #+BEGIN_EXAMPLE
 获取捕快身份的高阶能力
@@ -136,84 +158,99 @@
 
 * 身份玩法
 ** 寻觅宝藏
+[[https://img.shields.io/badge/成就-成就点25点-ff69b4.svg]]
 - 成功完成一次挖宝
 #+BEGIN_EXAMPLE
 挖宝
 #+END_EXAMPLE
 
 ** 一成不变
+[[https://img.shields.io/badge/成就-成就点25点-ff69b4.svg]]
 - 连续三次挖到同样的内容
 #+BEGIN_EXAMPLE
 相同内容
 #+END_EXAMPLE
 
 ** 命中注定
+[[https://img.shields.io/badge/成就-成就点125点-ff69b4.svg]]
 - 连续十次挖到同样的内容
 
 ** 初为杀手
+[[https://img.shields.io/badge/成就-成就点25点-ff69b4.svg]]
 - 成功完成一次暗杀
 #+BEGIN_EXAMPLE
 成功暗杀
 #+END_EXAMPLE
 
 ** 刀锋如狂
+[[https://img.shields.io/badge/成就-成就点25点-ff69b4.svg]]
 - 成功完成十次暗杀
 #+BEGIN_EXAMPLE
 成功完成10次暗杀
 #+END_EXAMPLE
 
 ** 暗夜死神
+[[https://img.shields.io/badge/成就-成就点75点-ff69b4.svg]]
 - 成功完成一百次暗杀
 #+BEGIN_EXAMPLE
 成功完成一百次暗杀
 #+END_EXAMPLE
 
 ** 阎王索命
+[[https://img.shields.io/badge/成就-成就点175点-ff69b4.svg]]
 - 成功完成三百五十次暗杀
 #+BEGIN_EXAMPLE
 成功完成三百五十次暗杀
 #+END_EXAMPLE
 
 ** 连环杀劫
+[[https://img.shields.io/badge/成就-成就点25点-ff69b4.svg]]
 - 暗杀连续成功三次
 #+BEGIN_EXAMPLE
 连续暗杀
 #+END_EXAMPLE
 
 ** 从未失手
+[[https://img.shields.io/badge/成就-成就点75点-ff69b4.svg]]
 - 暗杀连续成功十次
 #+BEGIN_EXAMPLE
 暗杀连续成功十次
 #+END_EXAMPLE
 
 ** 准时准刻
+[[https://img.shields.io/badge/成就-成就点125点-ff69b4.svg]]
 - 暗杀连续成功五十次
 #+BEGIN_EXAMPLE
 暗杀连续成功五十次
 #+END_EXAMPLE
 
 ** 避灾解厄
+[[https://img.shields.io/badge/成就-成就点25点-ff69b4.svg]]
 - 成功躲开一次暗杀
 #+BEGIN_EXAMPLE
 躲开暗杀
 #+END_EXAMPLE
 
 ** 狡兔三窟
+[[https://img.shields.io/badge/成就-成就点50点-ff69b4.svg]]
 - 成功躲开三次暗杀
 #+BEGIN_EXAMPLE
 躲开暗杀
 #+END_EXAMPLE
 
 ** 造化通天
+[[https://img.shields.io/badge/成就-成就点75点-ff69b4.svg]]
 - 成功躲开十次暗杀
 #+BEGIN_EXAMPLE
 躲开暗杀
 #+END_EXAMPLE
 
 ** 上天遁地
+[[https://img.shields.io/badge/成就-成就点125点-ff69b4.svg]]
 - 成功躲开五十次暗杀
 
 ** 尝试捕猎
+[[https://img.shields.io/badge/成就-成就点25点-ff69b4.svg]]
 - 摆放过所有档次的兽夹
 #+BEGIN_EXAMPLE
 初级兽夹
@@ -222,30 +259,35 @@
 #+END_EXAMPLE
 
 ** 锦衣玳瑁
+[[https://img.shields.io/badge/成就-成就点50点-ff69b4.svg]]
 - 捕捉到罕见的猫类“锦衣玳瑁”
 #+BEGIN_EXAMPLE
 锦衣玳瑁
 #+END_EXAMPLE
 
 ** 牧野茕茕
+[[https://img.shields.io/badge/成就-成就点50点-ff69b4.svg]]
 - 捕捉到罕见的兔类“牧野茕茕”
 #+BEGIN_EXAMPLE
 牧野荦荦
 #+END_EXAMPLE
 
 ** 百漠青犴
+[[https://img.shields.io/badge/成就-成就点50点-ff69b4.svg]]
 - 捕捉到罕见的犬类“百漠青犴”
 #+BEGIN_EXAMPLE
 百漠青犴
 #+END_EXAMPLE
 
 ** 饮冰飞芒
+[[https://img.shields.io/badge/成就-成就点50点-ff69b4.svg]]
 - 捕捉到罕见的貂类“饮冰飞芒”
 #+BEGIN_EXAMPLE
 饮冰飞芒
 #+END_EXAMPLE
 
 ** 奇珍异兽
+[[https://img.shields.io/badge/成就-成就点75点-ff69b4.svg]]
 - 捕捉到四种罕见动物
 #+BEGIN_EXAMPLE
 锦衣玳瑁
@@ -255,219 +297,259 @@
 #+END_EXAMPLE
 
 ** 丰富多彩
+[[https://img.shields.io/badge/成就-成就点25点-ff69b4.svg]]
 - 完成5个任意身份日常
 #+BEGIN_EXAMPLE
 5个身份日常
 #+END_EXAMPLE
 
 ** 繁育后代
+[[https://img.shields.io/badge/成就-成就点25点-ff69b4.svg]]
 - 成功繁殖动物
 #+BEGIN_EXAMPLE
 繁殖动物
 #+END_EXAMPLE
 
 ** 好事成双
+[[https://img.shields.io/badge/成就-成就点50点-ff69b4.svg]]
 - 成功暴击繁殖动物
 #+BEGIN_EXAMPLE
 动物暴击
 #+END_EXAMPLE
 
 ** 幼年伴侣
+[[https://img.shields.io/badge/成就-成就点25点-ff69b4.svg]]
 - 幼年动物伴侣，萌萌哒！
 #+BEGIN_EXAMPLE
 幼年动物
 #+END_EXAMPLE
 
 ** 成年伴侣
+[[https://img.shields.io/badge/成就-成就点25点-ff69b4.svg]]
 - 小动物长大了，萌萌哒！
 #+BEGIN_EXAMPLE
 成年动物
 #+END_EXAMPLE
 
 ** 老年伴侣
+[[https://img.shields.io/badge/成就-成就点25点-ff69b4.svg]]
 - 小动物已经不小了，还是萌萌哒！
 #+BEGIN_EXAMPLE
 老年动物
 #+END_EXAMPLE
 
 ** 一生陪伴
+[[https://img.shields.io/badge/成就-成就点25点-ff69b4.svg]]
 - 天下无不散的宴席，愿再相逢时你我们还能认出彼此
 #+BEGIN_EXAMPLE
 动物死亡
 #+END_EXAMPLE
 
 ** 灵光一闪
+[[https://img.shields.io/badge/成就-成就点25点-ff69b4.svg]]
 - 所拥有的动物学会一个新技能
 #+BEGIN_EXAMPLE
 动物学会技能
 #+END_EXAMPLE
 
 ** 聪明伶俐
+[[https://img.shields.io/badge/成就-成就点25点-ff69b4.svg]]
 - 拥有一只2技能的小宠物
 #+BEGIN_EXAMPLE
 2技能动物
 #+END_EXAMPLE
 
 ** 机灵鬼
+[[https://img.shields.io/badge/成就-成就点25点-ff69b4.svg]]
 - 拥有一只3技能的小宠物
 #+BEGIN_EXAMPLE
 3技能动物
 #+END_EXAMPLE
 
 ** 全能伙伴
+[[https://img.shields.io/badge/成就-成就点25点-ff69b4.svg]]
 - 拥有一只4技能的小宠物
 #+BEGIN_EXAMPLE
 4技能动物
 #+END_EXAMPLE
 
 ** 箭术过人
+[[https://img.shields.io/badge/成就-成就点25点-ff69b4.svg]]
 - 成功在骑射状态下杀死一只动物
 #+BEGIN_EXAMPLE
 一次骑射
 #+END_EXAMPLE
 
 ** 精准无匹
+[[https://img.shields.io/badge/成就-成就点50点-ff69b4.svg]]
 - 成功在骑射状态下杀死十只动物
 
 ** 沉迷狩猎
+[[https://img.shields.io/badge/成就-成就点75点-ff69b4.svg]]
 - 成功在骑射状态下杀死一百只动物
 
 ** 荒野猎人
+[[https://img.shields.io/badge/成就-成就点125点-ff69b4.svg]]
 - 成功在骑射状态下杀死一千只动物
 
 ** 怜花宝藏
+[[https://img.shields.io/badge/成就-成就点25点-ff69b4.svg]]
 - 在发掘怜花宝藏的过程中挖到一次银宝箱
 #+BEGIN_EXAMPLE
 怜花宝藏
 #+END_EXAMPLE
 
 ** 怜花密宝
+[[https://img.shields.io/badge/成就-成就点50点-ff69b4.svg]]
 - 在发掘怜花宝藏的过程中挖到一次金宝箱
 #+BEGIN_EXAMPLE
 怜花密宝
 #+END_EXAMPLE
 
 ** 镖行仁义
+[[https://img.shields.io/badge/成就-成就点25点-ff69b4.svg]]
 - 成功运送过一次仁义镖或威武镖
 #+BEGIN_EXAMPLE
 镖行仁义
 #+END_EXAMPLE
 
 ** 艺高胆大
+[[https://img.shields.io/badge/成就-成就点25点-ff69b4.svg]]
 - 成功运送过五次仁义镖或威武镖
 #+BEGIN_EXAMPLE
 5次仁义镖
 #+END_EXAMPLE
 
 ** 勤勤恳恳
+[[https://img.shields.io/badge/成就-成就点50点-ff69b4.svg]]
 - 成功运送过二十次仁义镖或威武镖
 
 ** 生计所迫
+[[https://img.shields.io/badge/成就-成就点75点-ff69b4.svg]]
 - 成功运送过五十次仁义镖或威武镖
 
 ** 专业镖师
+[[https://img.shields.io/badge/成就-成就点100点-ff69b4.svg]]
 - 成功运送过五百次仁义镖或威武镖
 
 ** 镖行天下
+[[https://img.shields.io/badge/成就-成就点25点-ff69b4.svg]]
 - 成功运送过一次天下镖
 #+BEGIN_EXAMPLE
 镖行天下
 #+END_EXAMPLE
 
 ** 一次不落
+[[https://img.shields.io/badge/成就-成就点125点-ff69b4.svg]]
 - 成功运送过三十五次天下镖
 
 ** 拦路横财
+[[https://img.shields.io/badge/成就-成就点25点-ff69b4.svg]]
 - 成功打劫一趟威武镖
 #+BEGIN_EXAMPLE
 拦路横财
 #+END_EXAMPLE
 
 ** 顶风作案
+[[https://img.shields.io/badge/成就-成就点25点-ff69b4.svg]]
 - 成功打劫一趟天下镖
 #+BEGIN_EXAMPLE
 顶风作案
 #+END_EXAMPLE
 
 ** 风雅
+[[https://img.shields.io/badge/成就-成就点25点-ff69b4.svg]]
 - 收藏1处墨宝
 #+BEGIN_EXAMPLE
 风雅
 #+END_EXAMPLE
 
 ** 九华墨宝
+[[https://img.shields.io/badge/成就-成就点25点-ff69b4.svg]]
 - 收藏1条九华的墨宝
 #+BEGIN_EXAMPLE
 九华墨宝
 #+END_EXAMPLE
 
 ** 东越墨宝
+[[https://img.shields.io/badge/成就-成就点25点-ff69b4.svg]]
 - 收藏1条东越的墨宝
 #+BEGIN_EXAMPLE
 东越墨宝
 #+END_EXAMPLE
 
 ** 荆湖墨宝
+[[https://img.shields.io/badge/成就-成就点25点-ff69b4.svg]]
 - 收藏1条荆湖的墨宝
 #+BEGIN_EXAMPLE
 荆湖墨宝
 #+END_EXAMPLE
 
 ** 燕云墨宝
+[[https://img.shields.io/badge/成就-成就点25点-ff69b4.svg]]
 - 收藏1条燕云的墨宝
 #+BEGIN_EXAMPLE
 燕云墨宝
 #+END_EXAMPLE
 
 ** 巴蜀墨宝
+[[https://img.shields.io/badge/成就-成就点25点-ff69b4.svg]]
 - 收藏1条巴蜀的墨宝
 #+BEGIN_EXAMPLE
 巴蜀墨宝
 #+END_EXAMPLE
 
 ** 云滇墨宝
+[[https://img.shields.io/badge/成就-成就点25点-ff69b4.svg]]
 - 收藏1条云滇的墨宝
 #+BEGIN_EXAMPLE
 云滇墨宝
 #+END_EXAMPLE
 
 ** 真武墨宝
+[[https://img.shields.io/badge/成就-成就点25点-ff69b4.svg]]
 - 收藏1条襄州的墨宝
 #+BEGIN_EXAMPLE
 真武墨宝
 #+END_EXAMPLE
 
 ** 秦川墨宝
+[[https://img.shields.io/badge/成就-成就点25点-ff69b4.svg]]
 - 收藏1条秦川的墨宝
 #+BEGIN_EXAMPLE
 秦川墨宝
 #+END_EXAMPLE
 
 ** 杭州墨宝
+[[https://img.shields.io/badge/成就-成就点25点-ff69b4.svg]]
 - 收藏1条杭州的墨宝
 #+BEGIN_EXAMPLE
 杭州墨宝
 #+END_EXAMPLE
 
 ** 江南墨宝
+[[https://img.shields.io/badge/成就-成就点25点-ff69b4.svg]]
 - 收藏1条江南的墨宝
 #+BEGIN_EXAMPLE
 江南墨宝
 #+END_EXAMPLE
 
 ** 开封墨宝
+[[https://img.shields.io/badge/成就-成就点25点-ff69b4.svg]]
 - 收藏1条开封的墨宝
 #+BEGIN_EXAMPLE
 开封墨宝
 #+END_EXAMPLE
 
 ** 徐海墨宝
+[[https://img.shields.io/badge/成就-成就点25点-ff69b4.svg]]
 - 收藏1条徐海的墨宝
 #+BEGIN_EXAMPLE
 徐海墨宝
 #+END_EXAMPLE
 
 ** 文动天下
+[[https://img.shields.io/badge/成就-成就点75点-ff69b4.svg]]
 - 收集过以下地点的墨宝
 #+BEGIN_EXAMPLE
 九华墨宝
@@ -485,312 +567,366 @@
 #+END_EXAMPLE
 
 ** 博学
+[[https://img.shields.io/badge/成就-成就点25点-ff69b4.svg]]
 - 收藏墨宝达到35条
 #+BEGIN_EXAMPLE
 博学
 #+END_EXAMPLE
 
 ** 广闻
+[[https://img.shields.io/badge/成就-成就点50点-ff69b4.svg]]
 - 收藏墨宝达到75条
 #+BEGIN_EXAMPLE
 广闻
 #+END_EXAMPLE
 
 ** 智渊
+[[https://img.shields.io/badge/成就-成就点75点-ff69b4.svg]]
 - 收藏墨宝达到110条
 #+BEGIN_EXAMPLE
 智渊
 #+END_EXAMPLE
 
 ** 有问有答
+[[https://img.shields.io/badge/成就-成就点25点-ff69b4.svg]]
 - 成功完成一次答题
 #+BEGIN_EXAMPLE
 成功完成一次答题
 #+END_EXAMPLE
 
 ** 博闻强识
+[[https://img.shields.io/badge/成就-成就点25点-ff69b4.svg]]
 - 成功完成五次答题
 #+BEGIN_EXAMPLE
 成功完成五次答题
 #+END_EXAMPLE
 
 ** 妙笔生花
+[[https://img.shields.io/badge/成就-成就点50点-ff69b4.svg]]
 - 成功完成三十五次答题
 #+BEGIN_EXAMPLE
 成功完成三十五次答题
 #+END_EXAMPLE
 
 ** 文采出众
+[[https://img.shields.io/badge/成就-成就点75点-ff69b4.svg]]
 - 成功完成一百次答题
 
 ** 智谋过人
+[[https://img.shields.io/badge/成就-成就点100点-ff69b4.svg]]
 - 成功完成三百次答题
 
 ** 替天行道
+[[https://img.shields.io/badge/成就-成就点25点-ff69b4.svg]]
 - 成功完成一轮缉捕
 #+BEGIN_EXAMPLE
 善恶有报
 #+END_EXAMPLE
 
 ** 天网恢恢
+[[https://img.shields.io/badge/成就-成就点25点-ff69b4.svg]]
 - 成功完成五轮缉捕
 #+BEGIN_EXAMPLE
 成功完成五轮缉捕
 #+END_EXAMPLE
 
 ** 善恶有报
+[[https://img.shields.io/badge/成就-成就点25点-ff69b4.svg]]
 - 成功完成二十轮缉捕
 #+BEGIN_EXAMPLE
 成功完成二十轮缉捕
 #+END_EXAMPLE
 
 ** 好运惊人
+[[https://img.shields.io/badge/成就-成就点125点-ff69b4.svg]]
 - 一次射利中获取金奖
 #+BEGIN_EXAMPLE
 好运惊人
 #+END_EXAMPLE
 
 ** 手气尚可
+[[https://img.shields.io/badge/成就-成就点125点-ff69b4.svg]]
 - 一次射利中获取银奖
 #+BEGIN_EXAMPLE
 手气尚可
 #+END_EXAMPLE
 
 ** 聊胜于无
+[[https://img.shields.io/badge/成就-成就点125点-ff69b4.svg]]
 - 一次射利中获取铜奖
 #+BEGIN_EXAMPLE
 聊胜于无
 #+END_EXAMPLE
 
 ** 小奖即安
+[[https://img.shields.io/badge/成就-成就点175点-ff69b4.svg]]
 - 累计中到铜奖十次
 #+BEGIN_EXAMPLE
 铜奖10次
 #+END_EXAMPLE
 
 ** 人品过人
+[[https://img.shields.io/badge/成就-成就点225点-ff69b4.svg]]
 - 累计中到银奖十次
 #+BEGIN_EXAMPLE
 银奖10次
 #+END_EXAMPLE
 
 ** 上天宠儿
+[[https://img.shields.io/badge/成就-成就点275点-ff69b4.svg]]
 - 累计中到金奖十次
 #+BEGIN_EXAMPLE
 金奖10次
 #+END_EXAMPLE
 
 ** 饮血
+[[https://img.shields.io/badge/成就-成就点25点-ff69b4.svg]]
 - 暗杀过NPC
 #+BEGIN_EXAMPLE
 暗杀NPC
 #+END_EXAMPLE
 
 ** 喋血
+[[https://img.shields.io/badge/成就-成就点50点-ff69b4.svg]]
 - 暗杀过10次NPC
 #+BEGIN_EXAMPLE
 暗杀NPC
 #+END_EXAMPLE
 
 ** 嗜血
+[[https://img.shields.io/badge/成就-成就点75点-ff69b4.svg]]
 - 暗杀过50次NPC
 #+BEGIN_EXAMPLE
 暗杀NPC
 #+END_EXAMPLE
 
 ** 渴血
+[[https://img.shields.io/badge/成就-成就点100点-ff69b4.svg]]
 - 暗杀过100次NPC
 
 ** 飞血
+[[https://img.shields.io/badge/成就-成就点125点-ff69b4.svg]]
 - 暗杀过500次NPC
 
 ** 挺身而出
+[[https://img.shields.io/badge/成就-成就点25点-ff69b4.svg]]
 - 用“抓捕”技能抓捕1个劫匪
 #+BEGIN_EXAMPLE
 击败劫匪
 #+END_EXAMPLE
 
 ** 光明磊落
+[[https://img.shields.io/badge/成就-成就点25点-ff69b4.svg]]
 - 用“抓捕”技能抓捕5个劫匪
 #+BEGIN_EXAMPLE
 击败劫匪
 #+END_EXAMPLE
 
 ** 嫉恶如仇
+[[https://img.shields.io/badge/成就-成就点50点-ff69b4.svg]]
 - 用“抓捕”技能抓捕10个劫匪
 #+BEGIN_EXAMPLE
 击败劫匪
 #+END_EXAMPLE
 
 ** 一马当先
+[[https://img.shields.io/badge/成就-成就点50点-ff69b4.svg]]
 - 用“抓捕”技能抓捕20个劫匪
 #+BEGIN_EXAMPLE
 击败劫匪
 #+END_EXAMPLE
 
 ** 主持正义
+[[https://img.shields.io/badge/成就-成就点75点-ff69b4.svg]]
 - 用“抓捕”技能抓捕50个劫匪
 #+BEGIN_EXAMPLE
 击败劫匪
 #+END_EXAMPLE
 
 ** 寻觅宝藏·二
+[[https://img.shields.io/badge/成就-成就点75点-ff69b4.svg]]
 - 成功完成十次挖宝
 #+BEGIN_EXAMPLE
 挖宝
 #+END_EXAMPLE
 
 ** 寻觅宝藏·三
+[[https://img.shields.io/badge/成就-成就点125点-ff69b4.svg]]
 - 成功完成三十次挖宝
 #+BEGIN_EXAMPLE
 挖宝
 #+END_EXAMPLE
 
 ** 寻觅宝藏·四
+[[https://img.shields.io/badge/成就-成就点175点-ff69b4.svg]]
 - 成功完成五十次挖宝
 #+BEGIN_EXAMPLE
 挖宝
 #+END_EXAMPLE
 
 ** 寻觅宝藏·五
+[[https://img.shields.io/badge/成就-成就点220点-ff69b4.svg]]
 - 成功完成两百次挖宝
 #+BEGIN_EXAMPLE
 挖宝
 #+END_EXAMPLE
 
 ** 暗夜死神·二
+[[https://img.shields.io/badge/成就-成就点75点-ff69b4.svg]]
 - 成功完成两百次暗杀
 #+BEGIN_EXAMPLE
 成功完成两百次暗杀
 #+END_EXAMPLE
 
 ** 暗夜死神·三
+[[https://img.shields.io/badge/成就-成就点125点-ff69b4.svg]]
 - 成功完成三百次暗杀
 #+BEGIN_EXAMPLE
 成功完成三百次暗杀
 #+END_EXAMPLE
 
 ** 暗夜死神·四
+[[https://img.shields.io/badge/成就-成就点150点-ff69b4.svg]]
 - 成功完成四百次暗杀
 #+BEGIN_EXAMPLE
 成功完成四百次暗杀
 #+END_EXAMPLE
 
 ** 暗夜死神·五
+[[https://img.shields.io/badge/成就-成就点225点-ff69b4.svg]]
 - 成功完成五百次暗杀
 #+BEGIN_EXAMPLE
 成功完成五百次暗杀
 #+END_EXAMPLE
 
 ** 敬业镖师
+[[https://img.shields.io/badge/成就-成就点200点-ff69b4.svg]]
 - 成功运送过七百五十次仁义镖或威武镖
 #+BEGIN_EXAMPLE
 成功运送过七百五十次仁义镖或威武镖
 #+END_EXAMPLE
 
 ** 祖传镖师
+[[https://img.shields.io/badge/成就-成就点250点-ff69b4.svg]]
 - 成功运送过一千次仁义镖或威武镖
 #+BEGIN_EXAMPLE
 成功运送过一千次仁义镖或威武镖
 #+END_EXAMPLE
 
 ** 劫道壮士
+[[https://img.shields.io/badge/成就-成就点75点-ff69b4.svg]]
 - 成功打劫十趟威武镖
 #+BEGIN_EXAMPLE
 成功打劫十趟威武镖
 #+END_EXAMPLE
 
 ** 惊天大盗
+[[https://img.shields.io/badge/成就-成就点125点-ff69b4.svg]]
 - 成功打劫二十趟威武镖
 #+BEGIN_EXAMPLE
 成功打劫二十趟威武镖
 #+END_EXAMPLE
 
 ** 胆大包天
+[[https://img.shields.io/badge/成就-成就点175点-ff69b4.svg]]
 - 成功打劫五十趟威武镖
 #+BEGIN_EXAMPLE
 成功打劫五十趟威武镖
 #+END_EXAMPLE
 
 ** 疯狂作案
+[[https://img.shields.io/badge/成就-成就点75点-ff69b4.svg]]
 - 成功打劫三趟天下镖
 #+BEGIN_EXAMPLE
 成功打劫三趟天下镖
 #+END_EXAMPLE
 
 ** 血案连连
+[[https://img.shields.io/badge/成就-成就点150点-ff69b4.svg]]
 - 成功打劫五趟天下镖
 #+BEGIN_EXAMPLE
 成功打劫五趟天下镖
 #+END_EXAMPLE
 
 ** 恶名远昭
+[[https://img.shields.io/badge/成就-成就点250点-ff69b4.svg]]
 - 成功打劫十趟天下镖
 #+BEGIN_EXAMPLE
 成功打劫十趟天下镖
 #+END_EXAMPLE
 
 ** 善恶有报·二
+[[https://img.shields.io/badge/成就-成就点50点-ff69b4.svg]]
 - 成功完成五十轮缉捕
 #+BEGIN_EXAMPLE
 成功完成五十轮缉捕
 #+END_EXAMPLE
 
 ** 善恶有报·三
+[[https://img.shields.io/badge/成就-成就点75点-ff69b4.svg]]
 - 成功完成八十轮缉捕
 #+BEGIN_EXAMPLE
 成功完成八十轮缉捕
 #+END_EXAMPLE
 
 ** 善恶有报·四
+[[https://img.shields.io/badge/成就-成就点100点-ff69b4.svg]]
 - 成功完成一百轮缉捕
 #+BEGIN_EXAMPLE
 成功完成一百轮缉捕
 #+END_EXAMPLE
 
 ** 善恶有报·五
+[[https://img.shields.io/badge/成就-成就点125点-ff69b4.svg]]
 - 成功完成一百五十轮缉捕
 #+BEGIN_EXAMPLE
 成功完成一百五十轮缉捕
 #+END_EXAMPLE
 
 ** 出手好彩
+[[https://img.shields.io/badge/成就-成就点125点-ff69b4.svg]]
 - 二十次射利中获得铜奖
 #+BEGIN_EXAMPLE
 二十次射利中获得铜奖
 #+END_EXAMPLE
 
 ** 华夏天赋
+[[https://img.shields.io/badge/成就-成就点150点-ff69b4.svg]]
 - 照料十次植物
 #+BEGIN_EXAMPLE
 照料十次植物
 #+END_EXAMPLE
 
 ** 华夏天赋·二
+[[https://img.shields.io/badge/成就-成就点175点-ff69b4.svg]]
 - 照料二十五次植物
 #+BEGIN_EXAMPLE
 照料二十五次植物
 #+END_EXAMPLE
 
 ** 华夏天赋·三
+[[https://img.shields.io/badge/成就-成就点225点-ff69b4.svg]]
 - 照料五十次植物
 #+BEGIN_EXAMPLE
 照料五十次植物
 #+END_EXAMPLE
 
 ** 丰收喜悦
+[[https://img.shields.io/badge/成就-成就点150点-ff69b4.svg]]
 - 采摘五次植物
 #+BEGIN_EXAMPLE
 采摘五次植物
 #+END_EXAMPLE
 
 ** 丰收喜悦·二
+[[https://img.shields.io/badge/成就-成就点175点-ff69b4.svg]]
 - 采摘十五次植物
 #+BEGIN_EXAMPLE
 采摘十五次植物
 #+END_EXAMPLE
 
 ** 丰收喜悦·三
+[[https://img.shields.io/badge/成就-成就点225点-ff69b4.svg]]
 - 采摘三十五次植物
 #+BEGIN_EXAMPLE
 采摘三十五次植物
@@ -798,54 +934,63 @@
 
 * 赛马
 ** 赛马大赛·连击壹
+[[https://img.shields.io/badge/成就-成就点25点-ff69b4.svg]]
 - 在赛马大赛中连风数达到20
 #+BEGIN_EXAMPLE
 连击数达到20
 #+END_EXAMPLE
 
 ** 赛马大赛·连击贰
+[[https://img.shields.io/badge/成就-成就点50点-ff69b4.svg]]
 - 在赛马大赛中连风数达到50
 #+BEGIN_EXAMPLE
 连击数达到50
 #+END_EXAMPLE
 
 ** 赛马大赛·连击叁
+[[https://img.shields.io/badge/成就-成就点75点-ff69b4.svg]]
 - 在赛马大赛中连风数达到80
 #+BEGIN_EXAMPLE
 连击数达到80
 #+END_EXAMPLE
 
 ** 赛马大赛·名次壹
+[[https://img.shields.io/badge/成就-成就点25点-ff69b4.svg]]
 - 在赛马大赛中获得前十名
 #+BEGIN_EXAMPLE
 赛马前十名
 #+END_EXAMPLE
 
 ** 赛马大赛·名次贰
+[[https://img.shields.io/badge/成就-成就点50点-ff69b4.svg]]
 - 在赛马大赛中获得前五名
 #+BEGIN_EXAMPLE
 赛马前五名
 #+END_EXAMPLE
 
 ** 赛马大赛·名次叁
+[[https://img.shields.io/badge/成就-成就点75点-ff69b4.svg]]
 - 在赛马大赛中获得第一名
 #+BEGIN_EXAMPLE
 赛马第一名
 #+END_EXAMPLE
 
 ** 赛马大赛·时间壹
+[[https://img.shields.io/badge/成就-成就点25点-ff69b4.svg]]
 - 8分钟内完成赛马大赛
 #+BEGIN_EXAMPLE
 8分钟内完成赛马
 #+END_EXAMPLE
 
 ** 赛马大赛·时间贰
+[[https://img.shields.io/badge/成就-成就点50点-ff69b4.svg]]
 - 6分钟内完成赛马大赛
 #+BEGIN_EXAMPLE
 6分钟内完成赛马
 #+END_EXAMPLE
 
 ** 赛马大赛·时间叁
+[[https://img.shields.io/badge/成就-成就点75点-ff69b4.svg]]
 - 4分30秒内完成赛马大赛
 #+BEGIN_EXAMPLE
 4分30秒内完成赛马

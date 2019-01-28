@@ -3,96 +3,112 @@
 
 * 装备
 ** 初识良品
+[[https://img.shields.io/badge/成就-成就点25点-ff69b4.svg]]
 - 获得任意部位的良品（绿色）装备
 #+BEGIN_EXAMPLE
 绿装
 #+END_EXAMPLE
 
 ** 初识上品
+[[https://img.shields.io/badge/成就-成就点25点-ff69b4.svg]]
 - 获得任意部位的上品（蓝色）装备
 #+BEGIN_EXAMPLE
 蓝装
 #+END_EXAMPLE
 
 ** 初识精品·主武器
+[[https://img.shields.io/badge/成就-成就点25点-ff69b4.svg]]
 - 穿着精品（紫色）主武器
 #+BEGIN_EXAMPLE
 紫装
 #+END_EXAMPLE
 
 ** 初识精品·辅武器
+[[https://img.shields.io/badge/成就-成就点25点-ff69b4.svg]]
 - 穿着精品（紫色）辅武器
 #+BEGIN_EXAMPLE
 紫装
 #+END_EXAMPLE
 
 ** 初识精品·暗器
+[[https://img.shields.io/badge/成就-成就点25点-ff69b4.svg]]
 - 穿着精品（紫色）暗器
 #+BEGIN_EXAMPLE
 紫装
 #+END_EXAMPLE
 
 ** 初识精品·头饰
+[[https://img.shields.io/badge/成就-成就点25点-ff69b4.svg]]
 - 穿着精品（紫色）头饰
 #+BEGIN_EXAMPLE
 紫装
 #+END_EXAMPLE
 
 ** 初识精品·上衣
+[[https://img.shields.io/badge/成就-成就点25点-ff69b4.svg]]
 - 穿着精品（紫色）上衣
 #+BEGIN_EXAMPLE
 紫装
 #+END_EXAMPLE
 
 ** 初识精品·腰饰
+[[https://img.shields.io/badge/成就-成就点25点-ff69b4.svg]]
 - 穿着精品（紫色）腰饰
 #+BEGIN_EXAMPLE
 紫装
 #+END_EXAMPLE
 
 ** 初识精品·手腕
+[[https://img.shields.io/badge/成就-成就点25点-ff69b4.svg]]
 - 穿着精品（紫色）手腕
 #+BEGIN_EXAMPLE
 紫装
 #+END_EXAMPLE
 
 ** 初识精品·内衬
+[[https://img.shields.io/badge/成就-成就点25点-ff69b4.svg]]
 - 穿着精品（紫色）内衬
 #+BEGIN_EXAMPLE
 紫装
 #+END_EXAMPLE
 
 ** 初识精品·下装
+[[https://img.shields.io/badge/成就-成就点25点-ff69b4.svg]]
 - 穿着精品（紫色）下装
 #+BEGIN_EXAMPLE
 紫装
 #+END_EXAMPLE
 
 ** 初识精品·项链
+[[https://img.shields.io/badge/成就-成就点25点-ff69b4.svg]]
 - 穿着精品（紫色）项链
 #+BEGIN_EXAMPLE
 紫装
 #+END_EXAMPLE
 
 ** 初识精品·戒指壹
+[[https://img.shields.io/badge/成就-成就点25点-ff69b4.svg]]
 - 穿着精品（紫色）手指戒指·壹
 #+BEGIN_EXAMPLE
 紫装
 #+END_EXAMPLE
 
 ** 初识精品·戒指贰
+[[https://img.shields.io/badge/成就-成就点25点-ff69b4.svg]]
 - 穿着精品（紫色）手指戒指·贰
 #+BEGIN_EXAMPLE
 紫装
 #+END_EXAMPLE
 
 ** 初识精品·手镯
+[[https://img.shields.io/badge/成就-成就点25点-ff69b4.svg]]
 - 穿着精品（紫色）手镯
 #+BEGIN_EXAMPLE
 紫装
 #+END_EXAMPLE
 
 ** 全身良品
+[[https://img.shields.io/badge/成就-成就点25点-ff69b4.svg]]
 - 全身穿着良品（绿色）装备
 #+BEGIN_EXAMPLE
 主武器
@@ -110,6 +126,7 @@
 #+END_EXAMPLE
 
 ** 全身上品
+[[https://img.shields.io/badge/成就-成就点25点-ff69b4.svg]]
 - 全身穿着上品（蓝色）装备
 #+BEGIN_EXAMPLE
 主武器
@@ -127,6 +144,7 @@
 #+END_EXAMPLE
 
 ** 全身精品
+[[https://img.shields.io/badge/成就-成就点75点-ff69b4.svg]]
 - 全身穿着精品（紫色）装备
 #+BEGIN_EXAMPLE
 主武器
@@ -144,6 +162,7 @@
 #+END_EXAMPLE
 
 ** 神行
+[[https://img.shields.io/badge/成就-成就点50点-ff69b4.svg]]
 - 装备优秀的神驹作为坐骑
 #+BEGIN_EXAMPLE
 乌云团
@@ -151,84 +170,98 @@
 #+END_EXAMPLE
 
 ** 不凡神品·主武器
+[[https://img.shields.io/badge/成就-成就点25点-ff69b4.svg]]
 - 穿着神品（金色）主武器
 #+BEGIN_EXAMPLE
 金装
 #+END_EXAMPLE
 
 ** 不凡神品·辅武器
+[[https://img.shields.io/badge/成就-成就点25点-ff69b4.svg]]
 - 穿着神品（金色）辅武器
 #+BEGIN_EXAMPLE
 金装
 #+END_EXAMPLE
 
 ** 不凡神品·暗器
+[[https://img.shields.io/badge/成就-成就点25点-ff69b4.svg]]
 - 穿着神品（金色）暗器
 #+BEGIN_EXAMPLE
 金装
 #+END_EXAMPLE
 
 ** 不凡神品·头饰
+[[https://img.shields.io/badge/成就-成就点25点-ff69b4.svg]]
 - 穿着神品（金色）头饰
 #+BEGIN_EXAMPLE
 金装
 #+END_EXAMPLE
 
 ** 不凡神品·上衣
+[[https://img.shields.io/badge/成就-成就点25点-ff69b4.svg]]
 - 穿着神品（金色）上衣
 #+BEGIN_EXAMPLE
 金装
 #+END_EXAMPLE
 
 ** 不凡神品·腰饰
+[[https://img.shields.io/badge/成就-成就点25点-ff69b4.svg]]
 - 穿着神品（金色）腰饰
 #+BEGIN_EXAMPLE
 金装
 #+END_EXAMPLE
 
 ** 不凡神品·手腕
+[[https://img.shields.io/badge/成就-成就点25点-ff69b4.svg]]
 - 穿着神品（金色）手腕
 #+BEGIN_EXAMPLE
 金装
 #+END_EXAMPLE
 
 ** 不凡神品·内衬
+[[https://img.shields.io/badge/成就-成就点25点-ff69b4.svg]]
 - 穿着神品（金色）内衬
 #+BEGIN_EXAMPLE
 金装
 #+END_EXAMPLE
 
 ** 不凡神品·下装
+[[https://img.shields.io/badge/成就-成就点25点-ff69b4.svg]]
 - 穿着神品（金色）下装
 #+BEGIN_EXAMPLE
 金装
 #+END_EXAMPLE
 
 ** 不凡神品·项链
+[[https://img.shields.io/badge/成就-成就点25点-ff69b4.svg]]
 - 穿着神品（金色）项链
 #+BEGIN_EXAMPLE
 金装
 #+END_EXAMPLE
 
 ** 不凡神品·戒指壹
+[[https://img.shields.io/badge/成就-成就点25点-ff69b4.svg]]
 - 穿着神品（金色）手指戒指·壹
 #+BEGIN_EXAMPLE
 金装
 #+END_EXAMPLE
 
 ** 不凡神品·戒指贰
+[[https://img.shields.io/badge/成就-成就点25点-ff69b4.svg]]
 - 穿着神品（金色）手指戒指·贰
 #+BEGIN_EXAMPLE
 金装
 #+END_EXAMPLE
 
 ** 不凡神品·手镯
+[[https://img.shields.io/badge/成就-成就点25点-ff69b4.svg]]
 - 穿着神品（金色）手镯
 #+BEGIN_EXAMPLE
 金装
 #+END_EXAMPLE
 
 ** 全身神品
+[[https://img.shields.io/badge/成就-成就点350点-ff69b4.svg]]
 - 全身装备金色装备
 #+BEGIN_EXAMPLE
 不凡神品·辅武器
@@ -1867,54 +1900,63 @@
 
 * 制造
 ** 分工协作
+[[https://img.shields.io/badge/成就-成就点25点-ff69b4.svg]]
 - 请他人代工完成一件装备
 #+BEGIN_EXAMPLE
 分工协作
 #+END_EXAMPLE
 
 ** 协作分工
+[[https://img.shields.io/badge/成就-成就点25点-ff69b4.svg]]
 - 帮助他人代工完成一件装备
 #+BEGIN_EXAMPLE
 协作分工
 #+END_EXAMPLE
 
 ** 有求必应
+[[https://img.shields.io/badge/成就-成就点25点-ff69b4.svg]]
 - 帮助他人代工完成十件装备
 #+BEGIN_EXAMPLE
 有求必应
 #+END_EXAMPLE
 
 ** 全能制造！
+[[https://img.shields.io/badge/成就-成就点75点-ff69b4.svg]]
 - 帮助他人代工完成一百五十件装备
 #+BEGIN_EXAMPLE
 全能制造！
 #+END_EXAMPLE
 
 ** 利刃出鞘
+[[https://img.shields.io/badge/成就-成就点25点-ff69b4.svg]]
 - 曾经在制造的过程中遇到过3种类型的附加属性
 #+BEGIN_EXAMPLE
 利刃出鞘
 #+END_EXAMPLE
 
 ** 能工巧匠
+[[https://img.shields.io/badge/成就-成就点25点-ff69b4.svg]]
 - 曾经在制造过程中遇到过5种类型的附加属性
 #+BEGIN_EXAMPLE
 能工巧匠
 #+END_EXAMPLE
 
 ** 人靠衣装
+[[https://img.shields.io/badge/成就-成就点25点-ff69b4.svg]]
 - 收集十条附加属性
 #+BEGIN_EXAMPLE
 附加属性
 #+END_EXAMPLE
 
 ** 神器天降
+[[https://img.shields.io/badge/成就-成就点125点-ff69b4.svg]]
 - 产出最高品质装备
 #+BEGIN_EXAMPLE
 神器天降
 #+END_EXAMPLE
 
 ** 定制装备
+[[https://img.shields.io/badge/成就-成就点125点-ff69b4.svg]]
 - 燕南飞有蔷薇剑，我也有定制装备（打出一件装备特技）
 #+BEGIN_EXAMPLE
 打出一件装备特技
@@ -1922,36 +1964,42 @@
 
 * 衣柜
 ** 多彩
+[[https://img.shields.io/badge/成就-成就点25点-ff69b4.svg]]
 - 收集5件外装进入衣柜
 #+BEGIN_EXAMPLE
 外装
 #+END_EXAMPLE
 
 ** 斑斓
+[[https://img.shields.io/badge/成就-成就点25点-ff69b4.svg]]
 - 收集25件外装进入衣柜
 #+BEGIN_EXAMPLE
 外装
 #+END_EXAMPLE
 
 ** 霓虹
+[[https://img.shields.io/badge/成就-成就点25点-ff69b4.svg]]
 - 收集50件外装进入衣柜
 #+BEGIN_EXAMPLE
 外装
 #+END_EXAMPLE
 
 ** 绚烂
+[[https://img.shields.io/badge/成就-成就点75点-ff69b4.svg]]
 - 收集100件外装进入衣柜
 #+BEGIN_EXAMPLE
 外装
 #+END_EXAMPLE
 
 ** 极致
+[[https://img.shields.io/badge/成就-成就点125点-ff69b4.svg]]
 - 收集150件外装进入衣柜
 #+BEGIN_EXAMPLE
 外装
 #+END_EXAMPLE
 
 ** 圣绣
+[[https://img.shields.io/badge/成就-成就点125点-ff69b4.svg]]
 - 集齐“圣绣”系列外装。
 #+BEGIN_EXAMPLE
 圣绣·无缺
@@ -1963,6 +2011,7 @@
 #+END_EXAMPLE
 
 ** 心王
+[[https://img.shields.io/badge/成就-成就点125点-ff69b4.svg]]
 - 集齐“心王”系列外装。
 #+BEGIN_EXAMPLE
 心王·逆鳞
@@ -1972,6 +2021,7 @@
 #+END_EXAMPLE
 
 ** 天衣无缝
+[[https://img.shields.io/badge/成就-成就点125点-ff69b4.svg]]
 - 集齐“圣绣”系列与“心王”系列外装。
 #+BEGIN_EXAMPLE
 圣绣
@@ -1979,6 +2029,7 @@
 #+END_EXAMPLE
 
 ** 圣绣·无缺
+[[https://img.shields.io/badge/成就-成就点75点-ff69b4.svg]]
 - 获取“圣绣·无缺”外装。
 #+BEGIN_EXAMPLE
 圣绣·无缺冠
@@ -1988,6 +2039,7 @@
 #+END_EXAMPLE
 
 ** 圣绣·素问
+[[https://img.shields.io/badge/成就-成就点75点-ff69b4.svg]]
 - 获取“圣绣·素问”外装。
 #+BEGIN_EXAMPLE
 圣绣·素问冠
@@ -1997,6 +2049,7 @@
 #+END_EXAMPLE
 
 ** 圣绣·雪宸
+[[https://img.shields.io/badge/成就-成就点75点-ff69b4.svg]]
 - 获取“圣绣·雪宸”外装。
 #+BEGIN_EXAMPLE
 圣绣·雪宸冠
@@ -2006,6 +2059,7 @@
 #+END_EXAMPLE
 
 ** 圣绣·昭华
+[[https://img.shields.io/badge/成就-成就点75点-ff69b4.svg]]
 - 获取“圣绣·昭华”外装。
 #+BEGIN_EXAMPLE
 圣绣·昭华冠
@@ -2015,6 +2069,7 @@
 #+END_EXAMPLE
 
 ** 圣绣·南唐
+[[https://img.shields.io/badge/成就-成就点75点-ff69b4.svg]]
 - 获取“圣绣·南唐”外装。
 #+BEGIN_EXAMPLE
 圣绣·南唐冠
@@ -2024,6 +2079,7 @@
 #+END_EXAMPLE
 
 ** 圣绣·从龙
+[[https://img.shields.io/badge/成就-成就点75点-ff69b4.svg]]
 - 获取“圣绣·从龙”外装。
 #+BEGIN_EXAMPLE
 圣绣·从龙冠
@@ -2033,6 +2089,7 @@
 #+END_EXAMPLE
 
 ** 心王·逆鳞
+[[https://img.shields.io/badge/成就-成就点75点-ff69b4.svg]]
 - 获取“心王·逆鳞”外装。
 #+BEGIN_EXAMPLE
 心王·逆鳞冠
@@ -2042,6 +2099,7 @@
 #+END_EXAMPLE
 
 ** 心王·九耀
+[[https://img.shields.io/badge/成就-成就点75点-ff69b4.svg]]
 - 获取“心王·九曜”外装。
 #+BEGIN_EXAMPLE
 心王·九曜冠
@@ -2051,6 +2109,7 @@
 #+END_EXAMPLE
 
 ** 心王·扶苏
+[[https://img.shields.io/badge/成就-成就点75点-ff69b4.svg]]
 - 获取“心王·扶苏”外装。
 #+BEGIN_EXAMPLE
 心王·扶苏冠
@@ -2060,6 +2119,7 @@
 #+END_EXAMPLE
 
 ** 心王·蝶衣
+[[https://img.shields.io/badge/成就-成就点75点-ff69b4.svg]]
 - 获取“心王·蝶衣”外装。
 #+BEGIN_EXAMPLE
 心王·蝶衣冠
@@ -2069,6 +2129,7 @@
 #+END_EXAMPLE
 
 ** 鹰飞
+[[https://img.shields.io/badge/成就-成就点125点-ff69b4.svg]]
 - 集齐“鹰飞”系列挂件。
 #+BEGIN_EXAMPLE
 鹰飞·咽悲风
@@ -2079,6 +2140,7 @@
 #+END_EXAMPLE
 
 ** 攻玉
+[[https://img.shields.io/badge/成就-成就点125点-ff69b4.svg]]
 - 集齐“攻玉”系列挂件。
 #+BEGIN_EXAMPLE
 攻玉·醉八荒
@@ -2093,6 +2155,7 @@
 #+END_EXAMPLE
 
 ** 点石
+[[https://img.shields.io/badge/成就-成就点125点-ff69b4.svg]]
 - 集齐“点石”系列挂件。
 #+BEGIN_EXAMPLE
 点石·赤鲛肠
@@ -2107,6 +2170,7 @@
 #+END_EXAMPLE
 
 ** 七子
+[[https://img.shields.io/badge/成就-成就点125点-ff69b4.svg]]
 - 集齐“七子”系列挂件。
 #+BEGIN_EXAMPLE
 七子·壹
@@ -2119,6 +2183,7 @@
 #+END_EXAMPLE
 
 ** 七情
+[[https://img.shields.io/badge/成就-成就点125点-ff69b4.svg]]
 - 集齐“七情”系列挂件。
 #+BEGIN_EXAMPLE
 七情·壹
@@ -2131,6 +2196,7 @@
 #+END_EXAMPLE
 
 ** 娃娃控
+[[https://img.shields.io/badge/成就-成就点125点-ff69b4.svg]]
 - 集齐“七子”系列与“七情”系列挂件。
 #+BEGIN_EXAMPLE
 七子
@@ -2138,24 +2204,28 @@
 #+END_EXAMPLE
 
 ** 少年称王
+[[https://img.shields.io/badge/成就-成就点125点-ff69b4.svg]]
 - 获取“灵殊·少年称王”挂件。
 #+BEGIN_EXAMPLE
 灵殊·少年称王
 #+END_EXAMPLE
 
 ** 九龙至尊
+[[https://img.shields.io/badge/成就-成就点125点-ff69b4.svg]]
 - 获取“灵殊·九龙至尊”挂件。
 #+BEGIN_EXAMPLE
 灵殊·九龙至尊
 #+END_EXAMPLE
 
 ** 玄鸟凤凰
+[[https://img.shields.io/badge/成就-成就点125点-ff69b4.svg]]
 - 获取“灵殊·玄鸟凤凰”挂件。
 #+BEGIN_EXAMPLE
 灵殊·玄鸟凤凰
 #+END_EXAMPLE
 
 ** 灵殊
+[[https://img.shields.io/badge/成就-成就点125点-ff69b4.svg]]
 - 集齐全套“灵殊”系列挂件。
 #+BEGIN_EXAMPLE
 少年称王
@@ -2164,6 +2234,7 @@
 #+END_EXAMPLE
 
 ** 空雪
+[[https://img.shields.io/badge/成就-成就点125点-ff69b4.svg]]
 - 获取任意一匹“空雪”系列骏马。
 #+BEGIN_EXAMPLE
 空雪·静深流
@@ -2175,6 +2246,7 @@
 #+END_EXAMPLE
 
 ** 玄甲
+[[https://img.shields.io/badge/成就-成就点125点-ff69b4.svg]]
 - 获取任意一套“玄甲”系列马具。
 #+BEGIN_EXAMPLE
 玄甲·纵猎
@@ -2185,6 +2257,7 @@
 #+END_EXAMPLE
 
 ** 红尘
+[[https://img.shields.io/badge/成就-成就点75点-ff69b4.svg]]
 - 集齐全套“红尘”外装
 #+BEGIN_EXAMPLE
 红尘冠
@@ -2194,6 +2267,7 @@
 #+END_EXAMPLE
 
 ** 兰陵
+[[https://img.shields.io/badge/成就-成就点75点-ff69b4.svg]]
 - 集齐全套“兰陵”外装
 #+BEGIN_EXAMPLE
 兰陵冠
@@ -2203,6 +2277,7 @@
 #+END_EXAMPLE
 
 ** 菁华
+[[https://img.shields.io/badge/成就-成就点75点-ff69b4.svg]]
 - 集齐全套“菁华”外装
 #+BEGIN_EXAMPLE
 菁华冠
@@ -2212,6 +2287,7 @@
 #+END_EXAMPLE
 
 ** 金碧
+[[https://img.shields.io/badge/成就-成就点75点-ff69b4.svg]]
 - 集齐全套“金碧”外装
 #+BEGIN_EXAMPLE
 金璧冠
@@ -2221,6 +2297,7 @@
 #+END_EXAMPLE
 
 ** 绣美人间
+[[https://img.shields.io/badge/成就-成就点125点-ff69b4.svg]]
 - 集齐“红尘”“兰陵”“菁华”“金碧”外装
 #+BEGIN_EXAMPLE
 红尘套装
@@ -2230,6 +2307,7 @@
 #+END_EXAMPLE
 
 ** 吹雪霓裳
+[[https://img.shields.io/badge/成就-成就点125点-ff69b4.svg]]
 - 集齐“吹雪霓裳套 ”外装
 #+BEGIN_EXAMPLE
 吹雪霓裳冠
@@ -2239,6 +2317,7 @@
 #+END_EXAMPLE
 
 ** 人间梦华
+[[https://img.shields.io/badge/成就-成就点125点-ff69b4.svg]]
 - 集齐“人间梦华套 ”外装
 #+BEGIN_EXAMPLE
 梦华冠 
@@ -2248,6 +2327,7 @@
 #+END_EXAMPLE
 
 ** 袭光
+[[https://img.shields.io/badge/成就-成就点75点-ff69b4.svg]]
 - 集齐全套非绑定“圣绣·袭光”套装（永久）
 #+BEGIN_EXAMPLE
 圣绣·袭光冠
@@ -2257,6 +2337,7 @@
 #+END_EXAMPLE
 
 ** 天岚
+[[https://img.shields.io/badge/成就-成就点75点-ff69b4.svg]]
 - 集齐全套非绑定“圣绣·天岚”套装（永久）
 #+BEGIN_EXAMPLE
 圣绣·天岚冠
@@ -2266,12 +2347,14 @@
 #+END_EXAMPLE
 
 ** 国宝
+[[https://img.shields.io/badge/成就-成就点75点-ff69b4.svg]]
 - 获得一只熊猫（60天）
 #+BEGIN_EXAMPLE
 熊猫
 #+END_EXAMPLE
 
 ** 白狐
+[[https://img.shields.io/badge/成就-成就点125点-ff69b4.svg]]
 - 获得心王·独孤套装（永久）
 #+BEGIN_EXAMPLE
 心王·独孤冠
@@ -2281,6 +2364,7 @@
 #+END_EXAMPLE
 
 ** 萌趣
+[[https://img.shields.io/badge/成就-成就点125点-ff69b4.svg]]
 - 获取任意一件“萌趣”系列挂件。
 #+BEGIN_EXAMPLE
 萌趣·离盟主
@@ -2290,6 +2374,7 @@
 #+END_EXAMPLE
 
 ** 博爱
+[[https://img.shields.io/badge/成就-成就点125点-ff69b4.svg]]
 - 集齐全部“萌趣”系列挂件。
 #+BEGIN_EXAMPLE
 萌趣·离盟主
@@ -2299,6 +2384,7 @@
 #+END_EXAMPLE
 
 ** 天地君王
+[[https://img.shields.io/badge/成就-成就点125点-ff69b4.svg]]
 - 集齐“圣绣·北辰”和“日月当空”外装。
 #+BEGIN_EXAMPLE
 圣绣·北辰冠
@@ -2469,18 +2555,21 @@
 #+END_EXAMPLE
 
 ** 光鲜
+[[https://img.shields.io/badge/成就-成就点175点-ff69b4.svg]]
 - 收集200件外装进入衣柜
 #+BEGIN_EXAMPLE
 外装
 #+END_EXAMPLE
 
 ** 阔绰
+[[https://img.shields.io/badge/成就-成就点225点-ff69b4.svg]]
 - 收集250件外装进入衣柜
 #+BEGIN_EXAMPLE
 外装
 #+END_EXAMPLE
 
 ** 盛装
+[[https://img.shields.io/badge/成就-成就点300点-ff69b4.svg]]
 - 收集300件外装进入衣柜
 #+BEGIN_EXAMPLE
 外装

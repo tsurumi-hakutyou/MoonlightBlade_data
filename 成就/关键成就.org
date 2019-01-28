@@ -3,6 +3,7 @@
 
 * 关键成就
 ** 情在江湖
+[[https://img.shields.io/badge/成就-成就点450点-ff69b4.svg]]
 - 江湖路上有爱有恨，有情有义，还有你
 #+BEGIN_EXAMPLE
 完成燕云剧情
@@ -11,18 +12,21 @@
 #+END_EXAMPLE
 
 ** 人间历练
+[[https://img.shields.io/badge/成就-成就点450点-ff69b4.svg]]
 - 更艰难的挑战总是伴随着更好的收获（收入80000天魁币）
 #+BEGIN_EXAMPLE
 累计获得80000天魁币
 #+END_EXAMPLE
 
 ** 以武证心
+[[https://img.shields.io/badge/成就-成就点450点-ff69b4.svg]]
 - 善战非好战，以武证侠心（战力达到24000）
 #+BEGIN_EXAMPLE
 战力达到24000
 #+END_EXAMPLE
 
 ** 义薄云天
+[[https://img.shields.io/badge/成就-成就点450点-ff69b4.svg]]
 - 帮盟志同道合，高手群英荟萃
 #+BEGIN_EXAMPLE
 身处一个20级以上帮派
@@ -31,12 +35,14 @@
 #+END_EXAMPLE
 
 ** 以战止战
+[[https://img.shields.io/badge/成就-成就点450点-ff69b4.svg]]
 - 前路险象环生，名侠不惧挑战
 #+BEGIN_EXAMPLE
 装备“枭雄·天魔琴”
 #+END_EXAMPLE
 
 ** 千人千面
+[[https://img.shields.io/badge/成就-成就点450点-ff69b4.svg]]
 - 猎捕游文乐镖杀，江湖百业各有名堂（完成以下任意行为）
 #+BEGIN_EXAMPLE
 挖宝350次
@@ -87,6 +93,7 @@
 #+END_EXAMPLE
 
 ** 试炼与磨炼
+[[https://img.shields.io/badge/成就-成就点200点-ff69b4.svg]]
 - 完成所有试炼
 #+BEGIN_EXAMPLE
 完成杭州试炼
@@ -102,12 +109,14 @@
 #+END_EXAMPLE
 
 ** 闲来有趣
+[[https://img.shields.io/badge/成就-成就点450点-ff69b4.svg]]
 - 或快马驰骋，或静坐垂钓
 #+BEGIN_EXAMPLE
 在钓鱼大赛中进入排行榜30名
 #+END_EXAMPLE
 
 ** 衣冠锦绣
+[[https://img.shields.io/badge/成就-成就点450点-ff69b4.svg]]
 - 锦衣华服，色彩丰富(完成以下指定条件)
 #+BEGIN_EXAMPLE
 复刻或收集600件外装单品
@@ -115,6 +124,7 @@
 #+END_EXAMPLE
 
 ** 安居乐业
+[[https://img.shields.io/badge/成就-成就点450点-ff69b4.svg]]
 - 房屋、家具，独一无二的家园（摆放风水值超过5的家具25个）
 #+BEGIN_EXAMPLE
 拥有大世界房屋
@@ -122,6 +132,7 @@
 #+END_EXAMPLE
 
 ** 把酒桑麻
+[[https://img.shields.io/badge/成就-成就点450点-ff69b4.svg]]
 - 种植、采摘，其乐无穷\n完成以下行为中的一项：
 #+BEGIN_EXAMPLE
 在人气周榜进入前50名
@@ -129,6 +140,7 @@
 #+END_EXAMPLE
 
 ** 时光剪影
+[[https://img.shields.io/badge/成就-成就点450点-ff69b4.svg]]
 - 在广袤的世界中探索美丽的景色
 #+BEGIN_EXAMPLE
 找到九华隐藏的八处景观（隐藏成就）
@@ -137,6 +149,7 @@
 #+END_EXAMPLE
 
 ** 东升西落
+[[https://img.shields.io/badge/成就-成就点30点-ff69b4.svg]]
 - 在以下地点经历日出或日落
 #+BEGIN_EXAMPLE
 重檐送晓
@@ -146,6 +159,7 @@
 #+END_EXAMPLE
 
 ** 风雨同舟
+[[https://img.shields.io/badge/成就-成就点30点-ff69b4.svg]]
 - 经历过如下天气
 #+BEGIN_EXAMPLE
 烟雨濛
@@ -157,6 +171,7 @@
 #+END_EXAMPLE
 
 ** 温馨家园
+[[https://img.shields.io/badge/成就-成就点150点-ff69b4.svg]]
 - 在房屋中摆放如下家具
 #+BEGIN_EXAMPLE
 圆桌
@@ -230,6 +245,7 @@
 #+END_EXAMPLE
 
 ** 绝世争锋
+[[https://img.shields.io/badge/成就-成就点450点-ff69b4.svg]]
 - 刀光剑影，谁与争锋
 #+BEGIN_EXAMPLE
 在论剑中达到武圣段位
@@ -237,12 +253,14 @@
 #+END_EXAMPLE
 
 ** 融会贯通
+[[https://img.shields.io/badge/成就-成就点450点-ff69b4.svg]]
 - 经脉心法，融会贯通（尚未开放）
 #+BEGIN_EXAMPLE
 尚未开放
 #+END_EXAMPLE
 
 ** 所向披靡
+[[https://img.shields.io/badge/成就-成就点450点-ff69b4.svg]]
 - 战场乱局，落手无情（完成以下行为中的一项）
 #+BEGIN_EXAMPLE
 完成成就“战场·智取”
@@ -250,12 +268,14 @@
 #+END_EXAMPLE
 
 ** 风云骤起
+[[https://img.shields.io/badge/成就-成就点450点-ff69b4.svg]]
 - 江湖名望，风云骤起（名望排行周榜进入前200）
 #+BEGIN_EXAMPLE
 周名望排名进入前200
 #+END_EXAMPLE
 
 ** 风起云涌
+[[https://img.shields.io/badge/成就-成就点450点-ff69b4.svg]]
 - 四盟相斗，强者为王\n完成以下行为中的一项：
 #+BEGIN_EXAMPLE
 共计击败敌盟玩家超过2000人次
@@ -315,6 +335,7 @@
 
 * 四季时辰
 ** 天涯四季
+[[https://img.shields.io/badge/成就-成就点30点-ff69b4.svg]]
 - 体验如下四季时辰
 #+BEGIN_EXAMPLE
 雪月流光
