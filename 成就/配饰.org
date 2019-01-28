@@ -1,0 +1,2000 @@
+#+TITLE: 配饰
+#+AUTHOR: 李鹄
+
+* 衣柜
+** 鹰飞·半月匕
+[[https://img.shields.io/badge/魅力-魅力值20点-blue.svg]]
+- 见面礼·肆
+#+BEGIN_EXAMPLE
+鹰飞·半月匕
+#+END_EXAMPLE
+
+** 鹰飞·震天河
+[[https://img.shields.io/badge/魅力-魅力值20点-blue.svg]]
+- 登陆礼·肆
+#+BEGIN_EXAMPLE
+鹰飞·震天河
+#+END_EXAMPLE
+
+** 攻玉·断黑熊
+[[https://img.shields.io/badge/魅力-魅力值35点-blue.svg]]
+- 安全礼包.叁-游戏安全中心领取
+#+BEGIN_EXAMPLE
+攻玉·断黑熊
+#+END_EXAMPLE
+
+** 抓日月
+[[https://img.shields.io/badge/魅力-魅力值35点-blue.svg]]
+- 第1轮累计签到，7天奖励
+#+BEGIN_EXAMPLE
+抓日月
+#+END_EXAMPLE
+
+** 高唐镜
+[[https://img.shields.io/badge/魅力-魅力值45点-blue.svg]]
+- 累计登陆游戏14天
+#+BEGIN_EXAMPLE
+高唐镜
+#+END_EXAMPLE
+
+** 鹰飞·砧上刀
+[[https://img.shields.io/badge/魅力-魅力值50点-blue.svg]]
+- 神功盖世礼盒-需突破80级
+#+BEGIN_EXAMPLE
+鹰飞·砧上刀
+#+END_EXAMPLE
+
+** 江湖戮
+[[https://img.shields.io/badge/魅力-魅力值50点-blue.svg]]
+- 第2轮累计签到，7天奖励
+#+BEGIN_EXAMPLE
+江湖戮
+#+END_EXAMPLE
+
+** 浮云觞
+[[https://img.shields.io/badge/魅力-魅力值55点-blue.svg]]
+- 第3轮累计签到，7天奖励
+#+BEGIN_EXAMPLE
+浮云觞
+#+END_EXAMPLE
+
+** 绿玉杖
+[[https://img.shields.io/badge/魅力-魅力值70点-blue.svg]]
+- 完成所有游历地图成就
+#+BEGIN_EXAMPLE
+绿玉杖
+#+END_EXAMPLE
+
+** 醉浮光
+[[https://img.shields.io/badge/魅力-魅力值30点-blue.svg]]
+- 完成门派见闻获得
+#+BEGIN_EXAMPLE
+醉浮光
+if GetActorCareer() == 1 then return true else return false end
+#+END_EXAMPLE
+
+** 震天角
+[[https://img.shields.io/badge/魅力-魅力值30点-blue.svg]]
+- 完成门派见闻获得
+#+BEGIN_EXAMPLE
+震天角
+if GetActorCareer() == 2 then return true else return false end
+#+END_EXAMPLE
+
+** 啸苍穹
+[[https://img.shields.io/badge/魅力-魅力值30点-blue.svg]]
+- 完成门派见闻获得
+#+BEGIN_EXAMPLE
+啸苍穹
+if GetActorCareer() == 8 then return true else return false end
+#+END_EXAMPLE
+
+** 千日醒
+[[https://img.shields.io/badge/魅力-魅力值30点-blue.svg]]
+- 完成门派见闻获得
+#+BEGIN_EXAMPLE
+千日醒
+if GetActorCareer() == 3 then return true else return false end
+#+END_EXAMPLE
+
+** 笼轻烟
+[[https://img.shields.io/badge/魅力-魅力值30点-blue.svg]]
+- 完成门派见闻获得
+#+BEGIN_EXAMPLE
+笼轻烟
+if GetActorCareer() == 5 then return true else return false end
+#+END_EXAMPLE
+
+** 弹指花
+[[https://img.shields.io/badge/魅力-魅力值30点-blue.svg]]
+- 完成门派见闻获得
+#+BEGIN_EXAMPLE
+弹指花
+if GetActorCareer() == 4 then return true else return false end
+#+END_EXAMPLE
+
+** 缠阴阳
+[[https://img.shields.io/badge/魅力-魅力值30点-blue.svg]]
+- 完成门派见闻获得
+#+BEGIN_EXAMPLE
+缠阴阳
+if GetActorCareer() == 0 then return true else return false end
+#+END_EXAMPLE
+
+** 暗飞声
+[[https://img.shields.io/badge/魅力-魅力值30点-blue.svg]]
+- 完成门派见闻获得
+#+BEGIN_EXAMPLE
+暗飞声
+if GetActorCareer() == 7 then return true else return false end
+#+END_EXAMPLE
+
+** 剜心肝
+[[https://img.shields.io/badge/魅力-魅力值40点-blue.svg]]
+- 完成九华系列见闻
+#+BEGIN_EXAMPLE
+剜心肝
+#+END_EXAMPLE
+
+** 千枝箭
+[[https://img.shields.io/badge/魅力-魅力值30点-blue.svg]]
+- 完成初级杭州系列见闻
+#+BEGIN_EXAMPLE
+千枝箭
+#+END_EXAMPLE
+
+** 横竖刀
+[[https://img.shields.io/badge/魅力-魅力值30点-blue.svg]]
+- 完成江南系列见闻
+#+BEGIN_EXAMPLE
+横竖刀
+#+END_EXAMPLE
+
+** 锏打笠
+[[https://img.shields.io/badge/魅力-魅力值35点-blue.svg]]
+- 完成东越系列见闻
+#+BEGIN_EXAMPLE
+锏打笠
+#+END_EXAMPLE
+
+** 剁骨刀
+[[https://img.shields.io/badge/魅力-魅力值45点-blue.svg]]
+- 完成高级杭州系列见闻
+#+BEGIN_EXAMPLE
+剁骨刀
+#+END_EXAMPLE
+
+** 错综刑
+[[https://img.shields.io/badge/魅力-魅力值45点-blue.svg]]
+- 完成徐海系列见闻
+#+BEGIN_EXAMPLE
+错综刑
+#+END_EXAMPLE
+
+** 木玉龙
+[[https://img.shields.io/badge/魅力-魅力值50点-blue.svg]]
+- 完成开封系列见闻
+#+BEGIN_EXAMPLE
+木玉龙
+#+END_EXAMPLE
+
+** 长短刃
+[[https://img.shields.io/badge/魅力-魅力值55点-blue.svg]]
+- 完成秦川系列见闻
+#+BEGIN_EXAMPLE
+长短刃
+#+END_EXAMPLE
+
+** 独钓翁
+[[https://img.shields.io/badge/魅力-魅力值25点-blue.svg]]
+- 普通·荡平龙首山、恩师值兑换
+#+BEGIN_EXAMPLE
+独钓翁
+#+END_EXAMPLE
+
+** 高岭血
+[[https://img.shields.io/badge/魅力-魅力值30点-blue.svg]]
+- 普通·鏖战郡王府、恩师值兑换
+#+BEGIN_EXAMPLE
+高岭血
+#+END_EXAMPLE
+
+** 雅投壶
+[[https://img.shields.io/badge/魅力-魅力值30点-blue.svg]]
+- 普通·奇袭血衣楼、恩师值兑换
+#+BEGIN_EXAMPLE
+雅投壶
+#+END_EXAMPLE
+
+** 枭雄·凌心爪
+[[https://img.shields.io/badge/魅力-魅力值35点-blue.svg]]
+- 挑战·荡平龙首山、恩师值兑换
+#+BEGIN_EXAMPLE
+枭雄·凌心爪
+#+END_EXAMPLE
+
+** 枭雄·卷风龙
+[[https://img.shields.io/badge/魅力-魅力值35点-blue.svg]]
+- 挑战·荡平龙首山、恩师值兑换
+#+BEGIN_EXAMPLE
+枭雄·卷风龙
+#+END_EXAMPLE
+
+** 攻玉·缚锁刺
+[[https://img.shields.io/badge/魅力-魅力值35点-blue.svg]]
+- 挑战·荡平龙首山、恩师值兑换
+#+BEGIN_EXAMPLE
+攻玉·缚锁刺
+#+END_EXAMPLE
+
+** 战金乌
+[[https://img.shields.io/badge/魅力-魅力值35点-blue.svg]]
+- 普通·强袭神武门、恩师值兑换
+#+BEGIN_EXAMPLE
+战金乌
+#+END_EXAMPLE
+
+** 枭雄·王侯业
+[[https://img.shields.io/badge/魅力-魅力值40点-blue.svg]]
+- 挑战·鏖战郡王府、恩师值兑换
+#+BEGIN_EXAMPLE
+枭雄·王侯业
+#+END_EXAMPLE
+
+** 枭雄·铜铃扣
+[[https://img.shields.io/badge/魅力-魅力值40点-blue.svg]]
+- 挑战·鏖战郡王府、恩师值兑换
+#+BEGIN_EXAMPLE
+枭雄·铜铃扣
+#+END_EXAMPLE
+
+** 枭雄·将军刀
+[[https://img.shields.io/badge/魅力-魅力值40点-blue.svg]]
+- 挑战·鏖战郡王府、恩师值兑换
+#+BEGIN_EXAMPLE
+枭雄·将军刀
+#+END_EXAMPLE
+
+** 对勾镰
+[[https://img.shields.io/badge/魅力-魅力值40点-blue.svg]]
+- 挑战·鏖战郡王府、恩师值兑换
+#+BEGIN_EXAMPLE
+对勾镰
+#+END_EXAMPLE
+
+** 枭雄·刮骨牌
+[[https://img.shields.io/badge/魅力-魅力值45点-blue.svg]]
+- 挑战·奇袭血衣楼、恩师值兑换
+#+BEGIN_EXAMPLE
+枭雄·刮骨牌
+#+END_EXAMPLE
+
+** 枭雄·黑天伞
+[[https://img.shields.io/badge/魅力-魅力值45点-blue.svg]]
+- 普通·雨夜镇天牢、恩师值兑换
+#+BEGIN_EXAMPLE
+枭雄·黑天伞
+#+END_EXAMPLE
+
+** 猿猴飞
+[[https://img.shields.io/badge/魅力-魅力值55点-blue.svg]]
+- 挑战·强袭神武门、恩师值兑换
+#+BEGIN_EXAMPLE
+猿猴飞
+#+END_EXAMPLE
+
+** 刑天轮
+[[https://img.shields.io/badge/魅力-魅力值55点-blue.svg]]
+- 挑战·强袭神武门、恩师值兑换
+#+BEGIN_EXAMPLE
+刑天轮
+#+END_EXAMPLE
+
+** 枭雄·碎仙头
+[[https://img.shields.io/badge/魅力-魅力值55点-blue.svg]]
+- 挑战·强袭神武门、恩师值兑换
+#+BEGIN_EXAMPLE
+枭雄·碎仙头
+#+END_EXAMPLE
+
+** 枭雄·丧血轮
+[[https://img.shields.io/badge/魅力-魅力值55点-blue.svg]]
+- 挑战·强袭神武门、恩师值兑换
+#+BEGIN_EXAMPLE
+枭雄·丧血轮
+#+END_EXAMPLE
+
+** 枭雄·剁龙尾
+[[https://img.shields.io/badge/魅力-魅力值55点-blue.svg]]
+- 挑战·强袭神武门、恩师值兑换
+#+BEGIN_EXAMPLE
+枭雄·剁龙尾
+#+END_EXAMPLE
+
+** 指物旗
+[[https://img.shields.io/badge/魅力-魅力值40点-blue.svg]]
+- 累计领取帮派福利7次
+#+BEGIN_EXAMPLE
+指物旗
+#+END_EXAMPLE
+
+** 攻玉·羽擎羊
+[[https://img.shields.io/badge/魅力-魅力值40点-blue.svg]]
+- 帮贡商店
+#+BEGIN_EXAMPLE
+攻玉·羽擎羊
+#+END_EXAMPLE
+
+** 梦余香
+[[https://img.shields.io/badge/魅力-魅力值20点-blue.svg]]
+- 节日商店，外装商店
+#+BEGIN_EXAMPLE
+梦余香
+#+END_EXAMPLE
+
+** 佳节·小儿郎
+[[https://img.shields.io/badge/魅力-魅力值20点-blue.svg]]
+- 节日商店，外装商店
+#+BEGIN_EXAMPLE
+佳节·小儿郎
+#+END_EXAMPLE
+
+** 佳节·系菖蒲
+[[https://img.shields.io/badge/魅力-魅力值20点-blue.svg]]
+- 节日商店，外装商店
+#+BEGIN_EXAMPLE
+佳节·系菖蒲
+#+END_EXAMPLE
+
+** 笑嫣然
+[[https://img.shields.io/badge/魅力-魅力值35点-blue.svg]]
+- 节日商店，外装商店
+#+BEGIN_EXAMPLE
+笑嫣然
+#+END_EXAMPLE
+
+** 圆缺月·梧桐木
+[[https://img.shields.io/badge/魅力-魅力值20点-blue.svg]]
+- 节日商店，外装商店
+#+BEGIN_EXAMPLE
+圆缺月·梧桐木
+#+END_EXAMPLE
+
+** 圆缺月·暗霜华
+[[https://img.shields.io/badge/魅力-魅力值25点-blue.svg]]
+- 节日商店，外装商店
+#+BEGIN_EXAMPLE
+圆缺月·暗霜华
+#+END_EXAMPLE
+
+** 圆缺月·寒烟翠
+[[https://img.shields.io/badge/魅力-魅力值30点-blue.svg]]
+- 节日商店，外装商店
+#+BEGIN_EXAMPLE
+圆缺月·寒烟翠
+#+END_EXAMPLE
+
+** 圆缺月·金镶玉
+[[https://img.shields.io/badge/魅力-魅力值35点-blue.svg]]
+- 节日商店，外装商店
+#+BEGIN_EXAMPLE
+圆缺月·金镶玉
+#+END_EXAMPLE
+
+** 点石·刀丛诗
+[[https://img.shields.io/badge/魅力-魅力值20点-blue.svg]]
+- 商城点石成金礼
+#+BEGIN_EXAMPLE
+点石·刀丛诗
+#+END_EXAMPLE
+
+** 颜如玉
+[[https://img.shields.io/badge/魅力-魅力值20点-blue.svg]]
+- 魅力特权“衣香鬓影”商店获得
+#+BEGIN_EXAMPLE
+颜如玉
+#+END_EXAMPLE
+
+** 孙小圣
+[[https://img.shields.io/badge/魅力-魅力值20点-blue.svg]]
+- 魅力特权“华美如神”商店获得
+#+BEGIN_EXAMPLE
+孙小圣
+#+END_EXAMPLE
+
+** 点石·机关谱
+[[https://img.shields.io/badge/魅力-魅力值20点-blue.svg]]
+- 商城购买获得
+#+BEGIN_EXAMPLE
+点石·机关谱
+#+END_EXAMPLE
+
+** 点石·七重武
+[[https://img.shields.io/badge/魅力-魅力值20点-blue.svg]]
+- 商城购买获得
+#+BEGIN_EXAMPLE
+点石·七重武
+#+END_EXAMPLE
+
+** 风华·团子
+[[https://img.shields.io/badge/魅力-魅力值20点-blue.svg]]
+- 商城购买获得
+#+BEGIN_EXAMPLE
+风华·团子
+吾爱团子冠
+#+END_EXAMPLE
+
+** 攻玉·飞天曲
+[[https://img.shields.io/badge/魅力-魅力值20点-blue.svg]]
+- 商城购买获得
+#+BEGIN_EXAMPLE
+攻玉·飞天曲
+#+END_EXAMPLE
+
+** 灵殊·芳心得意
+[[https://img.shields.io/badge/魅力-魅力值45点-blue.svg]]
+- 商城购买获得
+#+BEGIN_EXAMPLE
+灵殊·芳心得意
+#+END_EXAMPLE
+
+** 灵殊·滚来滚去
+[[https://img.shields.io/badge/魅力-魅力值25点-blue.svg]]
+- 商城购买获得
+#+BEGIN_EXAMPLE
+灵殊·滚来滚去
+#+END_EXAMPLE
+
+** 灵殊·黑白至爱
+[[https://img.shields.io/badge/魅力-魅力值20点-blue.svg]]
+- 商城购买获得
+#+BEGIN_EXAMPLE
+灵殊·黑白至爱
+#+END_EXAMPLE
+
+** 灵韵·蝶水凝烟
+[[https://img.shields.io/badge/魅力-魅力值70点-blue.svg]]
+- 商城购买获得
+#+BEGIN_EXAMPLE
+灵韵·蝶水凝烟
+#+END_EXAMPLE
+
+** 灵韵·蝶舞风帘
+[[https://img.shields.io/badge/魅力-魅力值70点-blue.svg]]
+- 商城购买获得
+#+BEGIN_EXAMPLE
+灵韵·蝶舞风帘
+#+END_EXAMPLE
+
+** 萌趣·离盟主
+[[https://img.shields.io/badge/魅力-魅力值20点-blue.svg]]
+- 商城购买获得
+#+BEGIN_EXAMPLE
+萌趣·离盟主
+#+END_EXAMPLE
+
+** 萌趣·曲姑娘
+[[https://img.shields.io/badge/魅力-魅力值20点-blue.svg]]
+- 商城购买获得
+#+BEGIN_EXAMPLE
+萌趣·曲姑娘
+#+END_EXAMPLE
+
+** 萌趣·唐师兄
+[[https://img.shields.io/badge/魅力-魅力值20点-blue.svg]]
+- 商城购买获得
+#+BEGIN_EXAMPLE
+萌趣·唐师兄
+#+END_EXAMPLE
+
+** 萌趣·叶大侠
+[[https://img.shields.io/badge/魅力-魅力值20点-blue.svg]]
+- 商城购买获得
+#+BEGIN_EXAMPLE
+萌趣·叶大侠
+#+END_EXAMPLE
+
+** 沐天云
+[[https://img.shields.io/badge/魅力-魅力值20点-blue.svg]]
+- 商城购买获得
+#+BEGIN_EXAMPLE
+沐天云·男
+沐天云·女
+#+END_EXAMPLE
+
+** 七情
+[[https://img.shields.io/badge/魅力-魅力值70点-blue.svg]]
+- 商城购买获得
+#+BEGIN_EXAMPLE
+七情·壹
+七情·贰
+七情·叁
+七情·肆
+七情·伍
+七情·陆
+七情·柒
+#+END_EXAMPLE
+
+** 碎瑶叶
+[[https://img.shields.io/badge/魅力-魅力值20点-blue.svg]]
+- 商城购买获得
+#+BEGIN_EXAMPLE
+碎瑶叶·男
+碎瑶叶·女
+#+END_EXAMPLE
+
+** 宛灵烟
+[[https://img.shields.io/badge/魅力-魅力值20点-blue.svg]]
+- 商城购买获得
+#+BEGIN_EXAMPLE
+宛灵烟·男
+宛灵烟·女
+#+END_EXAMPLE
+
+** 众生相
+[[https://img.shields.io/badge/魅力-魅力值20点-blue.svg]]
+- 商城购买获得
+#+BEGIN_EXAMPLE
+众生相·男
+众生相·女
+#+END_EXAMPLE
+
+** 醉墨棠
+[[https://img.shields.io/badge/魅力-魅力值20点-blue.svg]]
+- 商城购买获得
+#+BEGIN_EXAMPLE
+醉墨棠·男
+醉墨棠·女
+#+END_EXAMPLE
+
+** 点石·赤鲛肠
+[[https://img.shields.io/badge/魅力-魅力值20点-blue.svg]]
+- 商城购买获得
+#+BEGIN_EXAMPLE
+点石·赤鲛肠
+#+END_EXAMPLE
+
+** 七子
+[[https://img.shields.io/badge/魅力-魅力值70点-blue.svg]]
+- 商城购买获得
+#+BEGIN_EXAMPLE
+七子·壹
+七子·贰
+七子·叁
+七子·肆
+七子·伍
+七子·陆
+七子·柒
+#+END_EXAMPLE
+
+** 灵殊·刹那清欢
+[[https://img.shields.io/badge/魅力-魅力值35点-blue.svg]]
+- 商城购买获得
+#+BEGIN_EXAMPLE
+灵殊·刹那清欢
+#+END_EXAMPLE
+
+** 灵韵·鹊上心头
+[[https://img.shields.io/badge/魅力-魅力值45点-blue.svg]]
+- 商城购买获得
+#+BEGIN_EXAMPLE
+灵韵·鹊上心头
+#+END_EXAMPLE
+
+** 战明妃
+[[https://img.shields.io/badge/魅力-魅力值20点-blue.svg]]
+- 商城购买圣绣·萧霜套装赠送
+#+BEGIN_EXAMPLE
+战明妃·男
+战明妃·女
+#+END_EXAMPLE
+
+** 点石·柳生月
+[[https://img.shields.io/badge/魅力-魅力值20点-blue.svg]]
+- 商城天赏积分兑换获得
+#+BEGIN_EXAMPLE
+点石·柳生月
+#+END_EXAMPLE
+
+** 点石·弃天剑
+[[https://img.shields.io/badge/魅力-魅力值30点-blue.svg]]
+- 商城天赏积分兑换获得
+#+BEGIN_EXAMPLE
+点石·弃天剑
+#+END_EXAMPLE
+
+** 点石·新罗鼓
+[[https://img.shields.io/badge/魅力-魅力值20点-blue.svg]]
+- 商城天赏积分兑换获得
+#+BEGIN_EXAMPLE
+点石·新罗鼓
+#+END_EXAMPLE
+
+** 背锅侠
+[[https://img.shields.io/badge/魅力-魅力值20点-blue.svg]]
+- 商城天赏积分兑换获得
+#+BEGIN_EXAMPLE
+背锅侠
+#+END_EXAMPLE
+
+** 灵韵·蝶火梦烛
+[[https://img.shields.io/badge/魅力-魅力值50点-blue.svg]]
+- 商城天赏积分兑换获得
+#+BEGIN_EXAMPLE
+灵韵·蝶火梦烛
+#+END_EXAMPLE
+
+** 风华·彼岸
+[[https://img.shields.io/badge/魅力-魅力值100点-blue.svg]]
+- 商城天赏积分兑换获得
+#+BEGIN_EXAMPLE
+风华·彼岸
+#+END_EXAMPLE
+
+** 风华·听冰
+[[https://img.shields.io/badge/魅力-魅力值125点-blue.svg]]
+- 商城天赏积分兑换获得
+#+BEGIN_EXAMPLE
+风华·听冰
+吾爱听冰冠
+#+END_EXAMPLE
+
+** 拂情丝
+[[https://img.shields.io/badge/魅力-魅力值20点-blue.svg]]
+- 道聚城专区
+#+BEGIN_EXAMPLE
+拂情丝
+#+END_EXAMPLE
+
+** 玳瑁仙
+[[https://img.shields.io/badge/魅力-魅力值20点-blue.svg]]
+- 道聚城专区
+#+BEGIN_EXAMPLE
+玳瑁仙
+#+END_EXAMPLE
+
+** 攻玉·防草莽
+[[https://img.shields.io/badge/魅力-魅力值20点-blue.svg]]
+- TGP专属礼包
+#+BEGIN_EXAMPLE
+攻玉·防草莽
+#+END_EXAMPLE
+
+** 天煞·造化独尊
+[[https://img.shields.io/badge/魅力-魅力值100点-blue.svg]]
+- 论剑竞标赛优胜者
+#+BEGIN_EXAMPLE
+天煞·造化独尊
+#+END_EXAMPLE
+
+** 天煞·九龙至尊
+[[https://img.shields.io/badge/魅力-魅力值75点-blue.svg]]
+- 论剑竞标赛优胜者
+#+BEGIN_EXAMPLE
+天煞·九龙至尊
+#+END_EXAMPLE
+
+** 天煞·龙战九霄
+[[https://img.shields.io/badge/魅力-魅力值65点-blue.svg]]
+- 论剑竞标赛优胜者
+#+BEGIN_EXAMPLE
+天煞·龙战九霄
+#+END_EXAMPLE
+
+** 风华·枭王
+[[https://img.shields.io/badge/魅力-魅力值15点-blue.svg]]
+- 商城购买获得
+#+BEGIN_EXAMPLE
+风华·枭王
+吾爱·枭王
+#+END_EXAMPLE
+
+** 灵殊·朝颜吹雨
+[[https://img.shields.io/badge/魅力-魅力值25点-blue.svg]]
+- 商城购买获得
+#+BEGIN_EXAMPLE
+灵殊·朝颜吹雨
+#+END_EXAMPLE
+
+** 灵韵·千灯之羽
+[[https://img.shields.io/badge/魅力-魅力值50点-blue.svg]]
+- 商城天赏积分兑换获得
+#+BEGIN_EXAMPLE
+灵韵·千灯之羽
+#+END_EXAMPLE
+
+** 唤鲤·荷
+[[https://img.shields.io/badge/魅力-魅力值10点-blue.svg]]
+- 商城购买“心王·锦鲤抄”获得
+#+BEGIN_EXAMPLE
+唤鲤·荷
+#+END_EXAMPLE
+
+** 唤鲤·琴
+[[https://img.shields.io/badge/魅力-魅力值10点-blue.svg]]
+- 商城购买“心王·锦鲤抄”获得
+#+BEGIN_EXAMPLE
+唤鲤·琴
+#+END_EXAMPLE
+
+** 灵殊·小可人儿
+[[https://img.shields.io/badge/魅力-魅力值75点-blue.svg]]
+- 商城天赏积分兑换获得
+#+BEGIN_EXAMPLE
+灵殊·小可人儿
+#+END_EXAMPLE
+
+** 灵殊·山中岁月
+[[https://img.shields.io/badge/魅力-魅力值75点-blue.svg]]
+- 商城天赏积分兑换获得
+#+BEGIN_EXAMPLE
+灵殊·山中岁月
+#+END_EXAMPLE
+
+** 灵殊·月满帘栊
+[[https://img.shields.io/badge/魅力-魅力值35点-blue.svg]]
+- 商城购买获得
+#+BEGIN_EXAMPLE
+灵殊·月满帘栊
+#+END_EXAMPLE
+
+** 灵殊·芳野随风
+[[https://img.shields.io/badge/魅力-魅力值25点-blue.svg]]
+- 商城购买获得
+#+BEGIN_EXAMPLE
+灵殊·芳野随风
+#+END_EXAMPLE
+
+** 君莫忘
+[[https://img.shields.io/badge/魅力-魅力值20点-blue.svg]]
+- 商城购买获得
+#+BEGIN_EXAMPLE
+君莫忘·男
+君莫忘·女
+#+END_EXAMPLE
+
+** 灵殊·缘冰之弦
+[[https://img.shields.io/badge/魅力-魅力值325点-blue.svg]]
+- 商城天赏积分兑换获得
+#+BEGIN_EXAMPLE
+灵殊·缘冰之弦
+#+END_EXAMPLE
+
+** 灵殊·我爱果果
+[[https://img.shields.io/badge/魅力-魅力值20点-blue.svg]]
+- 商城购买获得
+#+BEGIN_EXAMPLE
+灵殊·我爱果果
+#+END_EXAMPLE
+
+** 月边音
+[[https://img.shields.io/badge/魅力-魅力值20点-blue.svg]]
+- 魅力特权“华美如神”商店获得
+#+BEGIN_EXAMPLE
+月边音
+#+END_EXAMPLE
+
+** 风华·琅嬛
+[[https://img.shields.io/badge/魅力-魅力值125点-blue.svg]]
+- 商城天赏积分兑换获得
+#+BEGIN_EXAMPLE
+风华·琅嬛
+#+END_EXAMPLE
+
+** 金蝉衣
+[[https://img.shields.io/badge/魅力-魅力值20点-blue.svg]]
+- 魅力特权“绰约如仙”商店获得
+#+BEGIN_EXAMPLE
+金蝉衣·男
+金蝉衣·女
+#+END_EXAMPLE
+
+** 灵殊·幽帘疏芳
+[[https://img.shields.io/badge/魅力-魅力值20点-blue.svg]]
+- 商城购买获得
+#+BEGIN_EXAMPLE
+灵殊·幽帘疏芳
+#+END_EXAMPLE
+
+** 灵殊·梦未央
+[[https://img.shields.io/badge/魅力-魅力值20点-blue.svg]]
+- 商城购买获得
+#+BEGIN_EXAMPLE
+灵殊·梦未央
+#+END_EXAMPLE
+
+** 灵韵·星辰之力
+[[https://img.shields.io/badge/魅力-魅力值70点-blue.svg]]
+- 商城天赏积分兑换获得
+#+BEGIN_EXAMPLE
+灵韵·星辰之力
+#+END_EXAMPLE
+
+** 寻疏影
+[[https://img.shields.io/badge/魅力-魅力值35点-blue.svg]]
+- 魅力特权“风华万代”商店获得
+#+BEGIN_EXAMPLE
+寻疏影
+#+END_EXAMPLE
+
+** 忆南风
+[[https://img.shields.io/badge/魅力-魅力值35点-blue.svg]]
+- 魅力特权“风华万代”商店获得
+#+BEGIN_EXAMPLE
+忆南风
+#+END_EXAMPLE
+
+** 定海潮
+[[https://img.shields.io/badge/魅力-魅力值65点-blue.svg]]
+- 魅力特权“绰约如仙”商店获得
+#+BEGIN_EXAMPLE
+定海潮
+#+END_EXAMPLE
+
+** 财神袋
+[[https://img.shields.io/badge/魅力-魅力值15点-blue.svg]]
+- 魅力特权“惊鸿一瞥”商店获得
+#+BEGIN_EXAMPLE
+财神袋
+#+END_EXAMPLE
+
+** 任平生
+[[https://img.shields.io/badge/魅力-魅力值15点-blue.svg]]
+- 魅力特权“惊鸿一瞥”商店获得
+#+BEGIN_EXAMPLE
+任平生
+#+END_EXAMPLE
+
+** 风华·牵心
+[[https://img.shields.io/badge/魅力-魅力值20点-blue.svg]]
+- 魅力特权“惊鸿一瞥”商店获得
+#+BEGIN_EXAMPLE
+风华·牵心
+#+END_EXAMPLE
+
+** 裁天晴
+[[https://img.shields.io/badge/魅力-魅力值20点-blue.svg]]
+- 魅力特权“惊鸿一瞥”商店获得
+#+BEGIN_EXAMPLE
+裁天晴
+#+END_EXAMPLE
+
+** 叮铃铃
+[[https://img.shields.io/badge/魅力-魅力值20点-blue.svg]]
+- 魅力特权“姿容典雅”商店获得
+#+BEGIN_EXAMPLE
+叮铃铃
+#+END_EXAMPLE
+
+** 攻玉·小星星
+[[https://img.shields.io/badge/魅力-魅力值20点-blue.svg]]
+- 魅力特权“姿容典雅”商店获得
+#+BEGIN_EXAMPLE
+攻玉·小星星
+#+END_EXAMPLE
+
+** 灵殊·玄鸟凤凰
+[[https://img.shields.io/badge/魅力-魅力值25点-blue.svg]]
+- 魅力特权“姿容典雅”商店获得
+#+BEGIN_EXAMPLE
+灵殊·玄鸟凤凰
+#+END_EXAMPLE
+
+** 小糖马
+[[https://img.shields.io/badge/魅力-魅力值25点-blue.svg]]
+- 魅力特权“衣香鬓影”商店获得
+#+BEGIN_EXAMPLE
+小糖马
+#+END_EXAMPLE
+
+** 长命刀
+[[https://img.shields.io/badge/魅力-魅力值25点-blue.svg]]
+- 魅力特权“衣香鬓影”商店获得
+#+BEGIN_EXAMPLE
+长命刀
+#+END_EXAMPLE
+
+** 布小福
+[[https://img.shields.io/badge/魅力-魅力值30点-blue.svg]]
+- 魅力特权“翩翩如玉”商店获得
+#+BEGIN_EXAMPLE
+布小福
+#+END_EXAMPLE
+
+** 雪晶凌
+[[https://img.shields.io/badge/魅力-魅力值30点-blue.svg]]
+- 魅力特权“翩翩如玉”商店获得
+#+BEGIN_EXAMPLE
+雪晶凌
+#+END_EXAMPLE
+
+** 鹰飞·映湖月
+[[https://img.shields.io/badge/魅力-魅力值30点-blue.svg]]
+- 魅力特权“翩翩如玉”商店获得
+#+BEGIN_EXAMPLE
+鹰飞·映湖月
+#+END_EXAMPLE
+
+** 玄潇吟
+[[https://img.shields.io/badge/魅力-魅力值35点-blue.svg]]
+- 魅力特权“惊才绝艳”商店获得
+#+BEGIN_EXAMPLE
+玄潇吟·男
+玄潇吟·女
+#+END_EXAMPLE
+
+** 双鱼儿
+[[https://img.shields.io/badge/魅力-魅力值35点-blue.svg]]
+- 魅力特权“惊才绝艳”商店获得
+#+BEGIN_EXAMPLE
+双鱼儿
+#+END_EXAMPLE
+
+** 平安造
+[[https://img.shields.io/badge/魅力-魅力值35点-blue.svg]]
+- 魅力特权“惊才绝艳”商店获得
+#+BEGIN_EXAMPLE
+平安造
+#+END_EXAMPLE
+
+** 金错环
+[[https://img.shields.io/badge/魅力-魅力值25点-blue.svg]]
+- 江湖试炼成就达到24级
+#+BEGIN_EXAMPLE
+金错环
+#+END_EXAMPLE
+
+** 并蒂香
+[[https://img.shields.io/badge/魅力-魅力值25点-blue.svg]]
+- 隐士高人成就达到24级
+#+BEGIN_EXAMPLE
+并蒂香
+#+END_EXAMPLE
+
+** 十杀刃
+[[https://img.shields.io/badge/魅力-魅力值25点-blue.svg]]
+- 远洋之路成就达到24级
+#+BEGIN_EXAMPLE
+十杀刃
+#+END_EXAMPLE
+
+** 匣锋芒
+[[https://img.shields.io/badge/魅力-魅力值25点-blue.svg]]
+- 武道风流成就达到24级
+#+BEGIN_EXAMPLE
+匣锋芒
+#+END_EXAMPLE
+
+** 鬼葫芦
+[[https://img.shields.io/badge/魅力-魅力值30点-blue.svg]]
+- 江湖试炼成就达到28级
+#+BEGIN_EXAMPLE
+鬼葫芦
+#+END_EXAMPLE
+
+** 点石·降心魔
+[[https://img.shields.io/badge/魅力-魅力值30点-blue.svg]]
+- 九华势力任务赠送获得
+#+BEGIN_EXAMPLE
+点石·降心魔
+#+END_EXAMPLE
+
+** 百济刀
+[[https://img.shields.io/badge/魅力-魅力值35点-blue.svg]]
+- 武道风流成就达到20级
+#+BEGIN_EXAMPLE
+百济刀
+#+END_EXAMPLE
+
+** 嘲风镖
+[[https://img.shields.io/badge/魅力-魅力值35点-blue.svg]]
+- 江湖试炼成就达到20级
+#+BEGIN_EXAMPLE
+嘲风镖
+#+END_EXAMPLE
+
+** 攻玉·无鞘戳
+[[https://img.shields.io/badge/魅力-魅力值40点-blue.svg]]
+- 隐士高人成就达到20级
+#+BEGIN_EXAMPLE
+攻玉·无鞘戳
+#+END_EXAMPLE
+
+** 攻玉·意凌云
+[[https://img.shields.io/badge/魅力-魅力值40点-blue.svg]]
+- 隐士高人成就达到28级
+#+BEGIN_EXAMPLE
+攻玉·意凌云
+#+END_EXAMPLE
+
+** 落离莲
+[[https://img.shields.io/badge/魅力-魅力值40点-blue.svg]]
+- 远洋之路成就达到20级
+#+BEGIN_EXAMPLE
+落离莲
+#+END_EXAMPLE
+
+** 尝百草
+[[https://img.shields.io/badge/魅力-魅力值40点-blue.svg]]
+- 成就系统中获得
+#+BEGIN_EXAMPLE
+尝百草
+#+END_EXAMPLE
+
+** 饮刀圭
+[[https://img.shields.io/badge/魅力-魅力值40点-blue.svg]]
+- 成就系统中获得
+#+BEGIN_EXAMPLE
+饮刀圭
+#+END_EXAMPLE
+
+** 铁判官
+[[https://img.shields.io/badge/魅力-魅力值40点-blue.svg]]
+- 成就系统中获得
+#+BEGIN_EXAMPLE
+铁判官
+#+END_EXAMPLE
+
+** 闻夜雨·霞
+[[https://img.shields.io/badge/魅力-魅力值25点-blue.svg]]
+- 魅力"外观补齐"商店
+#+BEGIN_EXAMPLE
+闻夜雨·霞
+#+END_EXAMPLE
+
+** 闻夜雨·青
+[[https://img.shields.io/badge/魅力-魅力值25点-blue.svg]]
+- 魅力"外观补齐"商店
+#+BEGIN_EXAMPLE
+闻夜雨·青
+#+END_EXAMPLE
+
+** 闻夜雨·蓝
+[[https://img.shields.io/badge/魅力-魅力值25点-blue.svg]]
+- 魅力"外观补齐"商店
+#+BEGIN_EXAMPLE
+闻夜雨·蓝
+#+END_EXAMPLE
+
+** 闻夜雨·紫
+[[https://img.shields.io/badge/魅力-魅力值25点-blue.svg]]
+- 魅力"外观补齐"商店
+#+BEGIN_EXAMPLE
+闻夜雨·紫
+#+END_EXAMPLE
+
+** 灵殊·归来看海
+[[https://img.shields.io/badge/魅力-魅力值45点-blue.svg]]
+- 商城购买获得
+#+BEGIN_EXAMPLE
+灵殊·归来看海
+#+END_EXAMPLE
+
+** 祈天卷
+[[https://img.shields.io/badge/魅力-魅力值35点-blue.svg]]
+- 魅力特权“风华万代”商店获得
+#+BEGIN_EXAMPLE
+灵殊·祈天卷
+#+END_EXAMPLE
+
+** 一寸心
+[[https://img.shields.io/badge/魅力-魅力值35点-blue.svg]]
+- 魅力特权“风华万代”商店获得
+#+BEGIN_EXAMPLE
+一寸心
+#+END_EXAMPLE
+
+** 一寸心·浅紫
+[[https://img.shields.io/badge/魅力-魅力值25点-blue.svg]]
+- 魅力"外观补齐"商店
+#+BEGIN_EXAMPLE
+一寸心·浅紫
+#+END_EXAMPLE
+
+** 一寸心·浅绿
+[[https://img.shields.io/badge/魅力-魅力值25点-blue.svg]]
+- 魅力"外观补齐"商店
+#+BEGIN_EXAMPLE
+一寸心·浅绿
+#+END_EXAMPLE
+
+** 一寸心·浅蓝
+[[https://img.shields.io/badge/魅力-魅力值25点-blue.svg]]
+- 魅力"外观补齐"商店
+#+BEGIN_EXAMPLE
+一寸心·浅蓝
+#+END_EXAMPLE
+
+** 花意如
+[[https://img.shields.io/badge/魅力-魅力值35点-blue.svg]]
+- 魅力特权“绰约如仙”商店获得
+#+BEGIN_EXAMPLE
+花意如
+#+END_EXAMPLE
+
+** 灵殊·小兔大炮
+[[https://img.shields.io/badge/魅力-魅力值25点-blue.svg]]
+- 商城购买获得
+#+BEGIN_EXAMPLE
+灵殊·小兔大炮
+#+END_EXAMPLE
+
+** 玉满堂
+[[https://img.shields.io/badge/魅力-魅力值35点-blue.svg]]
+- 交通银行合作款信用卡专属配饰
+#+BEGIN_EXAMPLE
+玉满堂
+#+END_EXAMPLE
+
+** 飞红零
+[[https://img.shields.io/badge/魅力-魅力值35点-blue.svg]]
+- 魅力特权“绰约如仙”商店获得
+#+BEGIN_EXAMPLE
+飞红零·男
+飞红零·女
+#+END_EXAMPLE
+
+** 半溪枫
+[[https://img.shields.io/badge/魅力-魅力值35点-blue.svg]]
+- 魅力特权“绰约如仙”商店获得
+#+BEGIN_EXAMPLE
+半溪枫
+#+END_EXAMPLE
+
+** 霜叶结
+[[https://img.shields.io/badge/魅力-魅力值35点-blue.svg]]
+- 魅力特权“绰约如仙”商店获得
+#+BEGIN_EXAMPLE
+霜叶结
+#+END_EXAMPLE
+
+** 妆蝶舞
+[[https://img.shields.io/badge/魅力-魅力值25点-blue.svg]]
+- 商城购买获得
+#+BEGIN_EXAMPLE
+妆蝶舞·男
+妆蝶舞·女
+#+END_EXAMPLE
+
+** 西洋剑
+[[https://img.shields.io/badge/魅力-魅力值25点-blue.svg]]
+- 魅力特权“风华万代”商店获得
+#+BEGIN_EXAMPLE
+西洋剑
+#+END_EXAMPLE
+
+** 任风波
+[[https://img.shields.io/badge/魅力-魅力值20点-blue.svg]]
+- 魅力特权“倾国倾城”商店获得
+#+BEGIN_EXAMPLE
+任风波
+#+END_EXAMPLE
+
+** 甲子·优昙花
+[[https://img.shields.io/badge/魅力-魅力值50点-blue.svg]]
+- 神兵甲子录中获得
+#+BEGIN_EXAMPLE
+甲子·优昙花
+#+END_EXAMPLE
+
+** 甲子·左手剑
+[[https://img.shields.io/badge/魅力-魅力值50点-blue.svg]]
+- 神兵甲子录中获得
+#+BEGIN_EXAMPLE
+甲子·左手剑
+#+END_EXAMPLE
+
+** 甲子·心王珏
+[[https://img.shields.io/badge/魅力-魅力值50点-blue.svg]]
+- 神兵甲子录中获得
+#+BEGIN_EXAMPLE
+甲子·心王珏
+#+END_EXAMPLE
+
+** 甲子·佳人笔
+[[https://img.shields.io/badge/魅力-魅力值50点-blue.svg]]
+- 神兵甲子录中获得
+#+BEGIN_EXAMPLE
+甲子·佳人笔
+#+END_EXAMPLE
+
+** 甲子·樽前酒
+[[https://img.shields.io/badge/魅力-魅力值50点-blue.svg]]
+- 神兵甲子录中获得
+#+BEGIN_EXAMPLE
+甲子·樽前酒
+#+END_EXAMPLE
+
+** 甲子·心意双环
+[[https://img.shields.io/badge/魅力-魅力值75点-blue.svg]]
+- 神兵甲子录中获得
+#+BEGIN_EXAMPLE
+甲子·心意双环
+#+END_EXAMPLE
+
+** 甲子·孤鸾
+[[https://img.shields.io/badge/魅力-魅力值75点-blue.svg]]
+- 神兵甲子录中获得
+#+BEGIN_EXAMPLE
+甲子·孤鸾
+#+END_EXAMPLE
+
+** 甲子·神术
+[[https://img.shields.io/badge/魅力-魅力值75点-blue.svg]]
+- 神兵甲子录中获得
+#+BEGIN_EXAMPLE
+甲子·神术
+#+END_EXAMPLE
+
+** 甲子·红叶
+[[https://img.shields.io/badge/魅力-魅力值75点-blue.svg]]
+- 神兵甲子录中获得
+#+BEGIN_EXAMPLE
+甲子·红叶
+#+END_EXAMPLE
+
+** 甲子·蔷薇剑
+[[https://img.shields.io/badge/魅力-魅力值75点-blue.svg]]
+- 神兵甲子录中获得
+#+BEGIN_EXAMPLE
+甲子·蔷薇剑
+#+END_EXAMPLE
+
+** 甲子·孔雀翎
+[[https://img.shields.io/badge/魅力-魅力值100点-blue.svg]]
+- 神兵甲子录中获得
+#+BEGIN_EXAMPLE
+甲子·孔雀翎
+#+END_EXAMPLE
+
+** 八荒令牌
+[[https://img.shields.io/badge/魅力-魅力值20点-blue.svg]]
+- 节日商店
+#+BEGIN_EXAMPLE
+八荒令牌·太白
+八荒令牌·神威
+八荒令牌·丐帮
+八荒令牌·唐门
+八荒令牌·真武
+八荒令牌·天香
+八荒令牌·五毒
+八荒令牌·神刀
+八荒令牌·移花
+#+END_EXAMPLE
+
+** 烟沙雪·雪
+[[https://img.shields.io/badge/魅力-魅力值25点-blue.svg]]
+- 魅力"外观补齐"商店
+#+BEGIN_EXAMPLE
+烟沙雪·雪(男款)
+烟沙雪·雪(女款)
+#+END_EXAMPLE
+
+** 烟沙雪·沙
+[[https://img.shields.io/badge/魅力-魅力值25点-blue.svg]]
+- 魅力"外观补齐"商店
+#+BEGIN_EXAMPLE
+烟沙雪·沙(男款)
+烟沙雪·沙(女款)
+#+END_EXAMPLE
+
+** 烟沙雪·烟
+[[https://img.shields.io/badge/魅力-魅力值25点-blue.svg]]
+- 魅力"外观补齐"商店
+#+BEGIN_EXAMPLE
+烟沙雪·烟(男款)
+烟沙雪·烟(女款)
+#+END_EXAMPLE
+
+** 风华·萌芽
+[[https://img.shields.io/badge/魅力-魅力值15点-blue.svg]]
+- 商城购买获得
+#+BEGIN_EXAMPLE
+风华·萌芽
+吾爱·萌芽
+#+END_EXAMPLE
+
+** 烟沙雪·夜
+[[https://img.shields.io/badge/魅力-魅力值25点-blue.svg]]
+- 魅力特权“倾国倾城”商店获得
+#+BEGIN_EXAMPLE
+烟沙雪·夜(男款)
+烟沙雪·夜(女款)
+#+END_EXAMPLE
+
+** 灵韵·冰雪之灵
+[[https://img.shields.io/badge/魅力-魅力值70点-blue.svg]]
+- 2017年12月“青龙秘宝”获得
+
+** 风华·啾啾
+[[https://img.shields.io/badge/魅力-魅力值25点-blue.svg]]
+- 魅力特权“华美如神”商店获得
+#+BEGIN_EXAMPLE
+风华·啾啾
+吾爱·啾啾
+#+END_EXAMPLE
+
+** 风华·雪芽
+[[https://img.shields.io/badge/魅力-魅力值35点-blue.svg]]
+- 第二届“天刀国风嘉年华”获得
+#+BEGIN_EXAMPLE
+风华·雪芽
+吾爱·雪芽
+#+END_EXAMPLE
+
+** 灵殊·一剪祥云
+[[https://img.shields.io/badge/魅力-魅力值15点-blue.svg]]
+- 节日商店
+#+BEGIN_EXAMPLE
+灵殊·一剪祥云
+#+END_EXAMPLE
+
+** 枯荣·主武器
+[[https://img.shields.io/badge/魅力-魅力值25点-blue.svg]]
+- 商城购买获得
+#+BEGIN_EXAMPLE
+枯荣·东君真意
+枯荣·红泪焚霞
+枯荣·乱红轻梦
+枯荣·九曲清溪
+枯荣·戍海红尘
+枯荣·不疑之剑
+枯荣·桃之夭夭
+枯荣·楼心幽月
+枯荣·碧山浮歌
+#+END_EXAMPLE
+
+** 枯荣·辅武器
+[[https://img.shields.io/badge/魅力-魅力值25点-blue.svg]]
+- 商城购买获得
+#+BEGIN_EXAMPLE
+枯荣·安期之匣
+枯荣·竟夕流芳
+枯荣·飞鸢衔情
+枯荣·武陵疏醉
+枯荣·无艳之弓
+枯荣·不疑之鞘
+枯荣·灼灼其华
+枯荣·歌尽春风
+枯荣·落英自闲
+#+END_EXAMPLE
+
+** 浮光·惜流芳
+[[https://img.shields.io/badge/魅力-魅力值20点-blue.svg]]
+- 商城购买获得
+#+BEGIN_EXAMPLE
+浮光·惜流芳·男
+浮光·惜流芳·女
+#+END_EXAMPLE
+
+** 浮光·悬丝华
+[[https://img.shields.io/badge/魅力-魅力值10点-blue.svg]]
+- 商城购买获得
+#+BEGIN_EXAMPLE
+浮光·悬丝华
+#+END_EXAMPLE
+
+** 浮光·海上花
+[[https://img.shields.io/badge/魅力-魅力值10点-blue.svg]]
+- 商城购买获得
+#+BEGIN_EXAMPLE
+浮光·海上花
+#+END_EXAMPLE
+
+** 风华·芳馨
+[[https://img.shields.io/badge/魅力-魅力值25点-blue.svg]]
+- 2018年4月“青龙秘宝”获得
+#+BEGIN_EXAMPLE
+风华·芳馨
+#+END_EXAMPLE
+
+** 灵韵·落日之烬
+[[https://img.shields.io/badge/魅力-魅力值70点-blue.svg]]
+- 商城天赏积分兑换获得
+#+BEGIN_EXAMPLE
+灵韵·落日之烬
+#+END_EXAMPLE
+
+** 念春归
+[[https://img.shields.io/badge/魅力-魅力值20点-blue.svg]]
+- 2018年清明节系列活动中获得
+#+BEGIN_EXAMPLE
+念春归
+#+END_EXAMPLE
+
+** 灵殊·今夕何夕
+[[https://img.shields.io/badge/魅力-魅力值20点-blue.svg]]
+- 商城购买获得
+#+BEGIN_EXAMPLE
+灵殊·今夕何夕
+#+END_EXAMPLE
+
+** 灵殊·一夕之萤
+[[https://img.shields.io/badge/魅力-魅力值70点-blue.svg]]
+- 商城天赏积分兑换获得
+#+BEGIN_EXAMPLE
+灵殊·一夕之萤
+#+END_EXAMPLE
+
+** 风华·永夜
+[[https://img.shields.io/badge/魅力-魅力值35点-blue.svg]]
+- 2018年5月商城消费满奖获得
+#+BEGIN_EXAMPLE
+风华·永夜
+吾爱·永夜
+#+END_EXAMPLE
+
+** 灵殊·千生之镜
+[[https://img.shields.io/badge/魅力-魅力值25点-blue.svg]]
+- 商城购买获得
+#+BEGIN_EXAMPLE
+灵殊·千生之镜
+#+END_EXAMPLE
+
+** 横店令
+[[https://img.shields.io/badge/魅力-魅力值35点-blue.svg]]
+- 魅力特权“华美如神”商店获得
+#+BEGIN_EXAMPLE
+横店令
+#+END_EXAMPLE
+
+** 必胜符
+[[https://img.shields.io/badge/魅力-魅力值35点-blue.svg]]
+- 魅力特权“华美如神”商店获得
+#+BEGIN_EXAMPLE
+必胜符
+#+END_EXAMPLE
+
+** 掬明蕊·浅蓝
+[[https://img.shields.io/badge/魅力-魅力值25点-blue.svg]]
+- 2018年“我们”时装周
+#+BEGIN_EXAMPLE
+掬明蕊·浅蓝
+#+END_EXAMPLE
+
+** 掬明蕊·浅绿
+[[https://img.shields.io/badge/魅力-魅力值25点-blue.svg]]
+- 2018年“我们”时装周
+#+BEGIN_EXAMPLE
+掬明蕊·浅绿
+#+END_EXAMPLE
+
+** 掬明蕊·浅紫
+[[https://img.shields.io/badge/魅力-魅力值25点-blue.svg]]
+- 2018年“我们”时装周
+#+BEGIN_EXAMPLE
+掬明蕊·浅紫
+#+END_EXAMPLE
+
+** 掬明蕊·浅粉
+[[https://img.shields.io/badge/魅力-魅力值25点-blue.svg]]
+- 2018年“我们”时装周
+#+BEGIN_EXAMPLE
+掬明蕊·浅粉
+#+END_EXAMPLE
+
+** 西园柳
+[[https://img.shields.io/badge/魅力-魅力值10点-blue.svg]]
+- 商城购买“心王·醉花阴”获得
+#+BEGIN_EXAMPLE
+西园柳
+#+END_EXAMPLE
+
+** 掬明蕊
+[[https://img.shields.io/badge/魅力-魅力值20点-blue.svg]]
+- 2018年周年庆节日活动获得
+#+BEGIN_EXAMPLE
+掬明蕊
+#+END_EXAMPLE
+
+** 离叠花
+[[https://img.shields.io/badge/魅力-魅力值30点-blue.svg]]
+- 完成门派见闻获得
+#+BEGIN_EXAMPLE
+离叠花
+if GetActorCareer() == 9 then return true else return false end
+#+END_EXAMPLE
+
+** 神算子
+[[https://img.shields.io/badge/魅力-魅力值40点-blue.svg]]
+- 远洋之路成就达到36级，一次性成就
+#+BEGIN_EXAMPLE
+神算子
+#+END_EXAMPLE
+
+** 开心颜
+[[https://img.shields.io/badge/魅力-魅力值25点-blue.svg]]
+- 节日商店
+#+BEGIN_EXAMPLE
+开心颜
+#+END_EXAMPLE
+
+** 开口笑
+[[https://img.shields.io/badge/魅力-魅力值25点-blue.svg]]
+- 节日商店
+#+BEGIN_EXAMPLE
+开口笑
+#+END_EXAMPLE
+
+** 红萝贝
+[[https://img.shields.io/badge/魅力-魅力值25点-blue.svg]]
+- 上班族每周减负礼概率获得
+#+BEGIN_EXAMPLE
+灵殊·红萝贝
+#+END_EXAMPLE
+
+** 白萝贝
+[[https://img.shields.io/badge/魅力-魅力值25点-blue.svg]]
+- 上班族每周减负礼概率获得
+#+BEGIN_EXAMPLE
+灵殊·白萝贝
+#+END_EXAMPLE
+
+** 梦寻花
+[[https://img.shields.io/badge/魅力-魅力值35点-blue.svg]]
+- 魅力特权“风华万代”商店获得
+#+BEGIN_EXAMPLE
+梦寻花·男
+梦寻花·女
+#+END_EXAMPLE
+
+** 风华·芝麻
+[[https://img.shields.io/badge/魅力-魅力值35点-blue.svg]]
+- 2017年1月第一届国风嘉年华
+#+BEGIN_EXAMPLE
+吾爱·芝麻
+风华·芝麻
+#+END_EXAMPLE
+
+** 风华·呆呆
+[[https://img.shields.io/badge/魅力-魅力值35点-blue.svg]]
+- 魅力特权“风华万代”商店获得
+#+BEGIN_EXAMPLE
+风华·呆呆
+吾爱·呆呆
+#+END_EXAMPLE
+
+** 吾爱·桃子
+[[https://img.shields.io/badge/魅力-魅力值35点-blue.svg]]
+- 魅力特权“风华万代”商店获得
+#+BEGIN_EXAMPLE
+吾爱·桃子
+#+END_EXAMPLE
+
+** 定武曲面纱
+[[https://img.shields.io/badge/魅力-魅力值25点-blue.svg]]
+- 运营活动专属
+#+BEGIN_EXAMPLE
+定武曲·男
+定武曲·女
+#+END_EXAMPLE
+
+** 风华·艳烈
+[[https://img.shields.io/badge/魅力-魅力值60点-blue.svg]]
+- 商城天赏积分兑换获得
+#+BEGIN_EXAMPLE
+风华·艳烈
+#+END_EXAMPLE
+
+** 吟沧浪
+[[https://img.shields.io/badge/魅力-魅力值25点-blue.svg]]
+- 2018年7月活跃活动获得
+#+BEGIN_EXAMPLE
+吟沧浪
+#+END_EXAMPLE
+
+** 灵殊·轻鸥吹浪
+[[https://img.shields.io/badge/魅力-魅力值25点-blue.svg]]
+- 商城购买获得
+#+BEGIN_EXAMPLE
+灵殊·轻鸥吹浪
+#+END_EXAMPLE
+
+** 潜藏·主武器
+[[https://img.shields.io/badge/魅力-魅力值25点-blue.svg]]
+- 商城天赏积分兑换获得
+#+BEGIN_EXAMPLE
+潜藏·灵台珠蕴
+潜藏·蛟心刺浪
+潜藏·珊瑚聆风
+潜藏·贝叶不换
+潜藏·璃璃明玉
+潜藏·千年桀骜
+潜藏·星海之剑
+潜藏·踏浪凝魂
+潜藏·悠扬水调
+#+END_EXAMPLE
+
+** 潜藏·辅武器
+[[https://img.shields.io/badge/魅力-魅力值25点-blue.svg]]
+- 商城天赏积分兑换获得
+#+BEGIN_EXAMPLE
+潜藏·道心生辉
+潜藏·鲨骨沉汐
+潜藏·飞雨沾襟
+潜藏·青螺为酒
+潜藏·落落梳云
+潜藏·万世堆雪
+潜藏·星海之鞘
+潜藏·吹波暗涌
+潜藏·彼此幽情
+#+END_EXAMPLE
+
+** 羽轻尘
+[[https://img.shields.io/badge/魅力-魅力值10点-blue.svg]]
+- 商城购买获得
+#+BEGIN_EXAMPLE
+羽轻尘·男
+羽轻尘·女
+#+END_EXAMPLE
+
+** 灵韵·云自无心
+[[https://img.shields.io/badge/魅力-魅力值45点-blue.svg]]
+- 商城购买获得
+#+BEGIN_EXAMPLE
+灵殊·云自无心
+#+END_EXAMPLE
+
+** 灵殊·子非鱼
+[[https://img.shields.io/badge/魅力-魅力值25点-blue.svg]]
+- 商城购买获得
+#+BEGIN_EXAMPLE
+灵殊·子非鱼
+#+END_EXAMPLE
+
+** 鸿鹄心
+[[https://img.shields.io/badge/魅力-魅力值20点-blue.svg]]
+- 2018年七夕节日活动获得
+#+BEGIN_EXAMPLE
+鸿鹄心
+#+END_EXAMPLE
+
+** 聚如兰·玄华
+[[https://img.shields.io/badge/魅力-魅力值25点-blue.svg]]
+- 2018年8月“青龙秘宝”获得
+#+BEGIN_EXAMPLE
+聚如兰·玄华
+#+END_EXAMPLE
+
+** 灵韵·堕天之舞
+[[https://img.shields.io/badge/魅力-魅力值70点-blue.svg]]
+- 商城天赏积分兑换获得
+#+BEGIN_EXAMPLE
+灵韵·堕天之舞
+#+END_EXAMPLE
+
+** 攻玉·一线牵
+[[https://img.shields.io/badge/魅力-魅力值20点-blue.svg]]
+- 节日商店
+#+BEGIN_EXAMPLE
+攻玉·一线牵
+#+END_EXAMPLE
+
+** 攻玉·至强盾
+[[https://img.shields.io/badge/魅力-魅力值20点-blue.svg]]
+- 节日商店
+#+BEGIN_EXAMPLE
+攻玉·至强盾
+#+END_EXAMPLE
+
+** 趁手刃
+[[https://img.shields.io/badge/魅力-魅力值25点-blue.svg]]
+- 节日商店
+#+BEGIN_EXAMPLE
+趁手刃
+#+END_EXAMPLE
+
+** 攻玉·翡翠诗
+[[https://img.shields.io/badge/魅力-魅力值25点-blue.svg]]
+- 节日商店
+#+BEGIN_EXAMPLE
+攻玉·翡翠诗
+#+END_EXAMPLE
+
+** 攻玉·血螺旋
+[[https://img.shields.io/badge/魅力-魅力值25点-blue.svg]]
+- 节日商店
+#+BEGIN_EXAMPLE
+攻玉·血螺旋
+#+END_EXAMPLE
+
+** 攻玉·火童子
+[[https://img.shields.io/badge/魅力-魅力值25点-blue.svg]]
+- 节日商店
+#+BEGIN_EXAMPLE
+攻玉·火童子
+#+END_EXAMPLE
+
+** 攻玉·醉八荒
+[[https://img.shields.io/badge/魅力-魅力值25点-blue.svg]]
+- 节日商店
+#+BEGIN_EXAMPLE
+攻玉·醉八荒
+#+END_EXAMPLE
+
+** 浮光·明眸
+[[https://img.shields.io/badge/魅力-魅力值25点-blue.svg]]
+- 2018年8月“青龙秘宝”获得
+#+BEGIN_EXAMPLE
+浮光·明眸·男
+浮光·明眸·女
+#+END_EXAMPLE
+
+** 聚如兰·樱雪
+[[https://img.shields.io/badge/魅力-魅力值25点-blue.svg]]
+- 2018年9月时装周获得
+#+BEGIN_EXAMPLE
+聚如兰·樱雪
+#+END_EXAMPLE
+
+** 聚如兰·君雅
+[[https://img.shields.io/badge/魅力-魅力值25点-blue.svg]]
+- 2018年9月时装周获得
+#+BEGIN_EXAMPLE
+聚如兰·君蕊
+#+END_EXAMPLE
+
+** 聚如兰·碧晴
+[[https://img.shields.io/badge/魅力-魅力值25点-blue.svg]]
+- 2018年9月时装周获得
+#+BEGIN_EXAMPLE
+聚如兰·碧晴
+#+END_EXAMPLE
+
+** 织锦书
+[[https://img.shields.io/badge/魅力-魅力值20点-blue.svg]]
+- 官网2018年9月开学季活动获得
+#+BEGIN_EXAMPLE
+织锦书
+#+END_EXAMPLE
+
+** 聚如兰·胭粉
+[[https://img.shields.io/badge/魅力-魅力值25点-blue.svg]]
+- 天刀 x 伊蒂之屋联合活动
+#+BEGIN_EXAMPLE
+聚如兰·胭粉
+#+END_EXAMPLE
+
+** 何小玉
+[[https://img.shields.io/badge/魅力-魅力值25点-blue.svg]]
+- 祈年·绣月活动获得
+#+BEGIN_EXAMPLE
+何小玉
+#+END_EXAMPLE
+
+** 甲子·黑刀
+[[https://img.shields.io/badge/魅力-魅力值75点-blue.svg]]
+- 神兵甲子录中获得
+#+BEGIN_EXAMPLE
+甲子·黑刀
+#+END_EXAMPLE
+
+** 浮光·如朔
+[[https://img.shields.io/badge/魅力-魅力值30点-blue.svg]]
+- 灵琳阁兑换获得
+#+BEGIN_EXAMPLE
+浮光·如朔·男
+浮光·如朔·女
+#+END_EXAMPLE
+
+** 风华·长佩
+[[https://img.shields.io/badge/魅力-魅力值15点-blue.svg]]
+- 商城节日限定礼包获得
+#+BEGIN_EXAMPLE
+风华·长佩
+#+END_EXAMPLE
+
+** 灵殊·小荷尖尖
+[[https://img.shields.io/badge/魅力-魅力值20点-blue.svg]]
+- 商城购买获得
+#+BEGIN_EXAMPLE
+灵殊·小荷尖尖
+#+END_EXAMPLE
+
+** 灵殊·黑云骤起
+[[https://img.shields.io/badge/魅力-魅力值15点-blue.svg]]
+- 2018年10月“天地风云”活跃活动获得
+#+BEGIN_EXAMPLE
+灵殊·黑云骤起
+#+END_EXAMPLE
+
+** 灵殊·雪长苏
+[[https://img.shields.io/badge/魅力-魅力值30点-blue.svg]]
+- 灵琳阁兑换获得
+#+BEGIN_EXAMPLE
+灵殊·雪长苏
+#+END_EXAMPLE
+
+** 灵韵·冰花雪焰
+[[https://img.shields.io/badge/魅力-魅力值70点-blue.svg]]
+- 2018年12月青龙秘宝获得
+#+BEGIN_EXAMPLE
+灵韵·冰花雪焰
+#+END_EXAMPLE
+
+** 吾爱·药儿
+[[https://img.shields.io/badge/魅力-魅力值25点-blue.svg]]
+- 2018年12月青龙秘宝获得
+#+BEGIN_EXAMPLE
+吾爱·药儿
+#+END_EXAMPLE
+
+** 不见天
+[[https://img.shields.io/badge/魅力-魅力值25点-blue.svg]]
+- 2018年12月商城消费满奖获得
+#+BEGIN_EXAMPLE
+不见天
+#+END_EXAMPLE
+
+** 浮光·雪域欢歌
+[[https://img.shields.io/badge/魅力-魅力值20点-blue.svg]]
+- 商城购买获得
+#+BEGIN_EXAMPLE
+浮光·雪域欢歌
+#+END_EXAMPLE
+
+** 狴犴刀
+[[https://img.shields.io/badge/魅力-魅力值55点-blue.svg]]
+- 挑战·雨夜破天牢掉落
+#+BEGIN_EXAMPLE
+狴犴刀
+#+END_EXAMPLE
+
+** 鬼魅
+[[https://img.shields.io/badge/魅力-魅力值55点-blue.svg]]
+- 挑战·雨夜破天牢掉落
+#+BEGIN_EXAMPLE
+鬼魅
+#+END_EXAMPLE
+
+** 丛龙
+[[https://img.shields.io/badge/魅力-魅力值55点-blue.svg]]
+- 挑战·雨夜破天牢掉落
+#+BEGIN_EXAMPLE
+丛龙
+#+END_EXAMPLE
+
+** 伏龙
+[[https://img.shields.io/badge/魅力-魅力值55点-blue.svg]]
+- 挑战·雨夜破天牢掉落
+#+BEGIN_EXAMPLE
+伏龙
+#+END_EXAMPLE
+
+** 鹰飞·羊腿囊
+[[https://img.shields.io/badge/魅力-魅力值25点-blue.svg]]
+- 节日商店
+#+BEGIN_EXAMPLE
+鹰飞·羊腿囊
+#+END_EXAMPLE
+
+** 枭雄·孔雀怜
+[[https://img.shields.io/badge/魅力-魅力值45点-blue.svg]]
+- 挑战·决战嘲天宫
+#+BEGIN_EXAMPLE
+枭雄·孔雀怜
+#+END_EXAMPLE
+
+** 枭雄·冶儿心
+[[https://img.shields.io/badge/魅力-魅力值45点-blue.svg]]
+- 挑战·决战嘲天宫
+#+BEGIN_EXAMPLE
+枭雄·冶儿心
+#+END_EXAMPLE
+
+** 攻玉·忘江湖
+[[https://img.shields.io/badge/魅力-魅力值20点-blue.svg]]
+- TGP专属礼包
+#+BEGIN_EXAMPLE
+攻玉·忘江湖
+#+END_EXAMPLE
+
+** 涂山铃
+[[https://img.shields.io/badge/魅力-魅力值25点-blue.svg]]
+- 节日商店
+#+BEGIN_EXAMPLE
+涂山铃
+#+END_EXAMPLE
+
+** 圣华容
+[[https://img.shields.io/badge/魅力-魅力值35点-blue.svg]]
+- 魅力特权“华美如神”商店获得
+#+BEGIN_EXAMPLE
+圣华容·男
+圣华容·女
+#+END_EXAMPLE
+
+** 淡霜华
+[[https://img.shields.io/badge/魅力-魅力值35点-blue.svg]]
+- 魅力特权“华美如神”商店获得
+#+BEGIN_EXAMPLE
+淡霜华·男
+淡霜华·女
+#+END_EXAMPLE
+
+** 鹊金缕
+[[https://img.shields.io/badge/魅力-魅力值15点-blue.svg]]
+- 商城购买获得
+#+BEGIN_EXAMPLE
+鹊金缕
+#+END_EXAMPLE
+
+** 鹊云纤
+[[https://img.shields.io/badge/魅力-魅力值15点-blue.svg]]
+- 商城购买获得
+#+BEGIN_EXAMPLE
+鹊云纤
+#+END_EXAMPLE
+
+** 应龙生
+[[https://img.shields.io/badge/魅力-魅力值50点-blue.svg]]
+- 商城天赏积分兑换获得
+#+BEGIN_EXAMPLE
+应龙生
+#+END_EXAMPLE
+
+** 朱小瑶
+[[https://img.shields.io/badge/魅力-魅力值25点-blue.svg]]
+- 2019年新春活动获得
+#+BEGIN_EXAMPLE
+朱小瑶
+#+END_EXAMPLE
+
+** 翦彩·主武器
+[[https://img.shields.io/badge/魅力-魅力值25点-blue.svg]]
+- 商城购买获得
+#+BEGIN_EXAMPLE
+翦彩·鹏游蝶梦
+翦彩·双衔意动
+翦彩·叶逐金刀
+翦彩·醉瞰天下
+翦彩·花云轻络
+翦彩·执炬之焰
+翦彩·剑藏玲珑
+翦彩·拟点新妆
+翦彩·乘游漫吟
+#+END_EXAMPLE
+
+** 翦彩·辅武器
+[[https://img.shields.io/badge/魅力-魅力值25点-blue.svg]]
+- 商城购买获得
+#+BEGIN_EXAMPLE
+翦彩·清尘若浮
+翦彩·风随影去
+翦彩·万贯之虹
+翦彩·独酌金盏
+翦彩·岁已知寒
+翦彩·挽弓邀怀
+翦彩·剑指风随
+翦彩·银钗缀凤
+翦彩·丝竹阑珊
+#+END_EXAMPLE
+
+** 灵殊·柴雪相闻
+[[https://img.shields.io/badge/魅力-魅力值20点-blue.svg]]
+- 商城购买获得
+#+BEGIN_EXAMPLE
+灵殊·柴雪相闻
+#+END_EXAMPLE
+
+** 不见月
+[[https://img.shields.io/badge/魅力-魅力值25点-blue.svg]]
+- 2019年新春时装周获得
+#+BEGIN_EXAMPLE
+不见月
+#+END_EXAMPLE
+
+** 不见雪
+[[https://img.shields.io/badge/魅力-魅力值25点-blue.svg]]
+- 2019年新春时装周获得
+#+BEGIN_EXAMPLE
+不见雪
+#+END_EXAMPLE
+
+** 不见花
+[[https://img.shields.io/badge/魅力-魅力值25点-blue.svg]]
+- 2019年新春时装周获得
+#+BEGIN_EXAMPLE
+不见花
+#+END_EXAMPLE
+

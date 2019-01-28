@@ -1,0 +1,3230 @@
+#+TITLE: 外装
+#+AUTHOR: 李鹄
+
+* 衣柜
+** 钧天广乐
+[[https://img.shields.io/badge/魅力-魅力值40点-blue.svg]]
+- 登陆礼.柒-需累计登陆7天
+#+BEGIN_EXAMPLE
+钧天广乐冠
+钧天广乐袍
+钧天广乐腕
+钧天广乐履
+#+END_EXAMPLE
+
+** 盛世烟华
+[[https://img.shields.io/badge/魅力-魅力值50点-blue.svg]]
+- 第1轮累计签到30天发放
+#+BEGIN_EXAMPLE
+盛世烟华冠
+盛世烟华袍
+盛世烟华腕
+盛世烟华履
+#+END_EXAMPLE
+
+** 雏燕明辉
+[[https://img.shields.io/badge/魅力-魅力值60点-blue.svg]]
+- 第2轮累计签到30天发放
+#+BEGIN_EXAMPLE
+雏燕明辉冠
+雏燕明辉袍
+雏燕明辉腕
+雏燕明辉履
+#+END_EXAMPLE
+
+** 曾慕多情
+[[https://img.shields.io/badge/魅力-魅力值70点-blue.svg]]
+- 第3轮累计签到30天发放
+#+BEGIN_EXAMPLE
+曾慕多情冠
+曾慕多情袍
+曾慕多情腕
+曾慕多情履
+#+END_EXAMPLE
+
+** 云海蹑踪
+[[https://img.shields.io/badge/魅力-魅力值25点-blue.svg]]
+- 新手装，门派服装店
+#+BEGIN_EXAMPLE
+云海蹑踪冠
+云海蹑踪袍
+云海蹑踪腕
+云海蹑踪履
+if GetActorCareer() == 0 then return true else return false end
+#+END_EXAMPLE
+
+** 苍蓝流苏
+[[https://img.shields.io/badge/魅力-魅力值25点-blue.svg]]
+- 新手装，门派服装店
+#+BEGIN_EXAMPLE
+苍蓝流苏冠
+苍蓝流苏袍
+苍蓝流苏腕
+苍蓝流苏履
+if GetActorCareer() == 5 then return true else return false end
+#+END_EXAMPLE
+
+** 纫秋为佩
+[[https://img.shields.io/badge/魅力-魅力值25点-blue.svg]]
+- 新手装，门派服装店
+#+BEGIN_EXAMPLE
+纫秋为佩冠
+纫秋为佩袍
+纫秋为佩腕
+纫秋为佩履
+if GetActorCareer() == 7 then return true else return false end
+#+END_EXAMPLE
+
+** 竹影飞花
+[[https://img.shields.io/badge/魅力-魅力值25点-blue.svg]]
+- 新手装，门派服装店
+#+BEGIN_EXAMPLE
+竹影飞花冠
+竹影飞花袍
+竹影飞花腕
+竹影飞花履
+if GetActorCareer() == 4 then return true else return false end
+#+END_EXAMPLE
+
+** 秦川逐雪
+[[https://img.shields.io/badge/魅力-魅力值25点-blue.svg]]
+- 新手装，门派服装店
+#+BEGIN_EXAMPLE
+秦川逐雪冠
+秦川逐雪袍
+秦川逐雪腕
+秦川逐雪履
+if GetActorCareer() == 1 then return true else return false end
+#+END_EXAMPLE
+
+** 燕云飞沙
+[[https://img.shields.io/badge/魅力-魅力值25点-blue.svg]]
+- 新手装，门派服装店
+#+BEGIN_EXAMPLE
+燕云飞沙冠
+燕云飞沙袍
+燕云飞沙腕
+燕云飞沙履
+if GetActorCareer() == 2 then return true else return false end
+#+END_EXAMPLE
+
+** 初识天意
+[[https://img.shields.io/badge/魅力-魅力值25点-blue.svg]]
+- 新手装，门派服装店
+#+BEGIN_EXAMPLE
+初识天意冠
+初识天意袍
+初识天意腕
+初识天意履
+if GetActorCareer() == 8 then return true else return false end
+#+END_EXAMPLE
+
+** 醉饮湖湘
+[[https://img.shields.io/badge/魅力-魅力值25点-blue.svg]]
+- 新手装，门派服装店
+#+BEGIN_EXAMPLE
+醉饮湖湘冠
+醉饮湖湘袍
+醉饮湖湘腕
+醉饮湖湘履
+if GetActorCareer() == 3 then return true else return false end
+#+END_EXAMPLE
+
+** 莫忘初心
+[[https://img.shields.io/badge/魅力-魅力值30点-blue.svg]]
+- 九华任务装，主城服装店
+#+BEGIN_EXAMPLE
+莫忘初心冠
+莫忘初心袍
+莫忘初心腕
+莫忘初心履
+#+END_EXAMPLE
+
+** 玄虚清镜
+[[https://img.shields.io/badge/魅力-魅力值35点-blue.svg]]
+- 门派任务装，门派服装店
+#+BEGIN_EXAMPLE
+玄虚清镜冠
+玄虚清镜袍
+玄虚清镜腕
+玄虚清镜履
+if GetActorCareer() == 0 then return true else return false end
+#+END_EXAMPLE
+
+** 挂月松石
+[[https://img.shields.io/badge/魅力-魅力值35点-blue.svg]]
+- 门派任务装，门派服装店
+#+BEGIN_EXAMPLE
+挂月松石冠
+挂月松石袍
+挂月松石腕
+挂月松石履
+if GetActorCareer() == 5 then return true else return false end
+#+END_EXAMPLE
+
+** 沐风为裳
+[[https://img.shields.io/badge/魅力-魅力值35点-blue.svg]]
+- 门派任务装，门派服装店
+#+BEGIN_EXAMPLE
+沐风为裳冠
+沐风为裳袍
+沐风为裳腕
+沐风为裳履
+if GetActorCareer() == 7 then return true else return false end
+#+END_EXAMPLE
+
+** 琼林倚风
+[[https://img.shields.io/badge/魅力-魅力值35点-blue.svg]]
+- 门派任务装，门派服装店
+#+BEGIN_EXAMPLE
+琼林倚风冠
+琼林倚风袍
+琼林倚风腕
+琼林倚风履
+if GetActorCareer() == 4 then return true else return false end
+#+END_EXAMPLE
+
+** 剑鸣广陌
+[[https://img.shields.io/badge/魅力-魅力值35点-blue.svg]]
+- 门派任务装，门派服装店
+#+BEGIN_EXAMPLE
+剑鸣广陌冠
+剑鸣广陌袍
+剑鸣广陌腕
+剑鸣广陌履
+if GetActorCareer() == 1 then return true else return false end
+#+END_EXAMPLE
+
+** 七月流火
+[[https://img.shields.io/badge/魅力-魅力值35点-blue.svg]]
+- 门派任务装，门派服装店
+#+BEGIN_EXAMPLE
+七月流火冠
+七月流火袍
+七月流火腕
+七月流火履
+if GetActorCareer() == 2 then return true else return false end
+#+END_EXAMPLE
+
+** 再破重霄
+[[https://img.shields.io/badge/魅力-魅力值35点-blue.svg]]
+- 门派任务装，门派服装店
+#+BEGIN_EXAMPLE
+再破重霄冠
+再破重霄袍
+再破重霄腕
+再破重霄履
+if GetActorCareer() == 8 then return true else return false end
+#+END_EXAMPLE
+
+** 侠影疏狂
+[[https://img.shields.io/badge/魅力-魅力值35点-blue.svg]]
+- 门派任务装，门派服装店
+#+BEGIN_EXAMPLE
+侠影疏狂冠
+侠影疏狂袍
+侠影疏狂腕
+侠影疏狂履
+if GetActorCareer() == 3 then return true else return false end
+#+END_EXAMPLE
+
+** 朗月天风
+[[https://img.shields.io/badge/魅力-魅力值40点-blue.svg]]
+- 杭州低等级任务装，主城服装店
+#+BEGIN_EXAMPLE
+朗月天风冠
+朗月天风袍
+朗月天风腕
+朗月天风履
+#+END_EXAMPLE
+
+** 暖玉轻革
+[[https://img.shields.io/badge/魅力-魅力值40点-blue.svg]]
+- 江南任务装，主城服装店
+#+BEGIN_EXAMPLE
+暖玉轻革冠
+暖玉轻革袍
+暖玉轻革腕
+暖玉轻革履
+#+END_EXAMPLE
+
+** 秋水澄江
+[[https://img.shields.io/badge/魅力-魅力值40点-blue.svg]]
+- 略有小成礼盒-突破41级
+#+BEGIN_EXAMPLE
+秋水澄江冠
+秋水澄江袍
+秋水澄江腕
+秋水澄江履
+#+END_EXAMPLE
+
+** 红尘紫陌
+[[https://img.shields.io/badge/魅力-魅力值40点-blue.svg]]
+- 东越任务装，主城服装店
+#+BEGIN_EXAMPLE
+红尘紫陌冠
+红尘紫陌袍
+红尘紫陌腕
+红尘紫陌履
+#+END_EXAMPLE
+
+** 江天一色
+[[https://img.shields.io/badge/魅力-魅力值40点-blue.svg]]
+- 杭州高等级任务装，主城服装店
+#+BEGIN_EXAMPLE
+江天一色冠
+江天一色袍
+江天一色腕
+江天一色履
+#+END_EXAMPLE
+
+** 昔光如愿
+[[https://img.shields.io/badge/魅力-魅力值45点-blue.svg]]
+- 炉火纯青礼盒-突破61级
+#+BEGIN_EXAMPLE
+昔光如愿冠
+昔光如愿袍
+昔光如愿腕
+昔光如愿履
+#+END_EXAMPLE
+
+** 韶华争荣
+[[https://img.shields.io/badge/魅力-魅力值45点-blue.svg]]
+- 徐海任务装，主城服装店
+#+BEGIN_EXAMPLE
+韶华争荣冠
+韶华争荣袍
+韶华争荣腕
+韶华争荣履
+#+END_EXAMPLE
+
+** 墨武清流
+[[https://img.shields.io/badge/魅力-魅力值45点-blue.svg]]
+- 九华高等级任务装，主城服装店
+#+BEGIN_EXAMPLE
+墨武清流冠
+墨武清流袍
+墨武清流腕
+墨武清流履
+#+END_EXAMPLE
+
+** 赋风余韵
+[[https://img.shields.io/badge/魅力-魅力值50点-blue.svg]]
+- 登峰造极礼盒-突破75级
+#+BEGIN_EXAMPLE
+赋风余韵冠
+赋风余韵袍
+赋风余韵腕
+赋风余韵履
+#+END_EXAMPLE
+
+** 风抬雪秀
+[[https://img.shields.io/badge/魅力-魅力值50点-blue.svg]]
+- 71级开封任务装，主城服装店
+#+BEGIN_EXAMPLE
+风抬雪秀冠
+风抬雪秀袍
+风抬雪秀腕
+风抬雪秀履
+#+END_EXAMPLE
+
+** 紫宿天辰
+[[https://img.shields.io/badge/魅力-魅力值60点-blue.svg]]
+- 81级燕云任务装
+#+BEGIN_EXAMPLE
+紫宿天辰冠
+紫宿天辰袍
+紫宿天辰腕
+紫宿天辰履
+#+END_EXAMPLE
+
+** 蓑笠寒江
+[[https://img.shields.io/badge/魅力-魅力值35点-blue.svg]]
+- 普通·雨夜镇天牢、普通·强袭神武门
+#+BEGIN_EXAMPLE
+蓑笠寒江冠
+蓑笠寒江袍
+蓑笠寒江腕
+蓑笠寒江履
+#+END_EXAMPLE
+
+** 微夜潜行
+[[https://img.shields.io/badge/魅力-魅力值45点-blue.svg]]
+- 见闻：暗中行·夜探郡王府
+#+BEGIN_EXAMPLE
+微夜潜行冠
+微夜潜行袍
+微夜潜行腕
+微夜潜行履
+#+END_EXAMPLE
+
+** 弹剑鹰飞
+[[https://img.shields.io/badge/魅力-魅力值65点-blue.svg]]
+- 挑战·强袭神武门、挑战·奇袭血衣楼
+#+BEGIN_EXAMPLE
+弹剑鹰飞冠
+弹剑鹰飞袍
+弹剑鹰飞腕
+弹剑鹰飞履
+#+END_EXAMPLE
+
+** 萧野争锋
+[[https://img.shields.io/badge/魅力-魅力值65点-blue.svg]]
+- 普通/挑战·血战苍梧城、PVE兑换
+#+BEGIN_EXAMPLE
+萧野争锋冠
+萧野争锋袍
+萧野争锋腕
+萧野争锋履
+#+END_EXAMPLE
+
+** 傩舞天煞
+[[https://img.shields.io/badge/魅力-魅力值70点-blue.svg]]
+- 魅力特权“倾国倾城”商店获得
+#+BEGIN_EXAMPLE
+傩舞天煞冠
+傩舞天煞袍
+傩舞天煞腕
+傩舞天煞履
+#+END_EXAMPLE
+
+** 刀锋之华
+[[https://img.shields.io/badge/魅力-魅力值70点-blue.svg]]
+- 普通·天峰会八荒、PVE兑换
+#+BEGIN_EXAMPLE
+刀锋之华冠
+刀锋之华袍
+刀锋之华腕
+刀锋之华履
+#+END_EXAMPLE
+
+** 战舞霜城
+[[https://img.shields.io/badge/魅力-魅力值75点-blue.svg]]
+- 挑战·天峰会八荒、PVE兑换
+#+BEGIN_EXAMPLE
+战舞霜城冠
+战舞霜城袍
+战舞霜城腕
+战舞霜城履
+#+END_EXAMPLE
+
+** 洗影青莲
+[[https://img.shields.io/badge/魅力-魅力值35点-blue.svg]]
+- 30-40级制造装
+#+BEGIN_EXAMPLE
+洗影青莲冠
+洗影青莲袍
+洗影青莲腕
+洗影青莲履
+#+END_EXAMPLE
+
+** 绮念天罗
+[[https://img.shields.io/badge/魅力-魅力值40点-blue.svg]]
+- 40-50级制造装
+#+BEGIN_EXAMPLE
+绮念天罗冠
+绮念天罗袍
+绮念天罗腕
+绮念天罗履
+#+END_EXAMPLE
+
+** 苍山负雪
+[[https://img.shields.io/badge/魅力-魅力值45点-blue.svg]]
+- 50-60级制造装
+#+BEGIN_EXAMPLE
+苍山负雪冠
+苍山负雪袍
+苍山负雪腕
+苍山负雪履
+#+END_EXAMPLE
+
+** 左思明月
+[[https://img.shields.io/badge/魅力-魅力值45点-blue.svg]]
+- 60-70级制造装
+#+BEGIN_EXAMPLE
+左思明月冠
+左思明月袍
+左思明月腕
+左思明月履
+#+END_EXAMPLE
+
+** 血手玲珑
+[[https://img.shields.io/badge/魅力-魅力值50点-blue.svg]]
+- 71-80级制造装
+#+BEGIN_EXAMPLE
+血手玲珑冠
+血手玲珑袍
+血手玲珑腕
+血手玲珑履
+#+END_EXAMPLE
+
+** 画堂灵犀
+[[https://img.shields.io/badge/魅力-魅力值50点-blue.svg]]
+- 85-90级制造装
+#+BEGIN_EXAMPLE
+画堂灵犀冠
+画堂灵犀袍
+画堂灵犀腕
+画堂灵犀履
+#+END_EXAMPLE
+
+** 画水微明
+[[https://img.shields.io/badge/魅力-魅力值55点-blue.svg]]
+- 门派专属金色装备
+#+BEGIN_EXAMPLE
+画水微明冠
+画水微明袍
+画水微明腕
+画水微明履
+if GetActorCareer() == 0 then return true else return false end
+#+END_EXAMPLE
+
+** 飞凤苗银
+[[https://img.shields.io/badge/魅力-魅力值55点-blue.svg]]
+- 门派专属金色装备
+#+BEGIN_EXAMPLE
+飞凤苗银冠
+飞凤苗银袍
+飞凤苗银腕
+飞凤苗银履
+if GetActorCareer() == 5 then return true else return false end
+#+END_EXAMPLE
+
+** 轻梅映雪
+[[https://img.shields.io/badge/魅力-魅力值55点-blue.svg]]
+- 门派专属金色装备
+#+BEGIN_EXAMPLE
+轻梅映雪冠
+轻梅映雪袍
+轻梅映雪腕
+轻梅映雪履
+if GetActorCareer() == 7 then return true else return false end
+#+END_EXAMPLE
+
+** 琼宫弄月
+[[https://img.shields.io/badge/魅力-魅力值55点-blue.svg]]
+- 门派专属金色装备
+#+BEGIN_EXAMPLE
+琼宫弄月冠
+琼宫弄月袍
+琼宫弄月腕
+琼宫弄月履
+if GetActorCareer() == 4 then return true else return false end
+#+END_EXAMPLE
+
+** 剑啸寒川
+[[https://img.shields.io/badge/魅力-魅力值55点-blue.svg]]
+- 门派专属金色装备
+#+BEGIN_EXAMPLE
+剑啸寒川冠
+剑啸寒川袍
+剑啸寒川腕
+剑啸寒川履
+if GetActorCareer() == 1 then return true else return false end
+#+END_EXAMPLE
+
+** 勇冠三军
+[[https://img.shields.io/badge/魅力-魅力值55点-blue.svg]]
+- 门派专属金色装备
+#+BEGIN_EXAMPLE
+勇冠三军冠
+勇冠三军袍
+勇冠三军腕
+勇冠三军履
+if GetActorCareer() == 2 then return true else return false end
+#+END_EXAMPLE
+
+** 刀锋易冷
+[[https://img.shields.io/badge/魅力-魅力值55点-blue.svg]]
+- 门派专属金色装备
+#+BEGIN_EXAMPLE
+刀锋易冷冠
+刀锋易冷袍
+刀锋易冷腕
+刀锋易冷履
+if GetActorCareer() == 8 then return true else return false end
+#+END_EXAMPLE
+
+** 侠骨多情
+[[https://img.shields.io/badge/魅力-魅力值55点-blue.svg]]
+- 门派专属金色装备
+#+BEGIN_EXAMPLE
+侠骨多情冠
+侠骨多情袍
+侠骨多情腕
+侠骨多情履
+if GetActorCareer() == 3 then return true else return false end
+#+END_EXAMPLE
+
+** 澹云未雨
+[[https://img.shields.io/badge/魅力-魅力值65点-blue.svg]]
+- 门派专属金色装备
+#+BEGIN_EXAMPLE
+澹云未雨冠
+澹云未雨袍
+澹云未雨腕
+澹云未雨履
+if GetActorCareer() == 0 then return true else return false end
+#+END_EXAMPLE
+
+** 彩雉青纹
+[[https://img.shields.io/badge/魅力-魅力值65点-blue.svg]]
+- 门派专属金色装备
+#+BEGIN_EXAMPLE
+彩雉青纹冠
+彩雉青纹袍
+彩雉青纹腕
+彩雉青纹履
+if GetActorCareer() == 5 then return true else return false end
+#+END_EXAMPLE
+
+** 暮语亭兰
+[[https://img.shields.io/badge/魅力-魅力值65点-blue.svg]]
+- 门派专属金色装备
+#+BEGIN_EXAMPLE
+暮语亭兰冠
+暮语亭兰袍
+暮语亭兰腕
+暮语亭兰履
+if GetActorCareer() == 7 then return true else return false end
+#+END_EXAMPLE
+
+** 俪影飞星
+[[https://img.shields.io/badge/魅力-魅力值65点-blue.svg]]
+- 门派专属金色装备
+#+BEGIN_EXAMPLE
+俪影飞星冠
+俪影飞星袍
+俪影飞星腕
+俪影飞星履
+if GetActorCareer() == 4 then return true else return false end
+#+END_EXAMPLE
+
+** 秦风唱晚
+[[https://img.shields.io/badge/魅力-魅力值65点-blue.svg]]
+- 门派专属金色装备
+#+BEGIN_EXAMPLE
+秦风唱晚冠
+秦风唱晚袍
+秦风唱晚腕
+秦风唱晚履
+if GetActorCareer() == 1 then return true else return false end
+#+END_EXAMPLE
+
+** 扬沙万里
+[[https://img.shields.io/badge/魅力-魅力值65点-blue.svg]]
+- 门派专属金色装备
+#+BEGIN_EXAMPLE
+扬沙万里冠
+扬沙万里袍
+扬沙万里腕
+扬沙万里履
+if GetActorCareer() == 2 then return true else return false end
+#+END_EXAMPLE
+
+** 长空寄情
+[[https://img.shields.io/badge/魅力-魅力值65点-blue.svg]]
+- 门派专属金色装备
+#+BEGIN_EXAMPLE
+长空寄情冠
+长空寄情袍
+长空寄情腕
+长空寄情履
+if GetActorCareer() == 8 then return true else return false end
+#+END_EXAMPLE
+
+** 醉打西风
+[[https://img.shields.io/badge/魅力-魅力值65点-blue.svg]]
+- 门派专属金色装备
+#+BEGIN_EXAMPLE
+醉打西风冠
+醉打西风袍
+醉打西风腕
+醉打西风履
+if GetActorCareer() == 3 then return true else return false end
+#+END_EXAMPLE
+
+** 拂雨冲云
+[[https://img.shields.io/badge/魅力-魅力值75点-blue.svg]]
+- 门派专属金色装备
+#+BEGIN_EXAMPLE
+拂雨冲云冠
+拂雨冲云袍
+拂雨冲云腕
+拂雨冲云履
+if GetActorCareer() == 0 then return true else return false end
+#+END_EXAMPLE
+
+** 掩海遮风
+[[https://img.shields.io/badge/魅力-魅力值75点-blue.svg]]
+- 门派专属金色装备
+#+BEGIN_EXAMPLE
+掩海遮风冠
+掩海遮风袍
+掩海遮风腕
+掩海遮风履
+if GetActorCareer() == 5 then return true else return false end
+#+END_EXAMPLE
+
+** 芳姿盈袖
+[[https://img.shields.io/badge/魅力-魅力值75点-blue.svg]]
+- 门派专属金色装备
+#+BEGIN_EXAMPLE
+芳姿盈袖冠
+芳姿盈袖袍
+芳姿盈袖腕
+芳姿盈袖履
+if GetActorCareer() == 7 then return true else return false end
+#+END_EXAMPLE
+
+** 寒影追魂
+[[https://img.shields.io/badge/魅力-魅力值75点-blue.svg]]
+- 门派专属金色装备
+#+BEGIN_EXAMPLE
+寒影追魂冠
+寒影追魂袍
+寒影追魂腕
+寒影追魂履
+if GetActorCareer() == 4 then return true else return false end
+#+END_EXAMPLE
+
+** 扬名千秋
+[[https://img.shields.io/badge/魅力-魅力值75点-blue.svg]]
+- 门派专属金色装备
+#+BEGIN_EXAMPLE
+扬名千秋冠
+扬名千秋袍
+扬名千秋腕
+扬名千秋履
+if GetActorCareer() == 2 then return true else return false end
+#+END_EXAMPLE
+
+** 掩日风尘
+[[https://img.shields.io/badge/魅力-魅力值75点-blue.svg]]
+- 门派专属金色装备
+#+BEGIN_EXAMPLE
+掩日风尘冠
+掩日风尘袍
+掩日风尘腕
+掩日风尘履
+if GetActorCareer() == 8 then return true else return false end
+#+END_EXAMPLE
+
+** 醉卷黄河
+[[https://img.shields.io/badge/魅力-魅力值75点-blue.svg]]
+- 门派专属金色装备
+#+BEGIN_EXAMPLE
+醉卷黄河冠
+醉卷黄河袍
+醉卷黄河腕
+醉卷黄河履
+if GetActorCareer() == 3 then return true else return false end
+#+END_EXAMPLE
+
+** 霜天晓角
+[[https://img.shields.io/badge/魅力-魅力值40点-blue.svg]]
+- 帮贡商店兑换
+#+BEGIN_EXAMPLE
+霜天晓角冠
+霜天晓角袍
+霜天晓角腕
+霜天晓角履
+#+END_EXAMPLE
+
+** 骊歌破阵
+[[https://img.shields.io/badge/魅力-魅力值40点-blue.svg]]
+- 帮贡商店兑换
+#+BEGIN_EXAMPLE
+骊歌破阵冠
+骊歌破阵甲
+骊歌破阵腕
+骊歌破阵履
+#+END_EXAMPLE
+
+** 晴川远望
+[[https://img.shields.io/badge/魅力-魅力值50点-blue.svg]]
+- 野外稀缺产出
+#+BEGIN_EXAMPLE
+晴川远望冠
+晴川远望袍
+晴川远望腕
+晴川远望履
+#+END_EXAMPLE
+
+** 繁缨系年
+[[https://img.shields.io/badge/魅力-魅力值50点-blue.svg]]
+- 野外稀缺产出
+#+BEGIN_EXAMPLE
+繁缨系年冠
+繁缨系年袍
+繁缨系年腕
+繁缨系年履
+#+END_EXAMPLE
+
+** 逐草西戎
+[[https://img.shields.io/badge/魅力-魅力值50点-blue.svg]]
+- 野外稀缺产出
+#+BEGIN_EXAMPLE
+逐草西戎冠
+逐草西戎袍
+逐草西戎腕
+逐草西戎履
+#+END_EXAMPLE
+
+** 淬羽华光
+[[https://img.shields.io/badge/魅力-魅力值60点-blue.svg]]
+- 道聚城专区
+#+BEGIN_EXAMPLE
+淬羽华光
+淬羽华光
+#+END_EXAMPLE
+
+** 春水清茗
+[[https://img.shields.io/badge/魅力-魅力值40点-blue.svg]]
+- 节日商店
+#+BEGIN_EXAMPLE
+春水清茗冠
+春水清茗袍
+春水清茗腕
+春水清茗履
+#+END_EXAMPLE
+
+** 清夏灵均
+[[https://img.shields.io/badge/魅力-魅力值40点-blue.svg]]
+- 节日商店
+#+BEGIN_EXAMPLE
+清夏灵均冠
+清夏灵均袍
+清夏灵均腕
+清夏灵均履
+#+END_EXAMPLE
+
+** 一见钟情
+[[https://img.shields.io/badge/魅力-魅力值50点-blue.svg]]
+- 外装商店
+#+BEGIN_EXAMPLE
+一见钟情冠
+一见钟情袍
+一见钟情腕
+一见钟情履
+#+END_EXAMPLE
+
+** 络云·白
+[[https://img.shields.io/badge/魅力-魅力值20点-blue.svg]]
+- 外装商店
+#+BEGIN_EXAMPLE
+络云·白
+return (ActorGenderIsMatching(1) or ActorGenderIsMatching(2))
+#+END_EXAMPLE
+
+** 络云·粉
+[[https://img.shields.io/badge/魅力-魅力值25点-blue.svg]]
+- 外装商店
+#+BEGIN_EXAMPLE
+络云·粉
+return (ActorGenderIsMatching(1) or ActorGenderIsMatching(2))
+#+END_EXAMPLE
+
+** 络云·紫
+[[https://img.shields.io/badge/魅力-魅力值35点-blue.svg]]
+- 外装商店
+#+BEGIN_EXAMPLE
+络云·紫
+return (ActorGenderIsMatching(1) or ActorGenderIsMatching(2))
+#+END_EXAMPLE
+
+** 络云·绛
+[[https://img.shields.io/badge/魅力-魅力值40点-blue.svg]]
+- 外装商店
+#+BEGIN_EXAMPLE
+络云·绛
+return (ActorGenderIsMatching(1) or ActorGenderIsMatching(2))
+#+END_EXAMPLE
+
+** 圣绣·天岚
+[[https://img.shields.io/badge/魅力-魅力值25点-blue.svg]]
+- 商城购买获得
+#+BEGIN_EXAMPLE
+圣绣·天岚冠
+圣绣·天岚袍
+圣绣·天岚腕
+圣绣·天岚履
+#+END_EXAMPLE
+
+** 圣绣·袭光
+[[https://img.shields.io/badge/魅力-魅力值40点-blue.svg]]
+- 商城购买获得
+#+BEGIN_EXAMPLE
+圣绣·袭光冠
+圣绣·袭光袍
+圣绣·袭光腕
+圣绣·袭光履
+#+END_EXAMPLE
+
+** 心王·翎羽
+[[https://img.shields.io/badge/魅力-魅力值40点-blue.svg]]
+- 商城购买获得
+#+BEGIN_EXAMPLE
+心王·翎羽冠
+心王·翎羽袍
+心王·翎羽腕
+心王·翎羽履
+#+END_EXAMPLE
+
+** 圣绣·冰云
+[[https://img.shields.io/badge/魅力-魅力值25点-blue.svg]]
+- 商城购买获得
+#+BEGIN_EXAMPLE
+圣绣·冰云冠
+圣绣·冰云袍
+圣绣·冰云腕
+圣绣·冰云履
+#+END_EXAMPLE
+
+** 圣绣·空明
+[[https://img.shields.io/badge/魅力-魅力值25点-blue.svg]]
+- 商城购买获得
+#+BEGIN_EXAMPLE
+圣绣·空明冠
+圣绣·空明袍
+圣绣·空明腕
+圣绣·空明履
+#+END_EXAMPLE
+
+** 圣绣·琅琊
+[[https://img.shields.io/badge/魅力-魅力值25点-blue.svg]]
+- 商城购买获得
+#+BEGIN_EXAMPLE
+圣绣·琅琊冠
+圣绣·琅琊袍
+圣绣·琅琊腕
+圣绣·琅琊履
+#+END_EXAMPLE
+
+** 圣绣·骊珠
+[[https://img.shields.io/badge/魅力-魅力值25点-blue.svg]]
+- 商城购买获得
+#+BEGIN_EXAMPLE
+圣绣·骊珠冠
+圣绣·骊珠袍
+圣绣·骊珠腕
+圣绣·骊珠履
+#+END_EXAMPLE
+
+** 圣绣·落梅
+[[https://img.shields.io/badge/魅力-魅力值25点-blue.svg]]
+- 商城购买获得
+#+BEGIN_EXAMPLE
+圣绣·落梅冠
+圣绣·落梅袍
+圣绣·落梅腕
+圣绣·落梅履
+#+END_EXAMPLE
+
+** 圣绣·明霞
+[[https://img.shields.io/badge/魅力-魅力值25点-blue.svg]]
+- 商城购买获得
+#+BEGIN_EXAMPLE
+圣绣·明霞冠
+圣绣·明霞袍
+圣绣·明霞腕
+圣绣·明霞履
+#+END_EXAMPLE
+
+** 圣绣·清甜
+[[https://img.shields.io/badge/魅力-魅力值30点-blue.svg]]
+- 商城购买获得
+#+BEGIN_EXAMPLE
+圣绣·清甜冠
+圣绣·清甜袍
+圣绣·清甜腕
+圣绣·清甜履
+#+END_EXAMPLE
+
+** 圣绣·神庭
+[[https://img.shields.io/badge/魅力-魅力值25点-blue.svg]]
+- 商城购买获得
+#+BEGIN_EXAMPLE
+圣绣·神庭冠
+圣绣·神庭袍
+圣绣·神庭腕
+圣绣·神庭履
+#+END_EXAMPLE
+
+** 圣绣·素问
+[[https://img.shields.io/badge/魅力-魅力值25点-blue.svg]]
+- 商城购买获得
+#+BEGIN_EXAMPLE
+圣绣·素问冠
+圣绣·素问袍
+圣绣·素问腕
+圣绣·素问履
+#+END_EXAMPLE
+
+** 圣绣·随云
+[[https://img.shields.io/badge/魅力-魅力值25点-blue.svg]]
+- 商城购买获得
+#+BEGIN_EXAMPLE
+圣绣·随云冠
+圣绣·随云袍
+圣绣·随云腕
+圣绣·随云履
+#+END_EXAMPLE
+
+** 圣绣·天芒
+[[https://img.shields.io/badge/魅力-魅力值25点-blue.svg]]
+- 商城购买获得
+#+BEGIN_EXAMPLE
+圣绣·天芒冠
+圣绣·天芒袍
+圣绣·天芒腕
+圣绣·天芒履
+#+END_EXAMPLE
+
+** 圣绣·无缺
+[[https://img.shields.io/badge/魅力-魅力值20点-blue.svg]]
+- 商城购买获得
+#+BEGIN_EXAMPLE
+圣绣·无缺冠
+圣绣·无缺袍
+圣绣·无缺腕
+圣绣·无缺履
+#+END_EXAMPLE
+
+** 圣绣·雪宸
+[[https://img.shields.io/badge/魅力-魅力值20点-blue.svg]]
+- 商城购买获得
+#+BEGIN_EXAMPLE
+圣绣·雪宸冠
+圣绣·雪宸袍
+圣绣·雪宸腕
+圣绣·雪宸履
+#+END_EXAMPLE
+
+** 圣绣·雪影
+[[https://img.shields.io/badge/魅力-魅力值30点-blue.svg]]
+- 商城购买获得
+#+BEGIN_EXAMPLE
+圣绣·雪影冠
+圣绣·雪影袍
+圣绣·雪影腕
+圣绣·雪影履
+#+END_EXAMPLE
+
+** 心王·蝶衣
+[[https://img.shields.io/badge/魅力-魅力值45点-blue.svg]]
+- 商城购买获得
+#+BEGIN_EXAMPLE
+心王·蝶衣冠
+心王·蝶衣袍
+心王·蝶衣腕
+心王·蝶衣履
+#+END_EXAMPLE
+
+** 心王·扶苏
+[[https://img.shields.io/badge/魅力-魅力值45点-blue.svg]]
+- 商城购买获得
+#+BEGIN_EXAMPLE
+心王·扶苏冠
+心王·扶苏袍
+心王·扶苏腕
+心王·扶苏履
+#+END_EXAMPLE
+
+** 心王·入君怀
+[[https://img.shields.io/badge/魅力-魅力值45点-blue.svg]]
+- 商城购买获得
+#+BEGIN_EXAMPLE
+心王·入君怀冠
+心王·入君怀袍
+心王·入君怀腕
+心王·入君怀履
+#+END_EXAMPLE
+
+** 心王·相见欢
+[[https://img.shields.io/badge/魅力-魅力值55点-blue.svg]]
+- 商城购买获得
+#+BEGIN_EXAMPLE
+心王·相见欢冠
+心王·相见欢袍
+心王·相见欢腕
+心王·相见欢履
+#+END_EXAMPLE
+
+** 圣绣·从龙
+[[https://img.shields.io/badge/魅力-魅力值25点-blue.svg]]
+- 商城购买获得
+#+BEGIN_EXAMPLE
+圣绣·从龙冠
+圣绣·从龙袍
+圣绣·从龙腕
+圣绣·从龙履
+#+END_EXAMPLE
+
+** 心王·逆鳞
+[[https://img.shields.io/badge/魅力-魅力值45点-blue.svg]]
+- 商城购买获得
+#+BEGIN_EXAMPLE
+心王·逆鳞冠
+心王·逆鳞袍
+心王·逆鳞腕
+心王·逆鳞履
+#+END_EXAMPLE
+
+** 圣绣·昭华
+[[https://img.shields.io/badge/魅力-魅力值25点-blue.svg]]
+- 商城购买获得
+#+BEGIN_EXAMPLE
+圣绣·昭华冠
+圣绣·昭华袍
+圣绣·昭华腕
+圣绣·昭华履
+#+END_EXAMPLE
+
+** 心王·听风
+[[https://img.shields.io/badge/魅力-魅力值50点-blue.svg]]
+- 商城购买获得
+#+BEGIN_EXAMPLE
+心王·听风冠
+心王·听风袍
+心王·听风腕
+心王·听风履
+#+END_EXAMPLE
+
+** 圣绣·萧霜
+[[https://img.shields.io/badge/魅力-魅力值35点-blue.svg]]
+- 商城购买获得
+#+BEGIN_EXAMPLE
+圣绣·萧霜冠
+圣绣·萧霜袍
+圣绣·萧霜腕
+圣绣·萧霜履
+#+END_EXAMPLE
+
+** 心王·抱春风
+[[https://img.shields.io/badge/魅力-魅力值50点-blue.svg]]
+- 商城购买获得
+#+BEGIN_EXAMPLE
+心王·抱春风冠
+心王·抱春风袍
+心王·抱春风腕
+心王·抱春风履
+#+END_EXAMPLE
+
+** 圣绣·齐灵
+[[https://img.shields.io/badge/魅力-魅力值25点-blue.svg]]
+- 商城购买获得
+#+BEGIN_EXAMPLE
+圣绣·齐灵冠
+圣绣·齐灵袍
+圣绣·齐灵腕
+圣绣·齐灵履
+#+END_EXAMPLE
+
+** 吹雪霓裳
+[[https://img.shields.io/badge/魅力-魅力值80点-blue.svg]]
+- 商城天赏积分兑换获得
+#+BEGIN_EXAMPLE
+吹雪霓裳冠
+吹雪霓裳袍
+吹雪霓裳腕
+吹雪霓裳履
+#+END_EXAMPLE
+
+** 圣绣·南唐
+[[https://img.shields.io/badge/魅力-魅力值35点-blue.svg]]
+- 商城天赏积分兑换获得
+#+BEGIN_EXAMPLE
+圣绣·南唐冠
+圣绣·南唐袍
+圣绣·南唐腕
+圣绣·南唐履
+#+END_EXAMPLE
+
+** 人间梦华
+[[https://img.shields.io/badge/魅力-魅力值55点-blue.svg]]
+- 商城天赏积分兑换获得
+#+BEGIN_EXAMPLE
+人间梦华冠
+人间梦华袍
+人间梦华腕
+人间梦华履
+#+END_EXAMPLE
+
+** 圣绣·锦衣
+[[https://img.shields.io/badge/魅力-魅力值75点-blue.svg]]
+- 商城天赏积分兑换获得
+#+BEGIN_EXAMPLE
+圣绣·锦衣冠
+圣绣·锦衣袍
+圣绣·锦衣腕
+圣绣·锦衣履
+#+END_EXAMPLE
+
+** 心王·九曜
+[[https://img.shields.io/badge/魅力-魅力值90点-blue.svg]]
+- 商城天赏积分兑换获得
+#+BEGIN_EXAMPLE
+心王·九曜冠
+心王·九曜袍
+心王·九曜腕
+心王·九曜履
+#+END_EXAMPLE
+
+** 圣绣·北辰
+[[https://img.shields.io/badge/魅力-魅力值200点-blue.svg]]
+- 商城天赏积分兑换获得
+#+BEGIN_EXAMPLE
+圣绣·北辰冠
+圣绣·北辰袍
+圣绣·北辰腕
+圣绣·北辰履
+#+END_EXAMPLE
+
+** 日月当空
+[[https://img.shields.io/badge/魅力-魅力值225点-blue.svg]]
+- 商城天赏积分兑换获得
+#+BEGIN_EXAMPLE
+日月当空冠
+日月当空袍
+日月当空腕
+日月当空履
+#+END_EXAMPLE
+
+** 心王·舒音
+[[https://img.shields.io/badge/魅力-魅力值250点-blue.svg]]
+- 商城天赏积分兑换获得
+#+BEGIN_EXAMPLE
+心王·舒音冠
+心王·舒音袍
+心王·舒音腕
+心王·舒音履
+#+END_EXAMPLE
+
+** 心王·独孤
+[[https://img.shields.io/badge/魅力-魅力值350点-blue.svg]]
+- 商城天赏积分兑换获得
+#+BEGIN_EXAMPLE
+心王·独孤冠
+心王·独孤袍
+心王·独孤腕
+心王·独孤履
+#+END_EXAMPLE
+
+** 雾隐雷藏
+[[https://img.shields.io/badge/魅力-魅力值450点-blue.svg]]
+- 商城天赏积分兑换获得
+#+BEGIN_EXAMPLE
+雾隐雷藏冠
+雾隐雷藏袍
+雾隐雷藏腕
+雾隐雷藏履
+#+END_EXAMPLE
+
+** 会饮征年
+[[https://img.shields.io/badge/魅力-魅力值30点-blue.svg]]
+- 道聚城专区
+#+BEGIN_EXAMPLE
+会饮征年冠
+会饮征年袍
+会饮征年腕
+会饮征年履
+#+END_EXAMPLE
+
+** 流云金璧
+[[https://img.shields.io/badge/魅力-魅力值30点-blue.svg]]
+- 道聚城专区
+#+BEGIN_EXAMPLE
+流云金璧冠
+流云金璧袍
+流云金璧腕
+流云金璧履
+#+END_EXAMPLE
+
+** 一曲菁华
+[[https://img.shields.io/badge/魅力-魅力值30点-blue.svg]]
+- 道聚城专区
+#+BEGIN_EXAMPLE
+一曲菁华冠
+一曲菁华袍
+一曲菁华腕
+一曲菁华履
+#+END_EXAMPLE
+
+** 诗音探花
+[[https://img.shields.io/badge/魅力-魅力值25点-blue.svg]]
+- 道聚城专区
+#+BEGIN_EXAMPLE
+诗音探花冠
+诗音探花袍
+诗音探花腕
+诗音探花履
+#+END_EXAMPLE
+
+** 携玉霜刀
+[[https://img.shields.io/badge/魅力-魅力值20点-blue.svg]]
+- 道聚城专区
+#+BEGIN_EXAMPLE
+携玉霜刀冠
+携玉霜刀袍
+携玉霜刀腕
+携玉霜刀履
+#+END_EXAMPLE
+
+** 乱世孤魂
+[[https://img.shields.io/badge/魅力-魅力值70点-blue.svg]]
+- 魅力特权“绰约如仙”商店获得
+#+BEGIN_EXAMPLE
+乱世孤魂冠
+乱世孤魂袍
+乱世孤魂腕
+乱世孤魂履
+#+END_EXAMPLE
+
+** 朔风吟月
+[[https://img.shields.io/badge/魅力-魅力值75点-blue.svg]]
+- 门派专属金色装备
+#+BEGIN_EXAMPLE
+朔风吟月冠
+朔风吟月袍
+朔风吟月腕
+朔风吟月履
+if GetActorCareer() == 1 then return true else return false end
+#+END_EXAMPLE
+
+** 圣绣·兰亭
+[[https://img.shields.io/badge/魅力-魅力值20点-blue.svg]]
+- 商城购买获得
+#+BEGIN_EXAMPLE
+圣绣·兰亭冠
+圣绣·兰亭袍
+圣绣·兰亭腕
+圣绣·兰亭履
+#+END_EXAMPLE
+
+** 圣绣·月魄
+[[https://img.shields.io/badge/魅力-魅力值20点-blue.svg]]
+- 商城购买获得
+#+BEGIN_EXAMPLE
+圣绣·月魂冠
+圣绣·月魂袍
+圣绣·月魂腕
+圣绣·月魂履
+#+END_EXAMPLE
+
+** 圣绣·秦王
+[[https://img.shields.io/badge/魅力-魅力值150点-blue.svg]]
+- 商城天赏积分兑换获得
+#+BEGIN_EXAMPLE
+圣绣·秦王冠
+圣绣·秦王袍
+圣绣·秦王腕
+圣绣·秦王履
+#+END_EXAMPLE
+
+** 心王·锦鲤抄
+[[https://img.shields.io/badge/魅力-魅力值50点-blue.svg]]
+- 商城购买获得
+#+BEGIN_EXAMPLE
+心王·锦鲤抄冠
+心王·锦鲤抄袍
+心王·锦鲤抄腕
+心王·锦鲤抄履
+#+END_EXAMPLE
+
+** 圣绣·青萝
+[[https://img.shields.io/badge/魅力-魅力值20点-blue.svg]]
+- 商城购买获得
+#+BEGIN_EXAMPLE
+圣绣·青萝冠
+圣绣·青萝袍
+圣绣·青萝腕
+圣绣·青萝履
+#+END_EXAMPLE
+
+** 圣绣·莫言
+[[https://img.shields.io/badge/魅力-魅力值20点-blue.svg]]
+- 商城购买获得
+#+BEGIN_EXAMPLE
+圣绣·莫言冠
+圣绣·莫言袍
+圣绣·莫言腕
+圣绣·莫言履
+#+END_EXAMPLE
+
+** 孤鸿踏雪
+[[https://img.shields.io/badge/魅力-魅力值35点-blue.svg]]
+- 商城购买获得
+#+BEGIN_EXAMPLE
+孤鸿踏雪冠
+孤鸿踏雪袍
+孤鸿踏雪腕
+孤鸿踏雪履
+#+END_EXAMPLE
+
+** 心王·明妆
+[[https://img.shields.io/badge/魅力-魅力值50点-blue.svg]]
+- 商城购买获得
+#+BEGIN_EXAMPLE
+心王·明妆冠
+心王·明妆袍
+心王·明妆腕
+心王·明妆履
+#+END_EXAMPLE
+
+** 圣绣·倾城
+[[https://img.shields.io/badge/魅力-魅力值25点-blue.svg]]
+- 商城购买获得
+#+BEGIN_EXAMPLE
+圣绣·倾城冠
+圣绣·倾城袍
+圣绣·倾城腕
+圣绣·倾城履
+#+END_EXAMPLE
+
+** 沧海烟霞
+[[https://img.shields.io/badge/魅力-魅力值125点-blue.svg]]
+- 商城天赏积分兑换获得
+#+BEGIN_EXAMPLE
+沧海烟霞冠
+沧海烟霞袍
+沧海烟霞腕
+沧海烟霞履
+#+END_EXAMPLE
+
+** 圣绣·玉京
+[[https://img.shields.io/badge/魅力-魅力值25点-blue.svg]]
+- 商城天赏积分兑换获得
+#+BEGIN_EXAMPLE
+圣绣·玉京冠
+圣绣·玉京袍
+圣绣·玉京腕
+圣绣·玉京履
+#+END_EXAMPLE
+
+** 心王·小红娘
+[[https://img.shields.io/badge/魅力-魅力值50点-blue.svg]]
+- 商城购买获得
+#+BEGIN_EXAMPLE
+心王·小红娘冠
+心王·小红娘袍
+心王·小红娘腕
+心王·小红娘履
+#+END_EXAMPLE
+
+** 芳姿·天华
+[[https://img.shields.io/badge/魅力-魅力值20点-blue.svg]]
+- 商城购买获得
+#+BEGIN_EXAMPLE
+芳姿·天华冠
+芳姿·天华袍
+芳姿·天华腕
+芳姿·天华履
+#+END_EXAMPLE
+
+** 圣绣·九歌
+[[https://img.shields.io/badge/魅力-魅力值20点-blue.svg]]
+- 商城购买获得
+#+BEGIN_EXAMPLE
+圣绣·九歌冠
+圣绣·九歌袍
+圣绣·九歌腕
+圣绣·九歌履
+#+END_EXAMPLE
+
+** 冰心无垢
+[[https://img.shields.io/badge/魅力-魅力值40点-blue.svg]]
+- 魅力特权“风华万代”商店获得
+#+BEGIN_EXAMPLE
+冰心无垢冠
+冰心无垢袍
+冰心无垢腕
+冰心无垢履
+#+END_EXAMPLE
+
+** 心王·陌上花
+[[https://img.shields.io/badge/魅力-魅力值50点-blue.svg]]
+- 商城购买获得
+#+BEGIN_EXAMPLE
+心王·陌上花冠
+心王·陌上花袍
+心王·陌上花腕
+心王·陌上花履
+#+END_EXAMPLE
+
+** 天龙破阵
+[[https://img.shields.io/badge/魅力-魅力值255点-blue.svg]]
+- 商城天赏积分兑换获得
+#+BEGIN_EXAMPLE
+天龙破阵冠
+天龙破阵袍
+天龙破阵腕
+天龙破阵履
+#+END_EXAMPLE
+
+** 碧水青鸾
+[[https://img.shields.io/badge/魅力-魅力值80点-blue.svg]]
+- 魅力特权“绰约如仙”商店获得
+#+BEGIN_EXAMPLE
+碧海青鸾冠
+碧海青鸾袍
+碧海青鸾腕
+碧海青鸾履
+#+END_EXAMPLE
+
+** 幻雨萦云
+[[https://img.shields.io/badge/魅力-魅力值20点-blue.svg]]
+- 魅力特权“惊鸿一瞥”商店获得
+#+BEGIN_EXAMPLE
+幻雨萦云冠
+幻雨萦云袍
+幻雨萦云履
+幻雨萦云腕
+#+END_EXAMPLE
+
+** 秋萤绕屏
+[[https://img.shields.io/badge/魅力-魅力值20点-blue.svg]]
+- 魅力特权“惊鸿一瞥”商店获得
+#+BEGIN_EXAMPLE
+秋萤绕屏冠
+秋萤绕屏袍
+秋萤绕屏履
+秋萤绕屏腕
+#+END_EXAMPLE
+
+** 瀚海青龙
+[[https://img.shields.io/badge/魅力-魅力值20点-blue.svg]]
+- 魅力特权“惊鸿一瞥”商店获得
+#+BEGIN_EXAMPLE
+瀚海青龙冠
+瀚海青龙袍
+瀚海青龙履
+瀚海青龙腕
+#+END_EXAMPLE
+
+** 天羽含光
+[[https://img.shields.io/badge/魅力-魅力值25点-blue.svg]]
+- 魅力特权“姿容典雅”商店获得
+#+BEGIN_EXAMPLE
+天羽含光冠
+天羽含光袍
+天羽含光履
+天羽含光腕
+#+END_EXAMPLE
+
+** 欲饮琵琶
+[[https://img.shields.io/badge/魅力-魅力值25点-blue.svg]]
+- 魅力特权“姿容典雅”商店获得
+#+BEGIN_EXAMPLE
+欲饮琵琶冠
+欲饮琵琶袍
+欲饮琵琶履
+欲饮琵琶腕
+#+END_EXAMPLE
+
+** 牧野天荒
+[[https://img.shields.io/badge/魅力-魅力值25点-blue.svg]]
+- 魅力特权“姿容典雅”商店获得
+#+BEGIN_EXAMPLE
+牧野天荒冠
+牧野天荒袍
+牧野天荒履
+牧野天荒腕
+#+END_EXAMPLE
+
+** 天邪鬼甲
+[[https://img.shields.io/badge/魅力-魅力值35点-blue.svg]]
+- 魅力特权“姿容典雅”商店获得
+#+BEGIN_EXAMPLE
+天邪鬼甲冠
+天邪鬼甲袍
+天邪鬼甲腕
+天邪鬼甲履
+#+END_EXAMPLE
+
+** 霜夜沧溟
+[[https://img.shields.io/badge/魅力-魅力值30点-blue.svg]]
+- 魅力特权“衣香鬓影”商店获得
+#+BEGIN_EXAMPLE
+霜夜沧溟冠
+霜夜沧溟袍
+霜夜沧溟履
+霜夜沧溟腕
+#+END_EXAMPLE
+
+** 鲛鲨掠水
+[[https://img.shields.io/badge/魅力-魅力值30点-blue.svg]]
+- 魅力特权“衣香鬓影”商店获得
+#+BEGIN_EXAMPLE
+鲛鲨掠水冠
+鲛鲨掠水袍
+鲛鲨掠水履
+鲛鲨掠水腕
+#+END_EXAMPLE
+
+** 神武喋血
+[[https://img.shields.io/badge/魅力-魅力值30点-blue.svg]]
+- 魅力特权“衣香鬓影”商店获得
+#+BEGIN_EXAMPLE
+神武喋血冠
+神武喋血袍
+神武喋血履
+神武喋血腕
+#+END_EXAMPLE
+
+** 鹤舞霜翎
+[[https://img.shields.io/badge/魅力-魅力值35点-blue.svg]]
+- 魅力特权“翩翩如玉”商店获得
+#+BEGIN_EXAMPLE
+鹤舞霜翎冠
+鹤舞霜翎袍
+鹤舞霜翎履
+鹤舞霜翎腕
+#+END_EXAMPLE
+
+** 狭路相逢
+[[https://img.shields.io/badge/魅力-魅力值35点-blue.svg]]
+- 魅力特权“翩翩如玉”商店获得
+#+BEGIN_EXAMPLE
+狭路相逢冠
+狭路相逢袍
+狭路相逢履
+狭路相逢腕
+#+END_EXAMPLE
+
+** 空语流光
+[[https://img.shields.io/badge/魅力-魅力值35点-blue.svg]]
+- 魅力特权“翩翩如玉”商店获得
+#+BEGIN_EXAMPLE
+空语流光冠
+空语流光袍
+空语流光履
+空语流光腕
+#+END_EXAMPLE
+
+** 练影清光
+[[https://img.shields.io/badge/魅力-魅力值40点-blue.svg]]
+- 魅力特权“惊才绝艳”商店获得
+#+BEGIN_EXAMPLE
+练影清光冠
+练影清光袍
+练影清光履
+练影清光腕
+#+END_EXAMPLE
+
+** 龙章凤姿
+[[https://img.shields.io/badge/魅力-魅力值40点-blue.svg]]
+- 魅力特权“惊才绝艳”商店获得
+#+BEGIN_EXAMPLE
+龙章凤姿冠
+龙章凤姿袍
+龙章凤姿履
+龙章凤姿腕
+#+END_EXAMPLE
+
+** 邀夜红尘
+[[https://img.shields.io/badge/魅力-魅力值40点-blue.svg]]
+- 魅力特权“惊才绝艳”商店获得
+#+BEGIN_EXAMPLE
+邀夜红尘冠
+邀夜红尘袍
+邀夜红尘履
+邀夜红尘腕
+#+END_EXAMPLE
+
+** 兰陵纵意
+[[https://img.shields.io/badge/魅力-魅力值40点-blue.svg]]
+- 魅力特权“惊才绝艳”商店获得
+#+BEGIN_EXAMPLE
+兰陵纵意冠
+兰陵纵意袍
+兰陵纵意履
+兰陵纵意腕
+#+END_EXAMPLE
+
+** 心王·洛天依
+[[https://img.shields.io/badge/魅力-魅力值45点-blue.svg]]
+- 商城购买获得
+#+BEGIN_EXAMPLE
+心王·洛天依冠
+心王·洛天依袍
+心王·洛天依腕
+心王·洛天依履
+#+END_EXAMPLE
+
+** 丹凤九转
+[[https://img.shields.io/badge/魅力-魅力值50点-blue.svg]]
+- 门派专属金色装备
+#+BEGIN_EXAMPLE
+丹凤九转冠
+丹凤九转袍
+丹凤九转腕
+丹凤九转履
+if GetActorCareer() == 8 then return true else return false end
+#+END_EXAMPLE
+
+** 酩酊风流
+[[https://img.shields.io/badge/魅力-魅力值50点-blue.svg]]
+- 门派专属金色装备
+#+BEGIN_EXAMPLE
+酩酊风流冠
+酩酊风流袍
+酩酊风流腕
+酩酊风流履
+if GetActorCareer() == 3 then return true else return false end
+#+END_EXAMPLE
+
+** 碎梦繁花
+[[https://img.shields.io/badge/魅力-魅力值50点-blue.svg]]
+- 门派专属金色装备
+#+BEGIN_EXAMPLE
+碎梦繁花冠
+碎梦繁花袍
+碎梦繁花腕
+碎梦繁花履
+if GetActorCareer() == 7 then return true else return false end
+#+END_EXAMPLE
+
+** 孤影极寒
+[[https://img.shields.io/badge/魅力-魅力值50点-blue.svg]]
+- 门派专属金色装备
+#+BEGIN_EXAMPLE
+孤影极寒冠
+孤影极寒袍
+孤影极寒腕
+孤影极寒履
+if GetActorCareer() == 1 then return true else return false end
+#+END_EXAMPLE
+
+** 晓月长空
+[[https://img.shields.io/badge/魅力-魅力值50点-blue.svg]]
+- 门派专属金色装备
+#+BEGIN_EXAMPLE
+晓月长空冠
+晓月长空袍
+晓月长空腕
+晓月长空履
+if GetActorCareer() == 4 then return true else return false end
+#+END_EXAMPLE
+
+** 百羽双凤
+[[https://img.shields.io/badge/魅力-魅力值50点-blue.svg]]
+- 门派专属金色装备
+#+BEGIN_EXAMPLE
+百羽双凤冠
+百羽双凤袍
+百羽双凤腕
+百羽双凤履
+if GetActorCareer() == 5 then return true else return false end
+#+END_EXAMPLE
+
+** 碧血铭沙
+[[https://img.shields.io/badge/魅力-魅力值50点-blue.svg]]
+- 门派专属金色装备
+#+BEGIN_EXAMPLE
+碧血铭沙冠
+碧血铭沙袍
+碧血铭沙腕
+碧血铭沙履
+if GetActorCareer() == 2 then return true else return false end
+#+END_EXAMPLE
+
+** 玄机空濛
+[[https://img.shields.io/badge/魅力-魅力值50点-blue.svg]]
+- 门派专属金色装备
+#+BEGIN_EXAMPLE
+玄机空濛冠
+玄机空濛袍
+玄机空濛腕
+玄机空濛履
+if GetActorCareer() == 0 then return true else return false end
+#+END_EXAMPLE
+
+** 武道·雪魄尘光
+[[https://img.shields.io/badge/魅力-魅力值80点-blue.svg]]
+- 门派专属金色装备
+#+BEGIN_EXAMPLE
+武道·雪魄尘光冠
+武道·雪魄尘光袍
+武道·雪魄尘光腕
+武道·雪魄尘光履
+if GetActorCareer() == 1 then return true else return false end
+#+END_EXAMPLE
+
+** 武道·瀚海驰骋
+[[https://img.shields.io/badge/魅力-魅力值80点-blue.svg]]
+- 门派专属金色装备
+#+BEGIN_EXAMPLE
+武道·瀚海驰骋冠
+武道·瀚海驰骋袍
+武道·瀚海驰骋腕
+武道·瀚海驰骋履
+if GetActorCareer() == 2 then return true else return false end
+#+END_EXAMPLE
+
+** 武道·独酌天下
+[[https://img.shields.io/badge/魅力-魅力值80点-blue.svg]]
+- 门派专属金色装备
+#+BEGIN_EXAMPLE
+武道·独酌天下冠
+武道·独酌天下袍
+武道·独酌天下腕
+武道·独酌天下履
+if GetActorCareer() == 3 then return true else return false end
+#+END_EXAMPLE
+
+** 武道·风露霜晨
+[[https://img.shields.io/badge/魅力-魅力值80点-blue.svg]]
+- 门派专属金色装备
+#+BEGIN_EXAMPLE
+武道·风露霜晨冠
+武道·风露霜晨袍
+武道·风露霜晨腕
+武道·风露霜晨履
+if GetActorCareer() == 4 then return true else return false end
+#+END_EXAMPLE
+
+** 武道·神机韬略
+[[https://img.shields.io/badge/魅力-魅力值80点-blue.svg]]
+- 门派专属金色装备
+#+BEGIN_EXAMPLE
+武道·神机韬略冠
+武道·神机韬略袍
+武道·神机韬略腕
+武道·神机韬略履
+if GetActorCareer() == 0 then return true else return false end
+#+END_EXAMPLE
+
+** 武道·臻姿凤仪
+[[https://img.shields.io/badge/魅力-魅力值80点-blue.svg]]
+- 门派专属金色装备
+#+BEGIN_EXAMPLE
+武道·臻姿凤仪冠
+武道·臻姿凤仪袍
+武道·臻姿凤仪腕
+武道·臻姿凤仪履
+if GetActorCareer() == 7 then return true else return false end
+#+END_EXAMPLE
+
+** 武道·枫香泪雨
+[[https://img.shields.io/badge/魅力-魅力值80点-blue.svg]]
+- 门派专属金色装备
+#+BEGIN_EXAMPLE
+武道·枫香泪雨冠
+武道·枫香泪雨袍
+武道·枫香泪雨腕
+武道·枫香泪雨履
+if GetActorCareer() == 5 then return true else return false end
+#+END_EXAMPLE
+
+** 武道·永夜杀神
+[[https://img.shields.io/badge/魅力-魅力值80点-blue.svg]]
+- 门派专属金色装备
+#+BEGIN_EXAMPLE
+武道·永夜杀神冠
+武道·永夜杀神袍
+武道·永夜杀神腕
+武道·永夜杀神履
+if GetActorCareer() == 8 then return true else return false end
+#+END_EXAMPLE
+
+** 圣绣·明玉
+[[https://img.shields.io/badge/魅力-魅力值25点-blue.svg]]
+- 商城购买获得
+#+BEGIN_EXAMPLE
+圣绣·明玉冠
+圣绣·明玉袍
+圣绣·明玉腕
+圣绣·明玉履
+#+END_EXAMPLE
+
+** 心王·祈年
+[[https://img.shields.io/badge/魅力-魅力值45点-blue.svg]]
+- 商城购买获得
+#+BEGIN_EXAMPLE
+心王·祈年冠
+心王·祈年袍
+心王·祈年腕
+心王·祈年履
+#+END_EXAMPLE
+
+** 刹那生灭
+[[https://img.shields.io/badge/魅力-魅力值300点-blue.svg]]
+- 商城天赏积分兑换获得
+#+BEGIN_EXAMPLE
+刹那生灭冠
+刹那生灭袍
+刹那生灭腕
+刹那生灭履
+#+END_EXAMPLE
+
+** 圣绣·瑶池
+[[https://img.shields.io/badge/魅力-魅力值25点-blue.svg]]
+- 商城购买获得
+#+BEGIN_EXAMPLE
+圣绣·瑶池冠
+圣绣·瑶池袍
+圣绣·瑶池腕
+圣绣·瑶池履
+#+END_EXAMPLE
+
+** 浮光·拜占庭
+[[https://img.shields.io/badge/魅力-魅力值45点-blue.svg]]
+- 商城购买获得
+#+BEGIN_EXAMPLE
+浮光·拜占庭冠
+浮光·拜占庭袍
+浮光·拜占庭腕
+浮光·拜占庭履
+#+END_EXAMPLE
+
+** 浮光·涅雅
+[[https://img.shields.io/badge/魅力-魅力值40点-blue.svg]]
+- 魅力特权“华美如神”商店获得
+#+BEGIN_EXAMPLE
+浮光·涅雅冠
+浮光·涅雅袍
+浮光·涅雅腕
+浮光·涅雅履
+#+END_EXAMPLE
+
+** 圣绣·白凤
+[[https://img.shields.io/badge/魅力-魅力值25点-blue.svg]]
+- 商城购买获得
+#+BEGIN_EXAMPLE
+圣绣·白凤冠
+圣绣·白凤袍
+圣绣·白凤腕
+圣绣·白凤履
+#+END_EXAMPLE
+
+** 心王·试问天心
+[[https://img.shields.io/badge/魅力-魅力值45点-blue.svg]]
+- 商城购买获得
+#+BEGIN_EXAMPLE
+心王·试问天心冠
+心王·试问天心袍
+心王·试问天心腕
+心王·试问天心履
+#+END_EXAMPLE
+
+** 丹辉映喜
+[[https://img.shields.io/badge/魅力-魅力值35点-blue.svg]]
+- 魅力特权“倾国倾城”商店获得
+#+BEGIN_EXAMPLE
+丹辉映喜冠
+丹辉映喜袍
+丹辉映喜腕
+丹辉映喜履
+#+END_EXAMPLE
+
+** 浮光·燕尔
+[[https://img.shields.io/badge/魅力-魅力值45点-blue.svg]]
+- 商城购买获得
+#+BEGIN_EXAMPLE
+浮光·燕尔冠
+浮光·燕尔袍
+浮光·燕尔腕
+浮光·燕尔履
+#+END_EXAMPLE
+
+** 寂夜星霜
+[[https://img.shields.io/badge/魅力-魅力值125点-blue.svg]]
+- 商城天赏积分兑换获得
+#+BEGIN_EXAMPLE
+寂夜星霜冠
+寂夜星霜袍
+寂夜星霜腕
+寂夜星霜履
+#+END_EXAMPLE
+
+** 圣绣·花夕
+[[https://img.shields.io/badge/魅力-魅力值20点-blue.svg]]
+- 商城购买获得
+#+BEGIN_EXAMPLE
+圣绣·花夕冠
+圣绣·花夕袍
+圣绣·花夕腕
+圣绣·花夕履
+#+END_EXAMPLE
+
+** 心王·不良人
+[[https://img.shields.io/badge/魅力-魅力值45点-blue.svg]]
+- 商城购买获得
+#+BEGIN_EXAMPLE
+心王·不良人冠
+心王·不良人袍
+心王·不良人腕
+心王·不良人履
+#+END_EXAMPLE
+
+** 心王·醉花阴
+[[https://img.shields.io/badge/魅力-魅力值45点-blue.svg]]
+- 商城购买获得
+#+BEGIN_EXAMPLE
+心王·醉花阴冠
+心王·醉花阴袍
+心王·醉花阴腕
+心王·醉花阴履
+#+END_EXAMPLE
+
+** 浮光·短歌 
+[[https://img.shields.io/badge/魅力-魅力值50点-blue.svg]]
+- 商城天赏积分兑换获得
+#+BEGIN_EXAMPLE
+浮光·短歌冠
+浮光·短歌袍
+浮光·短歌腕
+浮光·短歌履
+#+END_EXAMPLE
+
+** 白露为霜
+[[https://img.shields.io/badge/魅力-魅力值25点-blue.svg]]
+- 新手装，门派服装店
+#+BEGIN_EXAMPLE
+白露为霜腕
+白露为霜袍
+白露为霜冠
+白露为霜履
+if GetActorCareer() == 9 then return true else return false end
+#+END_EXAMPLE
+
+** 猗兰其香
+[[https://img.shields.io/badge/魅力-魅力值35点-blue.svg]]
+- 门派任务装，门派服装店
+#+BEGIN_EXAMPLE
+猗兰其香腕
+猗兰其香袍
+猗兰其香冠
+猗兰其香履
+if GetActorCareer() == 9 then return true else return false end
+#+END_EXAMPLE
+
+** 青云出岫
+[[https://img.shields.io/badge/魅力-魅力值55点-blue.svg]]
+- 门派专属金色装备
+#+BEGIN_EXAMPLE
+青云出岫腕
+青云出岫袍
+青云出岫冠
+青云出岫履
+if GetActorCareer() == 9 then return true else return false end
+#+END_EXAMPLE
+
+** 风荷池雨
+[[https://img.shields.io/badge/魅力-魅力值65点-blue.svg]]
+- 门派专属金色装备
+#+BEGIN_EXAMPLE
+风荷池雨腕
+风荷池雨袍
+风荷池雨冠
+风荷池雨履
+if GetActorCareer() == 9 then return true else return false end
+#+END_EXAMPLE
+
+** 月出皎兮
+[[https://img.shields.io/badge/魅力-魅力值75点-blue.svg]]
+- 门派专属金色装备
+#+BEGIN_EXAMPLE
+月出皎兮腕
+月出皎兮袍
+月出皎兮冠
+月出皎兮履
+if GetActorCareer() == 9 then return true else return false end
+#+END_EXAMPLE
+
+** 武道·苍山远黛
+[[https://img.shields.io/badge/魅力-魅力值50点-blue.svg]]
+- 门派专属金色装备
+#+BEGIN_EXAMPLE
+武道·苍山远黛腕
+武道·苍山远黛袍
+武道·苍山远黛冠
+武道·苍山远黛履
+if GetActorCareer() == 9 then return true else return false end
+#+END_EXAMPLE
+
+** 武道·琨玉秋霜
+[[https://img.shields.io/badge/魅力-魅力值80点-blue.svg]]
+- 门派专属金色装备
+#+BEGIN_EXAMPLE
+武道·琨玉秋霜腕
+武道·琨玉秋霜袍
+武道·琨玉秋霜冠
+武道·琨玉秋霜履
+if GetActorCareer() == 9 then return true else return false end
+#+END_EXAMPLE
+
+** 弈墨苍冥
+[[https://img.shields.io/badge/魅力-魅力值60点-blue.svg]]
+- 挑战·喋血万雪窟、PVE兑换
+#+BEGIN_EXAMPLE
+弈墨苍冥冠
+弈墨苍冥履
+弈墨苍冥袍
+弈墨苍冥腕
+if GetActorCareer() == 0 then return true else return false end
+#+END_EXAMPLE
+
+** 冰绡岚影
+[[https://img.shields.io/badge/魅力-魅力值60点-blue.svg]]
+- 挑战·喋血万雪窟、PVE兑换
+#+BEGIN_EXAMPLE
+冰绡岚影冠
+冰绡岚影履
+冰绡岚影袍
+冰绡岚影腕
+if GetActorCareer() == 1 then return true else return false end
+#+END_EXAMPLE
+
+** 铁血荒漠
+[[https://img.shields.io/badge/魅力-魅力值60点-blue.svg]]
+- 挑战·喋血万雪窟、PVE兑换
+#+BEGIN_EXAMPLE
+铁血荒漠冠
+铁血荒漠履
+铁血荒漠袍
+铁血荒漠腕
+if GetActorCareer() == 2 then return true else return false end
+#+END_EXAMPLE
+
+** 酣畅名门
+[[https://img.shields.io/badge/魅力-魅力值60点-blue.svg]]
+- 挑战·喋血万雪窟、PVE兑换
+#+BEGIN_EXAMPLE
+酣畅名门冠
+酣畅名门履
+酣畅名门袍
+酣畅名门腕
+if GetActorCareer() == 3 then return true else return false end
+#+END_EXAMPLE
+
+** 夜海情心
+[[https://img.shields.io/badge/魅力-魅力值60点-blue.svg]]
+- 挑战·喋血万雪窟、PVE兑换
+#+BEGIN_EXAMPLE
+夜海情心冠
+夜海情心履
+夜海情心袍
+夜海情心腕
+if GetActorCareer() == 4 then return true else return false end
+#+END_EXAMPLE
+
+** 日月通明
+[[https://img.shields.io/badge/魅力-魅力值60点-blue.svg]]
+- 挑战·喋血万雪窟、PVE兑换
+#+BEGIN_EXAMPLE
+日月通明冠
+日月通明履
+日月通明袍
+日月通明腕
+if GetActorCareer() == 5 then return true else return false end
+#+END_EXAMPLE
+
+** 雪芷丹华
+[[https://img.shields.io/badge/魅力-魅力值60点-blue.svg]]
+- 挑战·喋血万雪窟、PVE兑换
+#+BEGIN_EXAMPLE
+雪芷丹华冠
+雪芷丹华履
+雪芷丹华袍
+雪芷丹华腕
+if GetActorCareer() == 7 then return true else return false end
+#+END_EXAMPLE
+
+** 朱羽刀皇
+[[https://img.shields.io/badge/魅力-魅力值60点-blue.svg]]
+- 挑战·喋血万雪窟、PVE兑换
+#+BEGIN_EXAMPLE
+朱羽刀皇冠
+朱羽刀皇履
+朱羽刀皇袍
+朱羽刀皇腕
+if GetActorCareer() == 8 then return true else return false end
+#+END_EXAMPLE
+
+** 喋血·苍山远黛
+[[https://img.shields.io/badge/魅力-魅力值60点-blue.svg]]
+- 挑战·喋血万雪窟、PVE兑换
+#+BEGIN_EXAMPLE
+喋血·苍山远黛冠
+喋血·苍山远黛履
+喋血·苍山远黛袍
+喋血·苍山远黛腕
+if GetActorCareer() == 9 then return true else return false end
+#+END_EXAMPLE
+
+** 喋血·神机韬略
+[[https://img.shields.io/badge/魅力-魅力值80点-blue.svg]]
+- 挑战·开封会八荒、PVE兑换
+#+BEGIN_EXAMPLE
+喋血·神机韬略腕
+喋血·神机韬略袍
+喋血·神机韬略冠
+喋血·神机韬略履
+if GetActorCareer() == 0 then return true else return false end
+#+END_EXAMPLE
+
+** 喋血·雪魄尘光
+[[https://img.shields.io/badge/魅力-魅力值80点-blue.svg]]
+- 挑战·开封会八荒、PVE兑换
+#+BEGIN_EXAMPLE
+喋血·雪魄尘光腕
+喋血·雪魄尘光袍
+喋血·雪魄尘光冠
+喋血·雪魄尘光履
+if GetActorCareer() == 1 then return true else return false end
+#+END_EXAMPLE
+
+** 喋血·瀚海驰骋
+[[https://img.shields.io/badge/魅力-魅力值80点-blue.svg]]
+- 挑战·开封会八荒、PVE兑换
+#+BEGIN_EXAMPLE
+喋血·瀚海驰骋腕
+喋血·瀚海驰骋袍
+喋血·瀚海驰骋冠
+喋血·瀚海驰骋履
+if GetActorCareer() == 2 then return true else return false end
+#+END_EXAMPLE
+
+** 喋血·独酌天下
+[[https://img.shields.io/badge/魅力-魅力值80点-blue.svg]]
+- 挑战·开封会八荒、PVE兑换
+#+BEGIN_EXAMPLE
+喋血·独酌天下腕
+喋血·独酌天下袍
+喋血·独酌天下冠
+喋血·独酌天下履
+if GetActorCareer() == 3 then return true else return false end
+#+END_EXAMPLE
+
+** 喋血·风露霜晨
+[[https://img.shields.io/badge/魅力-魅力值80点-blue.svg]]
+- 挑战·开封会八荒、PVE兑换
+#+BEGIN_EXAMPLE
+喋血·风露霜晨腕
+喋血·风露霜晨袍
+喋血·风露霜晨冠
+喋血·风露霜晨履
+if GetActorCareer() == 4 then return true else return false end
+#+END_EXAMPLE
+
+** 喋血·枫香泪雨
+[[https://img.shields.io/badge/魅力-魅力值80点-blue.svg]]
+- 挑战·开封会八荒、PVE兑换
+#+BEGIN_EXAMPLE
+喋血·枫香泪雨腕
+喋血·枫香泪雨袍
+喋血·枫香泪雨冠
+喋血·枫香泪雨履
+if GetActorCareer() == 5 then return true else return false end
+#+END_EXAMPLE
+
+** 喋血·臻姿凤仪
+[[https://img.shields.io/badge/魅力-魅力值80点-blue.svg]]
+- 挑战·开封会八荒、PVE兑换
+#+BEGIN_EXAMPLE
+喋血·臻姿凤仪腕
+喋血·臻姿凤仪袍
+喋血·臻姿凤仪冠
+喋血·臻姿凤仪履
+if GetActorCareer() == 7 then return true else return false end
+#+END_EXAMPLE
+
+** 喋血·永夜杀神
+[[https://img.shields.io/badge/魅力-魅力值80点-blue.svg]]
+- 挑战·开封会八荒、PVE兑换
+#+BEGIN_EXAMPLE
+喋血·永夜杀神腕
+喋血·永夜杀神袍
+喋血·永夜杀神冠
+喋血·永夜杀神履
+if GetActorCareer() == 8 then return true else return false end
+#+END_EXAMPLE
+
+** 喋血·琨玉秋霜
+[[https://img.shields.io/badge/魅力-魅力值80点-blue.svg]]
+- 挑战·开封会八荒、PVE兑换
+#+BEGIN_EXAMPLE
+喋血·琨玉秋霜腕
+喋血·琨玉秋霜袍
+喋血·琨玉秋霜冠
+喋血·琨玉秋霜履
+if GetActorCareer() == 9 then return true else return false end
+#+END_EXAMPLE
+
+** 伏龙凤雏
+[[https://img.shields.io/badge/魅力-魅力值70点-blue.svg]]
+- 挑战·喋血万血窟
+#+BEGIN_EXAMPLE
+伏龙凤雏冠
+伏龙凤雏袍
+伏龙凤雏腕
+伏龙凤雏履
+#+END_EXAMPLE
+
+** 东篱秋醉
+[[https://img.shields.io/badge/魅力-魅力值40点-blue.svg]]
+- 魅力特权“绰约如仙”商店获得
+#+BEGIN_EXAMPLE
+东篱秋醉冠
+东篱秋醉袍
+东篱秋醉腕
+东篱秋醉履
+#+END_EXAMPLE
+
+** 万象若新
+[[https://img.shields.io/badge/魅力-魅力值60点-blue.svg]]
+- 节日商店
+#+BEGIN_EXAMPLE
+万象若新冠
+万象若新袍
+万象若新腕
+万象若新履
+#+END_EXAMPLE
+
+** 我意扬眉
+[[https://img.shields.io/badge/魅力-魅力值50点-blue.svg]]
+- 魅力特权“倾国倾城”商店获得
+#+BEGIN_EXAMPLE
+我意扬眉冠
+我意扬眉袍
+我意扬眉腕
+我意扬眉履
+#+END_EXAMPLE
+
+** 吟风·琉璃焰
+[[https://img.shields.io/badge/魅力-魅力值70点-blue.svg]]
+- 商城购买获得
+#+BEGIN_EXAMPLE
+吟风·琉璃焰
+#+END_EXAMPLE
+
+** 小灰马
+[[https://img.shields.io/badge/魅力-魅力值10点-blue.svg]]
+- 主线任务获得
+#+BEGIN_EXAMPLE
+小灰马
+#+END_EXAMPLE
+
+** 青叶驹
+[[https://img.shields.io/badge/魅力-魅力值15点-blue.svg]]
+- 马匹商店
+#+BEGIN_EXAMPLE
+青叶驹
+#+END_EXAMPLE
+
+** 空雪·云出川
+[[https://img.shields.io/badge/魅力-魅力值15点-blue.svg]]
+- 商城购买获得
+#+BEGIN_EXAMPLE
+空雪·云出川
+#+END_EXAMPLE
+
+** 芙蓉儿
+[[https://img.shields.io/badge/魅力-魅力值20点-blue.svg]]
+- 马匹商店
+#+BEGIN_EXAMPLE
+芙蓉儿
+#+END_EXAMPLE
+
+** 空雪·静深流
+[[https://img.shields.io/badge/魅力-魅力值20点-blue.svg]]
+- 商城购买获得
+#+BEGIN_EXAMPLE
+空雪·静深流
+#+END_EXAMPLE
+
+** 空雪·半面妆
+[[https://img.shields.io/badge/魅力-魅力值30点-blue.svg]]
+- 心悦G分兑换
+#+BEGIN_EXAMPLE
+空雪·半面妆
+#+END_EXAMPLE
+
+** 空雪·乌云团
+[[https://img.shields.io/badge/魅力-魅力值40点-blue.svg]]
+- 商城购买获得
+#+BEGIN_EXAMPLE
+空雪·乌云团
+#+END_EXAMPLE
+
+** 北风骓
+[[https://img.shields.io/badge/魅力-魅力值60点-blue.svg]]
+- 魅力特权“倾国倾城”商店获得
+#+BEGIN_EXAMPLE
+北风骓
+#+END_EXAMPLE
+
+** 空雪·白公子
+[[https://img.shields.io/badge/魅力-魅力值70点-blue.svg]]
+- 商城购买获得
+#+BEGIN_EXAMPLE
+空雪·白公子
+#+END_EXAMPLE
+
+** 空雪·烛天龙
+[[https://img.shields.io/badge/魅力-魅力值70点-blue.svg]]
+- 商城购买获得
+#+BEGIN_EXAMPLE
+空雪·烛天龙
+#+END_EXAMPLE
+
+** 轻云·踏梅香
+[[https://img.shields.io/badge/魅力-魅力值85点-blue.svg]]
+- 商城购买获得
+#+BEGIN_EXAMPLE
+轻云·踏梅香
+#+END_EXAMPLE
+
+** 空雪·金玉奴
+[[https://img.shields.io/badge/魅力-魅力值100点-blue.svg]]
+- 2016年新春充值排行获得
+#+BEGIN_EXAMPLE
+空雪·金玉奴
+#+END_EXAMPLE
+
+** 轻云·花映雪
+[[https://img.shields.io/badge/魅力-魅力值280点-blue.svg]]
+- 商城天赏积分兑换获得
+#+BEGIN_EXAMPLE
+轻云·花映雪
+#+END_EXAMPLE
+
+** 空雪·飞灵渊
+[[https://img.shields.io/badge/魅力-魅力值320点-blue.svg]]
+- 商城天赏积分兑换获得
+#+BEGIN_EXAMPLE
+空雪·飞灵渊
+#+END_EXAMPLE
+
+** 轻云·花漫雨
+[[https://img.shields.io/badge/魅力-魅力值320点-blue.svg]]
+- 商城天赏积分兑换获得
+#+BEGIN_EXAMPLE
+轻云·花漫雨
+#+END_EXAMPLE
+
+** 奔宵鞍
+[[https://img.shields.io/badge/魅力-魅力值10点-blue.svg]]
+- 马匹商店
+#+BEGIN_EXAMPLE
+奔宵鞍
+#+END_EXAMPLE
+
+** 玄甲·纵猎
+[[https://img.shields.io/badge/魅力-魅力值10点-blue.svg]]
+- 商城购买获得
+#+BEGIN_EXAMPLE
+玄甲·纵猎
+#+END_EXAMPLE
+
+** 翻羽鞍
+[[https://img.shields.io/badge/魅力-魅力值15点-blue.svg]]
+- 马匹商店
+#+BEGIN_EXAMPLE
+翻羽鞍
+#+END_EXAMPLE
+
+** 鱼目汗血鞍
+[[https://img.shields.io/badge/魅力-魅力值15点-blue.svg]]
+- 魅力特权“衣香鬓影”商店获得
+#+BEGIN_EXAMPLE
+鱼目汗血鞍
+#+END_EXAMPLE
+
+** 玄甲·薄战
+[[https://img.shields.io/badge/魅力-魅力值15点-blue.svg]]
+- 商城购买获得
+#+BEGIN_EXAMPLE
+玄甲·薄战
+#+END_EXAMPLE
+
+** 逐日鞍
+[[https://img.shields.io/badge/魅力-魅力值20点-blue.svg]]
+- 帮派商店兑换
+#+BEGIN_EXAMPLE
+逐日鞍
+#+END_EXAMPLE
+
+** 逾辉鞍
+[[https://img.shields.io/badge/魅力-魅力值20点-blue.svg]]
+- 节日商店
+#+BEGIN_EXAMPLE
+逾辉鞍
+#+END_EXAMPLE
+
+** 蒲稍龙文鞍
+[[https://img.shields.io/badge/魅力-魅力值20点-blue.svg]]
+- 魅力特权“翩翩如玉”商店获得
+#+BEGIN_EXAMPLE
+蒲稍龙文鞍
+#+END_EXAMPLE
+
+** 绝影之影鞍
+[[https://img.shields.io/badge/魅力-魅力值20点-blue.svg]]
+- 魅力特权“惊才绝艳”商店获得
+#+BEGIN_EXAMPLE
+绝影之影鞍
+#+END_EXAMPLE
+
+** 玄甲·凉州
+[[https://img.shields.io/badge/魅力-魅力值20点-blue.svg]]
+- 魅力特权“倾国倾城”商店获得
+#+BEGIN_EXAMPLE
+玄甲·凉州
+#+END_EXAMPLE
+
+** 玄甲·虎牢
+[[https://img.shields.io/badge/魅力-魅力值20点-blue.svg]]
+- 商城购买获得
+#+BEGIN_EXAMPLE
+玄甲·虎牢
+#+END_EXAMPLE
+
+** 玄甲·越华
+[[https://img.shields.io/badge/魅力-魅力值20点-blue.svg]]
+- 商城购买获得
+#+BEGIN_EXAMPLE
+玄甲·越华
+#+END_EXAMPLE
+
+** 玄甲·吴歌
+[[https://img.shields.io/badge/魅力-魅力值20点-blue.svg]]
+- 商城购买获得
+#+BEGIN_EXAMPLE
+玄甲·吴歌
+#+END_EXAMPLE
+
+** 玄甲·偕红妆
+[[https://img.shields.io/badge/魅力-魅力值20点-blue.svg]]
+- 商城购买获得
+#+BEGIN_EXAMPLE
+玄甲·偕红妆
+#+END_EXAMPLE
+
+** 玄甲·饮芳
+[[https://img.shields.io/badge/魅力-魅力值20点-blue.svg]]
+- 商城购买获得
+#+BEGIN_EXAMPLE
+玄甲·饮芳
+#+END_EXAMPLE
+
+** 玄甲·燕双飞
+[[https://img.shields.io/badge/魅力-魅力值20点-blue.svg]]
+- 商城购买获得
+#+BEGIN_EXAMPLE
+玄甲·燕双飞
+#+END_EXAMPLE
+
+** 玄甲·月行灯
+[[https://img.shields.io/badge/魅力-魅力值20点-blue.svg]]
+- 商城购买获得
+#+BEGIN_EXAMPLE
+玄甲·月行灯
+#+END_EXAMPLE
+
+** 灵甲·璎珞
+[[https://img.shields.io/badge/魅力-魅力值20点-blue.svg]]
+- 商城购买获得
+#+BEGIN_EXAMPLE
+灵甲·璎珞
+#+END_EXAMPLE
+
+** 玄甲· 霸王策
+[[https://img.shields.io/badge/魅力-魅力值20点-blue.svg]]
+- 商城购买获得
+#+BEGIN_EXAMPLE
+玄甲· 霸王策
+#+END_EXAMPLE
+
+** 灵甲·月见
+[[https://img.shields.io/badge/魅力-魅力值20点-blue.svg]]
+- 商城购买获得
+#+BEGIN_EXAMPLE
+灵甲·月见
+#+END_EXAMPLE
+
+** 玄甲·旭锋
+[[https://img.shields.io/badge/魅力-魅力值25点-blue.svg]]
+- 心悦G分兑换
+#+BEGIN_EXAMPLE
+玄甲·旭锋
+#+END_EXAMPLE
+
+** 玄甲·清商
+[[https://img.shields.io/badge/魅力-魅力值25点-blue.svg]]
+- 商城天赏积分兑换获得
+#+BEGIN_EXAMPLE
+玄甲·清商
+#+END_EXAMPLE
+
+** 玄甲·夜琳琅
+[[https://img.shields.io/badge/魅力-魅力值25点-blue.svg]]
+- 魅力特权“风华万代”商店获得
+#+BEGIN_EXAMPLE
+玄甲·夜琳琅
+#+END_EXAMPLE
+
+** 玄甲·幼麟
+[[https://img.shields.io/badge/魅力-魅力值35点-blue.svg]]
+- 占领地盘的龙首专属
+#+BEGIN_EXAMPLE
+玄甲·幼麟
+#+END_EXAMPLE
+
+** 玄甲·长宁
+[[https://img.shields.io/badge/魅力-魅力值50点-blue.svg]]
+- 副总舵主、军师、统领专属
+#+BEGIN_EXAMPLE
+玄甲·长宁
+#+END_EXAMPLE
+
+** 玄甲·真龙
+[[https://img.shields.io/badge/魅力-魅力值100点-blue.svg]]
+- 总舵主专属
+#+BEGIN_EXAMPLE
+玄甲·真龙
+#+END_EXAMPLE
+
+** 灵甲·胧月夜
+[[https://img.shields.io/badge/魅力-魅力值100点-blue.svg]]
+- 商城天赏积分兑换获得
+#+BEGIN_EXAMPLE
+灵甲·胧月夜
+#+END_EXAMPLE
+
+** 玄甲·夏语冰
+[[https://img.shields.io/badge/魅力-魅力值200点-blue.svg]]
+- 商城天赏积分兑换获得
+#+BEGIN_EXAMPLE
+玄甲·夏语冰
+#+END_EXAMPLE
+
+** 灵甲·冰倾
+[[https://img.shields.io/badge/魅力-魅力值200点-blue.svg]]
+- 商城天赏积分兑换获得
+#+BEGIN_EXAMPLE
+灵甲·冰倾
+#+END_EXAMPLE
+
+** 比翼·纵猎
+[[https://img.shields.io/badge/魅力-魅力值15点-blue.svg]]
+- 使用“琉金双行扣”兑换获得
+#+BEGIN_EXAMPLE
+比翼·纵猎
+#+END_EXAMPLE
+
+** 比翼·薄战
+[[https://img.shields.io/badge/魅力-魅力值15点-blue.svg]]
+- 使用“琉金双行扣”兑换获得
+#+BEGIN_EXAMPLE
+比翼·薄战
+#+END_EXAMPLE
+
+** 比翼·虎牢
+[[https://img.shields.io/badge/魅力-魅力值15点-blue.svg]]
+- 使用“琉金双行扣”兑换获得
+#+BEGIN_EXAMPLE
+比翼·虎牢
+#+END_EXAMPLE
+
+** 比翼·越华
+[[https://img.shields.io/badge/魅力-魅力值15点-blue.svg]]
+- 使用“琉金双行扣”兑换获得
+#+BEGIN_EXAMPLE
+比翼·越华
+#+END_EXAMPLE
+
+** 比翼·吴歌
+[[https://img.shields.io/badge/魅力-魅力值15点-blue.svg]]
+- 使用“琉金双行扣”兑换获得
+#+BEGIN_EXAMPLE
+比翼·吴歌
+#+END_EXAMPLE
+
+** 比翼·清商
+[[https://img.shields.io/badge/魅力-魅力值15点-blue.svg]]
+- 使用“琉金双行扣”兑换获得
+#+BEGIN_EXAMPLE
+比翼·清商
+#+END_EXAMPLE
+
+** 比翼·偕红妆
+[[https://img.shields.io/badge/魅力-魅力值15点-blue.svg]]
+- 使用“琉金双行扣”兑换获得
+#+BEGIN_EXAMPLE
+比翼·偕红妆
+#+END_EXAMPLE
+
+** 比翼·饮芳
+[[https://img.shields.io/badge/魅力-魅力值15点-blue.svg]]
+- 使用“琉金双行扣”兑换获得
+#+BEGIN_EXAMPLE
+比翼·饮芳
+#+END_EXAMPLE
+
+** 比翼·燕双飞
+[[https://img.shields.io/badge/魅力-魅力值15点-blue.svg]]
+- 使用“琉金双行扣”兑换获得
+#+BEGIN_EXAMPLE
+比翼·燕双飞
+#+END_EXAMPLE
+
+** 比翼·夏语冰
+[[https://img.shields.io/badge/魅力-魅力值15点-blue.svg]]
+- 使用“琉金双行扣”兑换获得
+#+BEGIN_EXAMPLE
+比翼·夏语冰
+#+END_EXAMPLE
+
+** 比翼·月行灯
+[[https://img.shields.io/badge/魅力-魅力值15点-blue.svg]]
+- 使用“琉金双行扣”兑换获得
+#+BEGIN_EXAMPLE
+比翼·月行灯
+#+END_EXAMPLE
+
+** 比翼·夜琳琅
+[[https://img.shields.io/badge/魅力-魅力值15点-blue.svg]]
+- 使用“琉金双行扣”兑换获得
+#+BEGIN_EXAMPLE
+比翼·夜琳琅
+#+END_EXAMPLE
+
+** 比翼·璎珞
+[[https://img.shields.io/badge/魅力-魅力值15点-blue.svg]]
+- 使用“琉金双行扣”兑换获得
+#+BEGIN_EXAMPLE
+比翼·璎珞
+#+END_EXAMPLE
+
+** 比翼·冰倾
+[[https://img.shields.io/badge/魅力-魅力值15点-blue.svg]]
+- 使用“琉金双行扣”兑换获得
+#+BEGIN_EXAMPLE
+比翼·冰倾
+#+END_EXAMPLE
+
+** 比翼· 霸王策
+[[https://img.shields.io/badge/魅力-魅力值15点-blue.svg]]
+- 使用“琉金双行扣”兑换获得
+#+BEGIN_EXAMPLE
+比翼· 霸王策
+#+END_EXAMPLE
+
+** 比翼·月见
+[[https://img.shields.io/badge/魅力-魅力值15点-blue.svg]]
+- 使用“琉金双行扣”兑换获得
+#+BEGIN_EXAMPLE
+比翼·月见
+#+END_EXAMPLE
+
+** 比翼·胧月夜
+[[https://img.shields.io/badge/魅力-魅力值15点-blue.svg]]
+- 使用“琉金双行扣”兑换获得
+#+BEGIN_EXAMPLE
+比翼·胧月夜
+#+END_EXAMPLE
+
+** 圣绣·曼醉
+[[https://img.shields.io/badge/魅力-魅力值25点-blue.svg]]
+- 商城购买获得
+#+BEGIN_EXAMPLE
+圣绣·曼醉冠
+圣绣·曼醉袍
+圣绣·曼醉腕
+圣绣·曼醉履
+#+END_EXAMPLE
+
+** 圣绣·百战
+[[https://img.shields.io/badge/魅力-魅力值25点-blue.svg]]
+- 商城购买获得
+#+BEGIN_EXAMPLE
+圣绣·百战冠
+圣绣·百战袍
+圣绣·百战腕
+圣绣·百战履
+#+END_EXAMPLE
+
+** 青花玉染
+[[https://img.shields.io/badge/魅力-魅力值50点-blue.svg]]
+- 2018年7月活跃活动获得
+#+BEGIN_EXAMPLE
+青花玉染冠
+青花玉染袍
+青花玉染腕
+青花玉染履
+#+END_EXAMPLE
+
+** 吟风·碧霄诗情
+[[https://img.shields.io/badge/魅力-魅力值140点-blue.svg]]
+- 商城天赏积分兑换获得
+#+BEGIN_EXAMPLE
+吟风·碧霄诗情
+#+END_EXAMPLE
+
+** 心王·皎霜河
+[[https://img.shields.io/badge/魅力-魅力值55点-blue.svg]]
+- 商城购买获得
+#+BEGIN_EXAMPLE
+心王·皎霜河冠
+心王·皎霜河袍
+心王·皎霜河腕
+心王·皎霜河履
+#+END_EXAMPLE
+
+** 漫道·纸上竹
+[[https://img.shields.io/badge/魅力-魅力值10点-blue.svg]]
+- 恩师值兑换
+#+BEGIN_EXAMPLE
+漫道·纸上竹
+#+END_EXAMPLE
+
+** 漫道·矢间雅
+[[https://img.shields.io/badge/魅力-魅力值10点-blue.svg]]
+- 商城购买获得
+#+BEGIN_EXAMPLE
+漫道·矢间雅
+#+END_EXAMPLE
+
+** 漫道·幽野情
+[[https://img.shields.io/badge/魅力-魅力值10点-blue.svg]]
+- 商城购买获得
+#+BEGIN_EXAMPLE
+漫道·幽野情
+#+END_EXAMPLE
+
+** 浮光·金达莱
+[[https://img.shields.io/badge/魅力-魅力值50点-blue.svg]]
+- 2018年8月“青龙秘宝”获得
+#+BEGIN_EXAMPLE
+浮光·金达莱冠
+浮光·金达莱袍
+浮光·金达莱腕
+浮光·金达莱履
+#+END_EXAMPLE
+
+** 吟风·以梦为马
+[[https://img.shields.io/badge/魅力-魅力值70点-blue.svg]]
+- 商城购买获得
+#+BEGIN_EXAMPLE
+吟风·以梦为马
+#+END_EXAMPLE
+
+** 圣绣·婵娟
+[[https://img.shields.io/badge/魅力-魅力值25点-blue.svg]]
+- 祈年·绣月活动团购获得
+#+BEGIN_EXAMPLE
+圣绣·婵娟冠
+圣绣·婵娟袍
+圣绣·婵娟腕
+圣绣·婵娟履
+#+END_EXAMPLE
+
+** 灵甲·宿月
+[[https://img.shields.io/badge/魅力-魅力值20点-blue.svg]]
+- 商城购买获得
+#+BEGIN_EXAMPLE
+灵甲·宿月
+#+END_EXAMPLE
+
+** 比翼·宿月
+[[https://img.shields.io/badge/魅力-魅力值15点-blue.svg]]
+- 使用“琉金双行扣”兑换获得
+#+BEGIN_EXAMPLE
+比翼·宿月
+#+END_EXAMPLE
+
+** 漫道·宿月
+[[https://img.shields.io/badge/魅力-魅力值10点-blue.svg]]
+- 商城购买获得
+#+BEGIN_EXAMPLE
+漫道·宿月
+#+END_EXAMPLE
+
+** 玄甲·飞穹
+[[https://img.shields.io/badge/魅力-魅力值20点-blue.svg]]
+- 商城购买获得
+#+BEGIN_EXAMPLE
+玄甲·飞穹
+#+END_EXAMPLE
+
+** 比翼·飞穹
+[[https://img.shields.io/badge/魅力-魅力值15点-blue.svg]]
+- 使用“琉金双行扣”兑换获得
+#+BEGIN_EXAMPLE
+比翼·飞穹
+#+END_EXAMPLE
+
+** 漫道·飞穹
+[[https://img.shields.io/badge/魅力-魅力值10点-blue.svg]]
+- 商城购买获得
+#+BEGIN_EXAMPLE
+漫道·飞穹
+#+END_EXAMPLE
+
+** 心王·影
+[[https://img.shields.io/badge/魅力-魅力值50点-blue.svg]]
+- 商城购买获得
+#+BEGIN_EXAMPLE
+心王·影冠
+心王·影袍
+心王·影腕
+心王·影履
+#+END_EXAMPLE
+
+** 圣绣·静海
+[[https://img.shields.io/badge/魅力-魅力值25点-blue.svg]]
+- 商城购买获得
+#+BEGIN_EXAMPLE
+圣绣·静海冠
+圣绣·静海袍
+圣绣·静海腕
+圣绣·静海履
+#+END_EXAMPLE
+
+** 吟风·不争高低
+[[https://img.shields.io/badge/魅力-魅力值70点-blue.svg]]
+- 商城购买获得
+#+BEGIN_EXAMPLE
+吟风·不争高低
+#+END_EXAMPLE
+
+** 圣绣·青狼
+[[https://img.shields.io/badge/魅力-魅力值25点-blue.svg]]
+- 2018年11月黑街·砍价王团购获得
+#+BEGIN_EXAMPLE
+圣绣·青狼冠
+圣绣·青狼袍
+圣绣·青狼腕
+圣绣·青狼履
+#+END_EXAMPLE
+
+** 漫道·红叶讯
+[[https://img.shields.io/badge/魅力-魅力值20点-blue.svg]]
+- 2018年11月黑街·砍价王活动获得
+#+BEGIN_EXAMPLE
+漫道·红叶讯
+#+END_EXAMPLE
+
+** 心王·天行九歌
+[[https://img.shields.io/badge/魅力-魅力值50点-blue.svg]]
+- 商城购买获得
+#+BEGIN_EXAMPLE
+心王·天行九歌冠
+心王·天行九歌袍
+心王·天行九歌腕
+心王·天行九歌履
+#+END_EXAMPLE
+
+** 风华·流沙
+[[https://img.shields.io/badge/魅力-魅力值90点-blue.svg]]
+- 商城天赏积分兑换获得
+#+BEGIN_EXAMPLE
+风华·流沙
+#+END_EXAMPLE
+
+** 轻云·未央君
+[[https://img.shields.io/badge/魅力-魅力值85点-blue.svg]]
+- 商城购买获得
+#+BEGIN_EXAMPLE
+轻云·未央君
+#+END_EXAMPLE
+
+** 灵甲·朝歌
+[[https://img.shields.io/badge/魅力-魅力值25点-blue.svg]]
+- 商城购买获得
+#+BEGIN_EXAMPLE
+灵甲·朝歌
+#+END_EXAMPLE
+
+** 比翼·朝歌
+[[https://img.shields.io/badge/魅力-魅力值15点-blue.svg]]
+- 使用“琉金双行扣”兑换获得
+#+BEGIN_EXAMPLE
+比翼·朝歌
+#+END_EXAMPLE
+
+** 圣绣·玄冥
+[[https://img.shields.io/badge/魅力-魅力值25点-blue.svg]]
+- 运营活动专属
+#+BEGIN_EXAMPLE
+圣绣·玄冥冠
+圣绣·玄冥袍
+圣绣·玄冥腕
+圣绣·玄冥履
+#+END_EXAMPLE
+
+** 武道·梦泽千觞
+[[https://img.shields.io/badge/魅力-魅力值85点-blue.svg]]
+- 门派专属金色装备
+#+BEGIN_EXAMPLE
+武道·梦泽千觞冠
+武道·梦泽千觞袍
+武道·梦泽千觞腕
+武道·梦泽千觞履
+if GetActorCareer() == 3 then return true else return false end
+#+END_EXAMPLE
+
+** 武道·晓梦寒星
+[[https://img.shields.io/badge/魅力-魅力值85点-blue.svg]]
+- 门派专属金色装备
+#+BEGIN_EXAMPLE
+武道·晓梦寒星冠
+武道·晓梦寒星袍
+武道·晓梦寒星腕
+武道·晓梦寒星履
+if GetActorCareer() == 4 then return true else return false end
+#+END_EXAMPLE
+
+** 武道·暮鸦苍羽
+[[https://img.shields.io/badge/魅力-魅力值85点-blue.svg]]
+- 门派专属金色装备
+#+BEGIN_EXAMPLE
+武道·暮鸦苍羽冠
+武道·暮鸦苍羽袍
+武道·暮鸦苍羽腕
+武道·暮鸦苍羽履
+if GetActorCareer() == 5 then return true else return false end
+#+END_EXAMPLE
+
+** 武道·瑶台清月
+[[https://img.shields.io/badge/魅力-魅力值85点-blue.svg]]
+- 门派专属金色装备
+#+BEGIN_EXAMPLE
+武道·瑶台清月冠
+武道·瑶台清月袍
+武道·瑶台清月腕
+武道·瑶台清月履
+if GetActorCareer() == 7 then return true else return false end
+#+END_EXAMPLE
+
+** 武道·寂夜劫火
+[[https://img.shields.io/badge/魅力-魅力值85点-blue.svg]]
+- 门派专属金色装备
+#+BEGIN_EXAMPLE
+武道·寂夜劫火冠
+武道·寂夜劫火袍
+武道·寂夜劫火腕
+武道·寂夜劫火履
+if GetActorCareer() == 8 then return true else return false end
+#+END_EXAMPLE
+
+** 武道·沧海潮生
+[[https://img.shields.io/badge/魅力-魅力值85点-blue.svg]]
+- 门派专属金色装备
+#+BEGIN_EXAMPLE
+武道·沧海潮生腕
+武道·沧海潮生袍
+武道·沧海潮生冠
+武道·沧海潮生履
+if GetActorCareer() == 9 then return true else return false end
+#+END_EXAMPLE
+
+** 武道·冥鸿归云
+[[https://img.shields.io/badge/魅力-魅力值85点-blue.svg]]
+- 门派专属金色装备
+#+BEGIN_EXAMPLE
+武道·冥鸿归云冠
+武道·冥鸿归云袍
+武道·冥鸿归云腕
+武道·冥鸿归云履
+if GetActorCareer() == 0 then return true else return false end
+#+END_EXAMPLE
+
+** 武道·月影天霜
+[[https://img.shields.io/badge/魅力-魅力值85点-blue.svg]]
+- 门派专属金色装备
+#+BEGIN_EXAMPLE
+武道·月影天霜冠
+武道·月影天霜袍
+武道·月影天霜腕
+武道·月影天霜履
+if GetActorCareer() == 1 then return true else return false end
+#+END_EXAMPLE
+
+** 武道·九州寸心
+[[https://img.shields.io/badge/魅力-魅力值85点-blue.svg]]
+- 门派专属金色装备
+#+BEGIN_EXAMPLE
+武道·九州寸心冠
+武道·九州寸心袍
+武道·九州寸心腕
+武道·九州寸心履
+if GetActorCareer() == 2 then return true else return false end
+#+END_EXAMPLE
+
+** 喋血·沧海潮生
+[[https://img.shields.io/badge/魅力-魅力值80点-blue.svg]]
+- 挑战·决战嘲天宫、PVE兑换
+#+BEGIN_EXAMPLE
+喋血·沧海潮生腕
+喋血·沧海潮生袍
+喋血·沧海潮生冠
+喋血·沧海潮生履
+if GetActorCareer() == 9 then return true else return false end
+#+END_EXAMPLE
+
+** 喋血·冥鸿归云
+[[https://img.shields.io/badge/魅力-魅力值80点-blue.svg]]
+- 挑战·决战嘲天宫、PVE兑换
+#+BEGIN_EXAMPLE
+喋血·冥鸿归云冠
+喋血·冥鸿归云袍
+喋血·冥鸿归云腕
+喋血·冥鸿归云履
+if GetActorCareer() == 0 then return true else return false end
+#+END_EXAMPLE
+
+** 喋血·月影天霜
+[[https://img.shields.io/badge/魅力-魅力值80点-blue.svg]]
+- 挑战·决战嘲天宫、PVE兑换
+#+BEGIN_EXAMPLE
+喋血·月影天霜冠
+喋血·月影天霜袍
+喋血·月影天霜腕
+喋血·月影天霜履
+if GetActorCareer() == 1 then return true else return false end
+#+END_EXAMPLE
+
+** 喋血·九州寸心
+[[https://img.shields.io/badge/魅力-魅力值80点-blue.svg]]
+- 挑战·决战嘲天宫、PVE兑换
+#+BEGIN_EXAMPLE
+喋血·九州寸心冠
+喋血·九州寸心袍
+喋血·九州寸心腕
+喋血·九州寸心履
+if GetActorCareer() == 2 then return true else return false end
+#+END_EXAMPLE
+
+** 喋血·梦泽千觞
+[[https://img.shields.io/badge/魅力-魅力值80点-blue.svg]]
+- 挑战·决战嘲天宫、PVE兑换
+#+BEGIN_EXAMPLE
+喋血·梦泽千觞冠
+喋血·梦泽千觞袍
+喋血·梦泽千觞腕
+喋血·梦泽千觞履
+if GetActorCareer() == 3 then return true else return false end
+#+END_EXAMPLE
+
+** 喋血·晓梦寒星
+[[https://img.shields.io/badge/魅力-魅力值80点-blue.svg]]
+- 挑战·决战嘲天宫、PVE兑换
+#+BEGIN_EXAMPLE
+喋血·晓梦寒星冠
+喋血·晓梦寒星袍
+喋血·晓梦寒星腕
+喋血·晓梦寒星履
+if GetActorCareer() == 4 then return true else return false end
+#+END_EXAMPLE
+
+** 喋血·暮鸦苍羽
+[[https://img.shields.io/badge/魅力-魅力值80点-blue.svg]]
+- 挑战·决战嘲天宫、PVE兑换
+#+BEGIN_EXAMPLE
+喋血·暮鸦苍羽冠
+喋血·暮鸦苍羽袍
+喋血·暮鸦苍羽腕
+喋血·暮鸦苍羽履
+if GetActorCareer() == 5 then return true else return false end
+#+END_EXAMPLE
+
+** 喋血·瑶台清月
+[[https://img.shields.io/badge/魅力-魅力值80点-blue.svg]]
+- 挑战·决战嘲天宫、PVE兑换
+#+BEGIN_EXAMPLE
+喋血·瑶台清月冠
+喋血·瑶台清月袍
+喋血·瑶台清月腕
+喋血·瑶台清月履
+if GetActorCareer() == 7 then return true else return false end
+#+END_EXAMPLE
+
+** 喋血·寂夜劫火
+[[https://img.shields.io/badge/魅力-魅力值80点-blue.svg]]
+- 挑战·决战嘲天宫、PVE兑换
+#+BEGIN_EXAMPLE
+喋血·寂夜劫火冠
+喋血·寂夜劫火袍
+喋血·寂夜劫火腕
+喋血·寂夜劫火履
+if GetActorCareer() == 8 then return true else return false end
+#+END_EXAMPLE
+
+** 雪鸦通明
+[[https://img.shields.io/badge/魅力-魅力值65点-blue.svg]]
+- 挑战·开封会八荒
+#+BEGIN_EXAMPLE
+雪鸦通明冠
+雪鸦通明袍
+雪鸦通明腕
+雪鸦通明履
+#+END_EXAMPLE
+
+** 清音厉魄
+[[https://img.shields.io/badge/魅力-魅力值70点-blue.svg]]
+- 挑战·决战嘲天宫
+#+BEGIN_EXAMPLE
+清音厉魄冠
+清音厉魄袍
+清音厉魄腕
+清音厉魄履
+#+END_EXAMPLE
+
+** 浮光·青翟衣
+[[https://img.shields.io/badge/魅力-魅力值70点-blue.svg]]
+- 魅力特权“华美如神”商店获得
+#+BEGIN_EXAMPLE
+浮光·青翟衣冠
+浮光·青翟衣袍
+浮光·青翟衣腕
+浮光·青翟衣履
+#+END_EXAMPLE
+
+** 心王·红鸾殿
+[[https://img.shields.io/badge/魅力-魅力值50点-blue.svg]]
+- 商城购买获得
+#+BEGIN_EXAMPLE
+心王·红鸾殿冠
+心王·红鸾殿袍
+心王·红鸾殿腕
+心王·红鸾殿履
+#+END_EXAMPLE
+
+** 西狩获麟
+[[https://img.shields.io/badge/魅力-魅力值500点-blue.svg]]
+- 商城天赏积分兑换获得
+#+BEGIN_EXAMPLE
+西狩获麟冠
+西狩获麟袍
+西狩获麟腕
+西狩获麟履
+#+END_EXAMPLE
+
+** 沐雨新晴
+[[https://img.shields.io/badge/魅力-魅力值50点-blue.svg]]
+- 2019年新春活动获得
+#+BEGIN_EXAMPLE
+沐雨新晴冠
+沐雨新晴袍
+沐雨新晴腕
+沐雨新晴履
+#+END_EXAMPLE
+
+** 吟风·花开锦鲤
+[[https://img.shields.io/badge/魅力-魅力值100点-blue.svg]]
+- 商城购买获得
+#+BEGIN_EXAMPLE
+吟风·花开锦鲤
+#+END_EXAMPLE
+
+** 漫道·岁红笺
+[[https://img.shields.io/badge/魅力-魅力值30点-blue.svg]]
+- 2019年新春活动获得
+#+BEGIN_EXAMPLE
+漫道·岁红笺
+#+END_EXAMPLE
+

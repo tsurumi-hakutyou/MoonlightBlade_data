@@ -1,0 +1,3154 @@
+#+TITLE: 累计成就
+#+AUTHOR: 李鹄
+
+* 衣柜
+** 丰彩染料累计·1
+[[https://img.shields.io/badge/魅力-魅力值8点-blue.svg]]
+- 累计消耗：10个丰彩染料
+#+BEGIN_EXAMPLE
+丰彩消耗
+#+END_EXAMPLE
+
+** 丰彩染料累计·2
+[[https://img.shields.io/badge/魅力-魅力值8点-blue.svg]]
+- 累计消耗：20个丰彩染料
+#+BEGIN_EXAMPLE
+丰彩消耗
+#+END_EXAMPLE
+
+** 丰彩染料累计·3
+[[https://img.shields.io/badge/魅力-魅力值24点-blue.svg]]
+- 累计消耗：50个丰彩染料
+#+BEGIN_EXAMPLE
+丰彩消耗
+#+END_EXAMPLE
+
+** 丰彩染料累计·4
+[[https://img.shields.io/badge/魅力-魅力值38点-blue.svg]]
+- 累计消耗：100个丰彩染料
+#+BEGIN_EXAMPLE
+丰彩消耗
+#+END_EXAMPLE
+
+** 丰彩染料累计·5
+[[https://img.shields.io/badge/魅力-魅力值56点-blue.svg]]
+- 累计消耗：180个丰彩染料
+#+BEGIN_EXAMPLE
+丰彩消耗
+#+END_EXAMPLE
+
+** 丰彩染料累计·6
+[[https://img.shields.io/badge/魅力-魅力值58点-blue.svg]]
+- 累计消耗：280个丰彩染料
+#+BEGIN_EXAMPLE
+丰彩消耗
+#+END_EXAMPLE
+
+** 丰彩染料累计·7
+[[https://img.shields.io/badge/魅力-魅力值58点-blue.svg]]
+- 累计消耗：400个丰彩染料
+#+BEGIN_EXAMPLE
+丰彩消耗
+#+END_EXAMPLE
+
+** 丰彩染料累计·8
+[[https://img.shields.io/badge/魅力-魅力值60点-blue.svg]]
+- 累计消耗：560个丰彩染料
+#+BEGIN_EXAMPLE
+丰彩消耗
+#+END_EXAMPLE
+
+** 丰彩染料累计·9
+[[https://img.shields.io/badge/魅力-魅力值64点-blue.svg]]
+- 累计消耗：860个丰彩染料
+#+BEGIN_EXAMPLE
+丰彩消耗
+#+END_EXAMPLE
+
+** 丰彩染料累计·10
+[[https://img.shields.io/badge/魅力-魅力值64点-blue.svg]]
+- 累计消耗：1320个丰彩染料
+#+BEGIN_EXAMPLE
+丰彩消耗
+#+END_EXAMPLE
+
+** 丰彩染料累计·11
+[[https://img.shields.io/badge/魅力-魅力值68点-blue.svg]]
+- 累计消耗：1960个丰彩染料
+#+BEGIN_EXAMPLE
+丰彩消耗
+#+END_EXAMPLE
+
+** 丰彩染料累计·12
+[[https://img.shields.io/badge/魅力-魅力值72点-blue.svg]]
+- 累计消耗：2800个丰彩染料
+#+BEGIN_EXAMPLE
+丰彩消耗
+#+END_EXAMPLE
+
+** 丰彩染料累计·13
+[[https://img.shields.io/badge/魅力-魅力值76点-blue.svg]]
+- 累计消耗：3860个丰彩染料
+#+BEGIN_EXAMPLE
+丰彩消耗
+#+END_EXAMPLE
+
+** 丰彩染料累计·14
+[[https://img.shields.io/badge/魅力-魅力值80点-blue.svg]]
+- 累计消耗：5160个丰彩染料
+#+BEGIN_EXAMPLE
+丰彩消耗
+#+END_EXAMPLE
+
+** 丰彩染料累计·15
+[[https://img.shields.io/badge/魅力-魅力值84点-blue.svg]]
+- 累计消耗：6720个丰彩染料
+#+BEGIN_EXAMPLE
+丰彩消耗
+#+END_EXAMPLE
+
+** 丰彩染料累计·16
+[[https://img.shields.io/badge/魅力-魅力值88点-blue.svg]]
+- 累计消耗：8560个丰彩染料
+#+BEGIN_EXAMPLE
+丰彩消耗
+#+END_EXAMPLE
+
+** 丰彩染料累计·17
+[[https://img.shields.io/badge/魅力-魅力值92点-blue.svg]]
+- 累计消耗：10560个丰彩染料
+#+BEGIN_EXAMPLE
+丰彩消耗
+#+END_EXAMPLE
+
+** 丰彩染料累计·18
+[[https://img.shields.io/badge/魅力-魅力值96点-blue.svg]]
+- 累计消耗：12700个丰彩染料
+#+BEGIN_EXAMPLE
+丰彩消耗
+#+END_EXAMPLE
+
+** 丰彩染料累计·19
+[[https://img.shields.io/badge/魅力-魅力值100点-blue.svg]]
+- 累计消耗：14980个丰彩染料
+#+BEGIN_EXAMPLE
+丰彩消耗
+#+END_EXAMPLE
+
+** 丰彩染料累计·20
+[[https://img.shields.io/badge/魅力-魅力值104点-blue.svg]]
+- 累计消耗：17400个丰彩染料
+#+BEGIN_EXAMPLE
+丰彩消耗
+#+END_EXAMPLE
+
+** 丰彩染料累计·21
+[[https://img.shields.io/badge/魅力-魅力值108点-blue.svg]]
+- 累计消耗：19960个丰彩染料
+#+BEGIN_EXAMPLE
+丰彩消耗
+#+END_EXAMPLE
+
+** 丰彩染料累计·22
+[[https://img.shields.io/badge/魅力-魅力值112点-blue.svg]]
+- 累计消耗：22660个丰彩染料
+#+BEGIN_EXAMPLE
+丰彩消耗
+#+END_EXAMPLE
+
+** 丰彩染料累计·23
+[[https://img.shields.io/badge/魅力-魅力值116点-blue.svg]]
+- 累计消耗：25500个丰彩染料
+#+BEGIN_EXAMPLE
+丰彩消耗
+#+END_EXAMPLE
+
+** 丰彩染料累计·24
+[[https://img.shields.io/badge/魅力-魅力值120点-blue.svg]]
+- 累计消耗：28480个丰彩染料
+#+BEGIN_EXAMPLE
+丰彩消耗
+#+END_EXAMPLE
+
+** 丰彩染料累计·25
+[[https://img.shields.io/badge/魅力-魅力值124点-blue.svg]]
+- 累计消耗：31600个丰彩染料
+#+BEGIN_EXAMPLE
+丰彩消耗
+#+END_EXAMPLE
+
+** 瑶光颜料累计·1
+[[https://img.shields.io/badge/魅力-魅力值4点-blue.svg]]
+- 累计消耗：1个瑶光颜料
+#+BEGIN_EXAMPLE
+瑶光消耗
+#+END_EXAMPLE
+
+** 瑶光颜料累计·2
+[[https://img.shields.io/badge/魅力-魅力值8点-blue.svg]]
+- 累计消耗：3个瑶光颜料
+#+BEGIN_EXAMPLE
+瑶光消耗
+#+END_EXAMPLE
+
+** 瑶光颜料累计·3
+[[https://img.shields.io/badge/魅力-魅力值12点-blue.svg]]
+- 累计消耗：6个瑶光颜料
+#+BEGIN_EXAMPLE
+瑶光消耗
+#+END_EXAMPLE
+
+** 瑶光颜料累计·4
+[[https://img.shields.io/badge/魅力-魅力值22点-blue.svg]]
+- 累计消耗：12个瑶光颜料
+#+BEGIN_EXAMPLE
+瑶光消耗
+#+END_EXAMPLE
+
+** 瑶光颜料累计·5
+[[https://img.shields.io/badge/魅力-魅力值24点-blue.svg]]
+- 累计消耗：20个瑶光颜料
+#+BEGIN_EXAMPLE
+瑶光消耗
+#+END_EXAMPLE
+
+** 瑶光颜料累计·6
+[[https://img.shields.io/badge/魅力-魅力值26点-blue.svg]]
+- 累计消耗：30个瑶光颜料
+#+BEGIN_EXAMPLE
+瑶光消耗
+#+END_EXAMPLE
+
+** 瑶光颜料累计·7
+[[https://img.shields.io/badge/魅力-魅力值32点-blue.svg]]
+- 累计消耗：48个瑶光颜料
+#+BEGIN_EXAMPLE
+瑶光消耗
+#+END_EXAMPLE
+
+** 瑶光颜料累计·8
+[[https://img.shields.io/badge/魅力-魅力值32点-blue.svg]]
+- 累计消耗：72个瑶光颜料
+#+BEGIN_EXAMPLE
+瑶光消耗
+#+END_EXAMPLE
+
+** 瑶光颜料累计·9
+[[https://img.shields.io/badge/魅力-魅力值36点-blue.svg]]
+- 累计消耗：108个瑶光颜料
+#+BEGIN_EXAMPLE
+瑶光消耗
+#+END_EXAMPLE
+
+** 瑶光颜料累计·10
+[[https://img.shields.io/badge/魅力-魅力值36点-blue.svg]]
+- 累计消耗：156个瑶光颜料
+#+BEGIN_EXAMPLE
+瑶光消耗
+#+END_EXAMPLE
+
+** 瑶光颜料累计·11
+[[https://img.shields.io/badge/魅力-魅力值40点-blue.svg]]
+- 累计消耗：218个瑶光颜料
+#+BEGIN_EXAMPLE
+瑶光消耗
+#+END_EXAMPLE
+
+** 瑶光颜料累计·12
+[[https://img.shields.io/badge/魅力-魅力值40点-blue.svg]]
+- 累计消耗：290个瑶光颜料
+#+BEGIN_EXAMPLE
+瑶光消耗
+#+END_EXAMPLE
+
+** 瑶光颜料累计·13
+[[https://img.shields.io/badge/魅力-魅力值42点-blue.svg]]
+- 累计消耗：380个瑶光颜料
+#+BEGIN_EXAMPLE
+瑶光消耗
+#+END_EXAMPLE
+
+** 瑶光颜料累计·14
+[[https://img.shields.io/badge/魅力-魅力值42点-blue.svg]]
+- 累计消耗：475个瑶光颜料
+#+BEGIN_EXAMPLE
+瑶光消耗
+#+END_EXAMPLE
+
+** 瑶光颜料累计·15
+[[https://img.shields.io/badge/魅力-魅力值45点-blue.svg]]
+- 累计消耗：575个瑶光颜料
+#+BEGIN_EXAMPLE
+瑶光消耗
+#+END_EXAMPLE
+
+** 瑶光颜料累计·16
+[[https://img.shields.io/badge/魅力-魅力值45点-blue.svg]]
+- 累计消耗：680个瑶光颜料
+#+BEGIN_EXAMPLE
+瑶光消耗
+#+END_EXAMPLE
+
+** 瑶光颜料累计·17
+[[https://img.shields.io/badge/魅力-魅力值48点-blue.svg]]
+- 累计消耗：790个瑶光颜料
+#+BEGIN_EXAMPLE
+瑶光消耗
+#+END_EXAMPLE
+
+** 瑶光颜料累计·18
+[[https://img.shields.io/badge/魅力-魅力值48点-blue.svg]]
+- 累计消耗：905个瑶光颜料
+#+BEGIN_EXAMPLE
+瑶光消耗
+#+END_EXAMPLE
+
+** 瑶光颜料累计·19
+[[https://img.shields.io/badge/魅力-魅力值52点-blue.svg]]
+- 累计消耗：1025个瑶光颜料
+#+BEGIN_EXAMPLE
+瑶光消耗
+#+END_EXAMPLE
+
+** 瑶光颜料累计·20
+[[https://img.shields.io/badge/魅力-魅力值52点-blue.svg]]
+- 累计消耗：1150个瑶光颜料
+#+BEGIN_EXAMPLE
+瑶光消耗
+#+END_EXAMPLE
+
+** 瑶光颜料累计·21
+[[https://img.shields.io/badge/魅力-魅力值55点-blue.svg]]
+- 累计消耗：1280个瑶光颜料
+#+BEGIN_EXAMPLE
+瑶光消耗
+#+END_EXAMPLE
+
+** 瑶光颜料累计·22
+[[https://img.shields.io/badge/魅力-魅力值55点-blue.svg]]
+- 累计消耗：1415个瑶光颜料
+#+BEGIN_EXAMPLE
+瑶光消耗
+#+END_EXAMPLE
+
+** 瑶光颜料累计·23
+[[https://img.shields.io/badge/魅力-魅力值58点-blue.svg]]
+- 累计消耗：1555个瑶光颜料
+#+BEGIN_EXAMPLE
+瑶光消耗
+#+END_EXAMPLE
+
+** 瑶光颜料累计·24
+[[https://img.shields.io/badge/魅力-魅力值58点-blue.svg]]
+- 累计消耗：1700个瑶光颜料
+#+BEGIN_EXAMPLE
+瑶光消耗
+#+END_EXAMPLE
+
+** 瑶光颜料累计·25
+[[https://img.shields.io/badge/魅力-魅力值64点-blue.svg]]
+- 累计消耗：1850个瑶光颜料
+#+BEGIN_EXAMPLE
+瑶光消耗
+#+END_EXAMPLE
+
+** 点染·蓝瓷累计·1
+[[https://img.shields.io/badge/魅力-魅力值12点-blue.svg]]
+- 累计消耗：1个点染·蓝瓷
+#+BEGIN_EXAMPLE
+蓝瓷消耗
+#+END_EXAMPLE
+
+** 点染·蓝瓷累计·2
+[[https://img.shields.io/badge/魅力-魅力值24点-blue.svg]]
+- 累计消耗：3个点染·蓝瓷
+#+BEGIN_EXAMPLE
+蓝瓷消耗
+#+END_EXAMPLE
+
+** 点染·蓝瓷累计·3
+[[https://img.shields.io/badge/魅力-魅力值34点-blue.svg]]
+- 累计消耗：6个点染·蓝瓷
+#+BEGIN_EXAMPLE
+蓝瓷消耗
+#+END_EXAMPLE
+
+** 点染·蓝瓷累计·4
+[[https://img.shields.io/badge/魅力-魅力值60点-blue.svg]]
+- 累计消耗：12个点染·蓝瓷
+#+BEGIN_EXAMPLE
+蓝瓷消耗
+#+END_EXAMPLE
+
+** 点染·蓝瓷累计·5
+[[https://img.shields.io/badge/魅力-魅力值70点-blue.svg]]
+- 累计消耗：20个点染·蓝瓷
+#+BEGIN_EXAMPLE
+蓝瓷消耗
+#+END_EXAMPLE
+
+** 点染·蓝瓷累计·6
+[[https://img.shields.io/badge/魅力-魅力值76点-blue.svg]]
+- 累计消耗：30个点染·蓝瓷
+#+BEGIN_EXAMPLE
+蓝瓷消耗
+#+END_EXAMPLE
+
+** 点染·蓝瓷累计·7
+[[https://img.shields.io/badge/魅力-魅力值82点-blue.svg]]
+- 累计消耗：48个点染·蓝瓷
+#+BEGIN_EXAMPLE
+蓝瓷消耗
+#+END_EXAMPLE
+
+** 点染·蓝瓷累计·8
+[[https://img.shields.io/badge/魅力-魅力值90点-blue.svg]]
+- 累计消耗：72个点染·蓝瓷
+#+BEGIN_EXAMPLE
+蓝瓷消耗
+#+END_EXAMPLE
+
+** 点染·蓝瓷累计·9
+[[https://img.shields.io/badge/魅力-魅力值96点-blue.svg]]
+- 累计消耗：108个点染·蓝瓷
+#+BEGIN_EXAMPLE
+蓝瓷消耗
+#+END_EXAMPLE
+
+** 点染·蓝瓷累计·10
+[[https://img.shields.io/badge/魅力-魅力值96点-blue.svg]]
+- 累计消耗：156个点染·蓝瓷
+#+BEGIN_EXAMPLE
+蓝瓷消耗
+#+END_EXAMPLE
+
+** 点染·蓝瓷累计·11
+[[https://img.shields.io/badge/魅力-魅力值102点-blue.svg]]
+- 累计消耗：218个点染·蓝瓷
+#+BEGIN_EXAMPLE
+蓝瓷消耗
+#+END_EXAMPLE
+
+** 点染·蓝瓷累计·12
+[[https://img.shields.io/badge/魅力-魅力值102点-blue.svg]]
+- 累计消耗：290个点染·蓝瓷
+#+BEGIN_EXAMPLE
+蓝瓷消耗
+#+END_EXAMPLE
+
+** 点染·蓝瓷累计·13
+[[https://img.shields.io/badge/魅力-魅力值108点-blue.svg]]
+- 累计消耗：380个点染·蓝瓷
+#+BEGIN_EXAMPLE
+蓝瓷消耗
+#+END_EXAMPLE
+
+** 点染·蓝瓷累计·14
+[[https://img.shields.io/badge/魅力-魅力值108点-blue.svg]]
+- 累计消耗：475个点染·蓝瓷
+#+BEGIN_EXAMPLE
+蓝瓷消耗
+#+END_EXAMPLE
+
+** 点染·蓝瓷累计·15
+[[https://img.shields.io/badge/魅力-魅力值114点-blue.svg]]
+- 累计消耗：575个点染·蓝瓷
+#+BEGIN_EXAMPLE
+蓝瓷消耗
+#+END_EXAMPLE
+
+** 点染·蓝瓷累计·16
+[[https://img.shields.io/badge/魅力-魅力值114点-blue.svg]]
+- 累计消耗：680个点染·蓝瓷
+#+BEGIN_EXAMPLE
+蓝瓷消耗
+#+END_EXAMPLE
+
+** 点染·蓝瓷累计·17
+[[https://img.shields.io/badge/魅力-魅力值120点-blue.svg]]
+- 累计消耗：790个点染·蓝瓷
+#+BEGIN_EXAMPLE
+蓝瓷消耗
+#+END_EXAMPLE
+
+** 点染·蓝瓷累计·18
+[[https://img.shields.io/badge/魅力-魅力值120点-blue.svg]]
+- 累计消耗：905个点染·蓝瓷
+#+BEGIN_EXAMPLE
+蓝瓷消耗
+#+END_EXAMPLE
+
+** 点染·蓝瓷累计·19
+[[https://img.shields.io/badge/魅力-魅力值126点-blue.svg]]
+- 累计消耗：1025个点染·蓝瓷
+#+BEGIN_EXAMPLE
+蓝瓷消耗
+#+END_EXAMPLE
+
+** 点染·蓝瓷累计·20
+[[https://img.shields.io/badge/魅力-魅力值126点-blue.svg]]
+- 累计消耗：1150个点染·蓝瓷
+#+BEGIN_EXAMPLE
+蓝瓷消耗
+#+END_EXAMPLE
+
+** 点染·蓝瓷累计·21
+[[https://img.shields.io/badge/魅力-魅力值135点-blue.svg]]
+- 累计消耗：1280个点染·蓝瓷
+#+BEGIN_EXAMPLE
+蓝瓷消耗
+#+END_EXAMPLE
+
+** 点染·蓝瓷累计·22
+[[https://img.shields.io/badge/魅力-魅力值135点-blue.svg]]
+- 累计消耗：1415个点染·蓝瓷
+#+BEGIN_EXAMPLE
+蓝瓷消耗
+#+END_EXAMPLE
+
+** 点染·蓝瓷累计·23
+[[https://img.shields.io/badge/魅力-魅力值144点-blue.svg]]
+- 累计消耗：1555个点染·蓝瓷
+#+BEGIN_EXAMPLE
+蓝瓷消耗
+#+END_EXAMPLE
+
+** 点染·蓝瓷累计·24
+[[https://img.shields.io/badge/魅力-魅力值144点-blue.svg]]
+- 累计消耗：1700个点染·蓝瓷
+#+BEGIN_EXAMPLE
+蓝瓷消耗
+#+END_EXAMPLE
+
+** 点染·蓝瓷累计·25
+[[https://img.shields.io/badge/魅力-魅力值150点-blue.svg]]
+- 累计消耗：1850个点染·蓝瓷
+#+BEGIN_EXAMPLE
+蓝瓷消耗
+#+END_EXAMPLE
+
+** 点染·竹青累计·1
+[[https://img.shields.io/badge/魅力-魅力值12点-blue.svg]]
+- 累计消耗：1个点染·竹青
+#+BEGIN_EXAMPLE
+竹青消耗
+#+END_EXAMPLE
+
+** 点染·竹青累计·2
+[[https://img.shields.io/badge/魅力-魅力值24点-blue.svg]]
+- 累计消耗：3个点染·竹青
+#+BEGIN_EXAMPLE
+竹青消耗
+#+END_EXAMPLE
+
+** 点染·竹青累计·3
+[[https://img.shields.io/badge/魅力-魅力值34点-blue.svg]]
+- 累计消耗：6个点染·竹青
+#+BEGIN_EXAMPLE
+竹青消耗
+#+END_EXAMPLE
+
+** 点染·竹青累计·4
+[[https://img.shields.io/badge/魅力-魅力值60点-blue.svg]]
+- 累计消耗：12个点染·竹青
+#+BEGIN_EXAMPLE
+竹青消耗
+#+END_EXAMPLE
+
+** 点染·竹青累计·5
+[[https://img.shields.io/badge/魅力-魅力值70点-blue.svg]]
+- 累计消耗：20个点染·竹青
+#+BEGIN_EXAMPLE
+竹青消耗
+#+END_EXAMPLE
+
+** 点染·竹青累计·6
+[[https://img.shields.io/badge/魅力-魅力值76点-blue.svg]]
+- 累计消耗：30个点染·竹青
+#+BEGIN_EXAMPLE
+竹青消耗
+#+END_EXAMPLE
+
+** 点染·竹青累计·7
+[[https://img.shields.io/badge/魅力-魅力值82点-blue.svg]]
+- 累计消耗：48个点染·竹青
+#+BEGIN_EXAMPLE
+竹青消耗
+#+END_EXAMPLE
+
+** 点染·竹青累计·8
+[[https://img.shields.io/badge/魅力-魅力值90点-blue.svg]]
+- 累计消耗：72个点染·竹青
+#+BEGIN_EXAMPLE
+竹青消耗
+#+END_EXAMPLE
+
+** 点染·竹青累计·9
+[[https://img.shields.io/badge/魅力-魅力值96点-blue.svg]]
+- 累计消耗：108个点染·竹青
+#+BEGIN_EXAMPLE
+竹青消耗
+#+END_EXAMPLE
+
+** 点染·竹青累计·10
+[[https://img.shields.io/badge/魅力-魅力值96点-blue.svg]]
+- 累计消耗：156个点染·竹青
+#+BEGIN_EXAMPLE
+竹青消耗
+#+END_EXAMPLE
+
+** 点染·竹青累计·11
+[[https://img.shields.io/badge/魅力-魅力值102点-blue.svg]]
+- 累计消耗：218个点染·竹青
+#+BEGIN_EXAMPLE
+竹青消耗
+#+END_EXAMPLE
+
+** 点染·竹青累计·12
+[[https://img.shields.io/badge/魅力-魅力值102点-blue.svg]]
+- 累计消耗：290个点染·竹青
+#+BEGIN_EXAMPLE
+竹青消耗
+#+END_EXAMPLE
+
+** 点染·竹青累计·13
+[[https://img.shields.io/badge/魅力-魅力值108点-blue.svg]]
+- 累计消耗：380个点染·竹青
+#+BEGIN_EXAMPLE
+竹青消耗
+#+END_EXAMPLE
+
+** 点染·竹青累计·14
+[[https://img.shields.io/badge/魅力-魅力值108点-blue.svg]]
+- 累计消耗：475个点染·竹青
+#+BEGIN_EXAMPLE
+竹青消耗
+#+END_EXAMPLE
+
+** 点染·竹青累计·15
+[[https://img.shields.io/badge/魅力-魅力值114点-blue.svg]]
+- 累计消耗：575个点染·竹青
+#+BEGIN_EXAMPLE
+竹青消耗
+#+END_EXAMPLE
+
+** 点染·竹青累计·16
+[[https://img.shields.io/badge/魅力-魅力值114点-blue.svg]]
+- 累计消耗：680个点染·竹青
+#+BEGIN_EXAMPLE
+竹青消耗
+#+END_EXAMPLE
+
+** 点染·竹青累计·17
+[[https://img.shields.io/badge/魅力-魅力值120点-blue.svg]]
+- 累计消耗：790个点染·竹青
+#+BEGIN_EXAMPLE
+竹青消耗
+#+END_EXAMPLE
+
+** 点染·竹青累计·18
+[[https://img.shields.io/badge/魅力-魅力值120点-blue.svg]]
+- 累计消耗：905个点染·竹青
+#+BEGIN_EXAMPLE
+竹青消耗
+#+END_EXAMPLE
+
+** 点染·竹青累计·19
+[[https://img.shields.io/badge/魅力-魅力值126点-blue.svg]]
+- 累计消耗：1025个点染·竹青
+#+BEGIN_EXAMPLE
+竹青消耗
+#+END_EXAMPLE
+
+** 点染·竹青累计·20
+[[https://img.shields.io/badge/魅力-魅力值126点-blue.svg]]
+- 累计消耗：1150个点染·竹青
+#+BEGIN_EXAMPLE
+竹青消耗
+#+END_EXAMPLE
+
+** 点染·竹青累计·21
+[[https://img.shields.io/badge/魅力-魅力值135点-blue.svg]]
+- 累计消耗：1280个点染·竹青
+#+BEGIN_EXAMPLE
+竹青消耗
+#+END_EXAMPLE
+
+** 点染·竹青累计·22
+[[https://img.shields.io/badge/魅力-魅力值135点-blue.svg]]
+- 累计消耗：1415个点染·竹青
+#+BEGIN_EXAMPLE
+竹青消耗
+#+END_EXAMPLE
+
+** 点染·竹青累计·23
+[[https://img.shields.io/badge/魅力-魅力值144点-blue.svg]]
+- 累计消耗：1555个点染·竹青
+#+BEGIN_EXAMPLE
+竹青消耗
+#+END_EXAMPLE
+
+** 点染·竹青累计·24
+[[https://img.shields.io/badge/魅力-魅力值144点-blue.svg]]
+- 累计消耗：1700个点染·竹青
+#+BEGIN_EXAMPLE
+竹青消耗
+#+END_EXAMPLE
+
+** 点染·竹青累计·25
+[[https://img.shields.io/badge/魅力-魅力值150点-blue.svg]]
+- 累计消耗：1850个点染·竹青
+#+BEGIN_EXAMPLE
+竹青消耗
+#+END_EXAMPLE
+
+** 点染·红烬累计·1
+[[https://img.shields.io/badge/魅力-魅力值18点-blue.svg]]
+- 累计消耗：1个点染·红烬
+#+BEGIN_EXAMPLE
+红烬消耗
+#+END_EXAMPLE
+
+** 点染·红烬累计·2
+[[https://img.shields.io/badge/魅力-魅力值36点-blue.svg]]
+- 累计消耗：3个点染·红烬
+#+BEGIN_EXAMPLE
+红烬消耗
+#+END_EXAMPLE
+
+** 点染·红烬累计·3
+[[https://img.shields.io/badge/魅力-魅力值52点-blue.svg]]
+- 累计消耗：6个点染·红烬
+#+BEGIN_EXAMPLE
+红烬消耗
+#+END_EXAMPLE
+
+** 点染·红烬累计·4
+[[https://img.shields.io/badge/魅力-魅力值96点-blue.svg]]
+- 累计消耗：12个点染·红烬
+#+BEGIN_EXAMPLE
+红烬消耗
+#+END_EXAMPLE
+
+** 点染·红烬累计·5
+[[https://img.shields.io/badge/魅力-魅力值112点-blue.svg]]
+- 累计消耗：20个点染·红烬
+#+BEGIN_EXAMPLE
+红烬消耗
+#+END_EXAMPLE
+
+** 点染·红烬累计·6
+[[https://img.shields.io/badge/魅力-魅力值120点-blue.svg]]
+- 累计消耗：30个点染·红烬
+#+BEGIN_EXAMPLE
+红烬消耗
+#+END_EXAMPLE
+
+** 点染·红烬累计·7
+[[https://img.shields.io/badge/魅力-魅力值145点-blue.svg]]
+- 累计消耗：48个点染·红烬
+#+BEGIN_EXAMPLE
+红烬消耗
+#+END_EXAMPLE
+
+** 点染·红烬累计·8
+[[https://img.shields.io/badge/魅力-魅力值156点-blue.svg]]
+- 累计消耗：72个点染·红烬
+#+BEGIN_EXAMPLE
+红烬消耗
+#+END_EXAMPLE
+
+** 点染·红烬累计·9
+[[https://img.shields.io/badge/魅力-魅力值148点-blue.svg]]
+- 累计消耗：108个点染·红烬
+#+BEGIN_EXAMPLE
+红烬消耗
+#+END_EXAMPLE
+
+** 点染·红烬累计·10
+[[https://img.shields.io/badge/魅力-魅力值148点-blue.svg]]
+- 累计消耗：156个点染·红烬
+#+BEGIN_EXAMPLE
+红烬消耗
+#+END_EXAMPLE
+
+** 点染·红烬累计·11
+[[https://img.shields.io/badge/魅力-魅力值146点-blue.svg]]
+- 累计消耗：218个点染·红烬
+#+BEGIN_EXAMPLE
+红烬消耗
+#+END_EXAMPLE
+
+** 点染·红烬累计·12
+[[https://img.shields.io/badge/魅力-魅力值146点-blue.svg]]
+- 累计消耗：290个点染·红烬
+#+BEGIN_EXAMPLE
+红烬消耗
+#+END_EXAMPLE
+
+** 点染·红烬累计·13
+[[https://img.shields.io/badge/魅力-魅力值154点-blue.svg]]
+- 累计消耗：380个点染·红烬
+#+BEGIN_EXAMPLE
+红烬消耗
+#+END_EXAMPLE
+
+** 点染·红烬累计·14
+[[https://img.shields.io/badge/魅力-魅力值154点-blue.svg]]
+- 累计消耗：475个点染·红烬
+#+BEGIN_EXAMPLE
+红烬消耗
+#+END_EXAMPLE
+
+** 点染·红烬累计·15
+[[https://img.shields.io/badge/魅力-魅力值162点-blue.svg]]
+- 累计消耗：575个点染·红烬
+#+BEGIN_EXAMPLE
+红烬消耗
+#+END_EXAMPLE
+
+** 点染·红烬累计·16
+[[https://img.shields.io/badge/魅力-魅力值162点-blue.svg]]
+- 累计消耗：680个点染·红烬
+#+BEGIN_EXAMPLE
+红烬消耗
+#+END_EXAMPLE
+
+** 点染·红烬累计·17
+[[https://img.shields.io/badge/魅力-魅力值170点-blue.svg]]
+- 累计消耗：790个点染·红烬
+#+BEGIN_EXAMPLE
+红烬消耗
+#+END_EXAMPLE
+
+** 点染·红烬累计·18
+[[https://img.shields.io/badge/魅力-魅力值170点-blue.svg]]
+- 累计消耗：905个点染·红烬
+#+BEGIN_EXAMPLE
+红烬消耗
+#+END_EXAMPLE
+
+** 点染·红烬累计·19
+[[https://img.shields.io/badge/魅力-魅力值178点-blue.svg]]
+- 累计消耗：1025个点染·红烬
+#+BEGIN_EXAMPLE
+红烬消耗
+#+END_EXAMPLE
+
+** 点染·红烬累计·20
+[[https://img.shields.io/badge/魅力-魅力值178点-blue.svg]]
+- 累计消耗：1150个点染·红烬
+#+BEGIN_EXAMPLE
+红烬消耗
+#+END_EXAMPLE
+
+** 点染·红烬累计·21
+[[https://img.shields.io/badge/魅力-魅力值190点-blue.svg]]
+- 累计消耗：1280个点染·红烬
+#+BEGIN_EXAMPLE
+红烬消耗
+#+END_EXAMPLE
+
+** 点染·红烬累计·22
+[[https://img.shields.io/badge/魅力-魅力值190点-blue.svg]]
+- 累计消耗：1415个点染·红烬
+#+BEGIN_EXAMPLE
+红烬消耗
+#+END_EXAMPLE
+
+** 点染·红烬累计·23
+[[https://img.shields.io/badge/魅力-魅力值202点-blue.svg]]
+- 累计消耗：1555个点染·红烬
+#+BEGIN_EXAMPLE
+红烬消耗
+#+END_EXAMPLE
+
+** 点染·红烬累计·24
+[[https://img.shields.io/badge/魅力-魅力值202点-blue.svg]]
+- 累计消耗：1700个点染·红烬
+#+BEGIN_EXAMPLE
+红烬消耗
+#+END_EXAMPLE
+
+** 点染·红烬累计·25
+[[https://img.shields.io/badge/魅力-魅力值210点-blue.svg]]
+- 累计消耗：1850个点染·红烬
+#+BEGIN_EXAMPLE
+红烬消耗
+#+END_EXAMPLE
+
+** 点染金莹累计·1
+[[https://img.shields.io/badge/魅力-魅力值18点-blue.svg]]
+- 累计消耗：1个点染·金莹
+#+BEGIN_EXAMPLE
+金莹消耗
+#+END_EXAMPLE
+
+** 点染金莹累计·2
+[[https://img.shields.io/badge/魅力-魅力值36点-blue.svg]]
+- 累计消耗：3个点染·金莹
+#+BEGIN_EXAMPLE
+金莹消耗
+#+END_EXAMPLE
+
+** 点染金莹累计·3
+[[https://img.shields.io/badge/魅力-魅力值52点-blue.svg]]
+- 累计消耗：6个点染·金莹
+#+BEGIN_EXAMPLE
+金莹消耗
+#+END_EXAMPLE
+
+** 点染金莹累计·4
+[[https://img.shields.io/badge/魅力-魅力值96点-blue.svg]]
+- 累计消耗：12个点染·金莹
+#+BEGIN_EXAMPLE
+金莹消耗
+#+END_EXAMPLE
+
+** 点染金莹累计·5
+[[https://img.shields.io/badge/魅力-魅力值112点-blue.svg]]
+- 累计消耗：20个点染·金莹
+#+BEGIN_EXAMPLE
+金莹消耗
+#+END_EXAMPLE
+
+** 点染金莹累计·6
+[[https://img.shields.io/badge/魅力-魅力值120点-blue.svg]]
+- 累计消耗：30个点染·金莹
+#+BEGIN_EXAMPLE
+金莹消耗
+#+END_EXAMPLE
+
+** 点染金莹累计·7
+[[https://img.shields.io/badge/魅力-魅力值145点-blue.svg]]
+- 累计消耗：48个点染·金莹
+#+BEGIN_EXAMPLE
+金莹消耗
+#+END_EXAMPLE
+
+** 点染金莹累计·8
+[[https://img.shields.io/badge/魅力-魅力值156点-blue.svg]]
+- 累计消耗：72个点染·金莹
+#+BEGIN_EXAMPLE
+金莹消耗
+#+END_EXAMPLE
+
+** 点染金莹累计·9
+[[https://img.shields.io/badge/魅力-魅力值148点-blue.svg]]
+- 累计消耗：108个点染·金莹
+#+BEGIN_EXAMPLE
+金莹消耗
+#+END_EXAMPLE
+
+** 点染金莹累计·10
+[[https://img.shields.io/badge/魅力-魅力值148点-blue.svg]]
+- 累计消耗：156个点染·金莹
+#+BEGIN_EXAMPLE
+金莹消耗
+#+END_EXAMPLE
+
+** 点染金莹累计·11
+[[https://img.shields.io/badge/魅力-魅力值146点-blue.svg]]
+- 累计消耗：218个点染·金莹
+#+BEGIN_EXAMPLE
+金莹消耗
+#+END_EXAMPLE
+
+** 点染金莹累计·12
+[[https://img.shields.io/badge/魅力-魅力值146点-blue.svg]]
+- 累计消耗：290个点染·金莹
+#+BEGIN_EXAMPLE
+金莹消耗
+#+END_EXAMPLE
+
+** 点染金莹累计·13
+[[https://img.shields.io/badge/魅力-魅力值154点-blue.svg]]
+- 累计消耗：380个点染·金莹
+#+BEGIN_EXAMPLE
+金莹消耗
+#+END_EXAMPLE
+
+** 点染金莹累计·14
+[[https://img.shields.io/badge/魅力-魅力值154点-blue.svg]]
+- 累计消耗：475个点染·金莹
+#+BEGIN_EXAMPLE
+金莹消耗
+#+END_EXAMPLE
+
+** 点染金莹累计·15
+[[https://img.shields.io/badge/魅力-魅力值162点-blue.svg]]
+- 累计消耗：575个点染·金莹
+#+BEGIN_EXAMPLE
+金莹消耗
+#+END_EXAMPLE
+
+** 点染金莹累计·16
+[[https://img.shields.io/badge/魅力-魅力值162点-blue.svg]]
+- 累计消耗：680个点染·金莹
+#+BEGIN_EXAMPLE
+金莹消耗
+#+END_EXAMPLE
+
+** 点染金莹累计·17
+[[https://img.shields.io/badge/魅力-魅力值170点-blue.svg]]
+- 累计消耗：790个点染·金莹
+#+BEGIN_EXAMPLE
+金莹消耗
+#+END_EXAMPLE
+
+** 点染金莹累计·18
+[[https://img.shields.io/badge/魅力-魅力值170点-blue.svg]]
+- 累计消耗：905个点染·金莹
+#+BEGIN_EXAMPLE
+金莹消耗
+#+END_EXAMPLE
+
+** 点染金莹累计·19
+[[https://img.shields.io/badge/魅力-魅力值178点-blue.svg]]
+- 累计消耗：1025个点染·金莹
+#+BEGIN_EXAMPLE
+金莹消耗
+#+END_EXAMPLE
+
+** 点染金莹累计·20
+[[https://img.shields.io/badge/魅力-魅力值178点-blue.svg]]
+- 累计消耗：1150个点染·金莹
+#+BEGIN_EXAMPLE
+金莹消耗
+#+END_EXAMPLE
+
+** 点染金莹累计·21
+[[https://img.shields.io/badge/魅力-魅力值190点-blue.svg]]
+- 累计消耗：1280个点染·金莹
+#+BEGIN_EXAMPLE
+金莹消耗
+#+END_EXAMPLE
+
+** 点染金莹累计·22
+[[https://img.shields.io/badge/魅力-魅力值190点-blue.svg]]
+- 累计消耗：1415个点染·金莹
+#+BEGIN_EXAMPLE
+金莹消耗
+#+END_EXAMPLE
+
+** 点染金莹累计·23
+[[https://img.shields.io/badge/魅力-魅力值202点-blue.svg]]
+- 累计消耗：1555个点染·金莹
+#+BEGIN_EXAMPLE
+金莹消耗
+#+END_EXAMPLE
+
+** 点染金莹累计·24
+[[https://img.shields.io/badge/魅力-魅力值202点-blue.svg]]
+- 累计消耗：1700个点染·金莹
+#+BEGIN_EXAMPLE
+金莹消耗
+#+END_EXAMPLE
+
+** 点染金莹累计·25
+[[https://img.shields.io/badge/魅力-魅力值210点-blue.svg]]
+- 累计消耗：1850个点染·金莹
+#+BEGIN_EXAMPLE
+金莹消耗
+#+END_EXAMPLE
+
+** 点染·雪练累计·1
+[[https://img.shields.io/badge/魅力-魅力值25点-blue.svg]]
+- 累计消耗：1个点染·雪练
+#+BEGIN_EXAMPLE
+雪练消耗
+#+END_EXAMPLE
+
+** 点染·雪练累计·2
+[[https://img.shields.io/badge/魅力-魅力值50点-blue.svg]]
+- 累计消耗：3个点染·雪练
+#+BEGIN_EXAMPLE
+雪练消耗
+#+END_EXAMPLE
+
+** 点染·雪练累计·3
+[[https://img.shields.io/badge/魅力-魅力值72点-blue.svg]]
+- 累计消耗：6个点染·雪练
+#+BEGIN_EXAMPLE
+雪练消耗
+#+END_EXAMPLE
+
+** 点染·雪练累计·4
+[[https://img.shields.io/badge/魅力-魅力值134点-blue.svg]]
+- 累计消耗：12个点染·雪练
+#+BEGIN_EXAMPLE
+雪练消耗
+#+END_EXAMPLE
+
+** 点染·雪练累计·5
+[[https://img.shields.io/badge/魅力-魅力值156点-blue.svg]]
+- 累计消耗：20个点染·雪练
+#+BEGIN_EXAMPLE
+雪练消耗
+#+END_EXAMPLE
+
+** 点染·雪练累计·6
+[[https://img.shields.io/badge/魅力-魅力值168点-blue.svg]]
+- 累计消耗：30个点染·雪练
+#+BEGIN_EXAMPLE
+雪练消耗
+#+END_EXAMPLE
+
+** 点染·雪练累计·7
+[[https://img.shields.io/badge/魅力-魅力值203点-blue.svg]]
+- 累计消耗：48个点染·雪练
+#+BEGIN_EXAMPLE
+雪练消耗
+#+END_EXAMPLE
+
+** 点染·雪练累计·8
+[[https://img.shields.io/badge/魅力-魅力值218点-blue.svg]]
+- 累计消耗：72个点染·雪练
+#+BEGIN_EXAMPLE
+雪练消耗
+#+END_EXAMPLE
+
+** 点染·雪练累计·9
+[[https://img.shields.io/badge/魅力-魅力值207点-blue.svg]]
+- 累计消耗：108个点染·雪练
+#+BEGIN_EXAMPLE
+雪练消耗
+#+END_EXAMPLE
+
+** 点染·雪练累计·10
+[[https://img.shields.io/badge/魅力-魅力值207点-blue.svg]]
+- 累计消耗：156个点染·雪练
+#+BEGIN_EXAMPLE
+雪练消耗
+#+END_EXAMPLE
+
+** 点染·雪练累计·11
+[[https://img.shields.io/badge/魅力-魅力值233点-blue.svg]]
+- 累计消耗：218个点染·雪练
+#+BEGIN_EXAMPLE
+雪练消耗
+#+END_EXAMPLE
+
+** 点染·雪练累计·12
+[[https://img.shields.io/badge/魅力-魅力值233点-blue.svg]]
+- 累计消耗：290个点染·雪练
+#+BEGIN_EXAMPLE
+雪练消耗
+#+END_EXAMPLE
+
+** 点染·雪练累计·13
+[[https://img.shields.io/badge/魅力-魅力值246点-blue.svg]]
+- 累计消耗：380个点染·雪练
+#+BEGIN_EXAMPLE
+雪练消耗
+#+END_EXAMPLE
+
+** 点染·雪练累计·14
+[[https://img.shields.io/badge/魅力-魅力值246点-blue.svg]]
+- 累计消耗：475个点染·雪练
+#+BEGIN_EXAMPLE
+雪练消耗
+#+END_EXAMPLE
+
+** 点染·雪练累计·15
+[[https://img.shields.io/badge/魅力-魅力值259点-blue.svg]]
+- 累计消耗：575个点染·雪练
+#+BEGIN_EXAMPLE
+雪练消耗
+#+END_EXAMPLE
+
+** 点染·雪练累计·16
+[[https://img.shields.io/badge/魅力-魅力值243点-blue.svg]]
+- 累计消耗：680个点染·雪练
+#+BEGIN_EXAMPLE
+雪练消耗
+#+END_EXAMPLE
+
+** 点染·雪练累计·17
+[[https://img.shields.io/badge/魅力-魅力值255点-blue.svg]]
+- 累计消耗：790个点染·雪练
+#+BEGIN_EXAMPLE
+雪练消耗
+#+END_EXAMPLE
+
+** 点染·雪练累计·18
+[[https://img.shields.io/badge/魅力-魅力值255点-blue.svg]]
+- 累计消耗：905个点染·雪练
+#+BEGIN_EXAMPLE
+雪练消耗
+#+END_EXAMPLE
+
+** 点染·雪练累计·19
+[[https://img.shields.io/badge/魅力-魅力值267点-blue.svg]]
+- 累计消耗：1025个点染·雪练
+#+BEGIN_EXAMPLE
+雪练消耗
+#+END_EXAMPLE
+
+** 点染·雪练累计·20
+[[https://img.shields.io/badge/魅力-魅力值267点-blue.svg]]
+- 累计消耗：1150个点染·雪练
+#+BEGIN_EXAMPLE
+雪练消耗
+#+END_EXAMPLE
+
+** 点染·雪练累计·21
+[[https://img.shields.io/badge/魅力-魅力值266点-blue.svg]]
+- 累计消耗：1280个点染·雪练
+#+BEGIN_EXAMPLE
+雪练消耗
+#+END_EXAMPLE
+
+** 点染·雪练累计·22
+[[https://img.shields.io/badge/魅力-魅力值266点-blue.svg]]
+- 累计消耗：1415个点染·雪练
+#+BEGIN_EXAMPLE
+雪练消耗
+#+END_EXAMPLE
+
+** 点染·雪练累计·23
+[[https://img.shields.io/badge/魅力-魅力值282点-blue.svg]]
+- 累计消耗：1555个点染·雪练
+#+BEGIN_EXAMPLE
+雪练消耗
+#+END_EXAMPLE
+
+** 点染·雪练累计·24
+[[https://img.shields.io/badge/魅力-魅力值282点-blue.svg]]
+- 累计消耗：1700个点染·雪练
+#+BEGIN_EXAMPLE
+雪练消耗
+#+END_EXAMPLE
+
+** 点染·雪练累计·25
+[[https://img.shields.io/badge/魅力-魅力值294点-blue.svg]]
+- 累计消耗：1850个点染·雪练
+#+BEGIN_EXAMPLE
+雪练消耗
+#+END_EXAMPLE
+
+** 点染·玄夜累计·1
+[[https://img.shields.io/badge/魅力-魅力值25点-blue.svg]]
+- 累计消耗：1个点染·玄夜
+#+BEGIN_EXAMPLE
+玄夜消耗
+#+END_EXAMPLE
+
+** 点染·玄夜累计·2
+[[https://img.shields.io/badge/魅力-魅力值50点-blue.svg]]
+- 累计消耗：3个点染·玄夜
+#+BEGIN_EXAMPLE
+玄夜消耗
+#+END_EXAMPLE
+
+** 点染·玄夜累计·3
+[[https://img.shields.io/badge/魅力-魅力值72点-blue.svg]]
+- 累计消耗：6个点染·玄夜
+#+BEGIN_EXAMPLE
+玄夜消耗
+#+END_EXAMPLE
+
+** 点染·玄夜累计·4
+[[https://img.shields.io/badge/魅力-魅力值134点-blue.svg]]
+- 累计消耗：12个点染·玄夜
+#+BEGIN_EXAMPLE
+玄夜消耗
+#+END_EXAMPLE
+
+** 点染·玄夜累计·5
+[[https://img.shields.io/badge/魅力-魅力值156点-blue.svg]]
+- 累计消耗：20个点染·玄夜
+#+BEGIN_EXAMPLE
+玄夜消耗
+#+END_EXAMPLE
+
+** 点染·玄夜累计·6
+[[https://img.shields.io/badge/魅力-魅力值168点-blue.svg]]
+- 累计消耗：30个点染·玄夜
+#+BEGIN_EXAMPLE
+玄夜消耗
+#+END_EXAMPLE
+
+** 点染·玄夜累计·7
+[[https://img.shields.io/badge/魅力-魅力值203点-blue.svg]]
+- 累计消耗：48个点染·玄夜
+#+BEGIN_EXAMPLE
+玄夜消耗
+#+END_EXAMPLE
+
+** 点染·玄夜累计·8
+[[https://img.shields.io/badge/魅力-魅力值218点-blue.svg]]
+- 累计消耗：72个点染·玄夜
+#+BEGIN_EXAMPLE
+玄夜消耗
+#+END_EXAMPLE
+
+** 点染·玄夜累计·9
+[[https://img.shields.io/badge/魅力-魅力值207点-blue.svg]]
+- 累计消耗：108个点染·玄夜
+#+BEGIN_EXAMPLE
+玄夜消耗
+#+END_EXAMPLE
+
+** 点染·玄夜累计·10
+[[https://img.shields.io/badge/魅力-魅力值207点-blue.svg]]
+- 累计消耗：156个点染·玄夜
+#+BEGIN_EXAMPLE
+玄夜消耗
+#+END_EXAMPLE
+
+** 点染·玄夜累计·11
+[[https://img.shields.io/badge/魅力-魅力值233点-blue.svg]]
+- 累计消耗：218个点染·玄夜
+#+BEGIN_EXAMPLE
+玄夜消耗
+#+END_EXAMPLE
+
+** 点染·玄夜累计·12
+[[https://img.shields.io/badge/魅力-魅力值233点-blue.svg]]
+- 累计消耗：290个点染·玄夜
+#+BEGIN_EXAMPLE
+玄夜消耗
+#+END_EXAMPLE
+
+** 点染·玄夜累计·13
+[[https://img.shields.io/badge/魅力-魅力值246点-blue.svg]]
+- 累计消耗：380个点染·玄夜
+#+BEGIN_EXAMPLE
+玄夜消耗
+#+END_EXAMPLE
+
+** 点染·玄夜累计·14
+[[https://img.shields.io/badge/魅力-魅力值246点-blue.svg]]
+- 累计消耗：475个点染·玄夜
+#+BEGIN_EXAMPLE
+玄夜消耗
+#+END_EXAMPLE
+
+** 点染·玄夜累计·15
+[[https://img.shields.io/badge/魅力-魅力值259点-blue.svg]]
+- 累计消耗：575个点染·玄夜
+#+BEGIN_EXAMPLE
+玄夜消耗
+#+END_EXAMPLE
+
+** 点染·玄夜累计·16
+[[https://img.shields.io/badge/魅力-魅力值243点-blue.svg]]
+- 累计消耗：680个点染·玄夜
+#+BEGIN_EXAMPLE
+玄夜消耗
+#+END_EXAMPLE
+
+** 点染·玄夜累计·17
+[[https://img.shields.io/badge/魅力-魅力值255点-blue.svg]]
+- 累计消耗：790个点染·玄夜
+#+BEGIN_EXAMPLE
+玄夜消耗
+#+END_EXAMPLE
+
+** 点染·玄夜累计·18
+[[https://img.shields.io/badge/魅力-魅力值255点-blue.svg]]
+- 累计消耗：905个点染·玄夜
+#+BEGIN_EXAMPLE
+玄夜消耗
+#+END_EXAMPLE
+
+** 点染·玄夜累计·19
+[[https://img.shields.io/badge/魅力-魅力值267点-blue.svg]]
+- 累计消耗：1025个点染·玄夜
+#+BEGIN_EXAMPLE
+玄夜消耗
+#+END_EXAMPLE
+
+** 点染·玄夜累计·20
+[[https://img.shields.io/badge/魅力-魅力值267点-blue.svg]]
+- 累计消耗：1150个点染·玄夜
+#+BEGIN_EXAMPLE
+玄夜消耗
+#+END_EXAMPLE
+
+** 点染·玄夜累计·21
+[[https://img.shields.io/badge/魅力-魅力值266点-blue.svg]]
+- 累计消耗：1280个点染·玄夜
+#+BEGIN_EXAMPLE
+玄夜消耗
+#+END_EXAMPLE
+
+** 点染·玄夜累计·22
+[[https://img.shields.io/badge/魅力-魅力值266点-blue.svg]]
+- 累计消耗：1415个点染·玄夜
+#+BEGIN_EXAMPLE
+玄夜消耗
+#+END_EXAMPLE
+
+** 点染·玄夜累计·23
+[[https://img.shields.io/badge/魅力-魅力值282点-blue.svg]]
+- 累计消耗：1555个点染·玄夜
+#+BEGIN_EXAMPLE
+玄夜消耗
+#+END_EXAMPLE
+
+** 点染·玄夜累计·24
+[[https://img.shields.io/badge/魅力-魅力值282点-blue.svg]]
+- 累计消耗：1700个点染·玄夜
+#+BEGIN_EXAMPLE
+玄夜消耗
+#+END_EXAMPLE
+
+** 点染·玄夜累计·25
+[[https://img.shields.io/badge/魅力-魅力值294点-blue.svg]]
+- 累计消耗：1850个点染·玄夜
+#+BEGIN_EXAMPLE
+玄夜消耗
+#+END_EXAMPLE
+
+** 绾青丝·墨红累计·1
+[[https://img.shields.io/badge/魅力-魅力值10点-blue.svg]]
+- 累计消耗：2个绾青丝·墨红
+#+BEGIN_EXAMPLE
+绾青丝·墨红
+#+END_EXAMPLE
+
+** 绾青丝·墨红累计·2
+[[https://img.shields.io/badge/魅力-魅力值15点-blue.svg]]
+- 累计消耗：5个绾青丝·墨红
+#+BEGIN_EXAMPLE
+绾青丝·墨红
+#+END_EXAMPLE
+
+** 绾青丝·墨红累计·3
+[[https://img.shields.io/badge/魅力-魅力值22点-blue.svg]]
+- 累计消耗：10个绾青丝·墨红
+#+BEGIN_EXAMPLE
+绾青丝·墨红
+#+END_EXAMPLE
+
+** 绾青丝·墨红累计·4
+[[https://img.shields.io/badge/魅力-魅力值40点-blue.svg]]
+- 累计消耗：20个绾青丝·墨红
+#+BEGIN_EXAMPLE
+绾青丝·墨红
+#+END_EXAMPLE
+
+** 绾青丝·墨红累计·5
+[[https://img.shields.io/badge/魅力-魅力值48点-blue.svg]]
+- 累计消耗：32个绾青丝·墨红
+#+BEGIN_EXAMPLE
+绾青丝·墨红
+#+END_EXAMPLE
+
+** 绾青丝·墨红累计·6
+[[https://img.shields.io/badge/魅力-魅力值50点-blue.svg]]
+- 累计消耗：46个绾青丝·墨红
+#+BEGIN_EXAMPLE
+绾青丝·墨红
+#+END_EXAMPLE
+
+** 绾青丝·墨红累计·7
+[[https://img.shields.io/badge/魅力-魅力值60点-blue.svg]]
+- 累计消耗：64个绾青丝·墨红
+#+BEGIN_EXAMPLE
+绾青丝·墨红
+#+END_EXAMPLE
+
+** 绾青丝·墨红累计·8
+[[https://img.shields.io/badge/魅力-魅力值66点-blue.svg]]
+- 累计消耗：88个绾青丝·墨红
+#+BEGIN_EXAMPLE
+绾青丝·墨红
+#+END_EXAMPLE
+
+** 绾青丝·墨红累计·9
+[[https://img.shields.io/badge/魅力-魅力值66点-blue.svg]]
+- 累计消耗：124个绾青丝·墨红
+#+BEGIN_EXAMPLE
+绾青丝·墨红
+#+END_EXAMPLE
+
+** 绾青丝·墨红累计·10
+[[https://img.shields.io/badge/魅力-魅力值66点-blue.svg]]
+- 累计消耗：172个绾青丝·墨红
+#+BEGIN_EXAMPLE
+绾青丝·墨红
+#+END_EXAMPLE
+
+** 绾青丝·墨红累计·11
+[[https://img.shields.io/badge/魅力-魅力值72点-blue.svg]]
+- 累计消耗：234个绾青丝·墨红
+#+BEGIN_EXAMPLE
+绾青丝·墨红
+#+END_EXAMPLE
+
+** 绾青丝·墨红累计·12
+[[https://img.shields.io/badge/魅力-魅力值72点-blue.svg]]
+- 累计消耗：306个绾青丝·墨红
+#+BEGIN_EXAMPLE
+绾青丝·墨红
+#+END_EXAMPLE
+
+** 绾青丝·墨红累计·13
+[[https://img.shields.io/badge/魅力-魅力值72点-blue.svg]]
+- 累计消耗：396个绾青丝·墨红
+#+BEGIN_EXAMPLE
+绾青丝·墨红
+#+END_EXAMPLE
+
+** 绾青丝·墨红累计·14
+[[https://img.shields.io/badge/魅力-魅力值72点-blue.svg]]
+- 累计消耗：488个绾青丝·墨红
+#+BEGIN_EXAMPLE
+绾青丝·墨红
+#+END_EXAMPLE
+
+** 绾青丝·墨红累计·15
+[[https://img.shields.io/badge/魅力-魅力值78点-blue.svg]]
+- 累计消耗：590个绾青丝·墨红
+#+BEGIN_EXAMPLE
+绾青丝·墨红
+#+END_EXAMPLE
+
+** 绾青丝·墨红累计·16
+[[https://img.shields.io/badge/魅力-魅力值78点-blue.svg]]
+- 累计消耗：695个绾青丝·墨红
+#+BEGIN_EXAMPLE
+绾青丝·墨红
+#+END_EXAMPLE
+
+** 绾青丝·墨红累计·17
+[[https://img.shields.io/badge/魅力-魅力值78点-blue.svg]]
+- 累计消耗：805个绾青丝·墨红
+#+BEGIN_EXAMPLE
+绾青丝·墨红
+#+END_EXAMPLE
+
+** 绾青丝·墨红累计·18
+[[https://img.shields.io/badge/魅力-魅力值78点-blue.svg]]
+- 累计消耗：920个绾青丝·墨红
+#+BEGIN_EXAMPLE
+绾青丝·墨红
+#+END_EXAMPLE
+
+** 绾青丝·墨红累计·19
+[[https://img.shields.io/badge/魅力-魅力值81点-blue.svg]]
+- 累计消耗：1040个绾青丝·墨红
+#+BEGIN_EXAMPLE
+绾青丝·墨红
+#+END_EXAMPLE
+
+** 绾青丝·墨红累计·20
+[[https://img.shields.io/badge/魅力-魅力值81点-blue.svg]]
+- 累计消耗：1165个绾青丝·墨红
+#+BEGIN_EXAMPLE
+绾青丝·墨红
+#+END_EXAMPLE
+
+** 绾青丝·墨红累计·21
+[[https://img.shields.io/badge/魅力-魅力值81点-blue.svg]]
+- 累计消耗：1295个绾青丝·墨红
+#+BEGIN_EXAMPLE
+绾青丝·墨红
+#+END_EXAMPLE
+
+** 绾青丝·墨红累计·22
+[[https://img.shields.io/badge/魅力-魅力值81点-blue.svg]]
+- 累计消耗：1430个绾青丝·墨红
+#+BEGIN_EXAMPLE
+绾青丝·墨红
+#+END_EXAMPLE
+
+** 绾青丝·墨红累计·23
+[[https://img.shields.io/badge/魅力-魅力值85点-blue.svg]]
+- 累计消耗：1572个绾青丝·墨红
+#+BEGIN_EXAMPLE
+绾青丝·墨红
+#+END_EXAMPLE
+
+** 绾青丝·墨红累计·24
+[[https://img.shields.io/badge/魅力-魅力值85点-blue.svg]]
+- 累计消耗：1718个绾青丝·墨红
+#+BEGIN_EXAMPLE
+绾青丝·墨红
+#+END_EXAMPLE
+
+** 绾青丝·墨红累计·25
+[[https://img.shields.io/badge/魅力-魅力值85点-blue.svg]]
+- 累计消耗：1868个绾青丝·墨红
+#+BEGIN_EXAMPLE
+绾青丝·墨红
+#+END_EXAMPLE
+
+** 绾青丝·墨棕累计·1
+[[https://img.shields.io/badge/魅力-魅力值10点-blue.svg]]
+- 累计消耗：2个绾青丝·墨棕
+#+BEGIN_EXAMPLE
+绾青丝·墨棕
+#+END_EXAMPLE
+
+** 绾青丝·墨棕累计·2
+[[https://img.shields.io/badge/魅力-魅力值15点-blue.svg]]
+- 累计消耗：5个绾青丝·墨棕
+#+BEGIN_EXAMPLE
+绾青丝·墨棕
+#+END_EXAMPLE
+
+** 绾青丝·墨棕累计·3
+[[https://img.shields.io/badge/魅力-魅力值22点-blue.svg]]
+- 累计消耗：10个绾青丝·墨棕
+#+BEGIN_EXAMPLE
+绾青丝·墨棕
+#+END_EXAMPLE
+
+** 绾青丝·墨棕累计·4
+[[https://img.shields.io/badge/魅力-魅力值40点-blue.svg]]
+- 累计消耗：20个绾青丝·墨棕
+#+BEGIN_EXAMPLE
+绾青丝·墨棕
+#+END_EXAMPLE
+
+** 绾青丝·墨棕累计·5
+[[https://img.shields.io/badge/魅力-魅力值48点-blue.svg]]
+- 累计消耗：32个绾青丝·墨棕
+#+BEGIN_EXAMPLE
+绾青丝·墨棕
+#+END_EXAMPLE
+
+** 绾青丝·墨棕累计·6
+[[https://img.shields.io/badge/魅力-魅力值50点-blue.svg]]
+- 累计消耗：46个绾青丝·墨棕
+#+BEGIN_EXAMPLE
+绾青丝·墨棕
+#+END_EXAMPLE
+
+** 绾青丝·墨棕累计·7
+[[https://img.shields.io/badge/魅力-魅力值60点-blue.svg]]
+- 累计消耗：64个绾青丝·墨棕
+#+BEGIN_EXAMPLE
+绾青丝·墨棕
+#+END_EXAMPLE
+
+** 绾青丝·墨棕累计·8
+[[https://img.shields.io/badge/魅力-魅力值66点-blue.svg]]
+- 累计消耗：88个绾青丝·墨棕
+#+BEGIN_EXAMPLE
+绾青丝·墨棕
+#+END_EXAMPLE
+
+** 绾青丝·墨棕累计·9
+[[https://img.shields.io/badge/魅力-魅力值66点-blue.svg]]
+- 累计消耗：124个绾青丝·墨棕
+#+BEGIN_EXAMPLE
+绾青丝·墨棕
+#+END_EXAMPLE
+
+** 绾青丝·墨棕累计·10
+[[https://img.shields.io/badge/魅力-魅力值66点-blue.svg]]
+- 累计消耗：172个绾青丝·墨棕
+#+BEGIN_EXAMPLE
+绾青丝·墨棕
+#+END_EXAMPLE
+
+** 绾青丝·墨棕累计·11
+[[https://img.shields.io/badge/魅力-魅力值72点-blue.svg]]
+- 累计消耗：234个绾青丝·墨棕
+#+BEGIN_EXAMPLE
+绾青丝·墨棕
+#+END_EXAMPLE
+
+** 绾青丝·墨棕累计·12
+[[https://img.shields.io/badge/魅力-魅力值72点-blue.svg]]
+- 累计消耗：306个绾青丝·墨棕
+#+BEGIN_EXAMPLE
+绾青丝·墨棕
+#+END_EXAMPLE
+
+** 绾青丝·墨棕累计·13
+[[https://img.shields.io/badge/魅力-魅力值72点-blue.svg]]
+- 累计消耗：396个绾青丝·墨棕
+#+BEGIN_EXAMPLE
+绾青丝·墨棕
+#+END_EXAMPLE
+
+** 绾青丝·墨棕累计·14
+[[https://img.shields.io/badge/魅力-魅力值72点-blue.svg]]
+- 累计消耗：488个绾青丝·墨棕
+#+BEGIN_EXAMPLE
+绾青丝·墨棕
+#+END_EXAMPLE
+
+** 绾青丝·墨棕累计·15
+[[https://img.shields.io/badge/魅力-魅力值78点-blue.svg]]
+- 累计消耗：590个绾青丝·墨棕
+#+BEGIN_EXAMPLE
+绾青丝·墨棕
+#+END_EXAMPLE
+
+** 绾青丝·墨棕累计·16
+[[https://img.shields.io/badge/魅力-魅力值78点-blue.svg]]
+- 累计消耗：695个绾青丝·墨棕
+#+BEGIN_EXAMPLE
+绾青丝·墨棕
+#+END_EXAMPLE
+
+** 绾青丝·墨棕累计·17
+[[https://img.shields.io/badge/魅力-魅力值78点-blue.svg]]
+- 累计消耗：805个绾青丝·墨棕
+#+BEGIN_EXAMPLE
+绾青丝·墨棕
+#+END_EXAMPLE
+
+** 绾青丝·墨棕累计·18
+[[https://img.shields.io/badge/魅力-魅力值78点-blue.svg]]
+- 累计消耗：920个绾青丝·墨棕
+#+BEGIN_EXAMPLE
+绾青丝·墨棕
+#+END_EXAMPLE
+
+** 绾青丝·墨棕累计·19
+[[https://img.shields.io/badge/魅力-魅力值81点-blue.svg]]
+- 累计消耗：1040个绾青丝·墨棕
+#+BEGIN_EXAMPLE
+绾青丝·墨棕
+#+END_EXAMPLE
+
+** 绾青丝·墨棕累计·20
+[[https://img.shields.io/badge/魅力-魅力值81点-blue.svg]]
+- 累计消耗：1165个绾青丝·墨棕
+#+BEGIN_EXAMPLE
+绾青丝·墨棕
+#+END_EXAMPLE
+
+** 绾青丝·墨棕累计·21
+[[https://img.shields.io/badge/魅力-魅力值81点-blue.svg]]
+- 累计消耗：1295个绾青丝·墨棕
+#+BEGIN_EXAMPLE
+绾青丝·墨棕
+#+END_EXAMPLE
+
+** 绾青丝·墨棕累计·22
+[[https://img.shields.io/badge/魅力-魅力值81点-blue.svg]]
+- 累计消耗：1430个绾青丝·墨棕
+#+BEGIN_EXAMPLE
+绾青丝·墨棕
+#+END_EXAMPLE
+
+** 绾青丝·墨棕累计·23
+[[https://img.shields.io/badge/魅力-魅力值85点-blue.svg]]
+- 累计消耗：1572个绾青丝·墨棕
+#+BEGIN_EXAMPLE
+绾青丝·墨棕
+#+END_EXAMPLE
+
+** 绾青丝·墨棕累计·24
+[[https://img.shields.io/badge/魅力-魅力值85点-blue.svg]]
+- 累计消耗：1718个绾青丝·墨棕
+#+BEGIN_EXAMPLE
+绾青丝·墨棕
+#+END_EXAMPLE
+
+** 绾青丝·墨棕累计·25
+[[https://img.shields.io/badge/魅力-魅力值85点-blue.svg]]
+- 累计消耗：1868个绾青丝·墨棕
+#+BEGIN_EXAMPLE
+绾青丝·墨棕
+#+END_EXAMPLE
+
+** 绾青丝·墨黄累计·1
+[[https://img.shields.io/badge/魅力-魅力值10点-blue.svg]]
+- 累计消耗：2个绾青丝·墨黄
+#+BEGIN_EXAMPLE
+绾青丝·墨黄
+#+END_EXAMPLE
+
+** 绾青丝·墨黄累计·2
+[[https://img.shields.io/badge/魅力-魅力值15点-blue.svg]]
+- 累计消耗：5个绾青丝·墨黄
+#+BEGIN_EXAMPLE
+绾青丝·墨黄
+#+END_EXAMPLE
+
+** 绾青丝·墨黄累计·3
+[[https://img.shields.io/badge/魅力-魅力值22点-blue.svg]]
+- 累计消耗：10个绾青丝·墨黄
+#+BEGIN_EXAMPLE
+绾青丝·墨黄
+#+END_EXAMPLE
+
+** 绾青丝·墨黄累计·4
+[[https://img.shields.io/badge/魅力-魅力值40点-blue.svg]]
+- 累计消耗：20个绾青丝·墨黄
+#+BEGIN_EXAMPLE
+绾青丝·墨黄
+#+END_EXAMPLE
+
+** 绾青丝·墨黄累计·5
+[[https://img.shields.io/badge/魅力-魅力值48点-blue.svg]]
+- 累计消耗：32个绾青丝·墨黄
+#+BEGIN_EXAMPLE
+绾青丝·墨黄
+#+END_EXAMPLE
+
+** 绾青丝·墨黄累计·6
+[[https://img.shields.io/badge/魅力-魅力值50点-blue.svg]]
+- 累计消耗：46个绾青丝·墨黄
+#+BEGIN_EXAMPLE
+绾青丝·墨黄
+#+END_EXAMPLE
+
+** 绾青丝·墨黄累计·7
+[[https://img.shields.io/badge/魅力-魅力值60点-blue.svg]]
+- 累计消耗：64个绾青丝·墨黄
+#+BEGIN_EXAMPLE
+绾青丝·墨黄
+#+END_EXAMPLE
+
+** 绾青丝·墨黄累计·8
+[[https://img.shields.io/badge/魅力-魅力值66点-blue.svg]]
+- 累计消耗：88个绾青丝·墨黄
+#+BEGIN_EXAMPLE
+绾青丝·墨黄
+#+END_EXAMPLE
+
+** 绾青丝·墨黄累计·9
+[[https://img.shields.io/badge/魅力-魅力值66点-blue.svg]]
+- 累计消耗：124个绾青丝·墨黄
+#+BEGIN_EXAMPLE
+绾青丝·墨黄
+#+END_EXAMPLE
+
+** 绾青丝·墨黄累计·10
+[[https://img.shields.io/badge/魅力-魅力值66点-blue.svg]]
+- 累计消耗：172个绾青丝·墨黄
+#+BEGIN_EXAMPLE
+绾青丝·墨黄
+#+END_EXAMPLE
+
+** 绾青丝·墨黄累计·11
+[[https://img.shields.io/badge/魅力-魅力值72点-blue.svg]]
+- 累计消耗：234个绾青丝·墨黄
+#+BEGIN_EXAMPLE
+绾青丝·墨黄
+#+END_EXAMPLE
+
+** 绾青丝·墨黄累计·12
+[[https://img.shields.io/badge/魅力-魅力值72点-blue.svg]]
+- 累计消耗：306个绾青丝·墨黄
+#+BEGIN_EXAMPLE
+绾青丝·墨黄
+#+END_EXAMPLE
+
+** 绾青丝·墨黄累计·13
+[[https://img.shields.io/badge/魅力-魅力值72点-blue.svg]]
+- 累计消耗：396个绾青丝·墨黄
+#+BEGIN_EXAMPLE
+绾青丝·墨黄
+#+END_EXAMPLE
+
+** 绾青丝·墨黄累计·14
+[[https://img.shields.io/badge/魅力-魅力值72点-blue.svg]]
+- 累计消耗：488个绾青丝·墨黄
+#+BEGIN_EXAMPLE
+绾青丝·墨黄
+#+END_EXAMPLE
+
+** 绾青丝·墨黄累计·15
+[[https://img.shields.io/badge/魅力-魅力值78点-blue.svg]]
+- 累计消耗：590个绾青丝·墨黄
+#+BEGIN_EXAMPLE
+绾青丝·墨黄
+#+END_EXAMPLE
+
+** 绾青丝·墨黄累计·16
+[[https://img.shields.io/badge/魅力-魅力值78点-blue.svg]]
+- 累计消耗：695个绾青丝·墨黄
+#+BEGIN_EXAMPLE
+绾青丝·墨黄
+#+END_EXAMPLE
+
+** 绾青丝·墨黄累计·17
+[[https://img.shields.io/badge/魅力-魅力值78点-blue.svg]]
+- 累计消耗：805个绾青丝·墨黄
+#+BEGIN_EXAMPLE
+绾青丝·墨黄
+#+END_EXAMPLE
+
+** 绾青丝·墨黄累计·18
+[[https://img.shields.io/badge/魅力-魅力值78点-blue.svg]]
+- 累计消耗：920个绾青丝·墨黄
+#+BEGIN_EXAMPLE
+绾青丝·墨黄
+#+END_EXAMPLE
+
+** 绾青丝·墨黄累计·19
+[[https://img.shields.io/badge/魅力-魅力值81点-blue.svg]]
+- 累计消耗：1040个绾青丝·墨黄
+#+BEGIN_EXAMPLE
+绾青丝·墨黄
+#+END_EXAMPLE
+
+** 绾青丝·墨黄累计·20
+[[https://img.shields.io/badge/魅力-魅力值81点-blue.svg]]
+- 累计消耗：1165个绾青丝·墨黄
+#+BEGIN_EXAMPLE
+绾青丝·墨黄
+#+END_EXAMPLE
+
+** 绾青丝·墨黄累计·21
+[[https://img.shields.io/badge/魅力-魅力值81点-blue.svg]]
+- 累计消耗：1295个绾青丝·墨黄
+#+BEGIN_EXAMPLE
+绾青丝·墨黄
+#+END_EXAMPLE
+
+** 绾青丝·墨黄累计·22
+[[https://img.shields.io/badge/魅力-魅力值81点-blue.svg]]
+- 累计消耗：1430个绾青丝·墨黄
+#+BEGIN_EXAMPLE
+绾青丝·墨黄
+#+END_EXAMPLE
+
+** 绾青丝·墨黄累计·23
+[[https://img.shields.io/badge/魅力-魅力值85点-blue.svg]]
+- 累计消耗：1572个绾青丝·墨黄
+#+BEGIN_EXAMPLE
+绾青丝·墨黄
+#+END_EXAMPLE
+
+** 绾青丝·墨黄累计·24
+[[https://img.shields.io/badge/魅力-魅力值85点-blue.svg]]
+- 累计消耗：1718个绾青丝·墨黄
+#+BEGIN_EXAMPLE
+绾青丝·墨黄
+#+END_EXAMPLE
+
+** 绾青丝·墨黄累计·25
+[[https://img.shields.io/badge/魅力-魅力值85点-blue.svg]]
+- 累计消耗：1868个绾青丝·墨黄
+#+BEGIN_EXAMPLE
+绾青丝·墨黄
+#+END_EXAMPLE
+
+** 绾青丝·墨紫累计·1
+[[https://img.shields.io/badge/魅力-魅力值10点-blue.svg]]
+- 累计消耗：2个绾青丝·墨紫
+#+BEGIN_EXAMPLE
+绾青丝·墨紫
+#+END_EXAMPLE
+
+** 绾青丝·墨紫累计·2
+[[https://img.shields.io/badge/魅力-魅力值15点-blue.svg]]
+- 累计消耗：5个绾青丝·墨紫
+#+BEGIN_EXAMPLE
+绾青丝·墨紫
+#+END_EXAMPLE
+
+** 绾青丝·墨紫累计·3
+[[https://img.shields.io/badge/魅力-魅力值22点-blue.svg]]
+- 累计消耗：10个绾青丝·墨紫
+#+BEGIN_EXAMPLE
+绾青丝·墨紫
+#+END_EXAMPLE
+
+** 绾青丝·墨紫累计·4
+[[https://img.shields.io/badge/魅力-魅力值40点-blue.svg]]
+- 累计消耗：20个绾青丝·墨紫
+#+BEGIN_EXAMPLE
+绾青丝·墨紫
+#+END_EXAMPLE
+
+** 绾青丝·墨紫累计·5
+[[https://img.shields.io/badge/魅力-魅力值48点-blue.svg]]
+- 累计消耗：32个绾青丝·墨紫
+#+BEGIN_EXAMPLE
+绾青丝·墨紫
+#+END_EXAMPLE
+
+** 绾青丝·墨紫累计·6
+[[https://img.shields.io/badge/魅力-魅力值50点-blue.svg]]
+- 累计消耗：46个绾青丝·墨紫
+#+BEGIN_EXAMPLE
+绾青丝·墨紫
+#+END_EXAMPLE
+
+** 绾青丝·墨紫累计·7
+[[https://img.shields.io/badge/魅力-魅力值60点-blue.svg]]
+- 累计消耗：64个绾青丝·墨紫
+#+BEGIN_EXAMPLE
+绾青丝·墨紫
+#+END_EXAMPLE
+
+** 绾青丝·墨紫累计·8
+[[https://img.shields.io/badge/魅力-魅力值66点-blue.svg]]
+- 累计消耗：88个绾青丝·墨紫
+#+BEGIN_EXAMPLE
+绾青丝·墨紫
+#+END_EXAMPLE
+
+** 绾青丝·墨紫累计·9
+[[https://img.shields.io/badge/魅力-魅力值66点-blue.svg]]
+- 累计消耗：124个绾青丝·墨紫
+#+BEGIN_EXAMPLE
+绾青丝·墨紫
+#+END_EXAMPLE
+
+** 绾青丝·墨紫累计·10
+[[https://img.shields.io/badge/魅力-魅力值66点-blue.svg]]
+- 累计消耗：172个绾青丝·墨紫
+#+BEGIN_EXAMPLE
+绾青丝·墨紫
+#+END_EXAMPLE
+
+** 绾青丝·墨紫累计·11
+[[https://img.shields.io/badge/魅力-魅力值72点-blue.svg]]
+- 累计消耗：234个绾青丝·墨紫
+#+BEGIN_EXAMPLE
+绾青丝·墨紫
+#+END_EXAMPLE
+
+** 绾青丝·墨紫累计·12
+[[https://img.shields.io/badge/魅力-魅力值72点-blue.svg]]
+- 累计消耗：306个绾青丝·墨紫
+#+BEGIN_EXAMPLE
+绾青丝·墨紫
+#+END_EXAMPLE
+
+** 绾青丝·墨紫累计·13
+[[https://img.shields.io/badge/魅力-魅力值72点-blue.svg]]
+- 累计消耗：396个绾青丝·墨紫
+#+BEGIN_EXAMPLE
+绾青丝·墨紫
+#+END_EXAMPLE
+
+** 绾青丝·墨紫累计·14
+[[https://img.shields.io/badge/魅力-魅力值72点-blue.svg]]
+- 累计消耗：488个绾青丝·墨紫
+#+BEGIN_EXAMPLE
+绾青丝·墨紫
+#+END_EXAMPLE
+
+** 绾青丝·墨紫累计·15
+[[https://img.shields.io/badge/魅力-魅力值78点-blue.svg]]
+- 累计消耗：590个绾青丝·墨紫
+#+BEGIN_EXAMPLE
+绾青丝·墨紫
+#+END_EXAMPLE
+
+** 绾青丝·墨紫累计·16
+[[https://img.shields.io/badge/魅力-魅力值78点-blue.svg]]
+- 累计消耗：695个绾青丝·墨紫
+#+BEGIN_EXAMPLE
+绾青丝·墨紫
+#+END_EXAMPLE
+
+** 绾青丝·墨紫累计·17
+[[https://img.shields.io/badge/魅力-魅力值78点-blue.svg]]
+- 累计消耗：805个绾青丝·墨紫
+#+BEGIN_EXAMPLE
+绾青丝·墨紫
+#+END_EXAMPLE
+
+** 绾青丝·墨紫累计·18
+[[https://img.shields.io/badge/魅力-魅力值78点-blue.svg]]
+- 累计消耗：920个绾青丝·墨紫
+#+BEGIN_EXAMPLE
+绾青丝·墨紫
+#+END_EXAMPLE
+
+** 绾青丝·墨紫累计·19
+[[https://img.shields.io/badge/魅力-魅力值81点-blue.svg]]
+- 累计消耗：1040个绾青丝·墨紫
+#+BEGIN_EXAMPLE
+绾青丝·墨紫
+#+END_EXAMPLE
+
+** 绾青丝·墨紫累计·20
+[[https://img.shields.io/badge/魅力-魅力值81点-blue.svg]]
+- 累计消耗：1165个绾青丝·墨紫
+#+BEGIN_EXAMPLE
+绾青丝·墨紫
+#+END_EXAMPLE
+
+** 绾青丝·墨紫累计·21
+[[https://img.shields.io/badge/魅力-魅力值81点-blue.svg]]
+- 累计消耗：1295个绾青丝·墨紫
+#+BEGIN_EXAMPLE
+绾青丝·墨紫
+#+END_EXAMPLE
+
+** 绾青丝·墨紫累计·22
+[[https://img.shields.io/badge/魅力-魅力值81点-blue.svg]]
+- 累计消耗：1430个绾青丝·墨紫
+#+BEGIN_EXAMPLE
+绾青丝·墨紫
+#+END_EXAMPLE
+
+** 绾青丝·墨紫累计·23
+[[https://img.shields.io/badge/魅力-魅力值85点-blue.svg]]
+- 累计消耗：1572个绾青丝·墨紫
+#+BEGIN_EXAMPLE
+绾青丝·墨紫
+#+END_EXAMPLE
+
+** 绾青丝·墨紫累计·24
+[[https://img.shields.io/badge/魅力-魅力值85点-blue.svg]]
+- 累计消耗：1718个绾青丝·墨紫
+#+BEGIN_EXAMPLE
+绾青丝·墨紫
+#+END_EXAMPLE
+
+** 绾青丝·墨紫累计·25
+[[https://img.shields.io/badge/魅力-魅力值85点-blue.svg]]
+- 累计消耗：1868个绾青丝·墨紫
+#+BEGIN_EXAMPLE
+绾青丝·墨紫
+#+END_EXAMPLE
+
+** 绾青丝·墨绿累计·1
+[[https://img.shields.io/badge/魅力-魅力值10点-blue.svg]]
+- 累计消耗：2个绾青丝·墨绿
+#+BEGIN_EXAMPLE
+绾青丝·墨绿
+#+END_EXAMPLE
+
+** 绾青丝·墨绿累计·2
+[[https://img.shields.io/badge/魅力-魅力值15点-blue.svg]]
+- 累计消耗：5个绾青丝·墨绿
+#+BEGIN_EXAMPLE
+绾青丝·墨绿
+#+END_EXAMPLE
+
+** 绾青丝·墨绿累计·3
+[[https://img.shields.io/badge/魅力-魅力值22点-blue.svg]]
+- 累计消耗：10个绾青丝·墨绿
+#+BEGIN_EXAMPLE
+绾青丝·墨绿
+#+END_EXAMPLE
+
+** 绾青丝·墨绿累计·4
+[[https://img.shields.io/badge/魅力-魅力值40点-blue.svg]]
+- 累计消耗：20个绾青丝·墨绿
+#+BEGIN_EXAMPLE
+绾青丝·墨绿
+#+END_EXAMPLE
+
+** 绾青丝·墨绿累计·5
+[[https://img.shields.io/badge/魅力-魅力值48点-blue.svg]]
+- 累计消耗：32个绾青丝·墨绿
+#+BEGIN_EXAMPLE
+绾青丝·墨绿
+#+END_EXAMPLE
+
+** 绾青丝·墨绿累计·6
+[[https://img.shields.io/badge/魅力-魅力值50点-blue.svg]]
+- 累计消耗：46个绾青丝·墨绿
+#+BEGIN_EXAMPLE
+绾青丝·墨绿
+#+END_EXAMPLE
+
+** 绾青丝·墨绿累计·7
+[[https://img.shields.io/badge/魅力-魅力值60点-blue.svg]]
+- 累计消耗：64个绾青丝·墨绿
+#+BEGIN_EXAMPLE
+绾青丝·墨绿
+#+END_EXAMPLE
+
+** 绾青丝·墨绿累计·8
+[[https://img.shields.io/badge/魅力-魅力值66点-blue.svg]]
+- 累计消耗：88个绾青丝·墨绿
+#+BEGIN_EXAMPLE
+绾青丝·墨绿
+#+END_EXAMPLE
+
+** 绾青丝·墨绿累计·9
+[[https://img.shields.io/badge/魅力-魅力值66点-blue.svg]]
+- 累计消耗：124个绾青丝·墨绿
+#+BEGIN_EXAMPLE
+绾青丝·墨绿
+#+END_EXAMPLE
+
+** 绾青丝·墨绿累计·10
+[[https://img.shields.io/badge/魅力-魅力值66点-blue.svg]]
+- 累计消耗：172个绾青丝·墨绿
+#+BEGIN_EXAMPLE
+绾青丝·墨绿
+#+END_EXAMPLE
+
+** 绾青丝·墨绿累计·11
+[[https://img.shields.io/badge/魅力-魅力值72点-blue.svg]]
+- 累计消耗：234个绾青丝·墨绿
+#+BEGIN_EXAMPLE
+绾青丝·墨绿
+#+END_EXAMPLE
+
+** 绾青丝·墨绿累计·12
+[[https://img.shields.io/badge/魅力-魅力值72点-blue.svg]]
+- 累计消耗：306个绾青丝·墨绿
+#+BEGIN_EXAMPLE
+绾青丝·墨绿
+#+END_EXAMPLE
+
+** 绾青丝·墨绿累计·13
+[[https://img.shields.io/badge/魅力-魅力值72点-blue.svg]]
+- 累计消耗：396个绾青丝·墨绿
+#+BEGIN_EXAMPLE
+绾青丝·墨绿
+#+END_EXAMPLE
+
+** 绾青丝·墨绿累计·14
+[[https://img.shields.io/badge/魅力-魅力值72点-blue.svg]]
+- 累计消耗：488个绾青丝·墨绿
+#+BEGIN_EXAMPLE
+绾青丝·墨绿
+#+END_EXAMPLE
+
+** 绾青丝·墨绿累计·15
+[[https://img.shields.io/badge/魅力-魅力值78点-blue.svg]]
+- 累计消耗：590个绾青丝·墨绿
+#+BEGIN_EXAMPLE
+绾青丝·墨绿
+#+END_EXAMPLE
+
+** 绾青丝·墨绿累计·16
+[[https://img.shields.io/badge/魅力-魅力值78点-blue.svg]]
+- 累计消耗：695个绾青丝·墨绿
+#+BEGIN_EXAMPLE
+绾青丝·墨绿
+#+END_EXAMPLE
+
+** 绾青丝·墨绿累计·17
+[[https://img.shields.io/badge/魅力-魅力值78点-blue.svg]]
+- 累计消耗：805个绾青丝·墨绿
+#+BEGIN_EXAMPLE
+绾青丝·墨绿
+#+END_EXAMPLE
+
+** 绾青丝·墨绿累计·18
+[[https://img.shields.io/badge/魅力-魅力值78点-blue.svg]]
+- 累计消耗：920个绾青丝·墨绿
+#+BEGIN_EXAMPLE
+绾青丝·墨绿
+#+END_EXAMPLE
+
+** 绾青丝·墨绿累计·19
+[[https://img.shields.io/badge/魅力-魅力值81点-blue.svg]]
+- 累计消耗：1040个绾青丝·墨绿
+#+BEGIN_EXAMPLE
+绾青丝·墨绿
+#+END_EXAMPLE
+
+** 绾青丝·墨绿累计·20
+[[https://img.shields.io/badge/魅力-魅力值81点-blue.svg]]
+- 累计消耗：1165个绾青丝·墨绿
+#+BEGIN_EXAMPLE
+绾青丝·墨绿
+#+END_EXAMPLE
+
+** 绾青丝·墨绿累计·21
+[[https://img.shields.io/badge/魅力-魅力值81点-blue.svg]]
+- 累计消耗：1295个绾青丝·墨绿
+#+BEGIN_EXAMPLE
+绾青丝·墨绿
+#+END_EXAMPLE
+
+** 绾青丝·墨绿累计·22
+[[https://img.shields.io/badge/魅力-魅力值81点-blue.svg]]
+- 累计消耗：1430个绾青丝·墨绿
+#+BEGIN_EXAMPLE
+绾青丝·墨绿
+#+END_EXAMPLE
+
+** 绾青丝·墨绿累计·23
+[[https://img.shields.io/badge/魅力-魅力值85点-blue.svg]]
+- 累计消耗：1572个绾青丝·墨绿
+#+BEGIN_EXAMPLE
+绾青丝·墨绿
+#+END_EXAMPLE
+
+** 绾青丝·墨绿累计·24
+[[https://img.shields.io/badge/魅力-魅力值85点-blue.svg]]
+- 累计消耗：1718个绾青丝·墨绿
+#+BEGIN_EXAMPLE
+绾青丝·墨绿
+#+END_EXAMPLE
+
+** 绾青丝·墨绿累计·25
+[[https://img.shields.io/badge/魅力-魅力值85点-blue.svg]]
+- 累计消耗：1868个绾青丝·墨绿
+#+BEGIN_EXAMPLE
+绾青丝·墨绿
+#+END_EXAMPLE
+
+** 绾青丝·墨蓝累计·1
+[[https://img.shields.io/badge/魅力-魅力值10点-blue.svg]]
+- 累计消耗：2个绾青丝·墨蓝
+#+BEGIN_EXAMPLE
+绾青丝·墨蓝
+#+END_EXAMPLE
+
+** 绾青丝·墨蓝累计·2
+[[https://img.shields.io/badge/魅力-魅力值15点-blue.svg]]
+- 累计消耗：5个绾青丝·墨蓝
+#+BEGIN_EXAMPLE
+绾青丝·墨蓝
+#+END_EXAMPLE
+
+** 绾青丝·墨蓝累计·3
+[[https://img.shields.io/badge/魅力-魅力值22点-blue.svg]]
+- 累计消耗：10个绾青丝·墨蓝
+#+BEGIN_EXAMPLE
+绾青丝·墨蓝
+#+END_EXAMPLE
+
+** 绾青丝·墨蓝累计·4
+[[https://img.shields.io/badge/魅力-魅力值40点-blue.svg]]
+- 累计消耗：20个绾青丝·墨蓝
+#+BEGIN_EXAMPLE
+绾青丝·墨蓝
+#+END_EXAMPLE
+
+** 绾青丝·墨蓝累计·5
+[[https://img.shields.io/badge/魅力-魅力值48点-blue.svg]]
+- 累计消耗：32个绾青丝·墨蓝
+#+BEGIN_EXAMPLE
+绾青丝·墨蓝
+#+END_EXAMPLE
+
+** 绾青丝·墨蓝累计·6
+[[https://img.shields.io/badge/魅力-魅力值50点-blue.svg]]
+- 累计消耗：46个绾青丝·墨蓝
+#+BEGIN_EXAMPLE
+绾青丝·墨蓝
+#+END_EXAMPLE
+
+** 绾青丝·墨蓝累计·7
+[[https://img.shields.io/badge/魅力-魅力值60点-blue.svg]]
+- 累计消耗：64个绾青丝·墨蓝
+#+BEGIN_EXAMPLE
+绾青丝·墨蓝
+#+END_EXAMPLE
+
+** 绾青丝·墨蓝累计·8
+[[https://img.shields.io/badge/魅力-魅力值66点-blue.svg]]
+- 累计消耗：88个绾青丝·墨蓝
+#+BEGIN_EXAMPLE
+绾青丝·墨蓝
+#+END_EXAMPLE
+
+** 绾青丝·墨蓝累计·9
+[[https://img.shields.io/badge/魅力-魅力值66点-blue.svg]]
+- 累计消耗：124个绾青丝·墨蓝
+#+BEGIN_EXAMPLE
+绾青丝·墨蓝
+#+END_EXAMPLE
+
+** 绾青丝·墨蓝累计·10
+[[https://img.shields.io/badge/魅力-魅力值66点-blue.svg]]
+- 累计消耗：172个绾青丝·墨蓝
+#+BEGIN_EXAMPLE
+绾青丝·墨蓝
+#+END_EXAMPLE
+
+** 绾青丝·墨蓝累计·11
+[[https://img.shields.io/badge/魅力-魅力值72点-blue.svg]]
+- 累计消耗：234个绾青丝·墨蓝
+#+BEGIN_EXAMPLE
+绾青丝·墨蓝
+#+END_EXAMPLE
+
+** 绾青丝·墨蓝累计·12
+[[https://img.shields.io/badge/魅力-魅力值72点-blue.svg]]
+- 累计消耗：306个绾青丝·墨蓝
+#+BEGIN_EXAMPLE
+绾青丝·墨蓝
+#+END_EXAMPLE
+
+** 绾青丝·墨蓝累计·13
+[[https://img.shields.io/badge/魅力-魅力值72点-blue.svg]]
+- 累计消耗：396个绾青丝·墨蓝
+#+BEGIN_EXAMPLE
+绾青丝·墨蓝
+#+END_EXAMPLE
+
+** 绾青丝·墨蓝累计·14
+[[https://img.shields.io/badge/魅力-魅力值72点-blue.svg]]
+- 累计消耗：488个绾青丝·墨蓝
+#+BEGIN_EXAMPLE
+绾青丝·墨蓝
+#+END_EXAMPLE
+
+** 绾青丝·墨蓝累计·15
+[[https://img.shields.io/badge/魅力-魅力值78点-blue.svg]]
+- 累计消耗：590个绾青丝·墨蓝
+#+BEGIN_EXAMPLE
+绾青丝·墨蓝
+#+END_EXAMPLE
+
+** 绾青丝·墨蓝累计·16
+[[https://img.shields.io/badge/魅力-魅力值78点-blue.svg]]
+- 累计消耗：695个绾青丝·墨蓝
+#+BEGIN_EXAMPLE
+绾青丝·墨蓝
+#+END_EXAMPLE
+
+** 绾青丝·墨蓝累计·17
+[[https://img.shields.io/badge/魅力-魅力值78点-blue.svg]]
+- 累计消耗：805个绾青丝·墨蓝
+#+BEGIN_EXAMPLE
+绾青丝·墨蓝
+#+END_EXAMPLE
+
+** 绾青丝·墨蓝累计·18
+[[https://img.shields.io/badge/魅力-魅力值78点-blue.svg]]
+- 累计消耗：920个绾青丝·墨蓝
+#+BEGIN_EXAMPLE
+绾青丝·墨蓝
+#+END_EXAMPLE
+
+** 绾青丝·墨蓝累计·19
+[[https://img.shields.io/badge/魅力-魅力值81点-blue.svg]]
+- 累计消耗：1040个绾青丝·墨蓝
+#+BEGIN_EXAMPLE
+绾青丝·墨蓝
+#+END_EXAMPLE
+
+** 绾青丝·墨蓝累计·20
+[[https://img.shields.io/badge/魅力-魅力值81点-blue.svg]]
+- 累计消耗：1165个绾青丝·墨蓝
+#+BEGIN_EXAMPLE
+绾青丝·墨蓝
+#+END_EXAMPLE
+
+** 绾青丝·墨蓝累计·21
+[[https://img.shields.io/badge/魅力-魅力值81点-blue.svg]]
+- 累计消耗：1295个绾青丝·墨蓝
+#+BEGIN_EXAMPLE
+绾青丝·墨蓝
+#+END_EXAMPLE
+
+** 绾青丝·墨蓝累计·22
+[[https://img.shields.io/badge/魅力-魅力值81点-blue.svg]]
+- 累计消耗：1430个绾青丝·墨蓝
+#+BEGIN_EXAMPLE
+绾青丝·墨蓝
+#+END_EXAMPLE
+
+** 绾青丝·墨蓝累计·23
+[[https://img.shields.io/badge/魅力-魅力值85点-blue.svg]]
+- 累计消耗：1572个绾青丝·墨蓝
+#+BEGIN_EXAMPLE
+绾青丝·墨蓝
+#+END_EXAMPLE
+
+** 绾青丝·墨蓝累计·24
+[[https://img.shields.io/badge/魅力-魅力值85点-blue.svg]]
+- 累计消耗：1718个绾青丝·墨蓝
+#+BEGIN_EXAMPLE
+绾青丝·墨蓝
+#+END_EXAMPLE
+
+** 绾青丝·墨蓝累计·25
+[[https://img.shields.io/badge/魅力-魅力值85点-blue.svg]]
+- 累计消耗：1868个绾青丝·墨蓝
+#+BEGIN_EXAMPLE
+绾青丝·墨蓝
+#+END_EXAMPLE
+
+** 绾青丝·洛水累计·1
+[[https://img.shields.io/badge/魅力-魅力值15点-blue.svg]]
+- 累计消耗：2个绾青丝·洛水
+#+BEGIN_EXAMPLE
+绾青丝·洛水
+#+END_EXAMPLE
+
+** 绾青丝·洛水累计·2
+[[https://img.shields.io/badge/魅力-魅力值22点-blue.svg]]
+- 累计消耗：5个绾青丝·洛水
+#+BEGIN_EXAMPLE
+绾青丝·洛水
+#+END_EXAMPLE
+
+** 绾青丝·洛水累计·3
+[[https://img.shields.io/badge/魅力-魅力值36点-blue.svg]]
+- 累计消耗：10个绾青丝·洛水
+#+BEGIN_EXAMPLE
+绾青丝·洛水
+#+END_EXAMPLE
+
+** 绾青丝·洛水累计·4
+[[https://img.shields.io/badge/魅力-魅力值68点-blue.svg]]
+- 累计消耗：20个绾青丝·洛水
+#+BEGIN_EXAMPLE
+绾青丝·洛水
+#+END_EXAMPLE
+
+** 绾青丝·洛水累计·5
+[[https://img.shields.io/badge/魅力-魅力值78点-blue.svg]]
+- 累计消耗：32个绾青丝·洛水
+#+BEGIN_EXAMPLE
+绾青丝·洛水
+#+END_EXAMPLE
+
+** 绾青丝·洛水累计·6
+[[https://img.shields.io/badge/魅力-魅力值85点-blue.svg]]
+- 累计消耗：46个绾青丝·洛水
+#+BEGIN_EXAMPLE
+绾青丝·洛水
+#+END_EXAMPLE
+
+** 绾青丝·洛水累计·7
+[[https://img.shields.io/badge/魅力-魅力值100点-blue.svg]]
+- 累计消耗：64个绾青丝·洛水
+#+BEGIN_EXAMPLE
+绾青丝·洛水
+#+END_EXAMPLE
+
+** 绾青丝·洛水累计·8
+[[https://img.shields.io/badge/魅力-魅力值110点-blue.svg]]
+- 累计消耗：88个绾青丝·洛水
+#+BEGIN_EXAMPLE
+绾青丝·洛水
+#+END_EXAMPLE
+
+** 绾青丝·洛水累计·9
+[[https://img.shields.io/badge/魅力-魅力值110点-blue.svg]]
+- 累计消耗：124个绾青丝·洛水
+#+BEGIN_EXAMPLE
+绾青丝·洛水
+#+END_EXAMPLE
+
+** 绾青丝·洛水累计·10
+[[https://img.shields.io/badge/魅力-魅力值110点-blue.svg]]
+- 累计消耗：172个绾青丝·洛水
+#+BEGIN_EXAMPLE
+绾青丝·洛水
+#+END_EXAMPLE
+
+** 绾青丝·洛水累计·11
+[[https://img.shields.io/badge/魅力-魅力值116点-blue.svg]]
+- 累计消耗：234个绾青丝·洛水
+#+BEGIN_EXAMPLE
+绾青丝·洛水
+#+END_EXAMPLE
+
+** 绾青丝·洛水累计·12
+[[https://img.shields.io/badge/魅力-魅力值116点-blue.svg]]
+- 累计消耗：306个绾青丝·洛水
+#+BEGIN_EXAMPLE
+绾青丝·洛水
+#+END_EXAMPLE
+
+** 绾青丝·洛水累计·13
+[[https://img.shields.io/badge/魅力-魅力值124点-blue.svg]]
+- 累计消耗：396个绾青丝·洛水
+#+BEGIN_EXAMPLE
+绾青丝·洛水
+#+END_EXAMPLE
+
+** 绾青丝·洛水累计·14
+[[https://img.shields.io/badge/魅力-魅力值124点-blue.svg]]
+- 累计消耗：488个绾青丝·洛水
+#+BEGIN_EXAMPLE
+绾青丝·洛水
+#+END_EXAMPLE
+
+** 绾青丝·洛水累计·15
+[[https://img.shields.io/badge/魅力-魅力值130点-blue.svg]]
+- 累计消耗：590个绾青丝·洛水
+#+BEGIN_EXAMPLE
+绾青丝·洛水
+#+END_EXAMPLE
+
+** 绾青丝·洛水累计·16
+[[https://img.shields.io/badge/魅力-魅力值130点-blue.svg]]
+- 累计消耗：695个绾青丝·洛水
+#+BEGIN_EXAMPLE
+绾青丝·洛水
+#+END_EXAMPLE
+
+** 绾青丝·洛水累计·17
+[[https://img.shields.io/badge/魅力-魅力值130点-blue.svg]]
+- 累计消耗：805个绾青丝·洛水
+#+BEGIN_EXAMPLE
+绾青丝·洛水
+#+END_EXAMPLE
+
+** 绾青丝·洛水累计·18
+[[https://img.shields.io/badge/魅力-魅力值130点-blue.svg]]
+- 累计消耗：920个绾青丝·洛水
+#+BEGIN_EXAMPLE
+绾青丝·洛水
+#+END_EXAMPLE
+
+** 绾青丝·洛水累计·19
+[[https://img.shields.io/badge/魅力-魅力值135点-blue.svg]]
+- 累计消耗：1040个绾青丝·洛水
+#+BEGIN_EXAMPLE
+绾青丝·洛水
+#+END_EXAMPLE
+
+** 绾青丝·洛水累计·20
+[[https://img.shields.io/badge/魅力-魅力值135点-blue.svg]]
+- 累计消耗：1165个绾青丝·洛水
+#+BEGIN_EXAMPLE
+绾青丝·洛水
+#+END_EXAMPLE
+
+** 绾青丝·洛水累计·21
+[[https://img.shields.io/badge/魅力-魅力值135点-blue.svg]]
+- 累计消耗：1295个绾青丝·洛水
+#+BEGIN_EXAMPLE
+绾青丝·洛水
+#+END_EXAMPLE
+
+** 绾青丝·洛水累计·22
+[[https://img.shields.io/badge/魅力-魅力值135点-blue.svg]]
+- 累计消耗：1430个绾青丝·洛水
+#+BEGIN_EXAMPLE
+绾青丝·洛水
+#+END_EXAMPLE
+
+** 绾青丝·洛水累计·23
+[[https://img.shields.io/badge/魅力-魅力值142点-blue.svg]]
+- 累计消耗：1572个绾青丝·洛水
+#+BEGIN_EXAMPLE
+绾青丝·洛水
+#+END_EXAMPLE
+
+** 绾青丝·洛水累计·24
+[[https://img.shields.io/badge/魅力-魅力值142点-blue.svg]]
+- 累计消耗：1718个绾青丝·洛水
+#+BEGIN_EXAMPLE
+绾青丝·洛水
+#+END_EXAMPLE
+
+** 绾青丝·洛水累计·25
+[[https://img.shields.io/badge/魅力-魅力值142点-blue.svg]]
+- 累计消耗：1868个绾青丝·冰凌
+#+BEGIN_EXAMPLE
+绾青丝·洛水
+#+END_EXAMPLE
+
+** 绾青丝·冰凌累计·1
+[[https://img.shields.io/badge/魅力-魅力值35点-blue.svg]]
+- 累计消耗：2个绾青丝·冰凌
+#+BEGIN_EXAMPLE
+绾青丝·冰凌
+#+END_EXAMPLE
+
+** 绾青丝·冰凌累计·2
+[[https://img.shields.io/badge/魅力-魅力值50点-blue.svg]]
+- 累计消耗：5个绾青丝·冰凌
+#+BEGIN_EXAMPLE
+绾青丝·冰凌
+#+END_EXAMPLE
+
+** 绾青丝·冰凌累计·3
+[[https://img.shields.io/badge/魅力-魅力值80点-blue.svg]]
+- 累计消耗：10个绾青丝·冰凌
+#+BEGIN_EXAMPLE
+绾青丝·冰凌
+#+END_EXAMPLE
+
+** 绾青丝·冰凌累计·4
+[[https://img.shields.io/badge/魅力-魅力值155点-blue.svg]]
+- 累计消耗：20个绾青丝·冰凌
+#+BEGIN_EXAMPLE
+绾青丝·冰凌
+#+END_EXAMPLE
+
+** 绾青丝·冰凌累计·5
+[[https://img.shields.io/badge/魅力-魅力值188点-blue.svg]]
+- 累计消耗：32个绾青丝·冰凌
+#+BEGIN_EXAMPLE
+绾青丝·冰凌
+#+END_EXAMPLE
+
+** 绾青丝·冰凌累计·6
+[[https://img.shields.io/badge/魅力-魅力值200点-blue.svg]]
+- 累计消耗：46个绾青丝·冰凌
+#+BEGIN_EXAMPLE
+绾青丝·冰凌
+#+END_EXAMPLE
+
+** 绾青丝·冰凌累计·7
+[[https://img.shields.io/badge/魅力-魅力值242点-blue.svg]]
+- 累计消耗：64个绾青丝·冰凌
+#+BEGIN_EXAMPLE
+绾青丝·冰凌
+#+END_EXAMPLE
+
+** 绾青丝·冰凌累计·8
+[[https://img.shields.io/badge/魅力-魅力值260点-blue.svg]]
+- 累计消耗：88个绾青丝·冰凌
+#+BEGIN_EXAMPLE
+绾青丝·冰凌
+#+END_EXAMPLE
+
+** 绾青丝·冰凌累计·9
+[[https://img.shields.io/badge/魅力-魅力值265点-blue.svg]]
+- 累计消耗：124个绾青丝·冰凌
+#+BEGIN_EXAMPLE
+绾青丝·冰凌
+#+END_EXAMPLE
+
+** 绾青丝·冰凌累计·10
+[[https://img.shields.io/badge/魅力-魅力值265点-blue.svg]]
+- 累计消耗：172个绾青丝·冰凌
+#+BEGIN_EXAMPLE
+绾青丝·冰凌
+#+END_EXAMPLE
+
+** 绾青丝·冰凌累计·11
+[[https://img.shields.io/badge/魅力-魅力值280点-blue.svg]]
+- 累计消耗：234个绾青丝·冰凌
+#+BEGIN_EXAMPLE
+绾青丝·冰凌
+#+END_EXAMPLE
+
+** 绾青丝·冰凌累计·12
+[[https://img.shields.io/badge/魅力-魅力值280点-blue.svg]]
+- 累计消耗：306个绾青丝·冰凌
+#+BEGIN_EXAMPLE
+绾青丝·冰凌
+#+END_EXAMPLE
+
+** 绾青丝·冰凌累计·13
+[[https://img.shields.io/badge/魅力-魅力值295点-blue.svg]]
+- 累计消耗：396个绾青丝·冰凌
+#+BEGIN_EXAMPLE
+绾青丝·冰凌
+#+END_EXAMPLE
+
+** 绾青丝·冰凌累计·14
+[[https://img.shields.io/badge/魅力-魅力值295点-blue.svg]]
+- 累计消耗：488个绾青丝·冰凌
+#+BEGIN_EXAMPLE
+绾青丝·冰凌
+#+END_EXAMPLE
+
+** 绾青丝·冰凌累计·15
+[[https://img.shields.io/badge/魅力-魅力值312点-blue.svg]]
+- 累计消耗：590个绾青丝·冰凌
+#+BEGIN_EXAMPLE
+绾青丝·冰凌
+#+END_EXAMPLE
+
+** 绾青丝·冰凌累计·16
+[[https://img.shields.io/badge/魅力-魅力值312点-blue.svg]]
+- 累计消耗：695个绾青丝·冰凌
+#+BEGIN_EXAMPLE
+绾青丝·冰凌
+#+END_EXAMPLE
+
+** 绾青丝·冰凌累计·17
+[[https://img.shields.io/badge/魅力-魅力值312点-blue.svg]]
+- 累计消耗：805个绾青丝·冰凌
+#+BEGIN_EXAMPLE
+绾青丝·冰凌
+#+END_EXAMPLE
+
+** 绾青丝·冰凌累计·18
+[[https://img.shields.io/badge/魅力-魅力值312点-blue.svg]]
+- 累计消耗：920个绾青丝·冰凌
+#+BEGIN_EXAMPLE
+绾青丝·冰凌
+#+END_EXAMPLE
+
+** 绾青丝·冰凌累计·19
+[[https://img.shields.io/badge/魅力-魅力值324点-blue.svg]]
+- 累计消耗：1040个绾青丝·冰凌
+#+BEGIN_EXAMPLE
+绾青丝·冰凌
+#+END_EXAMPLE
+
+** 绾青丝·冰凌累计·20
+[[https://img.shields.io/badge/魅力-魅力值324点-blue.svg]]
+- 累计消耗：1165个绾青丝·冰凌
+#+BEGIN_EXAMPLE
+绾青丝·冰凌
+#+END_EXAMPLE
+
+** 绾青丝·冰凌累计·21
+[[https://img.shields.io/badge/魅力-魅力值324点-blue.svg]]
+- 累计消耗：1295个绾青丝·冰凌
+#+BEGIN_EXAMPLE
+绾青丝·冰凌
+#+END_EXAMPLE
+
+** 绾青丝·冰凌累计·22
+[[https://img.shields.io/badge/魅力-魅力值324点-blue.svg]]
+- 累计消耗：1430个绾青丝·冰凌
+#+BEGIN_EXAMPLE
+绾青丝·冰凌
+#+END_EXAMPLE
+
+** 绾青丝·冰凌累计·23
+[[https://img.shields.io/badge/魅力-魅力值340点-blue.svg]]
+- 累计消耗：1572个绾青丝·冰凌
+#+BEGIN_EXAMPLE
+绾青丝·冰凌
+#+END_EXAMPLE
+
+** 绾青丝·冰凌累计·24
+[[https://img.shields.io/badge/魅力-魅力值340点-blue.svg]]
+- 累计消耗：1718个绾青丝·冰凌
+#+BEGIN_EXAMPLE
+绾青丝·冰凌
+#+END_EXAMPLE
+
+** 绾青丝·冰凌累计·25
+[[https://img.shields.io/badge/魅力-魅力值340点-blue.svg]]
+- 累计消耗：1868个绾青丝·冰凌
+#+BEGIN_EXAMPLE
+绾青丝·冰凌
+#+END_EXAMPLE
+
+** 绾青丝·蔚采累计·1
+[[https://img.shields.io/badge/魅力-魅力值15点-blue.svg]]
+- 累计消耗：2个绾青丝·蔚采
+#+BEGIN_EXAMPLE
+绾青丝·蔚采
+#+END_EXAMPLE
+
+** 绾青丝·蔚采累计·2
+[[https://img.shields.io/badge/魅力-魅力值22点-blue.svg]]
+- 累计消耗：5个绾青丝·蔚采
+#+BEGIN_EXAMPLE
+绾青丝·蔚采
+#+END_EXAMPLE
+
+** 绾青丝·蔚采累计·3
+[[https://img.shields.io/badge/魅力-魅力值36点-blue.svg]]
+- 累计消耗：10个绾青丝·蔚采
+#+BEGIN_EXAMPLE
+绾青丝·蔚采
+#+END_EXAMPLE
+
+** 绾青丝·蔚采累计·4
+[[https://img.shields.io/badge/魅力-魅力值68点-blue.svg]]
+- 累计消耗：20个绾青丝·蔚采
+#+BEGIN_EXAMPLE
+绾青丝·蔚采
+#+END_EXAMPLE
+
+** 绾青丝·蔚采累计·5
+[[https://img.shields.io/badge/魅力-魅力值78点-blue.svg]]
+- 累计消耗：32个绾青丝·蔚采
+#+BEGIN_EXAMPLE
+绾青丝·蔚采
+#+END_EXAMPLE
+
+** 绾青丝·蔚采累计·6
+[[https://img.shields.io/badge/魅力-魅力值85点-blue.svg]]
+- 累计消耗：46个绾青丝·蔚采
+#+BEGIN_EXAMPLE
+绾青丝·蔚采
+#+END_EXAMPLE
+
+** 绾青丝·蔚采累计·7
+[[https://img.shields.io/badge/魅力-魅力值100点-blue.svg]]
+- 累计消耗：64个绾青丝·蔚采
+#+BEGIN_EXAMPLE
+绾青丝·蔚采
+#+END_EXAMPLE
+
+** 绾青丝·蔚采累计·8
+[[https://img.shields.io/badge/魅力-魅力值110点-blue.svg]]
+- 累计消耗：88个绾青丝·蔚采
+#+BEGIN_EXAMPLE
+绾青丝·蔚采
+#+END_EXAMPLE
+
+** 绾青丝·蔚采累计·9
+[[https://img.shields.io/badge/魅力-魅力值110点-blue.svg]]
+- 累计消耗：124个绾青丝·蔚采
+#+BEGIN_EXAMPLE
+绾青丝·蔚采
+#+END_EXAMPLE
+
+** 绾青丝·蔚采累计·10
+[[https://img.shields.io/badge/魅力-魅力值110点-blue.svg]]
+- 累计消耗：172个绾青丝·蔚采
+#+BEGIN_EXAMPLE
+绾青丝·蔚采
+#+END_EXAMPLE
+
+** 绾青丝·蔚采累计·11
+[[https://img.shields.io/badge/魅力-魅力值116点-blue.svg]]
+- 累计消耗：234个绾青丝·蔚采
+#+BEGIN_EXAMPLE
+绾青丝·蔚采
+#+END_EXAMPLE
+
+** 绾青丝·蔚采累计·12
+[[https://img.shields.io/badge/魅力-魅力值116点-blue.svg]]
+- 累计消耗：306个绾青丝·蔚采
+#+BEGIN_EXAMPLE
+绾青丝·蔚采
+#+END_EXAMPLE
+
+** 绾青丝·蔚采累计·13
+[[https://img.shields.io/badge/魅力-魅力值124点-blue.svg]]
+- 累计消耗：396个绾青丝·蔚采
+#+BEGIN_EXAMPLE
+绾青丝·蔚采
+#+END_EXAMPLE
+
+** 绾青丝·蔚采累计·14
+[[https://img.shields.io/badge/魅力-魅力值124点-blue.svg]]
+- 累计消耗：488个绾青丝·蔚采
+#+BEGIN_EXAMPLE
+绾青丝·蔚采
+#+END_EXAMPLE
+
+** 绾青丝·蔚采累计·15
+[[https://img.shields.io/badge/魅力-魅力值130点-blue.svg]]
+- 累计消耗：590个绾青丝·蔚采
+#+BEGIN_EXAMPLE
+绾青丝·蔚采
+#+END_EXAMPLE
+
+** 绾青丝·蔚采累计·16
+[[https://img.shields.io/badge/魅力-魅力值130点-blue.svg]]
+- 累计消耗：695个绾青丝·蔚采
+#+BEGIN_EXAMPLE
+绾青丝·蔚采
+#+END_EXAMPLE
+
+** 绾青丝·蔚采累计·17
+[[https://img.shields.io/badge/魅力-魅力值130点-blue.svg]]
+- 累计消耗：805个绾青丝·蔚采
+#+BEGIN_EXAMPLE
+绾青丝·蔚采
+#+END_EXAMPLE
+
+** 绾青丝·蔚采累计·18
+[[https://img.shields.io/badge/魅力-魅力值130点-blue.svg]]
+- 累计消耗：920个绾青丝·蔚采
+#+BEGIN_EXAMPLE
+绾青丝·蔚采
+#+END_EXAMPLE
+
+** 绾青丝·蔚采累计·19
+[[https://img.shields.io/badge/魅力-魅力值135点-blue.svg]]
+- 累计消耗：1040个绾青丝·蔚采
+#+BEGIN_EXAMPLE
+绾青丝·蔚采
+#+END_EXAMPLE
+
+** 绾青丝·蔚采累计·20
+[[https://img.shields.io/badge/魅力-魅力值135点-blue.svg]]
+- 累计消耗：1165个绾青丝·蔚采
+#+BEGIN_EXAMPLE
+绾青丝·蔚采
+#+END_EXAMPLE
+
+** 绾青丝·蔚采累计·21
+[[https://img.shields.io/badge/魅力-魅力值135点-blue.svg]]
+- 累计消耗：1295个绾青丝·蔚采
+#+BEGIN_EXAMPLE
+绾青丝·蔚采
+#+END_EXAMPLE
+
+** 绾青丝·蔚采累计·22
+[[https://img.shields.io/badge/魅力-魅力值135点-blue.svg]]
+- 累计消耗：1430个绾青丝·蔚采
+#+BEGIN_EXAMPLE
+绾青丝·蔚采
+#+END_EXAMPLE
+
+** 绾青丝·蔚采累计·23
+[[https://img.shields.io/badge/魅力-魅力值142点-blue.svg]]
+- 累计消耗：1572个绾青丝·蔚采
+#+BEGIN_EXAMPLE
+绾青丝·蔚采
+#+END_EXAMPLE
+
+** 绾青丝·蔚采累计·24
+[[https://img.shields.io/badge/魅力-魅力值142点-blue.svg]]
+- 累计消耗：1718个绾青丝·蔚采
+#+BEGIN_EXAMPLE
+绾青丝·蔚采
+#+END_EXAMPLE
+
+** 绾青丝·蔚采累计·25
+[[https://img.shields.io/badge/魅力-魅力值142点-blue.svg]]
+- 累计消耗：1868个绾青丝·蔚采
+#+BEGIN_EXAMPLE
+绾青丝·蔚采
+#+END_EXAMPLE
+
+** 绾青丝·锦现累计·1
+[[https://img.shields.io/badge/魅力-魅力值35点-blue.svg]]
+- 累计消耗：2个绾青丝·锦现
+#+BEGIN_EXAMPLE
+绾青丝·锦现
+#+END_EXAMPLE
+
+** 绾青丝·锦现累计·2
+[[https://img.shields.io/badge/魅力-魅力值50点-blue.svg]]
+- 累计消耗：5个绾青丝·锦现
+#+BEGIN_EXAMPLE
+绾青丝·锦现
+#+END_EXAMPLE
+
+** 绾青丝·锦现累计·3
+[[https://img.shields.io/badge/魅力-魅力值80点-blue.svg]]
+- 累计消耗：10个绾青丝·锦现
+#+BEGIN_EXAMPLE
+绾青丝·锦现
+#+END_EXAMPLE
+
+** 绾青丝·锦现累计·4
+[[https://img.shields.io/badge/魅力-魅力值155点-blue.svg]]
+- 累计消耗：20个绾青丝·锦现
+#+BEGIN_EXAMPLE
+绾青丝·锦现
+#+END_EXAMPLE
+
+** 绾青丝·锦现累计·5
+[[https://img.shields.io/badge/魅力-魅力值188点-blue.svg]]
+- 累计消耗：32个绾青丝·锦现
+#+BEGIN_EXAMPLE
+绾青丝·锦现
+#+END_EXAMPLE
+
+** 绾青丝·锦现累计·6
+[[https://img.shields.io/badge/魅力-魅力值200点-blue.svg]]
+- 累计消耗：46个绾青丝·锦现
+#+BEGIN_EXAMPLE
+绾青丝·锦现
+#+END_EXAMPLE
+
+** 绾青丝·锦现累计·7
+[[https://img.shields.io/badge/魅力-魅力值242点-blue.svg]]
+- 累计消耗：64个绾青丝·锦现
+#+BEGIN_EXAMPLE
+绾青丝·锦现
+#+END_EXAMPLE
+
+** 绾青丝·锦现累计·8
+[[https://img.shields.io/badge/魅力-魅力值260点-blue.svg]]
+- 累计消耗：88个绾青丝·锦现
+#+BEGIN_EXAMPLE
+绾青丝·锦现
+#+END_EXAMPLE
+
+** 绾青丝·锦现累计·9
+[[https://img.shields.io/badge/魅力-魅力值265点-blue.svg]]
+- 累计消耗：124个绾青丝·锦现
+#+BEGIN_EXAMPLE
+绾青丝·锦现
+#+END_EXAMPLE
+
+** 绾青丝·锦现累计·10
+[[https://img.shields.io/badge/魅力-魅力值265点-blue.svg]]
+- 累计消耗：172个绾青丝·锦现
+#+BEGIN_EXAMPLE
+绾青丝·锦现
+#+END_EXAMPLE
+
+** 绾青丝·锦现累计·11
+[[https://img.shields.io/badge/魅力-魅力值280点-blue.svg]]
+- 累计消耗：234个绾青丝·锦现
+#+BEGIN_EXAMPLE
+绾青丝·锦现
+#+END_EXAMPLE
+
+** 绾青丝·锦现累计·12
+[[https://img.shields.io/badge/魅力-魅力值280点-blue.svg]]
+- 累计消耗：306个绾青丝·锦现
+#+BEGIN_EXAMPLE
+绾青丝·锦现
+#+END_EXAMPLE
+
+** 绾青丝·锦现累计·13
+[[https://img.shields.io/badge/魅力-魅力值295点-blue.svg]]
+- 累计消耗：396个绾青丝·锦现
+#+BEGIN_EXAMPLE
+绾青丝·锦现
+#+END_EXAMPLE
+
+** 绾青丝·锦现累计·14
+[[https://img.shields.io/badge/魅力-魅力值295点-blue.svg]]
+- 累计消耗：488个绾青丝·锦现
+#+BEGIN_EXAMPLE
+绾青丝·锦现
+#+END_EXAMPLE
+
+** 绾青丝·锦现累计·15
+[[https://img.shields.io/badge/魅力-魅力值312点-blue.svg]]
+- 累计消耗：590个绾青丝·锦现
+#+BEGIN_EXAMPLE
+绾青丝·锦现
+#+END_EXAMPLE
+
+** 绾青丝·锦现累计·16
+[[https://img.shields.io/badge/魅力-魅力值312点-blue.svg]]
+- 累计消耗：695个绾青丝·锦现
+#+BEGIN_EXAMPLE
+绾青丝·锦现
+#+END_EXAMPLE
+
+** 绾青丝·锦现累计·17
+[[https://img.shields.io/badge/魅力-魅力值312点-blue.svg]]
+- 累计消耗：805个绾青丝·锦现
+#+BEGIN_EXAMPLE
+绾青丝·锦现
+#+END_EXAMPLE
+
+** 绾青丝·锦现累计·18
+[[https://img.shields.io/badge/魅力-魅力值312点-blue.svg]]
+- 累计消耗：920个绾青丝·锦现
+#+BEGIN_EXAMPLE
+绾青丝·锦现
+#+END_EXAMPLE
+
+** 绾青丝·锦现累计·19
+[[https://img.shields.io/badge/魅力-魅力值324点-blue.svg]]
+- 累计消耗：1040个绾青丝·锦现
+#+BEGIN_EXAMPLE
+绾青丝·锦现
+#+END_EXAMPLE
+
+** 绾青丝·锦现累计·20
+[[https://img.shields.io/badge/魅力-魅力值324点-blue.svg]]
+- 累计消耗：1165个绾青丝·锦现
+#+BEGIN_EXAMPLE
+绾青丝·锦现
+#+END_EXAMPLE
+
+** 绾青丝·锦现累计·21
+[[https://img.shields.io/badge/魅力-魅力值324点-blue.svg]]
+- 累计消耗：1295个绾青丝·锦现
+#+BEGIN_EXAMPLE
+绾青丝·锦现
+#+END_EXAMPLE
+
+** 绾青丝·锦现累计·22
+[[https://img.shields.io/badge/魅力-魅力值324点-blue.svg]]
+- 累计消耗：1430个绾青丝·锦现
+#+BEGIN_EXAMPLE
+绾青丝·锦现
+#+END_EXAMPLE
+
+** 绾青丝·锦现累计·23
+[[https://img.shields.io/badge/魅力-魅力值340点-blue.svg]]
+- 累计消耗：1572个绾青丝·锦现
+#+BEGIN_EXAMPLE
+绾青丝·锦现
+#+END_EXAMPLE
+
+** 绾青丝·锦现累计·24
+[[https://img.shields.io/badge/魅力-魅力值340点-blue.svg]]
+- 累计消耗：1718个绾青丝·锦现
+#+BEGIN_EXAMPLE
+绾青丝·锦现
+#+END_EXAMPLE
+
+** 绾青丝·锦现累计·25
+[[https://img.shields.io/badge/魅力-魅力值340点-blue.svg]]
+- 累计消耗：1868个绾青丝·锦现
+#+BEGIN_EXAMPLE
+绾青丝·锦现
+#+END_EXAMPLE
+

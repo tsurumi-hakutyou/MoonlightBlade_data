@@ -1,0 +1,2542 @@
+#+TITLE: 装备
+#+AUTHOR: 李鹄
+
+* 装备
+** 初识良品
+- 获得任意部位的良品（绿色）装备
+#+BEGIN_EXAMPLE
+绿装
+#+END_EXAMPLE
+
+** 初识上品
+- 获得任意部位的上品（蓝色）装备
+#+BEGIN_EXAMPLE
+蓝装
+#+END_EXAMPLE
+
+** 初识精品·主武器
+- 穿着精品（紫色）主武器
+#+BEGIN_EXAMPLE
+紫装
+#+END_EXAMPLE
+
+** 初识精品·辅武器
+- 穿着精品（紫色）辅武器
+#+BEGIN_EXAMPLE
+紫装
+#+END_EXAMPLE
+
+** 初识精品·暗器
+- 穿着精品（紫色）暗器
+#+BEGIN_EXAMPLE
+紫装
+#+END_EXAMPLE
+
+** 初识精品·头饰
+- 穿着精品（紫色）头饰
+#+BEGIN_EXAMPLE
+紫装
+#+END_EXAMPLE
+
+** 初识精品·上衣
+- 穿着精品（紫色）上衣
+#+BEGIN_EXAMPLE
+紫装
+#+END_EXAMPLE
+
+** 初识精品·腰饰
+- 穿着精品（紫色）腰饰
+#+BEGIN_EXAMPLE
+紫装
+#+END_EXAMPLE
+
+** 初识精品·手腕
+- 穿着精品（紫色）手腕
+#+BEGIN_EXAMPLE
+紫装
+#+END_EXAMPLE
+
+** 初识精品·内衬
+- 穿着精品（紫色）内衬
+#+BEGIN_EXAMPLE
+紫装
+#+END_EXAMPLE
+
+** 初识精品·下装
+- 穿着精品（紫色）下装
+#+BEGIN_EXAMPLE
+紫装
+#+END_EXAMPLE
+
+** 初识精品·项链
+- 穿着精品（紫色）项链
+#+BEGIN_EXAMPLE
+紫装
+#+END_EXAMPLE
+
+** 初识精品·戒指壹
+- 穿着精品（紫色）手指戒指·壹
+#+BEGIN_EXAMPLE
+紫装
+#+END_EXAMPLE
+
+** 初识精品·戒指贰
+- 穿着精品（紫色）手指戒指·贰
+#+BEGIN_EXAMPLE
+紫装
+#+END_EXAMPLE
+
+** 初识精品·手镯
+- 穿着精品（紫色）手镯
+#+BEGIN_EXAMPLE
+紫装
+#+END_EXAMPLE
+
+** 全身良品
+- 全身穿着良品（绿色）装备
+#+BEGIN_EXAMPLE
+主武器
+辅武器
+头饰
+上衣
+腰饰
+手腕
+内衬
+下装
+项链
+戒指·壹
+戒指·贰
+手镯
+#+END_EXAMPLE
+
+** 全身上品
+- 全身穿着上品（蓝色）装备
+#+BEGIN_EXAMPLE
+主武器
+辅武器
+头饰
+上衣
+腰饰
+手腕
+内衬
+下装
+项链
+戒指·壹
+戒指·贰
+手镯
+#+END_EXAMPLE
+
+** 全身精品
+- 全身穿着精品（紫色）装备
+#+BEGIN_EXAMPLE
+主武器
+辅武器
+头饰
+上衣
+腰饰
+手腕
+内衬
+下装
+项链
+戒指·壹
+戒指·贰
+手镯
+#+END_EXAMPLE
+
+** 神行
+- 装备优秀的神驹作为坐骑
+#+BEGIN_EXAMPLE
+乌云团
+白公子
+#+END_EXAMPLE
+
+** 不凡神品·主武器
+- 穿着神品（金色）主武器
+#+BEGIN_EXAMPLE
+金装
+#+END_EXAMPLE
+
+** 不凡神品·辅武器
+- 穿着神品（金色）辅武器
+#+BEGIN_EXAMPLE
+金装
+#+END_EXAMPLE
+
+** 不凡神品·暗器
+- 穿着神品（金色）暗器
+#+BEGIN_EXAMPLE
+金装
+#+END_EXAMPLE
+
+** 不凡神品·头饰
+- 穿着神品（金色）头饰
+#+BEGIN_EXAMPLE
+金装
+#+END_EXAMPLE
+
+** 不凡神品·上衣
+- 穿着神品（金色）上衣
+#+BEGIN_EXAMPLE
+金装
+#+END_EXAMPLE
+
+** 不凡神品·腰饰
+- 穿着神品（金色）腰饰
+#+BEGIN_EXAMPLE
+金装
+#+END_EXAMPLE
+
+** 不凡神品·手腕
+- 穿着神品（金色）手腕
+#+BEGIN_EXAMPLE
+金装
+#+END_EXAMPLE
+
+** 不凡神品·内衬
+- 穿着神品（金色）内衬
+#+BEGIN_EXAMPLE
+金装
+#+END_EXAMPLE
+
+** 不凡神品·下装
+- 穿着神品（金色）下装
+#+BEGIN_EXAMPLE
+金装
+#+END_EXAMPLE
+
+** 不凡神品·项链
+- 穿着神品（金色）项链
+#+BEGIN_EXAMPLE
+金装
+#+END_EXAMPLE
+
+** 不凡神品·戒指壹
+- 穿着神品（金色）手指戒指·壹
+#+BEGIN_EXAMPLE
+金装
+#+END_EXAMPLE
+
+** 不凡神品·戒指贰
+- 穿着神品（金色）手指戒指·贰
+#+BEGIN_EXAMPLE
+金装
+#+END_EXAMPLE
+
+** 不凡神品·手镯
+- 穿着神品（金色）手镯
+#+BEGIN_EXAMPLE
+金装
+#+END_EXAMPLE
+
+** 全身神品
+- 全身装备金色装备
+#+BEGIN_EXAMPLE
+不凡神品·辅武器
+不凡神品·暗器
+不凡神品·头饰
+不凡神品·上衣
+不凡神品·腰饰
+不凡神品·手腕
+不凡神品·内衬
+不凡神品·下装
+不凡神品·项链
+不凡神品·戒指壹
+不凡神品·手镯
+#+END_EXAMPLE
+
+** 穿戴一级PVE·上衣
+- 穿戴一级PVE上衣（100品）
+#+BEGIN_EXAMPLE
+天火·萧野争锋袍
+金刚·萧野争锋袍
+泽兰·萧野争锋袍
+#+END_EXAMPLE
+
+** 穿戴一级PVE·下装
+- 穿戴一级PVE下装（100品）
+#+BEGIN_EXAMPLE
+天火·萧野争锋履
+金刚·萧野争锋履
+泽兰·萧野争锋履
+#+END_EXAMPLE
+
+** 穿戴一级PVE·头饰
+- 穿戴一级PVE头饰（100品）
+#+BEGIN_EXAMPLE
+天火·萧野争锋冠
+金刚·萧野争锋冠
+泽兰·萧野争锋冠
+#+END_EXAMPLE
+
+** 穿戴一级PVE·内衬
+- 穿戴一级PVE内衬（100品）
+#+BEGIN_EXAMPLE
+采苹
+#+END_EXAMPLE
+
+** 穿戴一级PVE·衣带
+- 穿戴一级PVE衣带（100品）
+#+BEGIN_EXAMPLE
+天火·萧野争锋带
+金刚·萧野争锋带
+泽兰·萧野争锋带
+#+END_EXAMPLE
+
+** 穿戴一级PVE·护腕
+- 穿戴一级PVE护腕（100品）
+#+BEGIN_EXAMPLE
+天火·萧野争锋腕
+金刚·萧野争锋腕
+泽兰·萧野争锋腕
+#+END_EXAMPLE
+
+** 穿戴一级PVE·手镯
+- 穿戴一级PVE手镯（100品）
+#+BEGIN_EXAMPLE
+天火·裂琴镯
+金刚·裂琴镯
+泽兰·裂琴镯
+#+END_EXAMPLE
+
+** 穿戴一级PVE·戒指
+- 穿戴一级PVE戒指（100品）
+#+BEGIN_EXAMPLE
+天火·裂琴戒
+金刚·裂琴戒
+泽兰·裂琴戒
+#+END_EXAMPLE
+
+** 穿戴一级PVE·项链
+- 穿戴一级PVE项链（100品）
+#+BEGIN_EXAMPLE
+天火·裂琴链
+金刚·裂琴链
+泽兰·裂琴链
+#+END_EXAMPLE
+
+** 穿戴一级PVE·辅武器
+- 穿戴一级PVE辅武器（100品）
+#+BEGIN_EXAMPLE
+含悲之鞘
+侍月
+醉洛阳
+惊蛰
+交征之匣
+入云松
+天恨
+司长生
+#+END_EXAMPLE
+
+** 穿戴一级PVE·暗器
+- 穿戴一级PVE暗器（100品）
+#+BEGIN_EXAMPLE
+裂琴弦
+#+END_EXAMPLE
+
+** 穿戴一级PVE·主武器
+- 穿戴一级PVE主武器（100品）
+#+BEGIN_EXAMPLE
+含悲
+投龙
+追欢
+鹣鲽
+交征
+慕芳龄
+心魔
+听雨
+#+END_EXAMPLE
+
+** 穿戴二级PVE·上衣
+- 穿戴二级PVE上衣（105品）
+#+BEGIN_EXAMPLE
+天火·刀锋之华袍
+金刚·刀锋之华袍
+泽兰·刀锋之华袍
+#+END_EXAMPLE
+
+** 穿戴二级PVE·下装
+- 穿戴二级PVE下装（105品）
+#+BEGIN_EXAMPLE
+天火·刀锋之华履
+金刚·刀锋之华履
+泽兰·刀锋之华履
+#+END_EXAMPLE
+
+** 穿戴二级PVE·头饰
+- 穿戴二级PVE头饰（105品）
+#+BEGIN_EXAMPLE
+天火·刀锋之华冠
+金刚·刀锋之华冠
+泽兰·刀锋之华冠
+#+END_EXAMPLE
+
+** 穿戴二级PVE·内衬
+- 穿戴二级PVE内衬（105品）
+#+BEGIN_EXAMPLE
+罂宁
+#+END_EXAMPLE
+
+** 穿戴二级PVE·衣带
+- 穿戴二级PVE衣带（105品）
+#+BEGIN_EXAMPLE
+天火·刀锋之华带
+金刚·刀锋之华带
+泽兰·刀锋之华带
+#+END_EXAMPLE
+
+** 穿戴二级PVE·护腕
+- 穿戴二级PVE护腕（105品）
+#+BEGIN_EXAMPLE
+天火·刀锋之华腕
+金刚·刀锋之华腕
+泽兰·刀锋之华腕
+#+END_EXAMPLE
+
+** 穿戴二级PVE·手镯
+- 穿戴二级PVE手镯（105品）
+#+BEGIN_EXAMPLE
+天火·诛心镯
+金刚·诛心镯
+泽兰·诛心镯
+#+END_EXAMPLE
+
+** 穿戴二级PVE·戒指
+- 穿戴二级PVE戒指（105品）
+#+BEGIN_EXAMPLE
+天火·诛心戒
+金刚·诛心戒
+泽兰·诛心戒
+#+END_EXAMPLE
+
+** 穿戴二级PVE·项链
+- 穿戴二级PVE项链（105品）
+#+BEGIN_EXAMPLE
+天火·诛心链
+金刚·诛心链
+泽兰·诛心链
+#+END_EXAMPLE
+
+** 穿戴二级PVE·辅武器
+- 穿戴二级PVE辅武器（105品）
+#+BEGIN_EXAMPLE
+竞秀之鞘
+之莹
+问江山
+画蓉
+笑吾之匣
+占梅芳
+圣阳
+落花风
+#+END_EXAMPLE
+
+** 穿戴二级PVE·暗器
+- 穿戴二级PVE暗器（105品）
+#+BEGIN_EXAMPLE
+诛心雪
+#+END_EXAMPLE
+
+** 穿戴二级PVE·主武器
+- 穿戴二级PVE主武器（105品）
+#+BEGIN_EXAMPLE
+竞秀
+寒魄
+风岭
+小玉
+笑吾
+暗香浮
+祭日
+归尘
+#+END_EXAMPLE
+
+** 穿戴三级PVE·上衣
+- 穿戴三级PVE上衣（110品）
+#+BEGIN_EXAMPLE
+天火·战舞霜城袍
+金刚·战舞霜城袍
+泽兰·战舞霜城袍
+#+END_EXAMPLE
+
+** 穿戴三级PVE·下装
+- 穿戴三级PVE下装（110品）
+#+BEGIN_EXAMPLE
+天火·战舞霜城履
+金刚·战舞霜城履
+泽兰·战舞霜城履
+#+END_EXAMPLE
+
+** 穿戴三级PVE·头饰
+- 穿戴三级PVE头饰（110品）
+#+BEGIN_EXAMPLE
+天火·战舞霜城冠
+金刚·战舞霜城冠
+泽兰·战舞霜城冠
+#+END_EXAMPLE
+
+** 穿戴三级PVE·内衬
+- 穿戴三级PVE内衬（110品）
+#+BEGIN_EXAMPLE
+疏玉
+#+END_EXAMPLE
+
+** 穿戴三级PVE·衣带
+- 穿戴三级PVE衣带（110品）
+#+BEGIN_EXAMPLE
+天火·战舞霜城带
+金刚·战舞霜城带
+泽兰·战舞霜城带
+#+END_EXAMPLE
+
+** 穿戴三级PVE·护腕
+- 穿戴三级PVE护腕（110品）
+#+BEGIN_EXAMPLE
+天火·战舞霜城腕
+金刚·战舞霜城腕
+泽兰·战舞霜城腕
+#+END_EXAMPLE
+
+** 穿戴三级PVE·手镯
+- 穿戴三级PVE手镯（110品）
+#+BEGIN_EXAMPLE
+天火·天峰镯
+金刚·天峰镯
+泽兰·天峰镯
+#+END_EXAMPLE
+
+** 穿戴三级PVE·戒指
+- 穿戴三级PVE戒指（110品）
+#+BEGIN_EXAMPLE
+天火·天峰戒
+金刚·天峰戒
+泽兰·天峰戒
+#+END_EXAMPLE
+
+** 穿戴三级PVE·项链
+- 穿戴三级PVE项链（110品）
+#+BEGIN_EXAMPLE
+天火·天峰链
+金刚·天峰链
+泽兰·天峰链
+#+END_EXAMPLE
+
+** 穿戴三级PVE·辅武器
+- 穿戴三级PVE辅武器（110品）
+#+BEGIN_EXAMPLE
+碎雪之鞘
+五蕴
+慕仙衣
+百草
+弱水之匣
+芳魂引
+幻生
+鸣悲辛
+#+END_EXAMPLE
+
+** 穿戴三级PVE·暗器
+- 穿戴三级PVE暗器（110品）
+#+BEGIN_EXAMPLE
+天峰石
+#+END_EXAMPLE
+
+** 穿戴三级PVE·主武器
+- 穿戴三级PVE主武器（110品）
+#+BEGIN_EXAMPLE
+碎雪
+破戒
+控鹤
+药童
+弱水
+诉衷情
+情劫
+夜楼
+#+END_EXAMPLE
+
+** 穿戴四级PVE·上衣
+- 穿戴四级PVE上衣（115品）
+#+BEGIN_EXAMPLE
+冰绡岚影袍
+铁血荒漠袍
+酣畅名门袍
+夜海情心袍
+弈墨苍冥袍
+雪芷丹华袍
+日月通明袍
+朱羽刀皇袍
+#+END_EXAMPLE
+
+** 穿戴四级PVE·下装
+- 穿戴四级PVE下装（115品）
+#+BEGIN_EXAMPLE
+冰绡岚影履
+铁血荒漠履
+酣畅名门履
+夜海情心履
+弈墨苍冥履
+雪芷丹华履
+日月通明履
+朱羽刀皇履
+#+END_EXAMPLE
+
+** 穿戴四级PVE·头饰
+- 穿戴四级PVE头饰（115品）
+#+BEGIN_EXAMPLE
+冰绡岚影冠
+铁血荒漠冠
+酣畅名门冠
+夜海情心冠
+弈墨苍冥冠
+雪芷丹华冠
+日月通明冠
+朱羽刀皇冠
+#+END_EXAMPLE
+
+** 穿戴四级PVE·内衬
+- 穿戴四级PVE内衬（115品）
+#+BEGIN_EXAMPLE
+明纤
+#+END_EXAMPLE
+
+** 穿戴四级PVE·衣带
+- 穿戴四级PVE衣带（115品）
+#+BEGIN_EXAMPLE
+冰绡岚影带
+铁血荒漠带
+酣畅名门带
+夜海情心带
+弈墨苍冥带
+雪芷丹华带
+日月通明带
+朱羽刀皇带
+#+END_EXAMPLE
+
+** 穿戴四级PVE·护腕
+- 穿戴四级PVE护腕（115品）
+#+BEGIN_EXAMPLE
+冰绡岚影腕
+铁血荒漠腕
+酣畅名门腕
+夜海情心腕
+弈墨苍冥腕
+雪芷丹华腕
+日月通明腕
+朱羽刀皇腕
+#+END_EXAMPLE
+
+** 穿戴四级PVE·手镯
+- 穿戴四级PVE手镯（115品）
+#+BEGIN_EXAMPLE
+天火·四无镯
+金刚·四无镯
+泽兰·四无镯
+#+END_EXAMPLE
+
+** 穿戴四级PVE·戒指
+- 穿戴四级PVE戒指（115品）
+#+BEGIN_EXAMPLE
+天火·四无戒
+金刚·四无戒
+泽兰·四无戒
+#+END_EXAMPLE
+
+** 穿戴四级PVE·项链
+- 穿戴四级PVE项链（115品）
+#+BEGIN_EXAMPLE
+天火·四无链
+金刚·四无链
+泽兰·四无链
+#+END_EXAMPLE
+
+** 穿戴四级PVE·辅武器
+- 穿戴四级PVE辅武器（115品）
+#+BEGIN_EXAMPLE
+弈山之鞘
+天元
+吟世局
+七弦
+希音之匣
+金缕曲
+迷局
+呼天晓
+#+END_EXAMPLE
+
+** 穿戴四级PVE·暗器
+- 穿戴四级PVE暗器（115品）
+#+BEGIN_EXAMPLE
+四无刀
+#+END_EXAMPLE
+
+** 穿戴四级PVE·主武器
+- 穿戴四级PVE主武器（115品）
+#+BEGIN_EXAMPLE
+弈山
+纵横
+落星
+琴臣
+希音
+声声慢
+残念
+击水
+#+END_EXAMPLE
+
+** 穿戴五级PVE·上衣
+- 穿戴五级PVE上衣（120品）
+#+BEGIN_EXAMPLE
+喋血·雪魄尘光袍
+喋血·瀚海驰骋袍
+喋血·独酌天下袍
+喋血·风露霜晨袍
+喋血·神机韬略袍
+喋血·臻姿凤仪袍
+喋血·枫香泪雨袍
+喋血·永夜杀神袍
+#+END_EXAMPLE
+
+** 穿戴五级PVE·下装
+- 穿戴五级PVE下装（120品）
+#+BEGIN_EXAMPLE
+喋血·雪魄尘光履
+喋血·瀚海驰骋履
+喋血·独酌天下履
+喋血·风露霜晨履
+喋血·神机韬略履
+喋血·臻姿凤仪履
+喋血·枫香泪雨履
+喋血·永夜杀神履
+#+END_EXAMPLE
+
+** 穿戴五级PVE·头饰
+- 穿戴五级PVE头饰（120品）
+#+BEGIN_EXAMPLE
+喋血·雪魄尘光冠
+喋血·瀚海驰骋冠
+喋血·独酌天下冠
+喋血·风露霜晨冠
+喋血·神机韬略冠
+喋血·臻姿凤仪冠
+喋血·枫香泪雨冠
+喋血·永夜杀神冠
+#+END_EXAMPLE
+
+** 穿戴五级PVE·内衬
+- 穿戴五级PVE内衬（120品）
+#+BEGIN_EXAMPLE
+喋血·沾轻衣
+#+END_EXAMPLE
+
+** 穿戴五级PVE·衣带
+- 穿戴五级PVE衣带（120品）
+#+BEGIN_EXAMPLE
+喋血·雪魄尘光带
+喋血·瀚海驰骋带
+喋血·独酌天下带
+喋血·风露霜晨带
+喋血·神机韬略带
+喋血·臻姿凤仪带
+喋血·枫香泪雨带
+喋血·永夜杀神带
+#+END_EXAMPLE
+
+** 穿戴五级PVE·护腕
+- 穿戴五级PVE护腕（120品）
+#+BEGIN_EXAMPLE
+喋血·雪魄尘光腕
+喋血·瀚海驰骋腕
+喋血·独酌天下腕
+喋血·风露霜晨腕
+喋血·神机韬略腕
+喋血·臻姿凤仪腕
+喋血·枫香泪雨腕
+喋血·永夜杀神腕
+#+END_EXAMPLE
+
+** 穿戴五级PVE·手镯
+- 穿戴五级PVE手镯（120品）
+#+BEGIN_EXAMPLE
+天火·寻花镯
+金刚·寻花镯
+泽兰·寻花镯
+#+END_EXAMPLE
+
+** 穿戴五级PVE·戒指
+- 穿戴五级PVE戒指（120品）
+#+BEGIN_EXAMPLE
+天火·寻花戒
+金刚·寻花戒
+泽兰·寻花戒
+#+END_EXAMPLE
+
+** 穿戴五级PVE·项链
+- 穿戴五级PVE项链（120品）
+#+BEGIN_EXAMPLE
+天火·寻花链
+金刚·寻花链
+泽兰·寻花链
+#+END_EXAMPLE
+
+** 穿戴五级PVE·辅武器
+- 穿戴五级PVE辅武器（120品）
+#+BEGIN_EXAMPLE
+喋血·赤霄之鞘
+喋血·碎穹
+喋血·饮龙潭
+喋血·犹记
+喋血·灵宝之匣
+喋血·莫思归
+喋血·狂澜
+喋血·风归云
+#+END_EXAMPLE
+
+** 穿戴五级PVE·暗器
+- 穿戴五级PVE暗器（120品）
+#+BEGIN_EXAMPLE
+天火·寻花间
+金刚·寻花间
+泽兰·寻花间
+#+END_EXAMPLE
+
+** 穿戴五级PVE·主武器
+- 穿戴五级PVE主武器（120品）
+#+BEGIN_EXAMPLE
+喋血·赤霄
+喋血·辟岳
+喋血·定坤
+喋血·夏芒
+喋血·灵宝
+喋血·惜寒梅
+喋血·逆浪
+喋血·转魄
+#+END_EXAMPLE
+
+** 穿戴六级PVE·上衣
+- 穿戴六级PVE上衣（125品）
+#+BEGIN_EXAMPLE
+喋血·月影天霜袍
+喋血·九州寸心袍
+喋血·梦泽千觞袍
+喋血·晓梦寒星袍
+喋血·冥鸿归云袍
+喋血·瑶台清月袍
+喋血·暮鸦苍羽袍
+喋血·寂夜劫火袍
+#+END_EXAMPLE
+
+** 穿戴六级PVE·下装
+- 穿戴六级PVE下装（125品）
+#+BEGIN_EXAMPLE
+喋血·月影天霜履
+喋血·九州寸心履
+喋血·梦泽千觞履
+喋血·晓梦寒星履
+喋血·冥鸿归云履
+喋血·瑶台清月履
+喋血·暮鸦苍羽履
+喋血·寂夜劫火履
+#+END_EXAMPLE
+
+** 穿戴六级PVE·头饰
+- 穿戴六级PVE头饰（125品）
+#+BEGIN_EXAMPLE
+喋血·月影天霜冠
+喋血·九州寸心冠
+喋血·梦泽千觞冠
+喋血·晓梦寒星冠
+喋血·冥鸿归云冠
+喋血·瑶台清月冠
+喋血·暮鸦苍羽冠
+喋血·寂夜劫火冠
+#+END_EXAMPLE
+
+** 穿戴六级PVE·内衬
+- 穿戴六级PVE内衬（125品）
+#+BEGIN_EXAMPLE
+喋血·归永夜
+#+END_EXAMPLE
+
+** 穿戴六级PVE·衣带
+- 穿戴六级PVE衣带（125品）
+#+BEGIN_EXAMPLE
+喋血·月影天霜带
+喋血·九州寸心带
+喋血·梦泽千觞带
+喋血·晓梦寒星带
+喋血·冥鸿归云带
+喋血·瑶台清月带
+喋血·暮鸦苍羽带
+喋血·寂夜劫火带
+#+END_EXAMPLE
+
+** 穿戴六级PVE·护腕
+- 穿戴六级PVE护腕（125品）
+#+BEGIN_EXAMPLE
+喋血·月影天霜腕
+喋血·九州寸心腕
+喋血·梦泽千觞腕
+喋血·晓梦寒星腕
+喋血·冥鸿归云腕
+喋血·瑶台清月腕
+喋血·暮鸦苍羽腕
+喋血·寂夜劫火腕
+#+END_EXAMPLE
+
+** 穿戴六级PVE·手镯
+- 穿戴六级PVE手镯（125品）
+#+BEGIN_EXAMPLE
+天火·月碎镯
+金刚·月碎镯
+泽兰·月碎镯
+#+END_EXAMPLE
+
+** 穿戴六级PVE·戒指
+- 穿戴六级PVE戒指（125品）
+#+BEGIN_EXAMPLE
+天火·月碎戒
+金刚·月碎戒
+泽兰·月碎戒
+#+END_EXAMPLE
+
+** 穿戴六级PVE·项链
+- 穿戴六级PVE项链（125品）
+#+BEGIN_EXAMPLE
+天火·月碎链
+金刚·月碎链
+泽兰·月碎链
+#+END_EXAMPLE
+
+** 穿戴六级PVE·辅武器
+- 穿戴六级PVE辅武器（125品）
+#+BEGIN_EXAMPLE
+喋血·青霜之鞘
+喋血·引凤
+喋血·傲王侯
+喋血·千生
+喋血·扁诸之匣
+喋血·广寒秋
+喋血·沉香
+喋血·唤天星
+#+END_EXAMPLE
+
+** 穿戴六级PVE·暗器
+- 穿戴六级PVE暗器（125品）
+#+BEGIN_EXAMPLE
+天火·明月碎
+金刚·明月碎
+泽兰·明月碎
+#+END_EXAMPLE
+
+** 穿戴六级PVE·主武器
+- 穿戴六级PVE主武器（125品）
+#+BEGIN_EXAMPLE
+喋血·青霜
+喋血·伏龙
+喋血·遮天
+喋血·玦言
+喋血·扁诸
+喋血·梦仙游
+喋血·寂夜
+喋血·酹月
+#+END_EXAMPLE
+
+** 穿戴一级PVP·上衣
+- 穿戴一级PVP上衣（97品）
+#+BEGIN_EXAMPLE
+画水微明袍
+剑啸寒川袍
+勇冠三军袍
+侠骨多情袍
+琼宫弄月袍
+轻梅映雪袍
+飞凤苗银袍
+刀锋易冷袍
+#+END_EXAMPLE
+
+** 穿戴一级PVP·下装
+- 穿戴一级PVP下装（97品）
+#+BEGIN_EXAMPLE
+画水微明履
+剑啸寒川履
+勇冠三军履
+侠骨多情履
+琼宫弄月履
+轻梅映雪履
+飞凤苗银履
+刀锋易冷履
+#+END_EXAMPLE
+
+** 穿戴一级PVP·头饰
+- 穿戴一级PVP头饰（97品）
+#+BEGIN_EXAMPLE
+画水微明冠
+剑啸寒川冠
+勇冠三军冠
+侠骨多情冠
+琼宫弄月冠
+轻梅映雪冠
+飞凤苗银冠
+刀锋易冷冠
+#+END_EXAMPLE
+
+** 穿戴一级PVP·衣带
+- 穿戴一级PVP衣带（97品）
+#+BEGIN_EXAMPLE
+画水微明带
+剑啸寒川带
+勇冠三军带
+侠骨多情带
+琼宫弄月带
+轻梅映雪带
+飞凤苗银带
+刀锋易冷带
+#+END_EXAMPLE
+
+** 穿戴一级PVP·护腕
+- 穿戴一级PVP护腕（97品）
+#+BEGIN_EXAMPLE
+画水微明腕
+剑啸寒川腕
+勇冠三军腕
+侠骨多情腕
+琼宫弄月腕
+轻梅映雪腕
+飞凤苗银腕
+刀锋易冷腕
+#+END_EXAMPLE
+
+** 穿戴一级PVP·辅武器
+- 穿戴一级PVP辅武器（97品）
+#+BEGIN_EXAMPLE
+洛羽之鞘
+破空
+文君酿
+振羽
+唯兵之匣
+潇湘雨
+溟花
+思狡兔
+#+END_EXAMPLE
+
+** 穿戴一级PVP·主武器
+- 穿戴一级PVP主武器（97品）
+#+BEGIN_EXAMPLE
+唯兵
+洛羽
+诛天
+潮鸣
+影仆
+满庭芳
+枭树
+血魂
+#+END_EXAMPLE
+
+** 穿戴一级PVP·内衬
+- 穿戴一级PVP内衬（97品）
+#+BEGIN_EXAMPLE
+静庭明雪
+#+END_EXAMPLE
+
+** 穿戴一级PVP·手镯
+- 穿戴一级PVP手镯（97品）
+#+BEGIN_EXAMPLE
+龙翡镯
+#+END_EXAMPLE
+
+** 穿戴一级PVP·戒指
+- 穿戴一级PVP戒指（97品）
+#+BEGIN_EXAMPLE
+龙翡戒
+#+END_EXAMPLE
+
+** 穿戴一级PVP·项链
+- 穿戴一级PVP项链（97品）
+#+BEGIN_EXAMPLE
+龙翡链
+#+END_EXAMPLE
+
+** 穿戴一级PVP·暗器
+- 穿戴一级PVP暗器（97品）
+#+BEGIN_EXAMPLE
+白龙锥
+#+END_EXAMPLE
+
+** 穿戴二级PVP·上衣
+- 穿戴二级PVP上衣（105品）
+#+BEGIN_EXAMPLE
+澹云未雨袍
+秦风唱晚袍
+扬沙万里袍
+醉打西风袍
+俪影飞星袍
+暮语亭兰袍
+彩雉青纹袍
+长空寄情袍
+#+END_EXAMPLE
+
+** 穿戴二级PVP·下装
+- 穿戴二级PVP下装（105品）
+#+BEGIN_EXAMPLE
+澹云未雨履
+秦风唱晚履
+扬沙万里履
+醉打西风履
+俪影飞星履
+暮语亭兰履
+彩雉青纹履
+长空寄情履
+#+END_EXAMPLE
+
+** 穿戴二级PVP·头饰
+- 穿戴二级PVP头饰（105品）
+#+BEGIN_EXAMPLE
+澹云未雨冠
+秦风唱晚冠
+扬沙万里冠
+醉打西风冠
+俪影飞星冠
+暮语亭兰冠
+彩雉青纹冠
+长空寄情冠
+#+END_EXAMPLE
+
+** 穿戴二级PVP·衣带
+- 穿戴二级PVP衣带（105品）
+#+BEGIN_EXAMPLE
+澹云未雨带
+秦风唱晚带
+扬沙万里带
+醉打西风带
+俪影飞星带
+暮语亭兰带
+彩雉青纹带
+长空寄情带
+#+END_EXAMPLE
+
+** 穿戴二级PVP·护腕
+- 穿戴二级PVP护腕（105品）
+#+BEGIN_EXAMPLE
+秦风唱晚腕
+扬沙万里腕
+醉打西风腕
+俪影飞星腕
+澹云未雨腕
+暮语亭兰腕
+彩雉青纹腕
+长空寄情腕
+#+END_EXAMPLE
+
+** 穿戴二级PVP·辅武器
+- 穿戴二级PVP辅武器（105品）
+#+BEGIN_EXAMPLE
+飞景之鞘
+惊心
+兰陵醉
+禅机
+子夜歌
+圣泪
+止辱之匣
+画殊风
+#+END_EXAMPLE
+
+** 穿戴二级PVP·主武器
+- 穿戴二级PVP主武器（105品）
+#+BEGIN_EXAMPLE
+止辱
+飞景
+裂宇
+霹雳
+玉刹
+菩萨蛮
+天哭
+惕厉
+#+END_EXAMPLE
+
+** 穿戴二级PVP·内衬
+- 穿戴二级PVP内衬（105品）
+#+BEGIN_EXAMPLE
+云天无迹
+#+END_EXAMPLE
+
+** 穿戴二级PVP·手镯
+- 穿戴二级PVP手镯（105品）
+#+BEGIN_EXAMPLE
+翼蝶镯
+#+END_EXAMPLE
+
+** 穿戴二级PVP·戒指
+- 穿戴二级PVP戒指（105品）
+#+BEGIN_EXAMPLE
+翼蝶戒
+#+END_EXAMPLE
+
+** 穿戴二级PVP·项链
+- 穿戴二级PVP项链（105品）
+#+BEGIN_EXAMPLE
+翼蝶链
+#+END_EXAMPLE
+
+** 穿戴二级PVP·暗器
+- 穿戴二级PVP暗器（105品）
+#+BEGIN_EXAMPLE
+天地搜魂针
+#+END_EXAMPLE
+
+** 穿戴三级PVP·上衣
+- 穿戴三级PVP上衣（110品）
+#+BEGIN_EXAMPLE
+朔风吟月袍
+扬名千秋袍
+醉卷黄河袍
+寒影追魂袍
+芳姿盈袖袍
+掩海遮风袍
+掩日风尘袍
+拂雨冲云袍
+#+END_EXAMPLE
+
+** 穿戴三级PVP·下装
+- 穿戴三级PVP下装（110品）
+#+BEGIN_EXAMPLE
+拂雨冲云履
+朔风吟月履
+扬名千秋履
+醉卷黄河履
+寒影追魂履
+芳姿盈袖履
+掩海遮风履
+掩日风尘履
+#+END_EXAMPLE
+
+** 穿戴三级PVP·头饰
+- 穿戴三级PVP头饰（110品）
+#+BEGIN_EXAMPLE
+拂雨冲云冠
+朔风吟月冠
+扬名千秋冠
+醉卷黄河冠
+寒影追魂冠
+芳姿盈袖冠
+掩海遮风冠
+掩日风尘冠
+#+END_EXAMPLE
+
+** 穿戴三级PVP·衣带
+- 穿戴三级PVP衣带（110品）
+#+BEGIN_EXAMPLE
+拂雨冲云带
+朔风吟月带
+扬名千秋带
+醉卷黄河带
+寒影追魂带
+芳姿盈袖带
+掩海遮风带
+掩日风尘带
+#+END_EXAMPLE
+
+** 穿戴三级PVP·护腕
+- 穿戴三级PVP护腕（110品）
+#+BEGIN_EXAMPLE
+朔风吟月腕
+扬名千秋腕
+醉卷黄河腕
+寒影追魂腕
+芳姿盈袖腕
+掩海遮风腕
+掩日风尘腕
+拂雨冲云腕
+#+END_EXAMPLE
+
+** 穿戴三级PVP·辅武器
+- 穿戴三级PVP辅武器（110品）
+#+BEGIN_EXAMPLE
+盈天之鞘
+无常
+罗浮春
+赋心
+千堆雪
+吞明
+离婴之匣
+雪孤飞
+#+END_EXAMPLE
+
+** 穿戴三级PVP·主武器
+- 穿戴三级PVP主武器（110品）
+#+BEGIN_EXAMPLE
+离婴
+盈天
+判命
+重霄
+月奴
+念奴娇
+咽夜
+修罗
+#+END_EXAMPLE
+
+** 穿戴三级PVP·内衬
+- 穿戴三级PVP内衬（110品）
+#+BEGIN_EXAMPLE
+一栊孤烟
+#+END_EXAMPLE
+
+** 穿戴三级PVP·手镯
+- 穿戴三级PVP手镯（110品）
+#+BEGIN_EXAMPLE
+璧光镯
+#+END_EXAMPLE
+
+** 穿戴三级PVP·戒指
+- 穿戴三级PVP戒指（110品）
+#+BEGIN_EXAMPLE
+璧光戒
+#+END_EXAMPLE
+
+** 穿戴三级PVP·项链
+- 穿戴三级PVP项链（110品）
+#+BEGIN_EXAMPLE
+璧光链
+#+END_EXAMPLE
+
+** 穿戴三级PVP·暗器
+- 穿戴三级PVP暗器（110品）
+#+BEGIN_EXAMPLE
+银河星
+#+END_EXAMPLE
+
+** 穿戴四级PVP·上衣
+- 穿戴四级PVP上衣（115品）
+#+BEGIN_EXAMPLE
+孤影极寒袍
+碧血铭沙袍
+酩酊风流袍
+晓月长空袍
+碎梦繁花袍
+百羽双凤袍
+丹凤九转袍
+玄机空濛袍
+#+END_EXAMPLE
+
+** 穿戴四级PVP·下装
+- 穿戴四级PVP下装（115品）
+#+BEGIN_EXAMPLE
+孤影极寒履
+碧血铭沙履
+酩酊风流履
+晓月长空履
+玄机空濛履
+碎梦繁花履
+百羽双凤履
+丹凤九转履
+#+END_EXAMPLE
+
+** 穿戴四级PVP·头饰
+- 穿戴四级PVP头饰（115品）
+#+BEGIN_EXAMPLE
+孤影极寒冠
+碧血铭沙冠
+酩酊风流冠
+晓月长空冠
+碎梦繁花冠
+百羽双凤冠
+丹凤九转冠
+玄机空濛冠
+#+END_EXAMPLE
+
+** 穿戴四级PVP·衣带
+- 穿戴四级PVP衣带（115品）
+#+BEGIN_EXAMPLE
+玄机空濛带
+孤影极寒带
+碧血铭沙带
+酩酊风流带
+晓月长空带
+碎梦繁花带
+百羽双凤带
+丹凤九转带
+#+END_EXAMPLE
+
+** 穿戴四级PVP·护腕
+- 穿戴四级PVP护腕（115品）
+#+BEGIN_EXAMPLE
+孤影极寒腕
+碧血铭沙腕
+酩酊风流腕
+晓月长空腕
+碎梦繁花腕
+百羽双凤腕
+丹凤九转腕
+玄机空濛腕
+#+END_EXAMPLE
+
+** 穿戴四级PVP·辅武器
+- 穿戴四级PVP辅武器（115品）
+#+BEGIN_EXAMPLE
+弧光之鞘
+无悔
+快活仙
+皇图
+纵天狱
+卜算子
+尘灵
+凶年之匣
+#+END_EXAMPLE
+
+** 穿戴四级PVP·主武器
+- 穿戴四级PVP主武器（115品）
+#+BEGIN_EXAMPLE
+凶年
+弧光
+沥泉
+奔雷
+魑魅
+一剪梅
+仙色
+角羽
+#+END_EXAMPLE
+
+** 穿戴四级PVP·内衬
+- 穿戴四级PVP内衬（115品）
+#+BEGIN_EXAMPLE
+霜夜无尘
+#+END_EXAMPLE
+
+** 穿戴四级PVP·手镯
+- 穿戴四级PVP手镯（115品）
+#+BEGIN_EXAMPLE
+逆鳞镯
+#+END_EXAMPLE
+
+** 穿戴四级PVP·戒指
+- 穿戴四级PVP戒指（115品）
+#+BEGIN_EXAMPLE
+逆鳞戒
+#+END_EXAMPLE
+
+** 穿戴四级PVP·项链
+- 穿戴四级PVP项链（115品）
+#+BEGIN_EXAMPLE
+逆鳞链
+#+END_EXAMPLE
+
+** 穿戴四级PVP·暗器
+- 穿戴四级PVP暗器（115品）
+#+BEGIN_EXAMPLE
+赤炼金蛇
+#+END_EXAMPLE
+
+** 穿戴五级PVP·上衣
+- 穿戴五级PVP上衣（120品）
+#+BEGIN_EXAMPLE
+武道·雪魄尘光袍
+武道·瀚海驰骋袍
+武道·独酌天下袍
+武道·风露霜晨袍
+武道·臻姿凤仪袍
+武道·枫香泪雨袍
+武道·永夜杀神袍
+武道·神机韬略袍
+#+END_EXAMPLE
+
+** 穿戴五级PVP·下装
+- 穿戴五级PVP下装（120品）
+#+BEGIN_EXAMPLE
+武道·雪魄尘光履
+武道·瀚海驰骋履
+武道·独酌天下履
+武道·风露霜晨履
+武道·臻姿凤仪履
+武道·枫香泪雨履
+武道·永夜杀神履
+武道·神机韬略履
+#+END_EXAMPLE
+
+** 穿戴五级PVP·头饰
+- 穿戴五级PVP头饰（120品）
+#+BEGIN_EXAMPLE
+武道·雪魄尘光冠
+武道·瀚海驰骋冠
+武道·独酌天下冠
+武道·风露霜晨冠
+武道·臻姿凤仪冠
+武道·枫香泪雨冠
+武道·永夜杀神冠
+武道·神机韬略冠
+#+END_EXAMPLE
+
+** 穿戴五级PVP·衣带
+- 穿戴五级PVP衣带（120品）
+#+BEGIN_EXAMPLE
+武道·神机韬略带
+武道·雪魄尘光带
+武道·瀚海驰骋带
+武道·独酌天下带
+武道·风露霜晨带
+武道·臻姿凤仪带
+武道·枫香泪雨带
+武道·永夜杀神带
+#+END_EXAMPLE
+
+** 穿戴五级PVP·护腕
+- 穿戴五级PVP护腕（120品）
+#+BEGIN_EXAMPLE
+武道·雪魄尘光腕
+武道·瀚海驰骋腕
+武道·独酌天下腕
+武道·风露霜晨腕
+武道·臻姿凤仪腕
+武道·枫香泪雨腕
+武道·永夜杀神腕
+武道·神机韬略腕
+#+END_EXAMPLE
+
+** 穿戴五级PVP·辅武器
+- 穿戴五级PVP辅武器（120品）
+#+BEGIN_EXAMPLE
+武道·晴澜之鞘
+武道·逐鹿
+武道·吞日月
+武道·阑珊
+武道·斗百花
+武道·夺魄
+武道·浪于飞
+武道·墨阳之匣
+#+END_EXAMPLE
+
+** 穿戴五级PVP·主武器
+- 穿戴五级PVP主武器（120品）
+#+BEGIN_EXAMPLE
+武道·墨阳
+武道·晴澜
+武道·破阵
+武道·捉月
+武道·归雪
+武道·钗头凤
+武道·裁魂
+武道·玄夜
+#+END_EXAMPLE
+
+** 穿戴五级PVP·内衬
+- 穿戴五级PVP内衬（120品）
+#+BEGIN_EXAMPLE
+武道·沾轻衣
+#+END_EXAMPLE
+
+** 穿戴五级PVP·手镯
+- 穿戴五级PVP手镯（120品）
+#+BEGIN_EXAMPLE
+武道·寻花镯
+#+END_EXAMPLE
+
+** 穿戴五级PVP·戒指
+- 穿戴五级PVP戒指（120品）
+#+BEGIN_EXAMPLE
+武道·寻花戒
+#+END_EXAMPLE
+
+** 穿戴五级PVP·项链
+- 穿戴五级PVP项链（120品）
+#+BEGIN_EXAMPLE
+武道·寻花链
+#+END_EXAMPLE
+
+** 穿戴五级PVP·暗器
+- 穿戴五级PVP暗器（120品）
+#+BEGIN_EXAMPLE
+武道·寻花间
+#+END_EXAMPLE
+
+** 穿戴六级PVP·上衣
+- 穿戴六级PVP上衣（125品）
+#+BEGIN_EXAMPLE
+武道·月影天霜袍
+武道·九州寸心袍
+武道·梦泽千觞袍
+武道·晓梦寒星袍
+武道·瑶台清月袍
+武道·暮鸦苍羽袍
+武道·寂夜劫火袍
+武道·冥鸿归云袍
+#+END_EXAMPLE
+
+** 穿戴六级PVP·下装
+- 穿戴六级PVP下装（125品）
+#+BEGIN_EXAMPLE
+武道·月影天霜履
+武道·九州寸心履
+武道·梦泽千觞履
+武道·晓梦寒星履
+武道·瑶台清月履
+武道·暮鸦苍羽履
+武道·寂夜劫火履
+武道·冥鸿归云履
+#+END_EXAMPLE
+
+** 穿戴六级PVP·头饰
+- 穿戴六级PVP头饰（125品）
+#+BEGIN_EXAMPLE
+武道·月影天霜冠
+武道·九州寸心冠
+武道·梦泽千觞冠
+武道·晓梦寒星冠
+武道·瑶台清月冠
+武道·暮鸦苍羽冠
+武道·寂夜劫火冠
+武道·冥鸿归云冠
+#+END_EXAMPLE
+
+** 穿戴六级PVP·衣带
+- 穿戴六级PVP衣带（125品）
+#+BEGIN_EXAMPLE
+武道·月影天霜带
+武道·九州寸心带
+武道·梦泽千觞带
+武道·晓梦寒星带
+武道·瑶台清月带
+武道·暮鸦苍羽带
+武道·寂夜劫火带
+武道·冥鸿归云带
+#+END_EXAMPLE
+
+** 穿戴六级PVP·护腕
+- 穿戴六级PVP护腕（125品）
+#+BEGIN_EXAMPLE
+武道·月影天霜腕
+武道·九州寸心腕
+武道·梦泽千觞腕
+武道·晓梦寒星腕
+武道·瑶台清月腕
+武道·暮鸦苍羽腕
+武道·寂夜劫火腕
+武道·冥鸿归云腕
+#+END_EXAMPLE
+
+** 穿戴六级PVP·辅武器
+- 穿戴六级PVP辅武器（125品）
+#+BEGIN_EXAMPLE
+武道·步光之鞘
+武道·潜渊
+武道·醉玲珑
+武道·惊梦
+武道·君不悟
+武道·嘲风
+武道·吟沧海
+武道·青冥之匣
+#+END_EXAMPLE
+
+** 穿戴六级PVP·主武器
+- 穿戴六级PVP主武器（125品）
+#+BEGIN_EXAMPLE
+武道·步光
+武道·恚灭
+武道·冽冰
+武道·昀离
+武道·青冥
+武道·别仙子
+武道·螭吻
+武道·狻齿
+#+END_EXAMPLE
+
+** 穿戴六级PVP·内衬
+- 穿戴六级PVP内衬（125品）
+#+BEGIN_EXAMPLE
+武道·归永夜
+#+END_EXAMPLE
+
+** 穿戴六级PVP·手镯
+- 穿戴六级PVP手镯（125品）
+#+BEGIN_EXAMPLE
+武道·月碎镯
+#+END_EXAMPLE
+
+** 穿戴六级PVP·戒指
+- 穿戴六级PVP戒指（125品）
+#+BEGIN_EXAMPLE
+武道·月碎戒
+#+END_EXAMPLE
+
+** 穿戴六级PVP·项链
+- 穿戴六级PVP项链（125品）
+#+BEGIN_EXAMPLE
+武道·月碎链
+#+END_EXAMPLE
+
+** 穿戴六级PVP·暗器
+- 穿戴六级PVP暗器（125品）
+#+BEGIN_EXAMPLE
+武道·明月碎
+#+END_EXAMPLE
+
+** 一级PVE套装毕业
+- 12个部位穿戴一级PVE装备（100品）-达成12个子成就
+#+BEGIN_EXAMPLE
+达成初识一级PVE·上衣
+达成初识一级PVE·下装
+达成初识一级PVE·头饰
+达成初识一级PVE·内衬
+达成初识一级PVE·衣带
+达成初识一级PVE·护腕
+达成初识一级PVE·手镯
+达成初识一级PVE·戒指
+达成初识一级PVE·项链
+达成初识一级PVE·辅武器
+达成初识一级PVE·暗器
+达成初识一级PVE·主武器
+#+END_EXAMPLE
+
+** 二级PVE套装毕业
+- 12个部位穿戴二级PVE装备（105品）-达成12个子成就
+#+BEGIN_EXAMPLE
+达成初识二级PVE·上衣
+达成初识二级PVE·下装
+达成初识二级PVE·头饰
+达成初识二级PVE·内衬
+达成初识二级PVE·衣带
+达成初识二级PVE·护腕
+达成初识二级PVE·手镯
+达成初识二级PVE·戒指
+达成初识二级PVE·项链
+达成初识二级PVE·辅武器
+达成初识二级PVE·暗器
+达成初识二级PVE·主武器
+#+END_EXAMPLE
+
+** 三级PVE套装毕业
+- 12个部位穿戴三级PVE装备（110品）-达成12个子成就
+#+BEGIN_EXAMPLE
+达成初识三级PVE·上衣
+达成初识三级PVE·下装
+达成初识三级PVE·头饰
+达成初识三级PVE·内衬
+达成初识三级PVE·衣带
+达成初识三级PVE·护腕
+达成初识三级PVE·手镯
+达成初识三级PVE·戒指
+达成初识三级PVE·项链
+达成初识三级PVE·辅武器
+达成初识三级PVE·暗器
+达成初识三级PVE·主武器
+#+END_EXAMPLE
+
+** 四级PVE套装毕业
+- 12个部位穿戴四级PVE装备（115品）-达成12个子成就
+#+BEGIN_EXAMPLE
+达成初识四级PVE·上衣
+达成初识四级PVE·下装
+达成初识四级PVE·头饰
+达成初识四级PVE·内衬
+达成初识四级PVE·衣带
+达成初识四级PVE·护腕
+达成初识四级PVE·手镯
+达成初识四级PVE·戒指
+达成初识四级PVE·项链
+达成初识四级PVE·辅武器
+达成初识四级PVE·暗器
+达成初识四级PVE·主武器
+#+END_EXAMPLE
+
+** 五级PVE套装毕业
+- 12个部位穿戴五级PVE装备（120品）-达成12个子成就
+#+BEGIN_EXAMPLE
+达成初识五级PVE·上衣
+达成初识五级PVE·下装
+达成初识五级PVE·头饰
+达成初识五级PVE·内衬
+达成初识五级PVE·衣带
+达成初识五级PVE·护腕
+达成初识五级PVE·手镯
+达成初识五级PVE·戒指
+达成初识五级PVE·项链
+达成初识五级PVE·辅武器
+达成初识五级PVE·暗器
+达成初识五级PVE·主武器
+#+END_EXAMPLE
+
+** 六级PVE套装毕业
+- 12个部位穿戴六级PVE装备（125品）-达成12个子成就
+#+BEGIN_EXAMPLE
+达成初识六级PVE·上衣
+达成初识六级PVE·下装
+达成初识六级PVE·头饰
+达成初识六级PVE·内衬
+达成初识六级PVE·衣带
+达成初识六级PVE·护腕
+达成初识六级PVE·手镯
+达成初识六级PVE·戒指
+达成初识六级PVE·项链
+达成初识六级PVE·辅武器
+达成初识六级PVE·暗器
+达成初识六级PVE·主武器
+#+END_EXAMPLE
+
+** 一级PVP套装毕业
+- 12个部位穿戴一级PVP装备（97品）-达成12个子成就
+#+BEGIN_EXAMPLE
+达成初识一级PVP·上衣
+达成初识一级PVP·下装
+达成初识一级PVP·头饰
+达成初识一级PVP·衣带
+达成初识一级PVP·护腕
+达成初识一级PVP·辅武器
+达成初识一级PVP·主武器
+达成初识一级PVP·内衬
+达成初识一级PVP·手镯
+达成初识一级PVP·戒指
+达成初识一级PVP·项链
+达成初识一级PVP·暗器
+#+END_EXAMPLE
+
+** 二级PVP套装毕业
+- 12个部位穿戴二级PVP装备（105品）-达成12个子成就
+#+BEGIN_EXAMPLE
+达成初识二级PVP·上衣
+达成初识二级PVP·下装
+达成初识二级PVP·头饰
+达成初识二级PVP·衣带
+达成初识二级PVP·护腕
+达成初识二级PVP·辅武器
+达成初识二级PVP·主武器
+达成初识二级PVP·内衬
+达成初识二级PVP·手镯
+达成初识二级PVP·戒指
+达成初识二级PVP·项链
+达成初识二级PVP·暗器
+#+END_EXAMPLE
+
+** 三级PVP套装毕业
+- 12个部位穿戴三级PVP装备（110品）-达成12个子成就
+#+BEGIN_EXAMPLE
+达成初识三级PVP·上衣
+达成初识三级PVP·下装
+达成初识三级PVP·头饰
+达成初识三级PVP·衣带
+达成初识三级PVP·护腕
+达成初识三级PVP·辅武器
+达成初识三级PVP·主武器
+达成初识三级PVP·内衬
+达成初识三级PVP·手镯
+达成初识三级PVP·戒指
+达成初识三级PVP·项链
+达成初识三级PVP·暗器
+#+END_EXAMPLE
+
+** 四级PVP套装毕业
+- 12个部位穿戴四级PVP装备（115品）-达成12个子成就
+#+BEGIN_EXAMPLE
+达成初识四级PVP·上衣
+达成初识四级PVP·下装
+达成初识四级PVP·头饰
+达成初识四级PVP·衣带
+达成初识四级PVP·护腕
+达成初识四级PVP·辅武器
+达成初识四级PVP·主武器
+达成初识四级PVP·内衬
+达成初识四级PVP·手镯
+达成初识四级PVP·戒指
+达成初识四级PVP·项链
+达成初识四级PVP·暗器
+#+END_EXAMPLE
+
+** 五级PVP套装毕业
+- 12个部位穿戴五级PVP装备（120品）-达成12个子成就
+#+BEGIN_EXAMPLE
+达成初识五级PVP·上衣
+达成初识五级PVP·下装
+达成初识五级PVP·头饰
+达成初识五级PVP·衣带
+达成初识五级PVP·护腕
+达成初识五级PVP·辅武器
+达成初识五级PVP·主武器
+达成初识五级PVP·内衬
+达成初识五级PVP·手镯
+达成初识五级PVP·戒指
+达成初识五级PVP·项链
+达成初识五级PVP·暗器
+#+END_EXAMPLE
+
+** 六级PVP套装毕业
+- 12个部位穿戴六级PVP装备（125品）-达成12个子成就
+#+BEGIN_EXAMPLE
+达成初识六级PVP·上衣
+达成初识六级PVP·下装
+达成初识六级PVP·头饰
+达成初识六级PVP·衣带
+达成初识六级PVP·护腕
+达成初识六级PVP·辅武器
+达成初识六级PVP·主武器
+达成初识六级PVP·内衬
+达成初识六级PVP·手镯
+达成初识六级PVP·戒指
+达成初识六级PVP·项链
+达成初识六级PVP·暗器
+#+END_EXAMPLE
+
+* 制造
+** 分工协作
+- 请他人代工完成一件装备
+#+BEGIN_EXAMPLE
+分工协作
+#+END_EXAMPLE
+
+** 协作分工
+- 帮助他人代工完成一件装备
+#+BEGIN_EXAMPLE
+协作分工
+#+END_EXAMPLE
+
+** 有求必应
+- 帮助他人代工完成十件装备
+#+BEGIN_EXAMPLE
+有求必应
+#+END_EXAMPLE
+
+** 全能制造！
+- 帮助他人代工完成一百五十件装备
+#+BEGIN_EXAMPLE
+全能制造！
+#+END_EXAMPLE
+
+** 利刃出鞘
+- 曾经在制造的过程中遇到过3种类型的附加属性
+#+BEGIN_EXAMPLE
+利刃出鞘
+#+END_EXAMPLE
+
+** 能工巧匠
+- 曾经在制造过程中遇到过5种类型的附加属性
+#+BEGIN_EXAMPLE
+能工巧匠
+#+END_EXAMPLE
+
+** 人靠衣装
+- 收集十条附加属性
+#+BEGIN_EXAMPLE
+附加属性
+#+END_EXAMPLE
+
+** 神器天降
+- 产出最高品质装备
+#+BEGIN_EXAMPLE
+神器天降
+#+END_EXAMPLE
+
+** 定制装备
+- 燕南飞有蔷薇剑，我也有定制装备（打出一件装备特技）
+#+BEGIN_EXAMPLE
+打出一件装备特技
+#+END_EXAMPLE
+
+* 衣柜
+** 多彩
+- 收集5件外装进入衣柜
+#+BEGIN_EXAMPLE
+外装
+#+END_EXAMPLE
+
+** 斑斓
+- 收集25件外装进入衣柜
+#+BEGIN_EXAMPLE
+外装
+#+END_EXAMPLE
+
+** 霓虹
+- 收集50件外装进入衣柜
+#+BEGIN_EXAMPLE
+外装
+#+END_EXAMPLE
+
+** 绚烂
+- 收集100件外装进入衣柜
+#+BEGIN_EXAMPLE
+外装
+#+END_EXAMPLE
+
+** 极致
+- 收集150件外装进入衣柜
+#+BEGIN_EXAMPLE
+外装
+#+END_EXAMPLE
+
+** 圣绣
+- 集齐“圣绣”系列外装。
+#+BEGIN_EXAMPLE
+圣绣·无缺
+圣绣·素问
+圣绣·雪宸
+圣绣·昭华
+圣绣·南唐
+圣绣·从龙
+#+END_EXAMPLE
+
+** 心王
+- 集齐“心王”系列外装。
+#+BEGIN_EXAMPLE
+心王·逆鳞
+心王·九耀
+心王·扶苏
+心王·蝶衣
+#+END_EXAMPLE
+
+** 天衣无缝
+- 集齐“圣绣”系列与“心王”系列外装。
+#+BEGIN_EXAMPLE
+圣绣
+心王
+#+END_EXAMPLE
+
+** 圣绣·无缺
+- 获取“圣绣·无缺”外装。
+#+BEGIN_EXAMPLE
+圣绣·无缺冠
+圣绣·无缺袍
+圣绣·无缺腕
+圣绣·无缺履
+#+END_EXAMPLE
+
+** 圣绣·素问
+- 获取“圣绣·素问”外装。
+#+BEGIN_EXAMPLE
+圣绣·素问冠
+圣绣·素问袍
+圣绣·素问腕
+圣绣·素问履
+#+END_EXAMPLE
+
+** 圣绣·雪宸
+- 获取“圣绣·雪宸”外装。
+#+BEGIN_EXAMPLE
+圣绣·雪宸冠
+圣绣·雪宸袍
+圣绣·雪宸腕
+圣绣·雪宸履
+#+END_EXAMPLE
+
+** 圣绣·昭华
+- 获取“圣绣·昭华”外装。
+#+BEGIN_EXAMPLE
+圣绣·昭华冠
+圣绣·昭华袍
+圣绣·昭华腕
+圣绣·昭华履
+#+END_EXAMPLE
+
+** 圣绣·南唐
+- 获取“圣绣·南唐”外装。
+#+BEGIN_EXAMPLE
+圣绣·南唐冠
+圣绣·南唐袍
+圣绣·南唐腕
+圣绣·南唐履
+#+END_EXAMPLE
+
+** 圣绣·从龙
+- 获取“圣绣·从龙”外装。
+#+BEGIN_EXAMPLE
+圣绣·从龙冠
+圣绣·从龙袍
+圣绣·从龙腕
+圣绣·从龙履
+#+END_EXAMPLE
+
+** 心王·逆鳞
+- 获取“心王·逆鳞”外装。
+#+BEGIN_EXAMPLE
+心王·逆鳞冠
+心王·逆鳞袍
+心王·逆鳞腕
+心王·逆鳞履
+#+END_EXAMPLE
+
+** 心王·九耀
+- 获取“心王·九曜”外装。
+#+BEGIN_EXAMPLE
+心王·九曜冠
+心王·九曜袍
+心王·九曜腕
+心王·九曜履
+#+END_EXAMPLE
+
+** 心王·扶苏
+- 获取“心王·扶苏”外装。
+#+BEGIN_EXAMPLE
+心王·扶苏冠
+心王·扶苏袍
+心王·扶苏腕
+心王·扶苏履
+#+END_EXAMPLE
+
+** 心王·蝶衣
+- 获取“心王·蝶衣”外装。
+#+BEGIN_EXAMPLE
+心王·蝶衣冠
+心王·蝶衣袍
+心王·蝶衣腕
+心王·蝶衣履
+#+END_EXAMPLE
+
+** 鹰飞
+- 集齐“鹰飞”系列挂件。
+#+BEGIN_EXAMPLE
+鹰飞·咽悲风
+鹰飞·震天河
+鹰飞·羊腿囊
+鹰飞·砧上刀
+鹰飞·半月匕
+#+END_EXAMPLE
+
+** 攻玉
+- 集齐“攻玉”系列挂件。
+#+BEGIN_EXAMPLE
+攻玉·醉八荒
+攻玉·意凌云
+攻玉·防草莽
+攻玉·缚锁刺
+攻玉·羽擎羊
+攻玉·血螺旋
+攻玉·断黑熊
+攻玉·火童子
+攻玉·无鞘戳
+#+END_EXAMPLE
+
+** 点石
+- 集齐“点石”系列挂件。
+#+BEGIN_EXAMPLE
+点石·赤鲛肠
+点石·刀丛诗
+点石·弃天剑
+点石·柳生月
+点石·降心魔
+点石·新罗鼓
+点石·七重武
+点石·机关谱
+点石·飞天曲
+#+END_EXAMPLE
+
+** 七子
+- 集齐“七子”系列挂件。
+#+BEGIN_EXAMPLE
+七子·壹
+七子·贰
+七子·叁
+七子·肆
+七子·伍
+七子·陆
+七子·柒
+#+END_EXAMPLE
+
+** 七情
+- 集齐“七情”系列挂件。
+#+BEGIN_EXAMPLE
+七情·壹
+七情·贰
+七情·叁
+七情·肆
+七情·伍
+七情·陆
+七情·柒
+#+END_EXAMPLE
+
+** 娃娃控
+- 集齐“七子”系列与“七情”系列挂件。
+#+BEGIN_EXAMPLE
+七子
+七情
+#+END_EXAMPLE
+
+** 少年称王
+- 获取“灵殊·少年称王”挂件。
+#+BEGIN_EXAMPLE
+灵殊·少年称王
+#+END_EXAMPLE
+
+** 九龙至尊
+- 获取“灵殊·九龙至尊”挂件。
+#+BEGIN_EXAMPLE
+灵殊·九龙至尊
+#+END_EXAMPLE
+
+** 玄鸟凤凰
+- 获取“灵殊·玄鸟凤凰”挂件。
+#+BEGIN_EXAMPLE
+灵殊·玄鸟凤凰
+#+END_EXAMPLE
+
+** 灵殊
+- 集齐全套“灵殊”系列挂件。
+#+BEGIN_EXAMPLE
+少年称王
+九龙至尊
+玄鸟凤凰
+#+END_EXAMPLE
+
+** 空雪
+- 获取任意一匹“空雪”系列骏马。
+#+BEGIN_EXAMPLE
+空雪·静深流
+空雪·云出川
+空雪·乌云团
+空雪·白公子
+空雪·烛天龙
+空雪·烛天龙
+#+END_EXAMPLE
+
+** 玄甲
+- 获取任意一套“玄甲”系列马具。
+#+BEGIN_EXAMPLE
+玄甲·纵猎
+玄甲·薄战
+玄甲·凉州
+玄甲·虎牢
+玄甲·清商
+#+END_EXAMPLE
+
+** 红尘
+- 集齐全套“红尘”外装
+#+BEGIN_EXAMPLE
+红尘冠
+红尘履
+红尘袍
+红尘腕
+#+END_EXAMPLE
+
+** 兰陵
+- 集齐全套“兰陵”外装
+#+BEGIN_EXAMPLE
+兰陵冠
+兰陵履
+兰陵袍
+兰陵腕
+#+END_EXAMPLE
+
+** 菁华
+- 集齐全套“菁华”外装
+#+BEGIN_EXAMPLE
+菁华冠
+菁华履
+菁华袍
+菁华腕
+#+END_EXAMPLE
+
+** 金碧
+- 集齐全套“金碧”外装
+#+BEGIN_EXAMPLE
+金璧冠
+金璧履
+金璧袍
+金璧腕
+#+END_EXAMPLE
+
+** 绣美人间
+- 集齐“红尘”“兰陵”“菁华”“金碧”外装
+#+BEGIN_EXAMPLE
+红尘套装
+兰陵套装
+菁华套装
+金碧套装
+#+END_EXAMPLE
+
+** 吹雪霓裳
+- 集齐“吹雪霓裳套 ”外装
+#+BEGIN_EXAMPLE
+吹雪霓裳冠
+吹雪霓裳袍
+吹雪霓裳腕
+吹雪霓裳履
+#+END_EXAMPLE
+
+** 人间梦华
+- 集齐“人间梦华套 ”外装
+#+BEGIN_EXAMPLE
+梦华冠 
+梦华袍 
+梦华腕 
+梦华履
+#+END_EXAMPLE
+
+** 袭光
+- 集齐全套非绑定“圣绣·袭光”套装（永久）
+#+BEGIN_EXAMPLE
+圣绣·袭光冠
+圣绣·袭光袍
+圣绣·袭光腕
+圣绣·袭光履
+#+END_EXAMPLE
+
+** 天岚
+- 集齐全套非绑定“圣绣·天岚”套装（永久）
+#+BEGIN_EXAMPLE
+圣绣·天岚冠
+圣绣·天岚袍
+圣绣·天岚腕
+圣绣·天岚履
+#+END_EXAMPLE
+
+** 国宝
+- 获得一只熊猫（60天）
+#+BEGIN_EXAMPLE
+熊猫
+#+END_EXAMPLE
+
+** 白狐
+- 获得心王·独孤套装（永久）
+#+BEGIN_EXAMPLE
+心王·独孤冠
+心王·独孤袍
+心王·独孤腕
+心王·独孤履
+#+END_EXAMPLE
+
+** 萌趣
+- 获取任意一件“萌趣”系列挂件。
+#+BEGIN_EXAMPLE
+萌趣·离盟主
+萌趣·叶大侠
+萌趣·唐师兄
+萌趣·曲姑娘
+#+END_EXAMPLE
+
+** 博爱
+- 集齐全部“萌趣”系列挂件。
+#+BEGIN_EXAMPLE
+萌趣·离盟主
+萌趣·叶大侠
+萌趣·唐师兄
+萌趣·曲姑娘
+#+END_EXAMPLE
+
+** 天地君王
+- 集齐“圣绣·北辰”和“日月当空”外装。
+#+BEGIN_EXAMPLE
+圣绣·北辰冠
+圣绣·北辰袍
+圣绣·北辰腕
+圣绣·北辰履
+日月当空冠
+日月当空袍
+日月当空腕
+日月当空履
+#+END_EXAMPLE
+
+** 张梦白：天高雨歇
+- 在“试问天心”中获得了和张梦白相同的结果
+#+BEGIN_EXAMPLE
+同签成就：张梦白
+#+END_EXAMPLE
+
+** 一云子：五风十雨
+- 在“试问天心”中获得了和一云子相同的结果
+#+BEGIN_EXAMPLE
+同签成就：一云子
+#+END_EXAMPLE
+
+** 龙复兴：雪拥蓝关
+- 在“试问天心”中获得了和龙复兴相同的结果
+#+BEGIN_EXAMPLE
+同签成就：龙复兴
+#+END_EXAMPLE
+
+** 文秀山：把火看花
+- 在“试问天心”中获得了和文秀山相同的结果
+#+BEGIN_EXAMPLE
+同签成就：文秀山
+#+END_EXAMPLE
+
+** 笑道人：道是无情
+- 在“试问天心”中获得了和笑道人相同的结果
+#+BEGIN_EXAMPLE
+同签成就：笑道人
+#+END_EXAMPLE
+
+** 百晓生：疾不可为
+- 在“试问天心”中获得了和百晓生相同的结果
+#+BEGIN_EXAMPLE
+同签成就：百晓生
+#+END_EXAMPLE
+
+** 公子羽：亢龙有悔
+- 在“试问天心”中获得了和公子羽相同的结果
+#+BEGIN_EXAMPLE
+同签成就：公子羽
+#+END_EXAMPLE
+
+** 蓝铮：沧海长风
+- 在“试问天心”中获得了和蓝铮相同的结果
+#+BEGIN_EXAMPLE
+同签成就：蓝铮
+#+END_EXAMPLE
+
+** 白玉京：万国来朝
+- 在“试问天心”中获得了和白玉京相同的结果
+#+BEGIN_EXAMPLE
+同签成就：白玉京
+#+END_EXAMPLE
+
+** 路小佳：洛阳梅花
+- 在“试问天心”中获得了和路小佳相同的结果
+#+BEGIN_EXAMPLE
+同签成就：路小佳
+#+END_EXAMPLE
+
+** 唐灵玉：初见端倪
+- 在“试问天心”中获得了和唐灵玉相同的结果
+#+BEGIN_EXAMPLE
+同签成就：唐灵玉
+#+END_EXAMPLE
+
+** 沈孤鸿：雪泥鸿爪
+- 在“试问天心”中获得了和沈孤鸿相同的结果
+#+BEGIN_EXAMPLE
+同签成就：沈孤鸿
+#+END_EXAMPLE
+
+** 唐青枫：出众风流
+- 在“试问天心”中获得了和唐青枫相同的结果
+#+BEGIN_EXAMPLE
+同签成就：唐青枫
+#+END_EXAMPLE
+
+** 白云轩：碧海青天
+- 在“试问天心”中获得了和白云轩相同的结果
+#+BEGIN_EXAMPLE
+同签成就：白云轩
+#+END_EXAMPLE
+
+** 薛无泪：金玉满堂
+- 在“试问天心”中获得了和薛无泪相同的结果
+#+BEGIN_EXAMPLE
+同签成就：薛无泪
+#+END_EXAMPLE
+
+** 叶知秋：天下归心
+- 在“试问天心”中获得了和叶知秋相同的结果
+#+BEGIN_EXAMPLE
+同签成就：叶知秋
+#+END_EXAMPLE
+
+** 冶儿：五行之秀
+- 在“试问天心”中获得了和冶儿相同的结果
+#+BEGIN_EXAMPLE
+同签成就：冶儿
+#+END_EXAMPLE
+
+** 明月心：明月孤心
+- 在“试问天心”中获得了和明月心相同的结果
+#+BEGIN_EXAMPLE
+同签成就：明月心
+#+END_EXAMPLE
+
+** 曲无忆：忙做嫁衣
+- 在“试问天心”中获得了和曲无忆相同的结果
+#+BEGIN_EXAMPLE
+同签成就：曲无忆
+#+END_EXAMPLE
+
+** 离玉堂：太平盛世
+- 在“试问天心”中获得了和离玉堂相同的结果
+#+BEGIN_EXAMPLE
+同签成就：离玉堂
+#+END_EXAMPLE
+
+** 燕南飞：过尽千帆
+- 在“试问天心”中获得了和燕南飞相同的结果
+#+BEGIN_EXAMPLE
+同签成就：燕南飞
+#+END_EXAMPLE
+
+** 上官小仙：暮春飞花
+- 在“试问天心”中获得了和上官小仙相同的结果
+#+BEGIN_EXAMPLE
+同签成就：上官小仙
+#+END_EXAMPLE
+
+** 杨延玉：沙里淘金
+- 在“试问天心”中获得了和杨延玉相同的结果
+#+BEGIN_EXAMPLE
+同签成就：杨延玉
+#+END_EXAMPLE
+
+** 子桑不寿：曲水流觞
+- 在“试问天心”中获得了和子桑不寿相同的结果
+#+BEGIN_EXAMPLE
+同签成就：子桑不寿
+#+END_EXAMPLE
+
+** 赏玩
+- 获取任一载具类型外装。
+#+BEGIN_EXAMPLE
+吟风·琉璃焰
+吟风·琉璃焰
+吟风·碧霄诗情
+吟风·以梦为马
+跷跷板
+吟风·花开锦鲤
+吟风·大大雪球
+吟风·大大雪球
+#+END_EXAMPLE
+
+** 光鲜
+- 收集200件外装进入衣柜
+#+BEGIN_EXAMPLE
+外装
+#+END_EXAMPLE
+
+** 阔绰
+- 收集250件外装进入衣柜
+#+BEGIN_EXAMPLE
+外装
+#+END_EXAMPLE
+
+** 盛装
+- 收集300件外装进入衣柜
+#+BEGIN_EXAMPLE
+外装
+#+END_EXAMPLE
+
+** 萧曼声：箫叹无弦
+- 在“试问天心”中获得了和萧曼声相同的结果
+#+BEGIN_EXAMPLE
+萧曼声：箫叹无弦
+#+END_EXAMPLE
+
+** 沈醉花：琴惜孤音
+- 在“试问天心”中获得了和沈醉花相同的结果
+#+BEGIN_EXAMPLE
+沈醉花：琴惜孤音
+#+END_EXAMPLE
+
+** 风伯雨妾：凤箫龙舞
+- 在“试问天心”中获得了和风伯雨妾相同的结果
+#+BEGIN_EXAMPLE
+风伯雨妾：凤箫龙舞
+#+END_EXAMPLE
+
+** 横霞子：袖里江山
+- 在“试问天心”中获得了和横霞子相同的结果
+#+BEGIN_EXAMPLE
+横霞子：袖里江山
+#+END_EXAMPLE
+
+** 明少卿：空谷顽石
+- 在“试问天心”中获得了和明少卿相同的结果
+#+BEGIN_EXAMPLE
+明少卿：空谷顽石
+#+END_EXAMPLE
+
+** 何可人：雏雀江山
+- 在“试问天心”中获得了和何可人相同的结果
+#+BEGIN_EXAMPLE
+何可人：雏雀江山
+#+END_EXAMPLE
+
+** 王神庭：空作嫁衣
+- 在“试问天心”中获得了和王神庭相同的结果
+#+BEGIN_EXAMPLE
+王神庭：空作嫁衣
+#+END_EXAMPLE
+
+** 赵莞儿：故国乔木
+- 在“试问天心”中获得了和赵莞儿相同的结果
+#+BEGIN_EXAMPLE
+赵莞儿：故国乔木
+#+END_EXAMPLE
+
+** 柳扶风：胡天夜月
+- 在“试问天心”中获得了和柳扶风相同的结果
+#+BEGIN_EXAMPLE
+柳扶风：胡天夜月
+#+END_EXAMPLE
+

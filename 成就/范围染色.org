@@ -1,0 +1,271 @@
+#+TITLE: 范围染色
+#+AUTHOR: 李鹄
+
+* 衣柜
+** 万色·霁蓝之雪
+[[https://img.shields.io/badge/魅力-魅力值15点-blue.svg]]
+- 吹雪霓裳：基础102、进阶45
+#+BEGIN_EXAMPLE
+吹雪霓裳：色相102、饱和度45
+女 | 吹雪霓裳：色相102、饱和度45
+少女 | 吹雪霓裳：色相102、饱和度45
+#+END_EXAMPLE
+
+** 万色·幻海之梦
+[[https://img.shields.io/badge/魅力-魅力值10点-blue.svg]]
+- 人间梦华：基础157
+#+BEGIN_EXAMPLE
+人间梦华：色相157
+女 | 人间梦华：色相157
+少女 | 人间梦华：色相157
+#+END_EXAMPLE
+
+** 万色·铁心之兰
+[[https://img.shields.io/badge/魅力-魅力值15点-blue.svg]]
+- 无缺：基础102、进阶180
+#+BEGIN_EXAMPLE
+圣绣·无缺：色相102、饱和度180
+女 | 圣绣·无缺：色相102、饱和度180
+少女 | 圣绣·无缺：色相102、饱和度180
+#+END_EXAMPLE
+
+** 万色·红妆之问
+[[https://img.shields.io/badge/魅力-魅力值15点-blue.svg]]
+- 素问：基础4、进阶180
+#+BEGIN_EXAMPLE
+圣绣·素问：色相4、饱和度180
+女 | 圣绣·素问：色相4、饱和度180
+少女 | 圣绣·素问：色相4、饱和度180
+#+END_EXAMPLE
+
+** 万色·夜行之龙
+[[https://img.shields.io/badge/魅力-魅力值15点-blue.svg]]
+- 从龙：基础104、进阶180
+#+BEGIN_EXAMPLE
+圣绣·从龙：色相104、饱和度180
+女 | 圣绣·从龙：色相104、饱和度180
+少女 | 圣绣·从龙：色相104、饱和度180
+#+END_EXAMPLE
+
+** 万色·深渊之鳞
+[[https://img.shields.io/badge/魅力-魅力值15点-blue.svg]]
+- 逆鳞：基础102、进阶180
+#+BEGIN_EXAMPLE
+心王·逆鳞：色相102、饱和度180
+女 | 心王·逆鳞：色相102、饱和度180
+#+END_EXAMPLE
+
+** 万色·暮霞之曜
+[[https://img.shields.io/badge/魅力-魅力值15点-blue.svg]]
+- 九曜：基础2、进阶147
+#+BEGIN_EXAMPLE
+心王·九曜：色相2、饱和度147
+女 | 心王·九曜：色相2、饱和度147
+少女 | 心王·九曜：色相2、饱和度147
+#+END_EXAMPLE
+
+** 万色·绀兰之光
+[[https://img.shields.io/badge/魅力-魅力值15点-blue.svg]]
+- 袭光：基础99,进阶180
+#+BEGIN_EXAMPLE
+圣绣·袭光：色相99,饱和度180
+女 | 圣绣·袭光：色相99,饱和度180
+少女 | 圣绣·袭光：色相99,饱和度180
+#+END_EXAMPLE
+
+** 万色·微醺之云
+[[https://img.shields.io/badge/魅力-魅力值15点-blue.svg]]
+- 冰云：基础4、进阶180
+#+BEGIN_EXAMPLE
+圣绣·冰云：色相4、饱和度180
+女 | 圣绣·冰云：色相4、饱和度180
+少女 | 圣绣·冰云：色相4、饱和度180
+#+END_EXAMPLE
+
+** 万色·焰蝶之衣
+[[https://img.shields.io/badge/魅力-魅力值10点-blue.svg]]
+- 蝶衣：基础178
+#+BEGIN_EXAMPLE
+心王·蝶衣：色相178
+女 | 心王·蝶衣：色相178
+少女 | 心王·蝶衣：色相178
+#+END_EXAMPLE
+
+** 万色·绛灵之羽
+[[https://img.shields.io/badge/魅力-魅力值15点-blue.svg]]
+- 翎羽：基础176、进阶180
+#+BEGIN_EXAMPLE
+心王·翎羽：色相176、饱和度180
+女 | 心王·翎羽：色相176、饱和度180
+少女 | 心王·翎羽：色相176、饱和度180
+#+END_EXAMPLE
+
+** 万色·苍涛之霞
+[[https://img.shields.io/badge/魅力-魅力值10点-blue.svg]]
+- 明霞：基础100
+#+BEGIN_EXAMPLE
+圣绣·明霞：色相100
+女 | 圣绣·明霞：色相100
+少女 | 圣绣·明霞：色相100
+#+END_EXAMPLE
+
+** 万色·鎏金之藏
+[[https://img.shields.io/badge/魅力-魅力值15点-blue.svg]]
+- 雾隐雷藏：基础21、进阶81
+#+BEGIN_EXAMPLE
+雾隐雷藏：色相21、饱和度81
+女 | 雾隐雷藏：色相21、饱和度81
+少女 | 雾隐雷藏：色相21、饱和度81
+#+END_EXAMPLE
+
+** 万色·嫣然之笑
+[[https://img.shields.io/badge/魅力-魅力值10点-blue.svg]]
+- 琅琊：基础106
+#+BEGIN_EXAMPLE
+圣绣·琅琊：色相106
+女 | 圣绣·琅琊：色相106
+少女 | 圣绣·琅琊：色相106
+#+END_EXAMPLE
+
+** 万色·清肃之山
+[[https://img.shields.io/badge/魅力-魅力值15点-blue.svg]]
+- 清甜：基础174、进阶114
+#+BEGIN_EXAMPLE
+圣绣·清甜：色相174、饱和度114
+女 | 圣绣·清甜：色相174、饱和度114
+少女 | 圣绣·清甜：色相174、饱和度114
+#+END_EXAMPLE
+
+** 万色·碧湖之影
+[[https://img.shields.io/badge/魅力-魅力值10点-blue.svg]]
+- 雪影：基础78
+#+BEGIN_EXAMPLE
+圣绣·雪影：色相78
+女 | 圣绣·雪影：色相78
+少女 | 圣绣·雪影：色相78
+#+END_EXAMPLE
+
+** 万色·密云之欢
+[[https://img.shields.io/badge/魅力-魅力值10点-blue.svg]]
+- 相见欢：基础107
+#+BEGIN_EXAMPLE
+心王·相见欢：色相107
+女 | 心王·相见欢：色相107
+少女 | 心王·相见欢：色相107
+#+END_EXAMPLE
+
+** 万色·银蓝之锦
+[[https://img.shields.io/badge/魅力-魅力值15点-blue.svg]]
+- 锦衣：基础101、进阶180
+#+BEGIN_EXAMPLE
+圣绣·锦衣：色相101、饱和度180
+女 | 圣绣·锦衣：色相101、饱和度180
+#+END_EXAMPLE
+
+** 万色·高天之风
+[[https://img.shields.io/badge/魅力-魅力值15点-blue.svg]]
+- 听风：基础109、进阶180
+#+BEGIN_EXAMPLE
+心王·听风：色相109、饱和度180
+女 | 心王·听风：色相109、饱和度180
+少女 | 心王·听风：色相109、饱和度180
+#+END_EXAMPLE
+
+** 万色·蔷薇之云
+[[https://img.shields.io/badge/魅力-魅力值15点-blue.svg]]
+- 随云：基础176、进阶180
+#+BEGIN_EXAMPLE
+圣绣·随云：色相176、饱和度180
+女 | 圣绣·随云：色相176、饱和度180
+少女 | 圣绣·随云：色相176、饱和度180
+#+END_EXAMPLE
+
+** 万色·幽郁之音
+[[https://img.shields.io/badge/魅力-魅力值15点-blue.svg]]
+- 舒音：基础105、进阶180
+#+BEGIN_EXAMPLE
+心王·舒音：色相105、饱和度180
+女 | 心王·舒音：色相105、饱和度180
+少女 | 心王·舒音：色相105、饱和度180
+#+END_EXAMPLE
+
+** 万色·殷血之蛟
+[[https://img.shields.io/badge/魅力-魅力值15点-blue.svg]]
+- 骊珠：基础178、进阶180
+#+BEGIN_EXAMPLE
+圣绣·骊珠：色相178、饱和度180
+女 | 圣绣·骊珠：色相178、饱和度180
+少女 | 圣绣·骊珠：色相178、饱和度180
+#+END_EXAMPLE
+
+** 万色·洗水之竹
+[[https://img.shields.io/badge/魅力-魅力值15点-blue.svg]]
+- 落梅：基础108、进阶116
+#+BEGIN_EXAMPLE
+圣绣·落梅：色相108、饱和度116
+女 | 圣绣·落梅：色相108、饱和度116
+少女 | 圣绣·落梅：色相108、饱和度116
+#+END_EXAMPLE
+
+** 万色·明素之灵
+[[https://img.shields.io/badge/魅力-魅力值10点-blue.svg]]
+- 齐灵：基础113
+#+BEGIN_EXAMPLE
+圣绣·齐灵：色相113
+女 | 圣绣·齐灵：色相113
+#+END_EXAMPLE
+
+** 万色·凝玉之怀
+[[https://img.shields.io/badge/魅力-魅力值15点-blue.svg]]
+- 入君怀：基础107、进阶120
+#+BEGIN_EXAMPLE
+心王·入君怀：色相107、饱和度120
+女 | 心王·入君怀：色相107、饱和度120
+少女 | 心王·入君怀：色相107、饱和度120
+#+END_EXAMPLE
+
+** 万色·浅妃之羽
+[[https://img.shields.io/badge/魅力-魅力值15点-blue.svg]]
+- 天羽含光：基础177、进阶180
+#+BEGIN_EXAMPLE
+天羽含光：色相177、饱和度180
+女 | 天羽含光：色相177、饱和度180
+少女 | 天羽含光：色相177、饱和度180
+#+END_EXAMPLE
+
+** 万色·墨染之空
+[[https://img.shields.io/badge/魅力-魅力值15点-blue.svg]]
+- 空明：基础101、进阶128
+#+BEGIN_EXAMPLE
+圣绣·空明：色相101、饱和度128
+女 | 圣绣·空明：色相101、饱和度128
+少女 | 圣绣·空明：色相101、饱和度128
+#+END_EXAMPLE
+
+** 万色·经纶之圣
+[[https://img.shields.io/badge/魅力-魅力值10点-blue.svg]]
+- 日月当空：基础105
+#+BEGIN_EXAMPLE
+日月当空：色相105
+女 | 日月当空：色相105
+少女 | 日月当空：色相105
+#+END_EXAMPLE
+
+** 万色·海雨之抱
+[[https://img.shields.io/badge/魅力-魅力值10点-blue.svg]]
+- 抱春风：基础112
+#+BEGIN_EXAMPLE
+心王·抱春风：色相112
+女 | 心王·抱春风：色相112
+少女 | 心王·抱春风：色相112
+#+END_EXAMPLE
+
+** 万色·群鸦之霜
+[[https://img.shields.io/badge/魅力-魅力值15点-blue.svg]]
+- 萧霜：基础90、进阶180
+#+BEGIN_EXAMPLE
+圣绣·萧霜：色相90、饱和度180
+女 | 圣绣·萧霜：色相90、饱和度180
+少女 | 圣绣·萧霜：色相90、饱和度180
+#+END_EXAMPLE
+

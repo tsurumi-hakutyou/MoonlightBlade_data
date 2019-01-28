@@ -1,0 +1,274 @@
+#+TITLE: 定制染色
+#+AUTHOR: 李鹄
+
+* 衣柜
+** 一染·浮华盛锦
+[[https://img.shields.io/badge/魅力-魅力值25点-blue.svg]]
+- 吹雪霓裳：点染·金莹
+#+BEGIN_EXAMPLE
+定制色：点染·金色
+定制色：点染·金色
+定制色：点染·金色
+#+END_EXAMPLE
+
+** 一染·幽兰玄境
+[[https://img.shields.io/badge/魅力-魅力值20点-blue.svg]]
+- 人间梦华：点染·蓝瓷
+#+BEGIN_EXAMPLE
+定制色：点染·蓝瓷
+定制色：点染·蓝瓷
+定制色：点染·蓝瓷
+#+END_EXAMPLE
+
+** 一染·移花旧事
+[[https://img.shields.io/badge/魅力-魅力值20点-blue.svg]]
+- 无缺：点染·蓝瓷
+#+BEGIN_EXAMPLE
+定制色：点染·蓝瓷
+定制色：点染·蓝瓷
+定制色：点染·蓝瓷
+#+END_EXAMPLE
+
+** 一染·灵枢烛影
+[[https://img.shields.io/badge/魅力-魅力值25点-blue.svg]]
+- 素问：点染·红烬
+#+BEGIN_EXAMPLE
+定制色：点染·红烬
+定制色：点染·红烬
+定制色：点染·红烬
+#+END_EXAMPLE
+
+** 一染·一人之下
+[[https://img.shields.io/badge/魅力-魅力值25点-blue.svg]]
+- 从龙：点染·金莹
+#+BEGIN_EXAMPLE
+定制色：点染·金色
+定制色：点染·金色
+定制色：点染·金色
+#+END_EXAMPLE
+
+** 一染·燕水萧萧
+[[https://img.shields.io/badge/魅力-魅力值25点-blue.svg]]
+- 逆鳞：点染·金莹
+#+BEGIN_EXAMPLE
+定制色：点染·金色
+定制色：点染·金色
+定制色：点染·金色
+#+END_EXAMPLE
+
+** 一染·观星不语
+[[https://img.shields.io/badge/魅力-魅力值20点-blue.svg]]
+- 九曜：点染·蓝瓷
+#+BEGIN_EXAMPLE
+定制色：点染·蓝瓷
+定制色：点染·蓝瓷
+定制色：点染·蓝瓷
+#+END_EXAMPLE
+
+** 一染·东宫未嫁
+[[https://img.shields.io/badge/魅力-魅力值25点-blue.svg]]
+- 袭光：点染·红烬
+#+BEGIN_EXAMPLE
+定制色：点染·红烬
+定制色：点染·红烬
+定制色：点染·红烬
+#+END_EXAMPLE
+
+** 一染·海波沧浪
+[[https://img.shields.io/badge/魅力-魅力值20点-blue.svg]]
+- 冰云：点染·蓝瓷
+#+BEGIN_EXAMPLE
+定制色：点染·蓝瓷
+定制色：点染·蓝瓷
+定制色：点染·蓝瓷
+#+END_EXAMPLE
+
+** 一染·化骨缠绵
+[[https://img.shields.io/badge/魅力-魅力值25点-blue.svg]]
+- 蝶衣：点染·红烬
+#+BEGIN_EXAMPLE
+定制色：点染·红烬
+定制色：点染·红烬
+定制色：点染·红烬
+#+END_EXAMPLE
+
+** 一染·天命神铸
+[[https://img.shields.io/badge/魅力-魅力值25点-blue.svg]]
+- 翎羽：点染·红烬
+#+BEGIN_EXAMPLE
+定制色：点染·红烬
+定制色：点染·红烬
+定制色：点染·红烬
+#+END_EXAMPLE
+
+** 一染·苍狼战甲
+[[https://img.shields.io/badge/魅力-魅力值20点-blue.svg]]
+- 明霞：点染·竹青
+#+BEGIN_EXAMPLE
+定制色：点染·绿色
+定制色：点染·绿色
+定制色：点染·绿色
+#+END_EXAMPLE
+
+** 一染·任我纵横
+[[https://img.shields.io/badge/魅力-魅力值25点-blue.svg]]
+- 雾隐雷藏：点染·金莹
+#+BEGIN_EXAMPLE
+定制色：点染·金色
+定制色：点染·金色
+定制色：点染·金色
+#+END_EXAMPLE
+
+** 一染·少年意气
+[[https://img.shields.io/badge/魅力-魅力值20点-blue.svg]]
+- 琅琊：点染·蓝瓷
+#+BEGIN_EXAMPLE
+定制色：点染·蓝瓷
+定制色：点染·蓝瓷
+定制色：点染·蓝瓷
+#+END_EXAMPLE
+
+** 一染·天上王城
+[[https://img.shields.io/badge/魅力-魅力值25点-blue.svg]]
+- 清甜：点染·金莹
+#+BEGIN_EXAMPLE
+定制色：点染·金色
+定制色：点染·金色
+定制色：点染·金色
+#+END_EXAMPLE
+
+** 一染·雪落青竹
+[[https://img.shields.io/badge/魅力-魅力值20点-blue.svg]]
+- 雪影：点染·竹青
+#+BEGIN_EXAMPLE
+定制色：点染·绿色
+定制色：点染·绿色
+定制色：点染·绿色
+#+END_EXAMPLE
+
+** 一染·寸心风流
+[[https://img.shields.io/badge/魅力-魅力值20点-blue.svg]]
+- 相见欢：点染·蓝瓷
+#+BEGIN_EXAMPLE
+定制色：点染·蓝瓷
+定制色：点染·蓝瓷
+定制色：点染·蓝瓷
+#+END_EXAMPLE
+
+** 一染·墨梅飞鱼
+[[https://img.shields.io/badge/魅力-魅力值25点-blue.svg]]
+- 锦衣：点染·红烬
+#+BEGIN_EXAMPLE
+定制色：点染·红烬
+定制色：点染·红烬
+定制色：点染·红烬
+#+END_EXAMPLE
+
+** 一染·青帝掠世
+[[https://img.shields.io/badge/魅力-魅力值20点-blue.svg]]
+- 听风：点染·蓝瓷
+#+BEGIN_EXAMPLE
+定制色：点染·蓝瓷
+定制色：点染·蓝瓷
+定制色：点染·蓝瓷
+#+END_EXAMPLE
+
+** 一染·仙岛留香
+[[https://img.shields.io/badge/魅力-魅力值25点-blue.svg]]
+- 随云：点染·金莹
+#+BEGIN_EXAMPLE
+定制色：点染·金色
+定制色：点染·金色
+定制色：点染·金色
+#+END_EXAMPLE
+
+** 一染·舞乐倾城
+[[https://img.shields.io/badge/魅力-魅力值25点-blue.svg]]
+- 舒音：点染·金莹
+#+BEGIN_EXAMPLE
+定制色：点染·金色
+定制色：点染·金色
+定制色：点染·金色
+#+END_EXAMPLE
+
+** 一染·赤血丹心
+[[https://img.shields.io/badge/魅力-魅力值25点-blue.svg]]
+- 骊珠：点染·红烬
+#+BEGIN_EXAMPLE
+定制色：点染·红烬
+定制色：点染·红烬
+定制色：点染·红烬
+#+END_EXAMPLE
+
+** 一染·青枫赠意
+[[https://img.shields.io/badge/魅力-魅力值20点-blue.svg]]
+- 落梅：点染·蓝瓷
+#+BEGIN_EXAMPLE
+定制色：点染·蓝瓷
+定制色：点染·蓝瓷
+定制色：点染·蓝瓷
+#+END_EXAMPLE
+
+** 一染·浪子倾情
+[[https://img.shields.io/badge/魅力-魅力值20点-blue.svg]]
+- 齐灵：点染·竹青
+#+BEGIN_EXAMPLE
+定制色：点染·绿色
+定制色：点染·绿色
+定制色：点染·绿色
+#+END_EXAMPLE
+
+** 一染·愿为长风
+[[https://img.shields.io/badge/魅力-魅力值20点-blue.svg]]
+- 入君怀：点染·竹青
+#+BEGIN_EXAMPLE
+定制色：点染·绿色
+定制色：点染·绿色
+定制色：点染·绿色
+#+END_EXAMPLE
+
+** 一染·红日照暖
+[[https://img.shields.io/badge/魅力-魅力值25点-blue.svg]]
+- 天羽含光：点染·红烬
+#+BEGIN_EXAMPLE
+定制色：点染·红烬
+定制色：点染·红烬
+定制色：点染·红烬
+#+END_EXAMPLE
+
+** 一染·不戒红尘
+[[https://img.shields.io/badge/魅力-魅力值25点-blue.svg]]
+- 空明：点染·红烬
+#+BEGIN_EXAMPLE
+定制色：点染·红烬
+定制色：点染·红烬
+定制色：点染·红烬
+#+END_EXAMPLE
+
+** 一染·万世盛唐
+[[https://img.shields.io/badge/魅力-魅力值25点-blue.svg]]
+- 日月当空：点染·金莹
+#+BEGIN_EXAMPLE
+定制色：点染·金色
+定制色：点染·金色
+定制色：点染·金色
+#+END_EXAMPLE
+
+** 一染·死生契阔
+[[https://img.shields.io/badge/魅力-魅力值20点-blue.svg]]
+- 抱春风：点染·蓝瓷
+#+BEGIN_EXAMPLE
+定制色：点染·蓝瓷
+定制色：点染·蓝瓷
+定制色：点染·蓝瓷
+#+END_EXAMPLE
+
+** 一染·域外天穹
+[[https://img.shields.io/badge/魅力-魅力值20点-blue.svg]]
+- 萧霜：点染·蓝瓷
+#+BEGIN_EXAMPLE
+定制色：点染·蓝瓷
+定制色：点染·蓝瓷
+定制色：点染·蓝瓷
+#+END_EXAMPLE
+

@@ -1,0 +1,2593 @@
+#+TITLE: 游历
+#+AUTHOR: 李鹄
+
+* 地图
+** 九华之风
+- 曾到达九华的如下地点
+#+BEGIN_EXAMPLE
+藏峰谷
+燕来镇
+云笈水榭
+朝山路
+甘蓬茅屋
+华清寺
+紫阳观
+沅江下游
+芳华谷
+得意坊
+离魂峡
+神药峰
+#+END_EXAMPLE
+
+** 九华云起
+- 曾到达九华的如下地点
+#+BEGIN_EXAMPLE
+矿场
+孔雀山庄
+朝露峰
+送君廊
+锦燕林
+鹧鸪岭
+嘉荫镇
+叠岭
+江音畔
+禁地
+七星派
+回音谷
+#+END_EXAMPLE
+
+** 游历九华
+- 完成“九华之风”和“九华云起”两个成就
+#+BEGIN_EXAMPLE
+九华之风
+九华云起
+#+END_EXAMPLE
+
+** 太白剑派
+- 曾到达秦川的如下地点
+#+BEGIN_EXAMPLE
+太白山门
+太白剑坪
+泼墨岭
+凌霄道
+弑剑阁
+沉剑池
+古祭坛
+论剑顶
+乾坤阁
+镜雪湖
+银鳞河
+#+END_EXAMPLE
+
+** 雪峦之颠
+- 曾到达秦川的如下地点
+#+BEGIN_EXAMPLE
+太白云海东
+蛟龙岭
+太白云海西
+药王谷
+揽月台分舵
+玉匣关
+玉泉院
+醉白池
+浩然峰
+草海腹地
+鹦歌镇
+笑月湖
+#+END_EXAMPLE
+
+** 游历秦川
+- 完成“太白剑派”和“雪峦之颠”两个成就
+#+BEGIN_EXAMPLE
+太白剑派
+雪峦之颠
+#+END_EXAMPLE
+
+** 神威策马
+- 曾到达燕云的如下地点
+#+BEGIN_EXAMPLE
+神威堡
+练兵场
+天刀营
+地鞘营
+#+END_EXAMPLE
+
+** 大漠孤烟
+- 曾到达燕云的如下地点
+#+BEGIN_EXAMPLE
+沙场
+怪石林北
+杨家谷
+怪石林南
+瀚海戈壁
+齐暗谷
+饮马绿洲
+万里杀总舵
+万马堂
+绝尘镇
+#+END_EXAMPLE
+
+** 长河落日
+- 曾到达燕云的如下地点
+#+BEGIN_EXAMPLE
+神木谷
+风鸣绿洲
+策马坡
+风飞谷
+苍梧城
+龙山分舵
+#+END_EXAMPLE
+
+** 游历燕云
+- 完成“神威策马”、“大漠孤烟”和“长河落日”三个成就
+#+BEGIN_EXAMPLE
+神威策马
+大漠孤烟
+长河落日
+#+END_EXAMPLE
+
+** 西子风情
+- 曾到达杭州的如下地点
+#+BEGIN_EXAMPLE
+凤凰集
+盘龙岭
+慈云林
+宁王庄
+钱塘门
+东平郡王府
+淬剑谷
+天星阁
+吴王陵
+讲武堂
+杭州城
+钱塘江码头
+#+END_EXAMPLE
+
+** 吴越旧韵
+- 曾到达杭州的如下地点
+#+BEGIN_EXAMPLE
+百里荡分舵
+一醉轩
+落云滩
+天绝禅院
+问道台
+雷峰塔
+九曜山分舵
+白龙飞瀑
+红衣林
+西湖
+#+END_EXAMPLE
+
+** 游历杭州
+- 完成“西子风情”和“吴越旧韵”
+#+BEGIN_EXAMPLE
+西子风情
+吴越旧韵
+#+END_EXAMPLE
+
+** 铸神山清
+- 曾到达江南的如下地点
+#+BEGIN_EXAMPLE
+飞雪滩
+枫桥镇
+斜云小径
+铸神谷
+龙井茶园
+松江分舵
+龙首山麓
+义字坡
+天泉山庄
+盘龙脊
+狮子坡
+樱风城
+#+END_EXAMPLE
+
+** 春江如蓝
+- 曾到达江南的如下地点
+#+BEGIN_EXAMPLE
+折之江
+四明书院
+百花坪
+翠荫岭
+鲲鹏渡
+九回弯
+长江分舵
+天池分舵
+连环坞总舵
+霹雳堂旧址
+长风林
+鸣雷谷
+#+END_EXAMPLE
+
+** 游历江南
+- 完成“铸神山清”和“春江如蓝”
+#+BEGIN_EXAMPLE
+铸神山清
+春江如蓝
+#+END_EXAMPLE
+
+** 世外桃源
+- 曾到达东越的如下地点
+#+BEGIN_EXAMPLE
+永清坊
+香蝶林
+云泥梯田
+白鹭洲分舵
+迎仙渡
+乌金汊
+老爷庙
+桃源
+东湖
+闽越旧城
+#+END_EXAMPLE
+
+** 浮天沧海
+- 曾到达东越的如下地点
+#+BEGIN_EXAMPLE
+长乐滩
+双龙岛分舵
+万象门
+野鹤湫
+宁海城
+青龙潭
+七色海
+杏林
+万蝶坪
+东汀渔村
+#+END_EXAMPLE
+
+** 游历东越
+- 完成“世外桃源”和“浮天沧海”
+#+BEGIN_EXAMPLE
+世外桃源
+浮天沧海
+#+END_EXAMPLE
+
+** 古驿斜阳
+- 曾到达徐海的如下地点
+#+BEGIN_EXAMPLE
+古陶驿站
+乱石滩
+古陶官道
+古陶镇
+天龙古刹
+红草滩
+杜宅别苑
+平阳驿站
+#+END_EXAMPLE
+
+** 古原明月
+- 曾到达徐海的如下地点
+#+BEGIN_EXAMPLE
+藏月湾
+无影阁
+苍雪岭
+狂刀营
+骅阳林
+龙纹沟
+白鹿野分舵
+剑绝轩
+徐海野
+#+END_EXAMPLE
+
+** 古道远芳
+- 曾到达徐海的如下地点
+#+BEGIN_EXAMPLE
+云眉道
+望山道
+玄刀阁
+断剑阁
+神武门
+飞仙岭
+固北岭分舵
+绝情岭
+#+END_EXAMPLE
+
+** 游历徐海
+- 完成“古驿斜阳”和“古道月明”和“古道远芳”
+#+BEGIN_EXAMPLE
+古驿斜阳
+古原明月
+古道远芳
+#+END_EXAMPLE
+
+** 君山洞庭
+- 曾到达荆湖的如下地点
+#+BEGIN_EXAMPLE
+洞庭山
+青螺山
+聚贤围
+览镜山
+青草海
+星云坪
+朗吟馆
+巴陵古镇
+水陆洲
+#+END_EXAMPLE
+
+** 故云梦泽
+- 曾到达荆湖的如下地点
+#+BEGIN_EXAMPLE
+烟波尾
+栖燕坪分舵
+逐浪滩分舵
+秋月林
+仙泪山
+儒溪镇
+潇湘集
+偃浪坡
+玉镜湖
+云雾泽
+#+END_EXAMPLE
+
+** 游历荆湖
+- 完成“君山洞庭”和“故云梦泽”
+#+BEGIN_EXAMPLE
+君山洞庭
+故云梦泽
+#+END_EXAMPLE
+
+** 巴国奇踪
+- 曾到达巴蜀的如下地点
+#+BEGIN_EXAMPLE
+翠海
+烟霞林
+御风堂
+星云岭
+忘忧谷
+万青竹海
+碎星楼
+千佛崖分舵
+秦月谷
+子午岭
+双月湾
+皇杉道
+#+END_EXAMPLE
+
+** 蜀中竹趣
+- 曾到达巴蜀的如下地点
+#+BEGIN_EXAMPLE
+凌云壁
+朝天峡分舵
+龙门山
+卧龙谷
+剑门关
+云来镇
+天峡谷
+萦岩岭
+风啸崖
+#+END_EXAMPLE
+
+** 游历巴蜀
+- 完成“巴国奇踪”和“蜀中竹趣”
+#+BEGIN_EXAMPLE
+巴国奇踪
+蜀中竹趣
+#+END_EXAMPLE
+
+** 花海流萤
+- 曾到达云滇的如下地点
+#+BEGIN_EXAMPLE
+伏龙岭总舵
+凤鸣谷总舵
+罗苏关
+饮玉镇
+沧月岭
+刺竹庄
+迷音坡
+神柱谷
+赤云山
+#+END_EXAMPLE
+
+** 万劫焚断
+- 曾到达云滇的如下地点
+#+BEGIN_EXAMPLE
+天剑峰
+万劫海
+陨星湖
+怒河洲
+浣月坝
+罗藏山
+凤鸣道
+卧云岭
+星痕谷
+#+END_EXAMPLE
+
+** 游历云滇
+- 完成“花海流萤”和“万劫焚断”
+#+BEGIN_EXAMPLE
+花海流萤
+万劫焚断
+#+END_EXAMPLE
+
+** 青龙蟠日
+- 曾到达襄州的如下地点
+#+BEGIN_EXAMPLE
+太极道场
+真武殿
+三清殿
+律令阁
+长生楼
+万仞石梁
+星罗棋布
+涵星坊
+玉华集
+钟台山分舵
+问虚道
+归元谷
+#+END_EXAMPLE
+
+** 三生万物
+- 曾到达襄州的如下地点
+#+BEGIN_EXAMPLE
+砚首山分舵
+松阳岭
+鹿鸣谷
+武陵峡
+无涯峰
+落羽谷
+鹤峰
+燕回岭
+杜鹃岗
+尘烟峰
+天门峰
+跃龙峡
+#+END_EXAMPLE
+
+** 游历襄州
+- 完成“青龙蟠日”和“三生万物”
+#+BEGIN_EXAMPLE
+青龙蟠日
+三生万物
+#+END_EXAMPLE
+
+** 帝都繁华
+- 曾到达开封的如下地点
+#+BEGIN_EXAMPLE
+黄河
+神乐台分舵
+飞霞渡
+朱仙镇
+养心园
+西水关
+居士林
+尧山
+开封
+问渠林
+十八里湾
+平逢道
+#+END_EXAMPLE
+
+** 黄河九曲
+- 曾到达开封的如下地点
+#+BEGIN_EXAMPLE
+黄华岭
+百鸟林
+稽首岭
+琼华苑分舵
+少室山
+淘沙峪
+洛河湾
+护龙河
+相国寺
+#+END_EXAMPLE
+
+** 游历开封
+- 完成“帝都繁华”和“黄河九曲”
+#+BEGIN_EXAMPLE
+帝都繁华
+黄河九曲
+#+END_EXAMPLE
+
+** 行在天涯
+- 在路上，行者无涯。
+#+BEGIN_EXAMPLE
+游历九华
+游历秦川
+游历燕云
+游历杭州
+游历江南
+游历东越
+游历徐海
+游历荆湖
+游历巴蜀
+游历云滇
+游历襄州
+游历开封
+#+END_EXAMPLE
+
+** 山光
+- 游历过众多山川
+#+BEGIN_EXAMPLE
+朝露峰
+论剑顶
+瀚海戈壁
+盘龙岭
+铸神谷
+苍雪岭
+#+END_EXAMPLE
+
+** 水色
+- 游历过众多水系
+#+BEGIN_EXAMPLE
+江音畔
+杭州码头
+九回弯
+九天阁
+藏月湾
+#+END_EXAMPLE
+
+** 极目眺·谷藏锋
+- 极目远眺山水，九华之美收录眼底
+#+BEGIN_EXAMPLE
+凭栏
+#+END_EXAMPLE
+
+** 重岩下·云飞瀑
+- 岩下飞瀑湍流，如星云飞洒，美不胜收
+#+BEGIN_EXAMPLE
+飞瀑
+#+END_EXAMPLE
+
+** 古寺中·佛首瞻
+- 登高者望远，在此处可俯览整个九华
+#+BEGIN_EXAMPLE
+佛头
+#+END_EXAMPLE
+
+** 孤山丘·断栈险
+- 孤山中，断栈不知何时建、何时废、何时断
+#+BEGIN_EXAMPLE
+断栈
+#+END_EXAMPLE
+
+** 石嶙峋·怪树畸
+- 怪石嶙峋，枯树干藤死气沉沉，畸形怪树生于乱石上，诡怪异常
+#+BEGIN_EXAMPLE
+怪树
+#+END_EXAMPLE
+
+** 千丈高·铁索悬
+- 脚底即是千丈深渊，此身唯系脚下碗口铁链
+#+BEGIN_EXAMPLE
+铁索
+#+END_EXAMPLE
+
+** 江音畔·水清波
+- 江清波见底，水柔抚如梦
+#+BEGIN_EXAMPLE
+江畔
+#+END_EXAMPLE
+
+** 水云寒·芦花艳
+- 苍白芦花荡中，夹杂艳红花朵，尽得光彩
+#+BEGIN_EXAMPLE
+芦苇荡
+#+END_EXAMPLE
+
+** 归途远·古藤桥
+- 古藤缠绕吊桥，青苔幽怨铺满脚下
+#+BEGIN_EXAMPLE
+古藤桥
+#+END_EXAMPLE
+
+** 纵横深·孔雀顶
+- 孔雀山庄之顶，宏伟壮阔山庄都在睥睨间
+#+BEGIN_EXAMPLE
+孔雀顶
+#+END_EXAMPLE
+
+** 我为巅·鹧鸪山
+- 鹧鸪岭峰上，紫色小花默默绽放，燕来镇就在远处
+#+BEGIN_EXAMPLE
+鹧鸪岭
+#+END_EXAMPLE
+
+** 江沁月·波碎影
+- 在此处可将江青月影尽收眼底
+#+BEGIN_EXAMPLE
+江沁月·波碎影
+#+END_EXAMPLE
+
+** 总舵遥·危机伏
+- 若能避过重重守卫攀上此处，即可远眺对面总舵
+#+BEGIN_EXAMPLE
+总舵遥·危机伏
+#+END_EXAMPLE
+
+** 湍流疾·奇石凌
+- 在狭窄河道内水流飞溅，嶙峋奇石突于河道
+#+BEGIN_EXAMPLE
+湍流疾·奇石凌
+#+END_EXAMPLE
+
+** 空谷幽·铸神远
+- 跃上铸神谷房屋的顶端，空山幽谷皆在眼中
+#+BEGIN_EXAMPLE
+空谷幽·铸神远
+#+END_EXAMPLE
+
+** 双塔守·水路阔
+- 总舵地处江南，除了普通的山门外，水路入口也是一大特色
+#+BEGIN_EXAMPLE
+双塔守·水路阔
+#+END_EXAMPLE
+
+** 观千山·望万水
+- 攀上总舵的高处，平时可赏四面景色，战时可防四周之敌
+#+BEGIN_EXAMPLE
+观千山·望万水
+#+END_EXAMPLE
+
+** 德甚嘉·行甚懿
+- 嘉德懿行，德行美好
+#+BEGIN_EXAMPLE
+德甚嘉·行甚懿
+#+END_EXAMPLE
+
+** 桃源深·古道观
+- 跃上道观顶，重楼飞檐果真灵动
+#+BEGIN_EXAMPLE
+桃源深·古道观
+#+END_EXAMPLE
+
+** 青苔生·东湖月
+- 湖边青石上，静赏湖水美
+#+BEGIN_EXAMPLE
+青苔生·东湖月
+#+END_EXAMPLE
+
+** 旧城寂·飞瀑疾
+- 闽越古城中，一道飞瀑从极高之处落下飞溅
+#+BEGIN_EXAMPLE
+旧城寂·飞瀑疾
+#+END_EXAMPLE
+
+** 九天顶·望海潮
+- 九天阁气度不凡，九天阁之顶视野更是开阔
+#+BEGIN_EXAMPLE
+九天顶·望海潮
+#+END_EXAMPLE
+
+** 观沧海·浮白沙
+- 海边礁石极目远眺，大海蔚蓝壮阔，无边无际
+#+BEGIN_EXAMPLE
+观沧海·浮白沙
+#+END_EXAMPLE
+
+** 哨岗立·迎白帆
+- 岸边泊有大船一艘，跃上岗哨则可以将船上动静悉数收录
+#+BEGIN_EXAMPLE
+哨岗立·迎白帆
+#+END_EXAMPLE
+
+** 岩上枫·金掩赤
+- 悬崖上生出数棵枫树，色极艳丽，岩石陡峭，仅容一人侧立
+#+BEGIN_EXAMPLE
+岩上枫·金掩赤
+#+END_EXAMPLE
+
+** 登高塔·俯敌营
+- 跃上白鹭洲制高处，倭人据点一览无余
+#+BEGIN_EXAMPLE
+登高塔·俯敌营
+#+END_EXAMPLE
+
+** 海风盛·椰树香
+- 海天浩渺，玉屑银末，椰树高耸
+#+BEGIN_EXAMPLE
+海风盛·椰树香
+#+END_EXAMPLE
+
+** 风沙起·武威扬
+- 在此可俯览神威堡
+#+BEGIN_EXAMPLE
+风沙起·武威扬
+#+END_EXAMPLE
+
+** 山外云·石林孤
+- 绿洲饮马诉衷情，残柱矗穿云
+#+BEGIN_EXAMPLE
+山外云·石林孤
+#+END_EXAMPLE
+
+** 古堡危·砾沙碛
+- 千里马场旁古堡，极目远望一片苍黄
+#+BEGIN_EXAMPLE
+古堡危·砾沙碛
+#+END_EXAMPLE
+
+** 忘来路·苍梧城
+- 苍梧城残垣断壁之顶，一片寂静荒凉
+#+BEGIN_EXAMPLE
+忘来路·苍梧城
+#+END_EXAMPLE
+
+** 阵破乐·神威哨
+- 神威堡附近岗哨，可防来犯之敌
+#+BEGIN_EXAMPLE
+阵破乐·神威哨
+#+END_EXAMPLE
+
+** 乱石滩·芦苇荡
+- 冰原雪水，清澈透底，寒冷彻骨
+#+BEGIN_EXAMPLE
+乱石滩·芦苇荡
+#+END_EXAMPLE
+
+** 山门耸·宝刹丽
+- 天龙古刹山门高耸，宝刹庄严
+#+BEGIN_EXAMPLE
+山门耸·宝刹丽
+#+END_EXAMPLE
+
+** 古陶镇·立高台
+- 古陶镇的入口处，来往行人客商都需经由此路
+#+BEGIN_EXAMPLE
+古陶镇·立高台
+#+END_EXAMPLE
+
+** 时光·剪影
+- 桥上离人泪，桥下水自流
+#+BEGIN_EXAMPLE
+时光·剪影
+#+END_EXAMPLE
+
+** 雪山麓·红草滩
+- 一地三季：红草滩、金枫树、积雪山
+#+BEGIN_EXAMPLE
+雪山麓·红草滩
+#+END_EXAMPLE
+
+** 无影阁·一线天
+- 无影阁顶，双檐对供，恰留一线天
+#+BEGIN_EXAMPLE
+无影阁·一线天
+#+END_EXAMPLE
+
+** 峭壁垂·空中阁
+- 神武门最高处，雄伟建筑却是峭壁上凭空而造，精妙异常
+#+BEGIN_EXAMPLE
+峭壁垂·空中阁
+#+END_EXAMPLE
+
+** 兽獠牙·辟水流
+- 雕刻着凶兽图样的厚重门顶端，水流急转而下
+#+BEGIN_EXAMPLE
+兽獠牙·辟水流
+#+END_EXAMPLE
+
+** 沉剑试·剑坪顶
+- 剑坪上发生的一切都尽在眼中！
+#+BEGIN_EXAMPLE
+沉剑试·剑坪顶
+#+END_EXAMPLE
+
+** 巍峨矗·祭坛顶
+- 古祭坛之顶，也是方圆最高的山脉之一
+#+BEGIN_EXAMPLE
+巍峨矗·祭坛顶
+#+END_EXAMPLE
+
+** 冰晶澈·沉剑池
+- 冰原雪化水注入沉剑池中，晶莹透彻
+#+BEGIN_EXAMPLE
+冰晶澈·沉剑池
+#+END_EXAMPLE
+
+** 逍遥游·剑碑顶
+- 除了令狐聪，我也可以上来
+#+BEGIN_EXAMPLE
+逍遥游·剑碑顶
+#+END_EXAMPLE
+
+** 观云海·蛟龙岭
+- 攀蛟龙岭，观太白云海西
+#+BEGIN_EXAMPLE
+观云海·蛟龙岭
+#+END_EXAMPLE
+
+** 往来繁·巍山门
+- 驿站人来人往，山门高耸
+#+BEGIN_EXAMPLE
+往来繁·巍山门
+#+END_EXAMPLE
+
+** 望杭州·钱塘门
+- 钱塘门高耸，如若攀上则可以远望大半个杭州
+#+BEGIN_EXAMPLE
+望杭州·钱塘门
+#+END_EXAMPLE
+
+** 眺杭州·永兴寺
+- 永兴寺凸出的高台上，向下可以看到杭州城
+#+BEGIN_EXAMPLE
+眺杭州·永兴寺
+#+END_EXAMPLE
+
+** 淬剑谷·剑之顶
+- 淬剑谷之巨剑顶，剑柄上仅容一人
+#+BEGIN_EXAMPLE
+淬剑谷·剑之顶
+#+END_EXAMPLE
+
+** 行龙荡·车水流
+- 水车机杼，潺潺水流
+#+BEGIN_EXAMPLE
+行龙荡·车水流
+#+END_EXAMPLE
+
+** 悬空阁·美雕梁
+- 新月山庄最高处的建筑，回廊悬于空中，雕梁画栋精致异常
+#+BEGIN_EXAMPLE
+悬空阁·美雕梁
+#+END_EXAMPLE
+
+** 晨钟肃·暮鼓鸣
+- 庄严肃穆的天绝禅院，华光四射
+#+BEGIN_EXAMPLE
+晨钟肃·暮鼓鸣
+#+END_EXAMPLE
+
+** 蔷薇之烬
+- 不见蔷薇，唯余孤冢。
+#+BEGIN_EXAMPLE
+发现燕南飞之墓
+完成任务：孤燕难飞
+#+END_EXAMPLE
+
+** 嵩高维岳
+- 使用龙极图·一
+#+BEGIN_EXAMPLE
+使用龙极图·一
+#+END_EXAMPLE
+
+** 钟灵应乐
+- 使用龙极图·二（地脉）、龙极图·二（玄脉）、龙极图·二（黄脉）
+#+BEGIN_EXAMPLE
+使用龙极图·二（地脉）
+龙极图·二（玄脉）
+龙极图·二（黄脉）
+#+END_EXAMPLE
+
+** 绥绥白狐
+- 使用龙极图·三（宇脉）、龙极图·三（宙脉）
+#+BEGIN_EXAMPLE
+使用龙极图·三（宇脉）
+龙极图·三（宙脉）
+#+END_EXAMPLE
+
+** 颍水知源
+- 使用龙极图·四（玄脉）、龙极图·四（黄脉）
+#+BEGIN_EXAMPLE
+使用龙极图·四（玄脉）
+龙极图·四（黄脉）
+#+END_EXAMPLE
+
+** 太室龙极
+- 达成成就嵩高维岳、钟灵应乐、绥绥白狐、颍水知源
+#+BEGIN_EXAMPLE
+嵩高维岳
+钟灵应乐
+绥绥白狐
+颍水知源
+#+END_EXAMPLE
+
+** 灵妃地脉
+- 使用龙极图·二（地脉）
+#+BEGIN_EXAMPLE
+龙极图·二（地脉）
+#+END_EXAMPLE
+
+** 灵妃玄脉
+- 使用龙极图·二（玄脉）
+#+BEGIN_EXAMPLE
+龙极图·二（玄脉）
+#+END_EXAMPLE
+
+** 灵妃黄脉
+- 使用龙极图·二（黄脉）
+#+BEGIN_EXAMPLE
+龙极图·二（黄脉）
+#+END_EXAMPLE
+
+** 涂山宇脉
+- 使用龙极图·三（宇脉）
+#+BEGIN_EXAMPLE
+龙极图·三（宇脉）
+#+END_EXAMPLE
+
+** 涂山宙脉
+- 使用龙极图·三（宙脉）
+#+BEGIN_EXAMPLE
+龙极图·三（宙脉）
+#+END_EXAMPLE
+
+** 颍水玄脉
+- 使用龙极图·四（玄脉）
+#+BEGIN_EXAMPLE
+龙极图·四（玄脉）
+#+END_EXAMPLE
+
+** 颍水黄脉
+- 使用龙极图·四（黄脉）
+#+BEGIN_EXAMPLE
+龙极图·四（黄脉）
+#+END_EXAMPLE
+
+** 杭州城绝景
+- 创作条件
+#+BEGIN_EXAMPLE
+钱塘城门
+擂台铜锣
+永兴塔顶
+商道日晷
+#+END_EXAMPLE
+
+** 拾趣杭州城
+- 创作条件
+#+BEGIN_EXAMPLE
+藏经典籍
+花船木伞
+商行古玩
+永兴遗珠
+#+END_EXAMPLE
+
+** 码头绝景
+- 创作条件
+#+BEGIN_EXAMPLE
+望江城门
+清波城门
+望江码头
+清波码头
+#+END_EXAMPLE
+
+** 拜访钱塘码头
+- 创作条件
+#+BEGIN_EXAMPLE
+船夫
+王富贵
+王喜金
+码头苦工
+#+END_EXAMPLE
+
+** 拜访一醉轩
+- 创作条件
+#+BEGIN_EXAMPLE
+范仲淹
+柳永
+梅尧臣
+晏殊
+#+END_EXAMPLE
+
+** 拾趣一醉轩
+- 创作条件
+#+BEGIN_EXAMPLE
+廊道古琴
+石桌茶点
+山石文玩
+庭院睡莲
+#+END_EXAMPLE
+
+** 淬剑谷绝景
+- 创作条件
+#+BEGIN_EXAMPLE
+剑谷界碑
+剑池天剑
+环廊入口
+清谷幽居
+#+END_EXAMPLE
+
+** 拾趣淬剑谷
+- 创作条件
+#+BEGIN_EXAMPLE
+铸剑竹简
+铸剑古卷
+铸剑古本
+铸剑秘匣
+#+END_EXAMPLE
+
+** 西湖绝景
+- 创作条件
+#+BEGIN_EXAMPLE
+野佛渡船
+湖心客船
+问水别院
+三潭印月
+#+END_EXAMPLE
+
+** 拾趣西湖
+- 创作条件
+#+BEGIN_EXAMPLE
+野佛睡莲
+湖心睡莲
+问水鹰巢
+问水雀巢
+#+END_EXAMPLE
+
+** 吴王陵绝景
+- 创作条件
+#+BEGIN_EXAMPLE
+护陵别院
+山道廊亭
+后山木亭
+正殿神台
+#+END_EXAMPLE
+
+** 拾趣吴王陵
+- 创作条件
+#+BEGIN_EXAMPLE
+陵园石佛
+陵园红烛
+陵园焚香
+陵园牛骨
+#+END_EXAMPLE
+
+** 百里荡绝景
+- 创作条件
+#+BEGIN_EXAMPLE
+龙首水坝
+上南土地
+石甬之巅
+后山桃树
+#+END_EXAMPLE
+
+** 拾趣百里荡
+- 创作条件
+#+BEGIN_EXAMPLE
+上南红烛
+山泉古琴
+滑索佳肴
+谷仓鸟巢
+#+END_EXAMPLE
+
+** 问道台绝景
+- 创作条件
+#+BEGIN_EXAMPLE
+山道木亭
+临山别院
+问道石桥
+密道入口
+#+END_EXAMPLE
+
+** 拾趣问道台
+- 创作条件
+#+BEGIN_EXAMPLE
+马厩稻草
+庭院竹笋
+山泉古琴
+演武木桩
+#+END_EXAMPLE
+
+** 禅院绝景
+- 创作条件
+#+BEGIN_EXAMPLE
+禅字影壁
+石塔之巅
+祈福古树
+增长金刚
+#+END_EXAMPLE
+
+** 拾趣禅院
+- 创作条件
+#+BEGIN_EXAMPLE
+石窟红烛
+石窟白烛
+金刚石佛
+廊道古卷
+#+END_EXAMPLE
+
+** 郡王府绝景
+- 创作条件
+#+BEGIN_EXAMPLE
+城门点台
+东平之焰
+金龙之脊
+木塔之巅
+#+END_EXAMPLE
+
+** 拾趣郡王府
+- 创作条件
+#+BEGIN_EXAMPLE
+辎重货物
+演武木桩
+东平兵法
+东平战枪
+#+END_EXAMPLE
+
+** 雷峰塔绝景
+- 创作条件
+#+BEGIN_EXAMPLE
+西湖断桥
+雷峰祈愿
+雷峰塔顶
+后山石桥
+#+END_EXAMPLE
+
+** 清永坊绝景
+- 创作条件
+#+BEGIN_EXAMPLE
+泰宁楼
+德化楼
+武平楼
+#+END_EXAMPLE
+
+** 拜访清永坊
+- 创作条件
+#+BEGIN_EXAMPLE
+路村长
+袁孝
+老郎中
+卢璃
+#+END_EXAMPLE
+
+** 拜访梯田
+- 创作条件
+#+BEGIN_EXAMPLE
+茶摊小二
+翠池村民
+老爷庙方丈
+老爷庙香客
+#+END_EXAMPLE
+
+** 拾趣梯田
+- 创作条件
+#+BEGIN_EXAMPLE
+梯田草人
+梯田萝卜
+翠池白莲
+一捆稻草
+#+END_EXAMPLE
+
+** 拜访乌金汊
+- 创作条件
+#+BEGIN_EXAMPLE
+晨曦
+莺莺
+淘金客
+不二刀
+#+END_EXAMPLE
+
+** 拾趣乌金汊
+- 创作条件
+#+BEGIN_EXAMPLE
+李记茶点
+郎中药碾
+倪庄兵器
+倪庄藏酒
+#+END_EXAMPLE
+
+** 野鹤湫绝景
+- 创作条件
+#+BEGIN_EXAMPLE
+野鹤石桥
+野鹤瀑布
+野鹤酒楼
+#+END_EXAMPLE
+
+** 拾趣野鹤湫
+- 创作条件
+#+BEGIN_EXAMPLE
+石滩竹笋
+酒楼货品
+瀑布石佛
+瀑布遗珠
+#+END_EXAMPLE
+
+** 拾趣旧城
+- 创作条件
+#+BEGIN_EXAMPLE
+旧城幽香
+旧城鹰巢
+幽谷石佛
+龙首秘卷
+#+END_EXAMPLE
+
+** 拜访桃源观
+- 创作条件
+#+BEGIN_EXAMPLE
+玄明子
+无漄子
+山居道童
+山居道士
+#+END_EXAMPLE
+
+** 拾趣桃源观
+- 创作条件
+#+BEGIN_EXAMPLE
+黑色石子
+白色石子
+古观典籍
+古迹石像
+#+END_EXAMPLE
+
+** 拜访宁海镇
+- 创作条件
+#+BEGIN_EXAMPLE
+茶博士
+小九
+耿丁
+吴宝
+#+END_EXAMPLE
+
+** 拾趣宁海镇
+- 创作条件
+#+BEGIN_EXAMPLE
+戏台木琴
+李记茶点
+郑家文玩
+张宽藏酒
+#+END_EXAMPLE
+
+** 拜访长乐滩
+- 创作条件
+#+BEGIN_EXAMPLE
+渔村陈保
+渔村海燕
+渔村贝贝
+渔村老猫儿
+#+END_EXAMPLE
+
+** 拾趣长乐滩
+- 创作条件
+#+BEGIN_EXAMPLE
+海礁拾贝
+码头货品
+渔村拾贝
+渔村私酿
+#+END_EXAMPLE
+
+** 拜访桑楚山庄
+- 创作条件
+#+BEGIN_EXAMPLE
+潇潇
+子桑不寿
+楚钧天
+楚卫
+#+END_EXAMPLE
+
+** 拾趣桑楚山庄
+- 创作条件
+#+BEGIN_EXAMPLE
+前院古籍
+树下古琴
+园艺石雀
+宴会佳酿
+#+END_EXAMPLE
+
+** 万象门绝景
+- 创作条件
+#+BEGIN_EXAMPLE
+九门
+万象门
+南台点将
+九天阁顶
+#+END_EXAMPLE
+
+** 拾趣万象门
+- 创作条件
+#+BEGIN_EXAMPLE
+北侧辎重
+南侧武桩
+殿内秘匣
+火中煅剑
+#+END_EXAMPLE
+
+** 天香谷绝景
+- 创作条件
+#+BEGIN_EXAMPLE
+万蝶花台
+杏林药台
+星罗棋局
+墨玉崖顶
+#+END_EXAMPLE
+
+** 拜访天香谷
+- 创作条件
+#+BEGIN_EXAMPLE
+白鹭洲
+宇文竹
+唐青铃
+梁知音
+#+END_EXAMPLE
+
+** 拜访飞雪滩
+- 创作条件
+#+BEGIN_EXAMPLE
+李红渠
+桑三娘
+卢北川
+小豆子
+#+END_EXAMPLE
+
+** 拾趣飞雪滩
+- 创作条件
+#+BEGIN_EXAMPLE
+马房稻草
+河滩雀巢
+小镇茶点
+木亭画伞
+#+END_EXAMPLE
+
+** 拜访枫桥镇
+- 创作条件
+#+BEGIN_EXAMPLE
+孙老头
+招娣儿
+史黛兰
+齐中原
+#+END_EXAMPLE
+
+** 拾趣枫桥镇
+- 创作条件
+#+BEGIN_EXAMPLE
+古镇木伞
+古镇文玩
+南山猎弓
+吊索辎重
+#+END_EXAMPLE
+
+** 铸神谷绝景
+- 创作条件
+#+BEGIN_EXAMPLE
+铸神塔顶
+神谷剑池
+剑池石亭
+后山废墟
+#+END_EXAMPLE
+
+** 拾趣铸神谷
+- 创作条件
+#+BEGIN_EXAMPLE
+山庄竹笋
+佛塔遗珠
+演武木桩
+山庄藏酒
+#+END_EXAMPLE
+
+** 拜访龙井茶园
+- 创作条件
+#+BEGIN_EXAMPLE
+白子铭
+丐帮弟子
+曹孟夏
+陆清
+#+END_EXAMPLE
+
+** 拾趣龙井茶园
+- 创作条件
+#+BEGIN_EXAMPLE
+西部草人
+东部草人
+北部草人
+南部草人
+#+END_EXAMPLE
+
+** 四明书院绝景
+- 创作条件
+#+BEGIN_EXAMPLE
+嘉德石坊
+庭院石桥
+阅江古亭
+后山清瀑
+#+END_EXAMPLE
+
+** 拾趣四明书院
+- 创作条件
+#+BEGIN_EXAMPLE
+清茶素点
+园艺石雀
+小亭木琴
+山石雀巢
+#+END_EXAMPLE
+
+** 连环坞绝景
+- 创作条件
+#+BEGIN_EXAMPLE
+长江之巅
+长江飞瀑
+总舵高台
+青石码头
+#+END_EXAMPLE
+
+** 长风林绝景
+- 创作条件
+#+BEGIN_EXAMPLE
+山道石坊
+林中别院
+草亭观林
+醉卧长风
+#+END_EXAMPLE
+
+** 拜访长风林
+- 创作条件
+#+BEGIN_EXAMPLE
+孟长风
+唐富
+#+END_EXAMPLE
+
+** 霹雳堂绝景
+- 创作条件
+#+BEGIN_EXAMPLE
+木桥旧址
+草亭旧址
+石坊旧址
+正殿旧址
+#+END_EXAMPLE
+
+** 拾趣霹雳堂
+- 创作条件
+#+BEGIN_EXAMPLE
+废屋秘匣
+废屋陶罐
+废屋兵器
+废屋石像
+#+END_EXAMPLE
+
+** 天泉山庄绝景
+- 创作条件
+#+BEGIN_EXAMPLE
+幽谷琴台
+瑞兽石屏
+山庄古井
+天泉之源
+#+END_EXAMPLE
+
+** 拾趣天泉山庄
+- 创作条件
+#+BEGIN_EXAMPLE
+琴台古琴
+天泉佳酿
+小亭遗卷
+柴房稻草
+#+END_EXAMPLE
+
+** 拜访神威堡
+- 创作条件
+#+BEGIN_EXAMPLE
+韩莹莹
+孟青鸾
+韩学信
+唐青衫
+#+END_EXAMPLE
+
+** 拾趣神威堡
+- 创作条件
+#+BEGIN_EXAMPLE
+神威兵书
+宴会佳酿
+神威长枪
+演武木桩
+#+END_EXAMPLE
+
+** 拾趣怪石林
+- 创作条件
+#+BEGIN_EXAMPLE
+岩洞石佛
+岩洞鹰巢
+岩洞陶罐
+岩洞罗刹
+#+END_EXAMPLE
+
+** 绿洲绝景
+- 创作条件
+#+BEGIN_EXAMPLE
+饮马绿洲
+凤鸣绿洲
+饮马民居
+凤鸣集市
+#+END_EXAMPLE
+
+** 拜访凤鸣镇
+- 创作条件
+#+BEGIN_EXAMPLE
+燕云牧民
+燕云行商
+燕云孩童
+燕云平民
+#+END_EXAMPLE
+
+** 策马坡绝景
+- 创作条件
+#+BEGIN_EXAMPLE
+主营大篷
+东部侧营
+西部侧营
+营地哨塔
+#+END_EXAMPLE
+
+** 拾趣策马坡
+- 创作条件
+#+BEGIN_EXAMPLE
+玛尼石堆
+营外牛骨
+侧营箭靶
+马厩稻草
+#+END_EXAMPLE
+
+** 瀚海戈壁绝景
+- 创作条件
+#+BEGIN_EXAMPLE
+北部石阵
+中部石阵
+南部石阵
+东部废墟
+#+END_EXAMPLE
+
+** 拾趣瀚海戈壁
+- 创作条件
+#+BEGIN_EXAMPLE
+玛尼石堆
+石阵陶罐
+石阵罗刹
+石阵牛骨
+#+END_EXAMPLE
+
+** 绝尘马场绝景
+- 创作条件
+#+BEGIN_EXAMPLE
+北部大帐
+中部大帐
+南部大帐
+西部大帐
+#+END_EXAMPLE
+
+** 拜访绝尘镇
+- 创作条件
+#+BEGIN_EXAMPLE
+李保正
+拓跋大勇
+贺兰雪
+李大龙
+#+END_EXAMPLE
+
+** 神木谷绝景
+- 创作条件
+#+BEGIN_EXAMPLE
+北柱之顶
+南柱之顶
+南部哨岗
+#+END_EXAMPLE
+
+** 拾趣神木谷
+- 创作条件
+#+BEGIN_EXAMPLE
+辎重货品
+营寨陈酿
+沙地牛骨
+正殿箭靶
+#+END_EXAMPLE
+
+** 苍梧城绝景
+- 创作条件
+#+BEGIN_EXAMPLE
+点将苍梧
+石壁罗刹
+双生罗刹
+苍梧之顶
+#+END_EXAMPLE
+
+** 拾趣苍梧城
+- 创作条件
+#+BEGIN_EXAMPLE
+峡谷石佛
+峡谷鹰巢
+峡谷陶罐
+峡谷罗刹
+#+END_EXAMPLE
+
+** 风飞谷绝景
+- 创作条件
+#+BEGIN_EXAMPLE
+西侧哨塔
+东侧哨塔
+配殿之顶
+正殿之顶
+#+END_EXAMPLE
+
+** 拾趣风飞谷
+- 创作条件
+#+BEGIN_EXAMPLE
+演武木桩
+辎重货品
+宴席茶点
+侧殿鹰巢
+#+END_EXAMPLE
+
+** 太白山门绝景
+- 创作条件
+#+BEGIN_EXAMPLE
+穿过山门
+山门驿站
+太白山道
+#+END_EXAMPLE
+
+** 拜访太白山门
+- 创作条件
+#+BEGIN_EXAMPLE
+守门弟子
+秦川车夫
+许长生
+苏北辰
+#+END_EXAMPLE
+
+** 论剑坪绝景
+- 创作条件
+#+BEGIN_EXAMPLE
+剑碑之顶
+麒麟之背
+剑阁之顶
+祭坛之顶
+#+END_EXAMPLE
+
+** 拜访论剑坪
+- 创作条件
+#+BEGIN_EXAMPLE
+于青
+藏剑使
+风无痕
+穆清
+#+END_EXAMPLE
+
+** 沉剑池绝景
+- 创作条件
+#+BEGIN_EXAMPLE
+剑池长桥
+冰岛双瀑
+沉剑石碑
+剑阁之顶
+#+END_EXAMPLE
+
+** 蛟龙岭绝景
+- 创作条件
+#+BEGIN_EXAMPLE
+龙岭禅院
+蛟龙残城
+山岭木坊
+#+END_EXAMPLE
+
+** 北斗坪绝景
+- 创作条件
+#+BEGIN_EXAMPLE
+登云正殿
+北部配殿
+东部钟楼
+中部钟楼
+#+END_EXAMPLE
+
+** 论剑峰绝景
+- 创作条件
+#+BEGIN_EXAMPLE
+论剑山门
+麒麟影壁
+石狮之背
+剑锋影墙
+#+END_EXAMPLE
+
+** 拜访论剑峰
+- 创作条件
+#+BEGIN_EXAMPLE
+李岚
+掌剑使
+掌剑阁弟子
+#+END_EXAMPLE
+
+** 玉泉院绝景
+- 创作条件
+#+BEGIN_EXAMPLE
+太极阵眼
+玉泉丹台
+西殿之顶
+东殿遗址
+#+END_EXAMPLE
+
+** 拾趣玉泉院
+- 创作条件
+#+BEGIN_EXAMPLE
+东殿残卷
+东殿遗卷
+正殿古琴
+西殿道经
+#+END_EXAMPLE
+
+** 药王谷绝景
+- 创作条件
+#+BEGIN_EXAMPLE
+正殿之顶
+西部露台
+南部露台
+东部露台
+#+END_EXAMPLE
+
+** 拾趣药王谷
+- 创作条件
+#+BEGIN_EXAMPLE
+炼丹密卷
+桃林遗伞
+寒池听琴
+露台药碾
+#+END_EXAMPLE
+
+** 鹦哥镇绝景
+- 创作条件
+#+BEGIN_EXAMPLE
+正殿桃树
+茶摊佳肴
+小镇古井
+暮雪钟鸣
+#+END_EXAMPLE
+
+** 拜访鹦哥镇
+- 创作条件
+#+BEGIN_EXAMPLE
+独孤若虚
+温景梵
+石东陵
+桃子
+#+END_EXAMPLE
+
+** 拜访平阳驿
+- 创作条件
+#+BEGIN_EXAMPLE
+蛇夫
+秦暮天
+刘广
+平阳驿使
+#+END_EXAMPLE
+
+** 拾趣平阳驿
+- 创作条件
+#+BEGIN_EXAMPLE
+木桥陶罐
+外营辎重
+滩涂雀巢
+木桥石佛
+#+END_EXAMPLE
+
+** 拜访藏月湾
+- 创作条件
+#+BEGIN_EXAMPLE
+客栈老板
+客栈小二
+天涯浪客
+神刀探子
+#+END_EXAMPLE
+
+** 拾趣藏月湾
+- 创作条件
+#+BEGIN_EXAMPLE
+陈年佳酿
+美味茶点
+瓷器文玩
+经书典籍
+#+END_EXAMPLE
+
+** 古陶镇绝景
+- 创作条件
+#+BEGIN_EXAMPLE
+通缉告示
+古镇摊群
+古镇断墙
+古镇之巅
+#+END_EXAMPLE
+
+** 拜访古陶镇
+- 创作条件
+#+BEGIN_EXAMPLE
+小石头
+朱瑾
+杜仲
+小幺儿
+#+END_EXAMPLE
+
+** 骅阳林绝景
+- 创作条件
+#+BEGIN_EXAMPLE
+骅阳林界碑
+东部营帐
+西部营帐
+#+END_EXAMPLE
+
+** 拾趣骅阳林
+- 创作条件
+#+BEGIN_EXAMPLE
+东部辎重
+东部藏酒
+西部箭靶
+西部武桩
+#+END_EXAMPLE
+
+** 拾趣红草滩
+- 创作条件
+#+BEGIN_EXAMPLE
+草滩牛骨
+滩涂鸟巢
+落木古籍
+石岸古佛
+#+END_EXAMPLE
+
+** 天龙古刹绝景
+- 创作条件
+#+BEGIN_EXAMPLE
+古寺界碑
+禅院塔楼
+配殿拜佛
+正殿礼佛
+#+END_EXAMPLE
+
+** 拜访天龙古刹
+- 创作条件
+#+BEGIN_EXAMPLE
+僧茂
+佛屠澄
+释慧嵩
+渡厄尊者
+#+END_EXAMPLE
+
+** 拜访剑绝轩
+- 创作条件
+#+BEGIN_EXAMPLE
+范宽
+范瑶
+石雅馨
+石守信
+#+END_EXAMPLE
+
+** 拾趣剑绝轩
+- 创作条件
+#+BEGIN_EXAMPLE
+山门佳酿
+庭院石雀
+剑绝秘典
+范府之剑
+#+END_EXAMPLE
+
+** 神武门绝景
+- 创作条件
+#+BEGIN_EXAMPLE
+神武拜庄
+断剑赏瀑
+玄刀点将
+神武内殿
+#+END_EXAMPLE
+
+** 拾趣神武门
+- 创作条件
+#+BEGIN_EXAMPLE
+悬桥秘匣
+玄刀演武
+转经礼佛
+苍雪鹰巢
+#+END_EXAMPLE
+
+** 开封城门绝景
+- 创作条件
+#+BEGIN_EXAMPLE
+保康城门
+汴梁城门
+景龙城门
+陈州城门
+#+END_EXAMPLE
+
+** 拜访开封守城
+- 创作条件
+#+BEGIN_EXAMPLE
+汴京城守
+汴京巡检
+#+END_EXAMPLE
+
+** 护城河绝景
+- 创作条件
+#+BEGIN_EXAMPLE
+护城西桥
+护城北桥
+护城南桥
+#+END_EXAMPLE
+
+** 开封水关绝景
+- 创作条件
+#+BEGIN_EXAMPLE
+城北水关
+城西水关
+#+END_EXAMPLE
+
+** 开封城绝景
+- 创作条件
+#+BEGIN_EXAMPLE
+紫禁之巅
+擂台铜锣
+明德书院
+镇远镖局
+#+END_EXAMPLE
+
+** 拜访开封城
+- 创作条件
+#+BEGIN_EXAMPLE
+晨晖婕妤
+乐坊笑蝶
+开封师爷
+天波统帅
+#+END_EXAMPLE
+
+** 居士林绝景
+- 创作条件
+#+BEGIN_EXAMPLE
+北部山道
+南部山道
+正殿之顶
+山寨之旗
+#+END_EXAMPLE
+
+** 拾趣居士林
+- 创作条件
+#+BEGIN_EXAMPLE
+山道藏酒
+演武木装
+山道箭靶
+前院辎重
+#+END_EXAMPLE
+
+** 相国寺绝景
+- 创作条件
+#+BEGIN_EXAMPLE
+前院龙池
+正殿礼佛
+北院寺钟
+南殿之顶
+#+END_EXAMPLE
+
+** 拜访相国寺
+- 创作条件
+#+BEGIN_EXAMPLE
+塔夫大师
+萧妃
+戒色
+相国寺僧人
+#+END_EXAMPLE
+
+** 飞霞渡绝景
+- 创作条件
+#+BEGIN_EXAMPLE
+渡口客船
+渡口商船
+壶口观瀑
+#+END_EXAMPLE
+
+** 拜访飞霞渡
+- 创作条件
+#+BEGIN_EXAMPLE
+船夫
+纤夫
+码头工
+民兵
+#+END_EXAMPLE
+
+** 拾趣朱仙镇
+- 创作条件
+#+BEGIN_EXAMPLE
+麦田石碾
+农田草人
+哨岗藏酒
+赌坊弃剑
+#+END_EXAMPLE
+
+** 拜访朱仙镇
+- 创作条件
+#+BEGIN_EXAMPLE
+陆十八
+许掌柜
+老铁根
+小馄饨
+#+END_EXAMPLE
+
+** 拾趣黄华岭
+- 创作条件
+#+BEGIN_EXAMPLE
+乱葬牛骨
+乱葬石堆
+乱葬陶罐
+乱葬石佛
+#+END_EXAMPLE
+
+** 拜访藏锋谷
+- 创作条件
+#+BEGIN_EXAMPLE
+徐老爹
+洛云飞
+马四
+客栈老板
+#+END_EXAMPLE
+
+** 拾趣藏锋谷
+- 创作条件
+#+BEGIN_EXAMPLE
+小笼汤包
+马厩稻草
+遗弃之剑
+河道牛骨
+#+END_EXAMPLE
+
+** 华清寺绝景
+- 创作条件
+#+BEGIN_EXAMPLE
+禅院山门
+佛顶观山
+古刹吊桥
+孤山断桥
+#+END_EXAMPLE
+
+** 拾趣华清寺
+- 创作条件
+#+BEGIN_EXAMPLE
+宝殿斋供
+宝殿红烛
+佛掌遗珠
+山巅石佛
+#+END_EXAMPLE
+
+** 得意坊绝景
+- 创作条件
+#+BEGIN_EXAMPLE
+村口大钟
+古井酿酒
+后山土地庙
+后山百草园
+#+END_EXAMPLE
+
+** 拾趣得意坊
+- 创作条件
+#+BEGIN_EXAMPLE
+得意坊佳酿
+得意坊陈酿
+得意坊私酿
+得意坊珍酿
+#+END_EXAMPLE
+
+** 拾趣芳华谷
+- 创作条件
+#+BEGIN_EXAMPLE
+菜地稻草人
+菜地萝卜
+河滩鱼篓
+库房货物
+#+END_EXAMPLE
+
+** 拜访芳华谷
+- 创作条件
+#+BEGIN_EXAMPLE
+聋老七
+花姑子
+龙婆
+老叟
+#+END_EXAMPLE
+
+** 送君廊绝景
+- 创作条件
+#+BEGIN_EXAMPLE
+木廊古道
+瀑布石桥
+古道口瀑布
+石窟之巅
+#+END_EXAMPLE
+
+** 拾趣送君廊
+- 创作条件
+#+BEGIN_EXAMPLE
+古道雀巢
+古道鹰巢
+古道石佛
+古道陶罐
+#+END_EXAMPLE
+
+** 拾趣燕来镇
+- 创作条件
+#+BEGIN_EXAMPLE
+西北稻草人
+东北稻草人
+西南稻草人
+东南稻草人
+#+END_EXAMPLE
+
+** 燕来镇萌猫
+- 创作条件
+#+BEGIN_EXAMPLE
+肥肥
+小胖子
+呆呆
+#+END_EXAMPLE
+
+** 血衣楼绝景
+- 创作条件
+#+BEGIN_EXAMPLE
+斗场吊桥
+龙虎堂山瀑
+矿场之巅
+总坛圣火
+#+END_EXAMPLE
+
+** 拾趣血衣楼
+- 创作条件
+#+BEGIN_EXAMPLE
+龙虎堂鹰巢
+矿场藏酒
+天堑罗刹
+正殿秘匣
+#+END_EXAMPLE
+
+** 孔雀山庄绝景
+- 创作条件
+#+BEGIN_EXAMPLE
+拜访山庄
+西殿露台
+花园木亭
+正殿大堂
+#+END_EXAMPLE
+
+** 拾趣孔雀山庄
+- 创作条件
+#+BEGIN_EXAMPLE
+东侧石孔雀
+西侧石孔雀
+南侧石孔雀
+北侧石孔雀
+#+END_EXAMPLE
+
+** 离魂峡绝景
+- 创作条件
+#+BEGIN_EXAMPLE
+谷底废墟
+乱葬坟堆
+离魂峡滩涂
+离魂峡石碑
+#+END_EXAMPLE
+
+** 拾趣离魂峡
+- 创作条件
+#+BEGIN_EXAMPLE
+坟前斋供
+坟前白烛
+坟前清香
+废屋旧物
+#+END_EXAMPLE
+
+** 拾趣血衣禁地
+- 创作条件
+#+BEGIN_EXAMPLE
+禁地牛骨
+禁地石佛
+禁地铜鼎
+祭坛鹰巢
+#+END_EXAMPLE
+
+** 杭州墨宝收藏
+- 创作条件
+#+BEGIN_EXAMPLE
+画卷：一醉轩
+画卷：天绝禅院
+画卷：风雨钱塘
+画卷：东平郡王府
+#+END_EXAMPLE
+
+** 秦川墨宝收藏
+- 创作条件
+#+BEGIN_EXAMPLE
+画卷：论剑锋
+画卷：论剑坪
+画卷：太白山门
+画卷：秦川云海
+#+END_EXAMPLE
+
+** 徐海墨宝收藏
+- 创作条件
+#+BEGIN_EXAMPLE
+画卷：平阳驿站
+画卷：藏月客栈
+画卷：骅阳林
+画卷：玄刀断剑
+#+END_EXAMPLE
+
+** 开封墨宝收藏
+- 创作条件
+#+BEGIN_EXAMPLE
+画卷：开封城门
+画卷：朱仙镇
+画卷：开封城
+画卷：飞霞渡
+#+END_EXAMPLE
+
+** 九华墨宝收藏
+- 创作条件
+#+BEGIN_EXAMPLE
+画卷：藏锋谷
+画卷：送君廊
+画卷：得意坊
+画卷：血衣楼
+#+END_EXAMPLE
+
+** 东越墨宝收藏
+- 创作条件
+#+BEGIN_EXAMPLE
+画卷：云泥梯田
+画卷：宁海镇
+画卷：天香谷
+画卷：野鹤湫
+#+END_EXAMPLE
+
+** 燕云墨宝收藏
+- 创作条件
+#+BEGIN_EXAMPLE
+画卷：瀚海戈壁
+画卷：苍梧城
+画卷：月下饮马
+画卷：燕云神威
+#+END_EXAMPLE
+
+** 拾趣醉月居
+- 创作条件
+#+BEGIN_EXAMPLE
+阁顶夜服
+廊亭暗弩
+暗阁锦鲤
+月池锦鲤
+#+END_EXAMPLE
+
+** 拾趣逢捷镇
+- 创作条件
+#+BEGIN_EXAMPLE
+木府念珠
+市集稻米
+逢捷佳酿
+船头鱼篓
+#+END_EXAMPLE
+
+** 拜访逢捷镇
+- 创作条件
+#+BEGIN_EXAMPLE
+鑫百当
+金邵欢
+高伯
+渺空
+#+END_EXAMPLE
+
+** 拾趣凌云壁
+- 创作条件
+#+BEGIN_EXAMPLE
+龙岭岩花
+龙岭兽夹
+龙岭兽骨
+龙岭鱼篓
+#+END_EXAMPLE
+
+** 拾趣云来镇
+- 创作条件
+#+BEGIN_EXAMPLE
+菜地红萝
+云来木鼓
+云来告示
+云来锦鲤
+#+END_EXAMPLE
+
+** 拾趣御风堂
+- 创作条件
+#+BEGIN_EXAMPLE
+铁甲机括
+御风鹰巢
+御风锦鲤
+烟霞木琴
+#+END_EXAMPLE
+
+** 拜访御风堂
+- 创作条件
+#+BEGIN_EXAMPLE
+王郅君
+唐巧
+唐青虹
+唐慧
+#+END_EXAMPLE
+
+** 拾趣竹海
+- 创作条件
+#+BEGIN_EXAMPLE
+暗格机括
+竹林兽夹
+万青竹笋
+万青鹰巢
+#+END_EXAMPLE
+
+** 拾趣翠海
+- 创作条件
+#+BEGIN_EXAMPLE
+翠海兽骨
+翠海锦鲤
+翠海对弈
+翠海弩机
+#+END_EXAMPLE
+
+** 拾趣忘忧谷
+- 创作条件
+#+BEGIN_EXAMPLE
+忧谷木弩
+忧谷石碑
+忧谷竹笋
+忧谷锦鲤
+#+END_EXAMPLE
+
+** 巴蜀墨宝收藏
+- 创作条件
+#+BEGIN_EXAMPLE
+画卷：云来镇
+画卷：凌云壁
+画卷：御风堂
+画卷：翠海
+#+END_EXAMPLE
+
+* 四季时辰
+** 烟雨濛
+- 经历一次靡靡小雨
+#+BEGIN_EXAMPLE
+小雨
+#+END_EXAMPLE
+
+** 风雨疾
+- 经历一次滂沱大雨
+#+BEGIN_EXAMPLE
+大雨
+#+END_EXAMPLE
+
+** 雪飘零
+- 经历一次小雪
+#+BEGIN_EXAMPLE
+小雪
+#+END_EXAMPLE
+
+** 雪纷飞
+- 遭遇一场鹅毛大雪
+#+BEGIN_EXAMPLE
+大雪
+#+END_EXAMPLE
+
+** 走龙蛇
+- 遭遇一场小型沙尘暴
+#+BEGIN_EXAMPLE
+小沙尘暴
+#+END_EXAMPLE
+
+** 蔽日月
+- 遭遇一场大型沙尘暴
+#+BEGIN_EXAMPLE
+大沙尘暴
+#+END_EXAMPLE
+
+** 落汤鸡
+- 遭遇10次大雨
+
+** 从头淋到脚
+- 遭遇100次大雨
+
+** 进砂
+- 遭遇10次小型沙尘暴
+
+** 迷眼
+- 遭遇100次大型沙尘暴
+
+** 雪漫天
+- 遭遇10场大雪
+
+** 雪弥天
+- 遭遇100场大雪
+
+** 映清晨
+- 旭日东升，空气清新，一日之计在于晨
+#+BEGIN_EXAMPLE
+日出
+#+END_EXAMPLE
+
+** 渐黄昏
+- 酉时已至，日渐西沉，黄昏来临
+#+BEGIN_EXAMPLE
+日落
+#+END_EXAMPLE
+
+** 夜阑珊
+- 暮色渐至，居民归家，阑珊夜景中何处是自己的那盏明灯？
+#+BEGIN_EXAMPLE
+夜里
+#+END_EXAMPLE
+
+** 雪月流光
+- 在秦川经历一场漫天大雪
+#+BEGIN_EXAMPLE
+秦川
+大雪
+#+END_EXAMPLE
+
+** 霜天霁月
+- 在秦川经历一场小雪
+#+BEGIN_EXAMPLE
+秦川
+小雪
+#+END_EXAMPLE
+
+** 燕云扬沙
+- 在燕云经历一场小型沙尘暴
+#+BEGIN_EXAMPLE
+燕云
+小沙尘暴
+#+END_EXAMPLE
+
+** 日月无光
+- 在燕云经历一场大型沙尘暴
+#+BEGIN_EXAMPLE
+燕云
+大沙尘暴
+#+END_EXAMPLE
+
+** 秦川晚风
+- 在秦川度过一个夜晚
+#+BEGIN_EXAMPLE
+秦川
+夜里
+#+END_EXAMPLE
+
+** 燕云烘月
+- 在燕云度过一个夜晚
+#+BEGIN_EXAMPLE
+燕云
+夜里
+#+END_EXAMPLE
+
+** 烟雨江南
+- 在江南龙首山天泉山庄经历过一次小雨
+#+BEGIN_EXAMPLE
+天泉山庄
+小雨
+#+END_EXAMPLE
+
+** 望云晚霞
+- 在江南折之江经历过一次日落
+#+BEGIN_EXAMPLE
+折之江
+日落
+#+END_EXAMPLE
+
+** 江花胜火
+- 在江南塔顶观赏过一次日出
+#+BEGIN_EXAMPLE
+江南云碧塔
+日出
+#+END_EXAMPLE
+
+** 仙山日落
+- 在东越海滨经历过一次黄昏
+#+BEGIN_EXAMPLE
+东越海滨
+日落
+#+END_EXAMPLE
+
+** 霞映清永
+- 在东越清永坊观赏过一次日出
+#+BEGIN_EXAMPLE
+永清坊
+日出
+#+END_EXAMPLE
+
+** 杭州夜景
+- 在杭州城内经历夜晚
+#+BEGIN_EXAMPLE
+杭州城
+夜里
+#+END_EXAMPLE
+
+** 重檐送晓
+- 在九华水榭观赏一次日出
+#+BEGIN_EXAMPLE
+水榭
+日出
+#+END_EXAMPLE
+
+** 故道斜阳
+- 在徐海骅阳林观赏一次日落
+#+BEGIN_EXAMPLE
+徐海骅阳林
+日落
+#+END_EXAMPLE
+
+** 日出苍雪
+- 在徐海苍雪岭观赏一次日出
+#+BEGIN_EXAMPLE
+徐海苍雪岭
+日出
+#+END_EXAMPLE
+
+** 日落藏月
+- 在徐海藏月湾经历一次黄昏
+#+BEGIN_EXAMPLE
+徐海藏月湾
+日落
+#+END_EXAMPLE
+
+** 生生不息
+- 欣赏过以下全部美景
+#+BEGIN_EXAMPLE
+雪月流光
+霜天霁月
+燕云扬沙
+日月无光
+烟雨江南
+重檐送晓
+故道斜阳
+#+END_EXAMPLE
+
+* 钓鱼
+** 羡鱼
+- 完成一次钓鱼大赛
+#+BEGIN_EXAMPLE
+完成一次钓鱼比赛
+#+END_EXAMPLE
+
+** 闲趣
+- 完成五次钓鱼大赛
+#+BEGIN_EXAMPLE
+完成五次钓鱼比赛
+#+END_EXAMPLE
+
+** 渔趣
+- 完成十五次钓鱼大赛
+#+BEGIN_EXAMPLE
+完成十五次钓鱼比赛
+#+END_EXAMPLE
+
+** 名列前茅
+- 钓鱼大赛前10名
+#+BEGIN_EXAMPLE
+获得比赛前十
+#+END_EXAMPLE
+
+** 聚精会神
+- 钓鱼大赛前5名
+#+BEGIN_EXAMPLE
+获得比赛前五
+#+END_EXAMPLE
+
+** 满载而归
+- 钓鱼大赛第3名
+#+BEGIN_EXAMPLE
+获得比赛第三名
+#+END_EXAMPLE
+
+** 天涯渔夫
+- 钓鱼大赛第1名
+#+BEGIN_EXAMPLE
+获得比赛第一名
+#+END_EXAMPLE
+
+* 活动
+** 钟汉良
+- 找到神秘商人“钟汉良”并集齐称号
+#+BEGIN_EXAMPLE
+获取称号“哇”
+获取称号“相遇”
+获取称号“相知”
+获取称号“相许”
+#+END_EXAMPLE
+
+** 单身不寂寞
+- 完成七夕节日任务
+#+BEGIN_EXAMPLE
+完成七夕节任务“单身不寂寞”
+#+END_EXAMPLE
+
+** 月照天涯
+- 完成中秋节日任务
+#+BEGIN_EXAMPLE
+完成中秋节日任务
+#+END_EXAMPLE
+
+** 孩子王
+- 在陌上·繁花又开节日期间帮助三位孩子找到风筝
+#+BEGIN_EXAMPLE
+找到小耳朵的风筝
+找到小拇指的风筝
+找到小尾巴的风筝
+#+END_EXAMPLE
+

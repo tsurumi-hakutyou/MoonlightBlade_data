@@ -1,0 +1,1019 @@
+#+TITLE: PVP
+#+AUTHOR: 李鹄
+
+* 切磋
+** 小试身手
+- 赢得一次切磋
+#+BEGIN_EXAMPLE
+切磋胜利
+#+END_EXAMPLE
+
+** 不伤和气
+- 赢得10次切磋
+#+BEGIN_EXAMPLE
+赢得10次切磋
+#+END_EXAMPLE
+
+** 技高一筹
+- 赢得120次切磋
+#+BEGIN_EXAMPLE
+赢得120次切磋
+#+END_EXAMPLE
+
+** 初尝败绩
+- 输掉一次切磋
+#+BEGIN_EXAMPLE
+切磋失败
+#+END_EXAMPLE
+
+** 战无不胜
+- 切磋连赢3次
+#+BEGIN_EXAMPLE
+已胜利场次
+#+END_EXAMPLE
+
+** 屡败屡战
+- 切磋连输3次
+#+BEGIN_EXAMPLE
+已经失利场次
+#+END_EXAMPLE
+
+** 疾风骤雨
+- 30秒内结束切磋
+#+BEGIN_EXAMPLE
+极速切磋
+#+END_EXAMPLE
+
+* 江湖名望
+** 初入江湖
+- 江湖名望达到1级
+#+BEGIN_EXAMPLE
+江湖名望达到1级
+#+END_EXAMPLE
+
+** 寂寂无名
+- 江湖名望达到2级
+#+BEGIN_EXAMPLE
+江湖名望达到2级
+#+END_EXAMPLE
+
+** 后起之秀
+- 江湖名望达到3级
+#+BEGIN_EXAMPLE
+江湖名望达到3级
+#+END_EXAMPLE
+
+** 江湖少侠
+- 江湖名望达到4级
+#+BEGIN_EXAMPLE
+江湖名望达到4级
+#+END_EXAMPLE
+
+** 武林新贵
+- 江湖名望达到5级
+#+BEGIN_EXAMPLE
+江湖名望达到5级
+#+END_EXAMPLE
+
+** 小有所成
+- 江湖名望达到6级
+#+BEGIN_EXAMPLE
+江湖名望达到6级
+#+END_EXAMPLE
+
+** 武林高手
+- 江湖名望达到7级
+#+BEGIN_EXAMPLE
+江湖名望达到7级
+#+END_EXAMPLE
+
+** 英雄豪杰
+- 江湖名望达到8级
+#+BEGIN_EXAMPLE
+江湖名望达到8级
+#+END_EXAMPLE
+
+** 人中龙凤
+- 江湖名望达到9级
+#+BEGIN_EXAMPLE
+江湖名望达到9级
+#+END_EXAMPLE
+
+** 名震江湖
+- 江湖名望达到10级
+#+BEGIN_EXAMPLE
+江湖名望达到10级
+#+END_EXAMPLE
+
+** 傲视群雄
+- 江湖名望达到11级
+#+BEGIN_EXAMPLE
+江湖名望达到11级
+#+END_EXAMPLE
+
+** 开宗立派
+- 江湖名望达到12级
+#+BEGIN_EXAMPLE
+江湖名望达到12级
+#+END_EXAMPLE
+
+** 一代宗师
+- 江湖名望达到13级
+#+BEGIN_EXAMPLE
+江湖名望达到13级
+#+END_EXAMPLE
+
+** 仗剑天涯
+- 江湖名望达到14级
+#+BEGIN_EXAMPLE
+江湖名望达到14级
+#+END_EXAMPLE
+
+** 笑傲江湖
+- 江湖名望达到15级
+#+BEGIN_EXAMPLE
+江湖名望达到15级
+#+END_EXAMPLE
+
+** 独孤求败
+- 江湖名望达到16级
+#+BEGIN_EXAMPLE
+江湖名望达到16级
+#+END_EXAMPLE
+
+** 激战证明
+- 累计获得15000胜负令
+#+BEGIN_EXAMPLE
+累计获得15000胜负令
+#+END_EXAMPLE
+
+** 激战证明·二
+- 累计获得30000胜负令
+#+BEGIN_EXAMPLE
+累计获得30000胜负令
+#+END_EXAMPLE
+
+** 激战证明·三
+- 累计获得100000胜负令
+#+BEGIN_EXAMPLE
+累计获得100000胜负令
+#+END_EXAMPLE
+
+** 激战证明·四
+- 累计获得200000胜负令
+#+BEGIN_EXAMPLE
+累计获得200000胜负令
+#+END_EXAMPLE
+
+** 激战证明·五
+- 累计获得500000胜负令
+#+BEGIN_EXAMPLE
+累计获得500000胜负令
+#+END_EXAMPLE
+
+** 战绩彪悍
+- 累计获得10000名望
+#+BEGIN_EXAMPLE
+累计获得10000名望
+#+END_EXAMPLE
+
+** 战绩彪悍·二
+- 累计获得30000名望
+#+BEGIN_EXAMPLE
+累计获得30000名望
+#+END_EXAMPLE
+
+** 战绩彪悍·三
+- 累计获得80000名望
+#+BEGIN_EXAMPLE
+累计获得80000名望
+#+END_EXAMPLE
+
+** 战绩彪悍·四
+- 累计获得150000名望
+#+BEGIN_EXAMPLE
+累计获得150000名望
+#+END_EXAMPLE
+
+** 松林之道
+- 松林问战获胜60场
+#+BEGIN_EXAMPLE
+松林问战60场
+#+END_EXAMPLE
+
+** 松林之道·二
+- 松林问战获胜100场
+#+BEGIN_EXAMPLE
+松林问战100场
+#+END_EXAMPLE
+
+** 松林之道·三
+- 松林问战获胜150场
+#+BEGIN_EXAMPLE
+松林问战150场
+#+END_EXAMPLE
+
+** 孤月之道
+- 长洲孤月获胜60场
+#+BEGIN_EXAMPLE
+长洲孤月60场
+#+END_EXAMPLE
+
+** 孤月之道·二
+- 长洲孤月获胜100场
+#+BEGIN_EXAMPLE
+长洲孤月100场
+#+END_EXAMPLE
+
+** 孤月之道·三
+- 长洲孤月获胜150场
+#+BEGIN_EXAMPLE
+长洲孤月150场
+#+END_EXAMPLE
+
+** 松林杀手
+- 在松林问战中击杀150人
+#+BEGIN_EXAMPLE
+在松林问战中击杀150人
+#+END_EXAMPLE
+
+** 松林杀手·二
+- 在松林问战中击杀250人
+#+BEGIN_EXAMPLE
+在松林问战中击杀250人
+#+END_EXAMPLE
+
+** 松林杀手·三
+- 在松林问战中击杀450人
+#+BEGIN_EXAMPLE
+在松林问战中击杀450人
+#+END_EXAMPLE
+
+** 松林杀手·四
+- 在松林问战中击杀600人
+#+BEGIN_EXAMPLE
+在松林问战中击杀600人
+#+END_EXAMPLE
+
+** 孤月杀手
+- 长洲孤月中击杀150人
+#+BEGIN_EXAMPLE
+长洲孤月中击杀150人
+#+END_EXAMPLE
+
+** 孤月杀手·二
+- 长洲孤月中击杀250人
+#+BEGIN_EXAMPLE
+长洲孤月中击杀250人
+#+END_EXAMPLE
+
+** 孤月杀手·三
+- 长洲孤月中击杀450人
+#+BEGIN_EXAMPLE
+长洲孤月中击杀450人
+#+END_EXAMPLE
+
+** 孤月杀手·四
+- 长洲孤月中击杀600人
+#+BEGIN_EXAMPLE
+长洲孤月中击杀600人
+#+END_EXAMPLE
+
+** 联盟勇士
+- 掠夺战中击杀150人
+#+BEGIN_EXAMPLE
+掠夺战中击杀150人
+#+END_EXAMPLE
+
+** 联盟勇士·二
+- 掠夺战中击杀250人
+#+BEGIN_EXAMPLE
+掠夺战中击杀250人
+#+END_EXAMPLE
+
+** 联盟勇士·三
+- 掠夺战中击杀450人
+#+BEGIN_EXAMPLE
+掠夺战中击杀450人
+#+END_EXAMPLE
+
+** 联盟勇士·四
+- 掠夺战中击杀600人
+#+BEGIN_EXAMPLE
+掠夺战中击杀600人
+#+END_EXAMPLE
+
+** 争锋难敌
+- 争锋战中击杀150人
+#+BEGIN_EXAMPLE
+争锋战中击杀150人
+#+END_EXAMPLE
+
+** 争锋难敌·二
+- 争锋战中击杀250人
+#+BEGIN_EXAMPLE
+争锋战中击杀250人
+#+END_EXAMPLE
+
+** 争锋难敌·三
+- 争锋战中击杀450人
+#+BEGIN_EXAMPLE
+争锋战中击杀450人
+#+END_EXAMPLE
+
+** 争锋难敌·四
+- 争锋战中击杀600人
+#+BEGIN_EXAMPLE
+争锋战中击杀600人
+#+END_EXAMPLE
+
+* 论剑
+** 一段
+- 竞技场1段
+#+BEGIN_EXAMPLE
+竞技场1段
+#+END_EXAMPLE
+
+** 二段
+- 竞技场2段
+#+BEGIN_EXAMPLE
+竞技场2段
+#+END_EXAMPLE
+
+** 三段
+- 竞技场3段
+#+BEGIN_EXAMPLE
+竞技场3段
+#+END_EXAMPLE
+
+** 四段
+- 竞技场4段
+#+BEGIN_EXAMPLE
+竞技场4段
+#+END_EXAMPLE
+
+** 五段
+- 竞技场5段
+#+BEGIN_EXAMPLE
+竞技场5段
+#+END_EXAMPLE
+
+** 六段
+- 竞技场6段
+#+BEGIN_EXAMPLE
+竞技场6段
+#+END_EXAMPLE
+
+** 七段
+- 竞技场7段
+#+BEGIN_EXAMPLE
+竞技场7段
+#+END_EXAMPLE
+
+** 八段
+- 竞技场8段
+#+BEGIN_EXAMPLE
+竞技场8段
+#+END_EXAMPLE
+
+** 九段
+- 竞技场9段
+#+BEGIN_EXAMPLE
+竞技场9段
+#+END_EXAMPLE
+
+** 试剑
+- 竞技场10段
+#+BEGIN_EXAMPLE
+竞技场10段
+#+END_EXAMPLE
+
+** 利剑
+- 竞技场11段
+#+BEGIN_EXAMPLE
+竞技场11段
+#+END_EXAMPLE
+
+** 快剑
+- 竞技场12段
+#+BEGIN_EXAMPLE
+竞技场12段
+#+END_EXAMPLE
+
+** 飞剑
+- 竞技场13段
+#+BEGIN_EXAMPLE
+竞技场13段
+#+END_EXAMPLE
+
+** 神剑
+- 竞技场14段
+#+BEGIN_EXAMPLE
+竞技场14段
+#+END_EXAMPLE
+
+** 意剑
+- 竞技场15段
+#+BEGIN_EXAMPLE
+竞技场15段
+#+END_EXAMPLE
+
+** 心剑
+- 竞技场16段
+#+BEGIN_EXAMPLE
+竞技场16段
+#+END_EXAMPLE
+
+** 白虹
+- 竞技场17段
+#+BEGIN_EXAMPLE
+竞技场17段
+#+END_EXAMPLE
+
+** 秋水
+- 竞技场18段
+#+BEGIN_EXAMPLE
+竞技场18段
+#+END_EXAMPLE
+
+** 吹雪
+- 竞技场19段
+#+BEGIN_EXAMPLE
+竞技场19段
+#+END_EXAMPLE
+
+** 登峰
+- 竞技场20段
+#+BEGIN_EXAMPLE
+竞技场20段
+#+END_EXAMPLE
+
+** 造极
+- 竞技场21段
+#+BEGIN_EXAMPLE
+竞技场21段
+#+END_EXAMPLE
+
+** 化境
+- 竞技场22段
+#+BEGIN_EXAMPLE
+竞技场22段
+#+END_EXAMPLE
+
+** 武痴
+- 竞技场23段
+#+BEGIN_EXAMPLE
+竞技场23段
+#+END_EXAMPLE
+
+** 武尊
+- 竞技场24段
+#+BEGIN_EXAMPLE
+竞技场24段
+#+END_EXAMPLE
+
+** 武圣
+- 竞技场25段
+#+BEGIN_EXAMPLE
+竞技场25段
+#+END_EXAMPLE
+
+** 求败
+- 竞技场26段
+#+BEGIN_EXAMPLE
+竞技场26段
+#+END_EXAMPLE
+
+** 四海论英雄·新秀
+- 四海论英雄活动到达第二关
+#+BEGIN_EXAMPLE
+四海论英雄活动到达第二关
+四海论英雄活动到达第三关
+四海论英雄活动到达第四关
+四海论英雄活动到达第五关
+四海论英雄活动到达第六关
+四海论英雄活动到达第七关
+#+END_EXAMPLE
+
+** 四海论英雄·锐气
+- 四海论英雄活动到达第三关
+#+BEGIN_EXAMPLE
+四海论英雄活动到达第三关
+四海论英雄活动到达第四关
+四海论英雄活动到达第五关
+四海论英雄活动到达第六关
+四海论英雄活动到达第七关
+#+END_EXAMPLE
+
+** 四海论英雄·英武
+- 四海论英雄活动到达第四关
+#+BEGIN_EXAMPLE
+四海论英雄活动到达第四关
+四海论英雄活动到达第五关
+四海论英雄活动到达第六关
+四海论英雄活动到达第七关
+#+END_EXAMPLE
+
+** 四海论英雄·上游
+- 四海论英雄活动到达第五关
+#+BEGIN_EXAMPLE
+四海论英雄活动到达第五关
+四海论英雄活动到达第六关
+四海论英雄活动到达第七关
+#+END_EXAMPLE
+
+** 四海论英雄·出众
+- 四海论英雄活动到达第六关
+#+BEGIN_EXAMPLE
+四海论英雄活动到达第六关
+四海论英雄活动到达第七关
+#+END_EXAMPLE
+
+** 四海论英雄·卓越
+- 四海论英雄活动到达第七关
+#+BEGIN_EXAMPLE
+四海论英雄活动到达第七关
+#+END_EXAMPLE
+
+* 一代宗师
+** 一代宗师·壹
+- 一代宗师战场小队第一名1次
+#+BEGIN_EXAMPLE
+一代宗师战场小队第一名1次
+#+END_EXAMPLE
+
+** 一代宗师·贰
+- 一代宗师战场小队第一名3次
+#+BEGIN_EXAMPLE
+一代宗师战场小队第一名3次
+#+END_EXAMPLE
+
+** 一代宗师·叁
+- 一代宗师战场小队第一名5次
+#+BEGIN_EXAMPLE
+一代宗师战场小队第一名5次
+#+END_EXAMPLE
+
+** 一代宗师·肆
+- 一代宗师战场小队第一名10次
+#+BEGIN_EXAMPLE
+一代宗师战场小队第一名10次
+#+END_EXAMPLE
+
+** 竞秀于林·壹
+- 一代宗师战场单局击杀超过10人1次
+#+BEGIN_EXAMPLE
+一代宗师战场单局击杀超过10人1次
+#+END_EXAMPLE
+
+** 竞秀于林·贰
+- 一代宗师战场单局击杀超过10人3次
+#+BEGIN_EXAMPLE
+一代宗师战场单局击杀超过10人3次
+#+END_EXAMPLE
+
+** 竞秀于林·叁
+- 一代宗师战场单局击杀超过10人5次
+#+BEGIN_EXAMPLE
+一代宗师战场单局击杀超过10人5次
+#+END_EXAMPLE
+
+** 竞秀于林·肆
+- 一代宗师战场单局击杀超过10人10次
+#+BEGIN_EXAMPLE
+一代宗师战场单局击杀超过10人10次
+#+END_EXAMPLE
+
+** 适者生存·壹
+- 一代宗师战场累积击杀10人
+#+BEGIN_EXAMPLE
+一代宗师战场累积击杀10人
+#+END_EXAMPLE
+
+** 适者生存·贰
+- 一代宗师战场累积击杀20人
+#+BEGIN_EXAMPLE
+一代宗师战场累积击杀20人
+#+END_EXAMPLE
+
+** 适者生存·叁
+- 一代宗师战场累积击杀50人
+#+BEGIN_EXAMPLE
+一代宗师战场累积击杀50人
+#+END_EXAMPLE
+
+** 适者生存·肆
+- 一代宗师战场累积击杀100人
+#+BEGIN_EXAMPLE
+一代宗师战场累积击杀100人
+#+END_EXAMPLE
+
+** 适者生存·伍
+- 一代宗师战场累积击杀200人
+#+BEGIN_EXAMPLE
+一代宗师战场累积击杀200人
+#+END_EXAMPLE
+
+** 宗师之路·壹
+- 一代宗师积分达到1201
+#+BEGIN_EXAMPLE
+一代宗师积分达到1201
+#+END_EXAMPLE
+
+** 宗师之路·贰
+- 一代宗师积分达到1401
+#+BEGIN_EXAMPLE
+一代宗师积分达到1401
+#+END_EXAMPLE
+
+** 宗师之路·叁
+- 一代宗师积分达到1601
+#+BEGIN_EXAMPLE
+一代宗师积分达到1601
+#+END_EXAMPLE
+
+** 宗师之路·肆
+- 一代宗师积分达到1801
+#+BEGIN_EXAMPLE
+一代宗师积分达到1801
+#+END_EXAMPLE
+
+** 宗师之路·伍
+- 一代宗师积分达到3000
+#+BEGIN_EXAMPLE
+一代宗师积分达到3000
+#+END_EXAMPLE
+
+** 立地成佛
+- 一代宗师战场中0杀获得第一
+#+BEGIN_EXAMPLE
+一代宗师战场中0杀获得第一
+#+END_EXAMPLE
+
+** 天命龙套
+- 一代宗师战场中小队排名倒数第一
+#+BEGIN_EXAMPLE
+一代宗师战场中小队排名倒数第一
+#+END_EXAMPLE
+
+** 一人之下
+- 一代宗师战场中小队排名第二
+#+BEGIN_EXAMPLE
+一代宗师战场中小队排名第二
+#+END_EXAMPLE
+
+** 一代宗师·伍
+- 一代宗师战场小队第一名15次
+#+BEGIN_EXAMPLE
+一代宗师战场小队第一名15次
+#+END_EXAMPLE
+
+** 一代宗师·陆
+- 一代宗师战场小队第一名25次
+#+BEGIN_EXAMPLE
+一代宗师战场小队第一名25次
+#+END_EXAMPLE
+
+** 一代宗师·柒
+- 一代宗师战场小队第一名50次
+#+BEGIN_EXAMPLE
+一代宗师战场小队第一名50次
+#+END_EXAMPLE
+
+** 竞秀于林·伍
+- 一代宗师战场单局击杀超过10人15次
+#+BEGIN_EXAMPLE
+一代宗师单局击杀10人15次
+#+END_EXAMPLE
+
+** 竞秀于林·陆
+- 一代宗师战场单局击杀超过10人25次
+#+BEGIN_EXAMPLE
+一代宗师单局击杀10人25次
+#+END_EXAMPLE
+
+** 竞秀于林·柒
+- 一代宗师战场单局击杀超过10人50次
+#+BEGIN_EXAMPLE
+一代宗师单局击杀10人50次
+#+END_EXAMPLE
+
+** 竞秀于林·捌
+- 一代宗师战场单局击杀超过10人100次
+#+BEGIN_EXAMPLE
+一代宗师单局击杀10人100次
+#+END_EXAMPLE
+
+** 适者生存·陆
+- 一代宗师战场累积击杀250人
+#+BEGIN_EXAMPLE
+一代宗师战场累计击杀250人
+#+END_EXAMPLE
+
+** 适者生存·柒
+- 一代宗师战场累积击杀300人
+#+BEGIN_EXAMPLE
+一代宗师战场累计击杀300人
+#+END_EXAMPLE
+
+** 适者生存·捌
+- 一代宗师战场累积击杀350人
+#+BEGIN_EXAMPLE
+一代宗师战场累计击杀350人
+#+END_EXAMPLE
+
+** 适者生存·玖
+- 一代宗师战场累积击杀500人
+#+BEGIN_EXAMPLE
+一代宗师战场累计击杀500人
+#+END_EXAMPLE
+
+** 适者生存·拾
+- 一代宗师战场累积击杀1000人
+#+BEGIN_EXAMPLE
+一代宗师战场累计击杀1000人
+#+END_EXAMPLE
+
+* 师妹
+** 钟灵毓秀
+- 迎接一位师妹
+#+BEGIN_EXAMPLE
+第一次领养师妹
+#+END_EXAMPLE
+
+** 前程锦绣
+- 培养一位师妹至出师
+#+BEGIN_EXAMPLE
+师妹第一次出师
+#+END_EXAMPLE
+
+** 相忘江湖
+- 让一位师妹离开海岛自己闯荡江湖
+#+BEGIN_EXAMPLE
+第一次解散师妹
+#+END_EXAMPLE
+
+** 游历江湖·壹
+- 师妹完成1次游历
+#+BEGIN_EXAMPLE
+师妹完成1次游历
+#+END_EXAMPLE
+
+** 游历江湖·贰
+- 师妹完成10次游历
+#+BEGIN_EXAMPLE
+师妹完成10次游历
+#+END_EXAMPLE
+
+** 游历江湖·叁
+- 师妹完成50次游历
+#+BEGIN_EXAMPLE
+师妹完成50次游历
+#+END_EXAMPLE
+
+** 游历江湖·肆
+- 师妹完成100次游历
+#+BEGIN_EXAMPLE
+师妹完成100次游历
+#+END_EXAMPLE
+
+** 游历江湖·伍
+- 师妹完成200次游历
+#+BEGIN_EXAMPLE
+师妹完成200次游历
+#+END_EXAMPLE
+
+** 游历江湖·陆
+- 师妹完成500次游历
+#+BEGIN_EXAMPLE
+师妹完成500次游历
+#+END_EXAMPLE
+
+** 名师高徒·壹
+- 使用1次名师帖
+#+BEGIN_EXAMPLE
+使用1次名师帖
+#+END_EXAMPLE
+
+** 名师高徒·贰
+- 累计使用15次名师帖
+#+BEGIN_EXAMPLE
+累计使用15次名师帖
+#+END_EXAMPLE
+
+** 名师高徒·叁
+- 累计使用30次名师帖
+#+BEGIN_EXAMPLE
+累计使用30次名师帖
+#+END_EXAMPLE
+
+** 名师高徒·肆
+- 累计使用50次名师帖
+#+BEGIN_EXAMPLE
+累计使用50次名师帖
+#+END_EXAMPLE
+
+** 清新雅丽
+- 为师妹收集一件时装
+#+BEGIN_EXAMPLE
+收集第一件师妹时装
+#+END_EXAMPLE
+
+** 劳逸结合
+- 师妹上一节休息课
+#+BEGIN_EXAMPLE
+师妹第一次进行休息课
+#+END_EXAMPLE
+
+** 劳形苦心
+- 师妹的疲劳值达到100
+#+BEGIN_EXAMPLE
+师妹疲劳度达到100
+#+END_EXAMPLE
+
+** 侠誉绘采
+- 收集到第一张侠誉图
+#+BEGIN_EXAMPLE
+第一次获得侠誉图
+#+END_EXAMPLE
+
+** 通窍开脉
+- 师妹完成游历——通窍开脉
+#+BEGIN_EXAMPLE
+师妹完成游历——通窍开脉
+#+END_EXAMPLE
+
+** 心助·壹
+- 习得蓝色心助技能
+#+BEGIN_EXAMPLE
+习得蓝色心助技能
+#+END_EXAMPLE
+
+** 心助·贰
+- 习得紫色心助技能
+#+BEGIN_EXAMPLE
+习得紫色心助技能
+#+END_EXAMPLE
+
+** 心助·叁
+- 习得金色心助技能
+#+BEGIN_EXAMPLE
+习得金色心助技能
+#+END_EXAMPLE
+
+** 通力合作
+- 习得合击技能
+#+BEGIN_EXAMPLE
+师妹习得1本合击技能
+#+END_EXAMPLE
+
+** 心领神会·壹
+- 将任意蓝色品质心助技能提升至20级
+#+BEGIN_EXAMPLE
+将任意蓝色心助技能升至满级
+#+END_EXAMPLE
+
+** 心领神会·贰
+- 将任意紫色品质心助技能提升至30级
+#+BEGIN_EXAMPLE
+将任意紫色心助技能升至满级
+#+END_EXAMPLE
+
+** 心领神会·叁
+- 将任意金色品质心助技能提升至40级
+#+BEGIN_EXAMPLE
+将任意金色心助技能升至满级
+#+END_EXAMPLE
+
+** 心领神悟！
+- 将任意合击技能提升至30级
+#+BEGIN_EXAMPLE
+将任意合击技能升至满级
+#+END_EXAMPLE
+
+** 笃实好学
+- 使用岁寒系列研习书籍进行1次属性提升
+#+BEGIN_EXAMPLE
+师妹完成1次研习
+#+END_EXAMPLE
+
+** 学而不厌
+- 使用岁寒系列研习书籍进行20次属性提升
+#+BEGIN_EXAMPLE
+师妹完成20次研习
+#+END_EXAMPLE
+
+** 笃学不倦
+- 使用岁寒系列研习书籍进行100次属性提升
+#+BEGIN_EXAMPLE
+师妹完成100次研习
+#+END_EXAMPLE
+
+** 谋无遗策
+- 师妹的韬略属性达到1000点
+#+BEGIN_EXAMPLE
+师妹的韬略属性达到1000点
+#+END_EXAMPLE
+
+** 典则俊雅
+- 师妹的风雅属性达到1000点
+#+BEGIN_EXAMPLE
+师妹的风雅属性达到1000点
+#+END_EXAMPLE
+
+** 慧心灵性
+- 师妹的灵性属性达到1000点
+#+BEGIN_EXAMPLE
+师妹的灵性属性达到1000点
+#+END_EXAMPLE
+
+** 余音绕梁
+- 师妹的乐理属性达到1000点
+#+BEGIN_EXAMPLE
+师妹的乐理属性达到1000点
+#+END_EXAMPLE
+
+** 目不转睛
+- 师妹的专注属性达到1000点
+#+BEGIN_EXAMPLE
+师妹的专注属性达到1000点
+#+END_EXAMPLE
+
+** 武艺超群·壹
+- 师妹武艺总属性达到6000点
+#+BEGIN_EXAMPLE
+师妹武艺总属性达到6000点
+#+END_EXAMPLE
+
+** 武艺超群·贰
+- 师妹武艺总属性达到7500点
+#+BEGIN_EXAMPLE
+师妹武艺总属性达到7500点
+#+END_EXAMPLE
+
+** 武艺超群·叁
+- 师妹武艺总属性达到9000点
+#+BEGIN_EXAMPLE
+师妹武艺总属性达到9000点
+#+END_EXAMPLE
+
+** 武艺超群·肆
+- 师妹武艺总属性达到10500点
+#+BEGIN_EXAMPLE
+师妹武艺总属性达到10500点
+#+END_EXAMPLE
+
+** 武艺超群·伍
+- 师妹武艺总属性达到12000点
+#+BEGIN_EXAMPLE
+师妹武艺总属性达到12000点
+#+END_EXAMPLE
+
+** 武艺超群·陆
+- 师妹武艺总属性达到14000点
+#+BEGIN_EXAMPLE
+师妹武艺总属性达到14000点
+#+END_EXAMPLE
+
+** 金声玉振·壹
+- 师妹才艺总属性达到2500
+#+BEGIN_EXAMPLE
+师妹才艺总属性达到2500
+#+END_EXAMPLE
+
+** 金声玉振·贰
+- 师妹才艺总属性达到3000
+#+BEGIN_EXAMPLE
+师妹才艺总属性达到3000
+#+END_EXAMPLE
+
+** 金声玉振·叁
+- 师妹才艺总属性达到3500
+#+BEGIN_EXAMPLE
+师妹才艺总属性达到3500
+#+END_EXAMPLE
+
+** 金声玉振·肆
+- 师妹才艺总属性达到4000
+#+BEGIN_EXAMPLE
+师妹才艺总属性达到4000
+#+END_EXAMPLE
+
+** 金声玉振·伍
+- 师妹才艺总属性达到4500
+#+BEGIN_EXAMPLE
+师妹才艺总属性达到4500
+#+END_EXAMPLE
+
+** 金声玉振·陆
+- 师妹才艺总属性达到5000
+#+BEGIN_EXAMPLE
+师妹才艺总属性达到5000
+#+END_EXAMPLE
+
+** 秘会师尊
+- 完成游历——秘会师尊
+#+BEGIN_EXAMPLE
+师妹完成游历——秘会师尊
+#+END_EXAMPLE
+

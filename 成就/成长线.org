@@ -1,0 +1,1297 @@
+#+TITLE: 成长线
+#+AUTHOR: 李鹄
+
+* 关键成就
+** 海图争霸·一
+- 消耗炮弹200枚
+#+BEGIN_EXAMPLE
+消耗特殊弹药200枚
+#+END_EXAMPLE
+
+** 商业贸易·一
+- 累计获得50000航海币利润
+#+BEGIN_EXAMPLE
+赚取五万宋钱利润
+#+END_EXAMPLE
+
+** 港口投资·一
+- 总投资额超过25000
+#+BEGIN_EXAMPLE
+港口总投资额超过25000点
+#+END_EXAMPLE
+
+** 图鉴探索·一
+- 冒险点数达到2000点；
+#+BEGIN_EXAMPLE
+冒险点数达到2000点
+#+END_EXAMPLE
+
+** 评分实力·一
+- 船评分达到12500点。
+#+BEGIN_EXAMPLE
+船只评分达到12500点
+#+END_EXAMPLE
+
+** 势力关系·一
+- 在绝智轩、大宋海政司、四海商盟的评价均达到自强
+#+BEGIN_EXAMPLE
+绝智轩评价达到自强
+大宋海政司评价达到自强
+四海商盟评价达到自强
+#+END_EXAMPLE
+
+** 海图争霸·二
+- 击沉任意NPC船只10次
+#+BEGIN_EXAMPLE
+击沉任意NPC船10艘
+#+END_EXAMPLE
+
+** 商业贸易·二
+- 累计获得200000航海币利润
+#+BEGIN_EXAMPLE
+二十万宋钱利润
+#+END_EXAMPLE
+
+** 港口投资·二
+- 总投资额超过100000
+#+BEGIN_EXAMPLE
+港口总投资额超过100000点
+#+END_EXAMPLE
+
+** 图鉴探索·二
+- 冒险点数达到6000点
+#+BEGIN_EXAMPLE
+冒险点数达到6000点
+#+END_EXAMPLE
+
+** 评分实力·二
+- 船评分达到14000点
+#+BEGIN_EXAMPLE
+船只评分达到14000点
+#+END_EXAMPLE
+
+** 势力关系·二
+- 在绝智轩、大宋海政司、四海商盟的评价均达到嘉勉
+#+BEGIN_EXAMPLE
+绝智轩评价达到嘉勉
+大宋海政司评价达到嘉勉
+四海商盟评价达到嘉勉
+#+END_EXAMPLE
+
+** 海图争霸·三
+- 击沉任意NPC船只30次
+#+BEGIN_EXAMPLE
+击沉任意NPC船只30次
+#+END_EXAMPLE
+
+** 商业贸易·三
+- 累计获得1000000航海币利润
+#+BEGIN_EXAMPLE
+一百万宋钱利润
+#+END_EXAMPLE
+
+** 港口投资·三
+- 总投资额超过400000
+#+BEGIN_EXAMPLE
+港口总投资额超过400000点
+#+END_EXAMPLE
+
+** 图鉴探索·三
+- 冒险点数达到15000点
+#+BEGIN_EXAMPLE
+冒险点数达到15000点
+#+END_EXAMPLE
+
+** 评分实力·三
+- 船评分达到15500点
+#+BEGIN_EXAMPLE
+船只评分达到15500点
+#+END_EXAMPLE
+
+** 势力关系·三
+- 在绝智轩、大宋海政司、四海商盟的评价均达到楷模
+#+BEGIN_EXAMPLE
+绝智轩评价达到楷模
+大宋海政司评价达到楷模
+四海商盟评价达到楷模
+#+END_EXAMPLE
+
+** 海图争霸·四
+- 击沉任意NPC船只100次
+#+BEGIN_EXAMPLE
+击沉任意NPC船只100次
+#+END_EXAMPLE
+
+** 商业贸易·四
+- 累计获得5000000航海币利润
+#+BEGIN_EXAMPLE
+五百万宋钱利润
+#+END_EXAMPLE
+
+** 港口投资·四
+- 总投资额超过1500000
+#+BEGIN_EXAMPLE
+港口总投资额超过1500000点
+#+END_EXAMPLE
+
+** 图鉴探索·四
+- 冒险点数达到35000点
+#+BEGIN_EXAMPLE
+冒险点数达到35000点
+#+END_EXAMPLE
+
+** 评分实力·四
+- 船评分达到16500点
+#+BEGIN_EXAMPLE
+船只评分达到16500点
+#+END_EXAMPLE
+
+** 势力关系·四
+- 在绝智轩、大宋海政司、四海商盟的评价均达到泰斗
+#+BEGIN_EXAMPLE
+绝智轩评价达到泰斗
+大宋海政司评价达到泰斗
+四海商盟评价达到泰斗
+#+END_EXAMPLE
+
+** 海图争霸·五
+- 打捞沉船物150次
+#+BEGIN_EXAMPLE
+打捞沉船物150次
+#+END_EXAMPLE
+
+** 商业贸易·五
+- 累计出售流行货物1500个。
+#+BEGIN_EXAMPLE
+跑商累计出售流行货物1500个
+#+END_EXAMPLE
+
+** 港口投资·五
+- 总投资额超过6500000
+#+BEGIN_EXAMPLE
+港口总投资额超过6500000点
+#+END_EXAMPLE
+
+** 图鉴探索·五
+- 冒险点数达到55000点；地图探索达100%
+#+BEGIN_EXAMPLE
+冒险点数达到55000点
+地图探索达100%
+#+END_EXAMPLE
+
+** 评分实力·五
+- 船评分达到17500点
+#+BEGIN_EXAMPLE
+船只评分达到17500点
+#+END_EXAMPLE
+
+** 势力关系·五
+- 在绝智轩、大宋海政司、四海商盟的评价均达到传说
+#+BEGIN_EXAMPLE
+绝智轩评价达到传说
+大宋海政司评价达到传说
+四海商盟评价达到传说
+#+END_EXAMPLE
+
+* 建设
+** 别苑·零
+- 清理别苑的地基
+#+BEGIN_EXAMPLE
+别苑·地基
+#+END_EXAMPLE
+
+** 别苑·壹
+- 别苑·壹级
+#+BEGIN_EXAMPLE
+别苑·壹级
+#+END_EXAMPLE
+
+** 别苑·贰
+- 别苑·贰级
+#+BEGIN_EXAMPLE
+别苑·贰级
+#+END_EXAMPLE
+
+** 别苑·叁
+- 别苑·叁级
+#+BEGIN_EXAMPLE
+别苑·叁级
+#+END_EXAMPLE
+
+** 别苑·肆
+- 别苑·肆级
+#+BEGIN_EXAMPLE
+别苑·肆级
+#+END_EXAMPLE
+
+** 别苑·伍
+- 别苑·伍级
+#+BEGIN_EXAMPLE
+别苑·伍级
+#+END_EXAMPLE
+
+** 客舍·零
+- 清理客舍的地基
+#+BEGIN_EXAMPLE
+客舍·地基
+#+END_EXAMPLE
+
+** 客舍·壹
+- 客舍·壹级
+#+BEGIN_EXAMPLE
+客舍·壹级
+#+END_EXAMPLE
+
+** 雕像·零
+- 清理雕像的地基
+#+BEGIN_EXAMPLE
+雕像·地基
+#+END_EXAMPLE
+
+** 雕像·壹
+- 雕像·壹级
+#+BEGIN_EXAMPLE
+雕像·壹级
+#+END_EXAMPLE
+
+** 花园·零
+- 清理花园的地基
+#+BEGIN_EXAMPLE
+花园·地基
+#+END_EXAMPLE
+
+** 花园·壹
+- 花园·壹级
+#+BEGIN_EXAMPLE
+花园·壹级
+#+END_EXAMPLE
+
+** 船坞·零
+- 清理船坞的地基
+#+BEGIN_EXAMPLE
+船坞·地基
+#+END_EXAMPLE
+
+** 船坞·壹
+- 船坞·壹级
+#+BEGIN_EXAMPLE
+船坞·壹级
+#+END_EXAMPLE
+
+** 船坞·贰
+- 船坞·贰级
+#+BEGIN_EXAMPLE
+船坞·贰级
+#+END_EXAMPLE
+
+** 船坞·叁
+- 船坞·叁级
+#+BEGIN_EXAMPLE
+船坞·叁级
+#+END_EXAMPLE
+
+** 船坞·肆
+- 船坞·肆级
+#+BEGIN_EXAMPLE
+船坞·肆级
+#+END_EXAMPLE
+
+** 船坞·伍
+- 船坞·伍级
+#+BEGIN_EXAMPLE
+船坞·伍级
+#+END_EXAMPLE
+
+** 灯塔·零
+- 清理灯塔的地基
+#+BEGIN_EXAMPLE
+灯塔·地基
+#+END_EXAMPLE
+
+** 灯塔·壹
+- 灯塔·壹级
+#+BEGIN_EXAMPLE
+灯塔·壹级
+#+END_EXAMPLE
+
+** 工匠坊·零
+- 清理工匠坊的地基
+#+BEGIN_EXAMPLE
+工匠坊·地基
+#+END_EXAMPLE
+
+** 工匠坊·壹
+- 工匠坊·壹级
+#+BEGIN_EXAMPLE
+工匠坊·壹级
+#+END_EXAMPLE
+
+** 农舍·零
+- 清理农舍的地基
+#+BEGIN_EXAMPLE
+农舍·地基
+#+END_EXAMPLE
+
+** 农舍·壹
+- 农舍·壹级
+#+BEGIN_EXAMPLE
+农舍·壹级
+#+END_EXAMPLE
+
+** 农舍·贰
+- 农舍·贰级
+#+BEGIN_EXAMPLE
+农舍·贰级
+#+END_EXAMPLE
+
+** 农舍·叁
+- 农舍·叁级
+#+BEGIN_EXAMPLE
+农舍·叁级
+#+END_EXAMPLE
+
+** 农舍·肆
+- 农舍·肆级
+#+BEGIN_EXAMPLE
+农舍·肆级
+#+END_EXAMPLE
+
+** 农舍·伍
+- 农舍·伍级
+#+BEGIN_EXAMPLE
+农舍·伍级
+#+END_EXAMPLE
+
+** 伐木场·零
+- 清理伐木场的地基
+#+BEGIN_EXAMPLE
+伐木场·地基
+#+END_EXAMPLE
+
+** 伐木场·壹
+- 伐木场·壹级
+#+BEGIN_EXAMPLE
+伐木场·壹级
+#+END_EXAMPLE
+
+* 探索
+** 冒险·壹
+- 冒险等级达到1级
+#+BEGIN_EXAMPLE
+获得500点冒险点数
+#+END_EXAMPLE
+
+** 冒险·贰
+- 冒险等级达到2级
+#+BEGIN_EXAMPLE
+获得1000点冒险点数
+#+END_EXAMPLE
+
+** 冒险·叁
+- 冒险等级达到3级
+#+BEGIN_EXAMPLE
+获得1500点冒险点数
+#+END_EXAMPLE
+
+** 冒险·肆
+- 冒险等级达到4级
+#+BEGIN_EXAMPLE
+获得2000点冒险点数
+#+END_EXAMPLE
+
+** 冒险·伍
+- 冒险等级达到5级
+#+BEGIN_EXAMPLE
+获得3000点冒险点数
+#+END_EXAMPLE
+
+** 冒险·陆
+- 冒险等级达到6级
+#+BEGIN_EXAMPLE
+获得4000点冒险点数
+#+END_EXAMPLE
+
+** 冒险·柒
+- 冒险等级达到7级
+#+BEGIN_EXAMPLE
+获得5000点冒险点数
+#+END_EXAMPLE
+
+** 冒险·捌
+- 冒险等级达到8级
+#+BEGIN_EXAMPLE
+获得6000点冒险点数
+#+END_EXAMPLE
+
+** 冒险·玖
+- 冒险等级达到9级
+#+BEGIN_EXAMPLE
+获得8000点冒险点数
+#+END_EXAMPLE
+
+** 冒险·拾
+- 冒险等级达到10级
+#+BEGIN_EXAMPLE
+获得10000点冒险点数
+#+END_EXAMPLE
+
+** 冒险·拾壹
+- 冒险等级达到11级
+#+BEGIN_EXAMPLE
+获得12500点冒险点数
+#+END_EXAMPLE
+
+** 冒险·拾贰
+- 冒险等级达到12级
+#+BEGIN_EXAMPLE
+获得15000点冒险点数
+#+END_EXAMPLE
+
+** 冒险·拾叁
+- 冒险等级达到13级
+#+BEGIN_EXAMPLE
+获得20000点冒险点数
+#+END_EXAMPLE
+
+** 冒险·拾肆
+- 冒险等级达到14级
+#+BEGIN_EXAMPLE
+获得25000点冒险点数
+#+END_EXAMPLE
+
+** 冒险·拾伍
+- 冒险等级达到15级
+#+BEGIN_EXAMPLE
+获得30000点冒险点数
+#+END_EXAMPLE
+
+** 冒险·拾陆
+- 冒险等级达到16级
+#+BEGIN_EXAMPLE
+获得35000点冒险点数
+#+END_EXAMPLE
+
+** 冒险·拾柒
+- 冒险等级达到17级
+#+BEGIN_EXAMPLE
+获得40000点冒险点数
+#+END_EXAMPLE
+
+** 冒险·拾捌
+- 冒险等级达到18级
+#+BEGIN_EXAMPLE
+获得45000点冒险点数
+#+END_EXAMPLE
+
+** 冒险·拾玖
+- 冒险等级达到19级
+#+BEGIN_EXAMPLE
+获得50000点冒险点数
+#+END_EXAMPLE
+
+** 冒险·贰拾
+- 冒险等级达到20级
+#+BEGIN_EXAMPLE
+获得55000点冒险点数
+#+END_EXAMPLE
+
+** 远洋·壹
+- 探索10%的海洋区域
+#+BEGIN_EXAMPLE
+探索10%的海洋区域
+#+END_EXAMPLE
+
+** 远洋·贰
+- 探索20%的海洋区域
+#+BEGIN_EXAMPLE
+探索20%的海洋区域
+#+END_EXAMPLE
+
+** 远洋·叁
+- 探索30%的海洋区域
+#+BEGIN_EXAMPLE
+探索30%的海洋区域
+#+END_EXAMPLE
+
+** 远洋·肆
+- 探索40%的海洋区域
+#+BEGIN_EXAMPLE
+探索40%的海洋区域
+#+END_EXAMPLE
+
+** 远洋·伍
+- 探索50%的海洋区域
+#+BEGIN_EXAMPLE
+探索50%的海洋区域
+#+END_EXAMPLE
+
+** 远洋·陆
+- 探索60%的海洋区域
+#+BEGIN_EXAMPLE
+探索60%的海洋区域
+#+END_EXAMPLE
+
+** 远洋·柒
+- 探索70%的海洋区域
+#+BEGIN_EXAMPLE
+探索70%的海洋区域
+#+END_EXAMPLE
+
+** 远洋·捌
+- 探索80%的海洋区域
+#+BEGIN_EXAMPLE
+探索80%的海洋区域
+#+END_EXAMPLE
+
+** 远洋·玖
+- 探索90%的海洋区域
+#+BEGIN_EXAMPLE
+探索90%的海洋区域
+#+END_EXAMPLE
+
+** 远洋·拾
+- 探索100%的海洋区域
+#+BEGIN_EXAMPLE
+探索100%的海洋区域
+#+END_EXAMPLE
+
+** 港口志高人
+- 解锁港口志12篇
+#+BEGIN_EXAMPLE
+解锁港口志12篇
+#+END_EXAMPLE
+
+** 鸟兽志高人
+- 解锁鸟兽志15篇
+#+BEGIN_EXAMPLE
+解锁鸟兽志15篇
+#+END_EXAMPLE
+
+** 草木志高人
+- 解锁草木志18篇
+#+BEGIN_EXAMPLE
+解锁草木志18篇
+#+END_EXAMPLE
+
+** 地理志高人
+- 解锁地理志20篇
+#+BEGIN_EXAMPLE
+解锁地理志20篇
+#+END_EXAMPLE
+
+** 水产志高人
+- 解锁水产志22篇
+#+BEGIN_EXAMPLE
+解锁水产志22篇
+#+END_EXAMPLE
+
+** 补给·壹
+- 累计消耗5000粮食物资
+#+BEGIN_EXAMPLE
+累计消耗5000粮食物资
+#+END_EXAMPLE
+
+** 补给·贰
+- 累计消耗50000粮食物资
+#+BEGIN_EXAMPLE
+累计消耗50000粮食物资
+#+END_EXAMPLE
+
+** 补给·叁
+- 累计消耗500000粮食物资
+#+BEGIN_EXAMPLE
+累计消耗500000粮食物资
+#+END_EXAMPLE
+
+** 龙卷风
+- 搭乘船只置身于龙卷风之中
+#+BEGIN_EXAMPLE
+驾驶的船只
+#+END_EXAMPLE
+
+** 大漩涡
+- 搭乘船只置身于大漩涡之中
+#+BEGIN_EXAMPLE
+累计消耗500000粮食物资
+#+END_EXAMPLE
+
+* 贸易
+** 买卖圣手·壹
+- 通过贸易获得利润10000
+#+BEGIN_EXAMPLE
+通过贸易获得利润10000
+#+END_EXAMPLE
+
+** 买卖圣手·贰
+- 通过贸易获得利润15000
+#+BEGIN_EXAMPLE
+通过贸易获得利润15000
+#+END_EXAMPLE
+
+** 买卖圣手·叁
+- 通过贸易获得利润25000
+#+BEGIN_EXAMPLE
+通过贸易获得利润25000
+#+END_EXAMPLE
+
+** 买卖圣手·肆
+- 通过贸易获得利润40000
+#+BEGIN_EXAMPLE
+通过贸易获得利润40000
+#+END_EXAMPLE
+
+** 买卖圣手·伍
+- 通过贸易获得利润65000
+#+BEGIN_EXAMPLE
+通过贸易获得利润65000
+#+END_EXAMPLE
+
+** 买卖圣手·陆
+- 通过贸易获得利润100000
+#+BEGIN_EXAMPLE
+通过贸易获得利润100000
+#+END_EXAMPLE
+
+** 买卖圣手·柒
+- 通过贸易获得利润150000
+#+BEGIN_EXAMPLE
+通过贸易获得利润150000
+#+END_EXAMPLE
+
+** 买卖圣手·捌
+- 通过贸易获得利润250000
+#+BEGIN_EXAMPLE
+通过贸易获得利润250000
+#+END_EXAMPLE
+
+** 买卖圣手·玖
+- 通过贸易获得利润400000
+#+BEGIN_EXAMPLE
+通过贸易获得利润400000
+#+END_EXAMPLE
+
+** 买卖圣手·拾
+- 通过贸易获得利润650000
+#+BEGIN_EXAMPLE
+通过贸易获得利润650000
+#+END_EXAMPLE
+
+** 买卖圣手·拾壹
+- 通过贸易获得利润1000000
+#+BEGIN_EXAMPLE
+通过贸易获得利润1000000
+#+END_EXAMPLE
+
+** 买卖圣手·拾贰
+- 通过贸易获得利润1500000
+#+BEGIN_EXAMPLE
+通过贸易获得利润1500000
+#+END_EXAMPLE
+
+** 买卖圣手·拾叁
+- 通过贸易获得利润2500000
+#+BEGIN_EXAMPLE
+通过贸易获得利润2500000
+#+END_EXAMPLE
+
+** 买卖圣手·拾肆
+- 通过贸易获得利润4000000
+#+BEGIN_EXAMPLE
+通过贸易获得利润4000000
+#+END_EXAMPLE
+
+** 买卖圣手·拾伍
+- 通过贸易获得利润6500000
+#+BEGIN_EXAMPLE
+通过贸易获得利润6500000
+#+END_EXAMPLE
+
+** 买卖圣手·拾陆
+- 通过贸易获得利润10000000
+#+BEGIN_EXAMPLE
+通过贸易获得利润10000000
+#+END_EXAMPLE
+
+** 买卖圣手·拾柒
+- 通过贸易获得利润17500000
+#+BEGIN_EXAMPLE
+通过贸易获得利润17500000
+#+END_EXAMPLE
+
+** 买卖圣手·拾捌
+- 通过贸易获得利润30000000
+#+BEGIN_EXAMPLE
+通过贸易获得利润30000000
+#+END_EXAMPLE
+
+** 买卖圣手·拾玖
+- 通过贸易获得利润55000000
+#+BEGIN_EXAMPLE
+通过贸易获得利润55000000
+#+END_EXAMPLE
+
+** 买卖圣手·贰拾
+- 通过贸易获得利润100000000
+#+BEGIN_EXAMPLE
+通过贸易获得利润100000000
+#+END_EXAMPLE
+
+** 将本图利·壹
+- 总投资额达到10000
+#+BEGIN_EXAMPLE
+总投资额达到10000
+#+END_EXAMPLE
+
+** 将本图利·贰
+- 总投资额达到15000
+#+BEGIN_EXAMPLE
+总投资额达到15000
+#+END_EXAMPLE
+
+** 将本图利·叁
+- 总投资额达到25000
+#+BEGIN_EXAMPLE
+总投资额达到25000
+#+END_EXAMPLE
+
+** 将本图利·肆
+- 总投资额达到40000
+#+BEGIN_EXAMPLE
+总投资额达到40000
+#+END_EXAMPLE
+
+** 将本图利·伍
+- 总投资额达到65000
+#+BEGIN_EXAMPLE
+总投资额达到65000
+#+END_EXAMPLE
+
+** 将本图利·陆
+- 总投资额达到100000
+#+BEGIN_EXAMPLE
+总投资额达到100000
+#+END_EXAMPLE
+
+** 将本图利·柒
+- 总投资额达到150000
+#+BEGIN_EXAMPLE
+总投资额达到150000
+#+END_EXAMPLE
+
+** 将本图利·捌
+- 总投资额达到250000
+#+BEGIN_EXAMPLE
+总投资额达到250000
+#+END_EXAMPLE
+
+** 将本图利·玖
+- 总投资额达到400000
+#+BEGIN_EXAMPLE
+总投资额达到400000
+#+END_EXAMPLE
+
+** 将本图利·拾
+- 总投资额达到650000
+#+BEGIN_EXAMPLE
+总投资额达到650000
+#+END_EXAMPLE
+
+** 将本图利·拾壹
+- 总投资额达到1000000
+#+BEGIN_EXAMPLE
+总投资额达到1000000
+#+END_EXAMPLE
+
+** 将本图利·拾贰
+- 总投资额达到1500000
+#+BEGIN_EXAMPLE
+总投资额达到1500000
+#+END_EXAMPLE
+
+** 将本图利·拾叁
+- 总投资额达到2500000
+#+BEGIN_EXAMPLE
+总投资额达到2500000
+#+END_EXAMPLE
+
+** 将本图利·拾肆
+- 总投资额达到4000000
+#+BEGIN_EXAMPLE
+总投资额达到4000000
+#+END_EXAMPLE
+
+** 将本图利·拾伍
+- 总投资额达到6500000
+#+BEGIN_EXAMPLE
+总投资额达到6500000
+#+END_EXAMPLE
+
+** 将本图利·拾陆
+- 总投资额达到10000000
+#+BEGIN_EXAMPLE
+总投资额达到10000000
+#+END_EXAMPLE
+
+** 将本图利·拾柒
+- 总投资额达到17500000
+#+BEGIN_EXAMPLE
+总投资额达到17500000
+#+END_EXAMPLE
+
+** 将本图利·拾捌
+- 总投资额达到30000000
+#+BEGIN_EXAMPLE
+总投资额达到30000000
+#+END_EXAMPLE
+
+** 将本图利·拾玖
+- 总投资额达到55000000
+#+BEGIN_EXAMPLE
+总投资额达到55000000
+#+END_EXAMPLE
+
+** 将本图利·贰拾
+- 总投资额达到100000000
+#+BEGIN_EXAMPLE
+总投资额达到100000000
+#+END_EXAMPLE
+
+** 日进斗金·壹
+- 累计卖出100个流行商品
+#+BEGIN_EXAMPLE
+卖出100个流行商品
+#+END_EXAMPLE
+
+** 日进斗金·贰
+- 累计卖出300个流行商品
+#+BEGIN_EXAMPLE
+卖出300个流行商品
+#+END_EXAMPLE
+
+** 日进斗金·叁
+- 累计卖出1000个流行商品
+#+BEGIN_EXAMPLE
+卖出1000个流行商品
+#+END_EXAMPLE
+
+** 日进斗金·肆
+- 累计卖出3000个流行商品
+#+BEGIN_EXAMPLE
+卖出3000个流行商品
+#+END_EXAMPLE
+
+** 日进斗金·伍
+- 累计卖出6000个流行商品
+#+BEGIN_EXAMPLE
+卖出6000个流行商品
+#+END_EXAMPLE
+
+** 富有四海·壹
+- 在任意3个港口的投资额达到5000
+#+BEGIN_EXAMPLE
+在任意3个港口的投资额达到5000
+#+END_EXAMPLE
+
+** 富有四海·贰
+- 在任意6个港口的投资额达到15000
+#+BEGIN_EXAMPLE
+在任意6个港口的投资额达到15000
+#+END_EXAMPLE
+
+** 富有四海·叁
+- 在任意6个港口的投资额达到40000
+#+BEGIN_EXAMPLE
+在任意6个港口的投资额达到40000
+#+END_EXAMPLE
+
+** 富有四海·肆
+- 在任意12个港口的投资额达到100000
+#+BEGIN_EXAMPLE
+在任意12个港口的投资额达到100000
+#+END_EXAMPLE
+
+** 富有四海·伍
+- 在任意12个港口的投资额达到250000
+#+BEGIN_EXAMPLE
+在任意12个港口的投资额达到250000
+#+END_EXAMPLE
+
+* 战斗
+** 战船铁炮·壹
+- 船只评分达到9000
+#+BEGIN_EXAMPLE
+船只评分达到9000
+#+END_EXAMPLE
+
+** 战船铁炮·贰
+- 船只评分达到10000
+#+BEGIN_EXAMPLE
+船只评分达到10000
+#+END_EXAMPLE
+
+** 战船铁炮·叁
+- 船只评分达到11000
+#+BEGIN_EXAMPLE
+船只评分达到11000
+#+END_EXAMPLE
+
+** 战船铁炮·肆
+- 船只评分达到12000
+#+BEGIN_EXAMPLE
+船只评分达到12000
+#+END_EXAMPLE
+
+** 战船铁炮·伍
+- 船只评分达到13000
+#+BEGIN_EXAMPLE
+船只评分达到13000
+#+END_EXAMPLE
+
+** 战船铁炮·陆
+- 船只评分达到13500
+#+BEGIN_EXAMPLE
+船只评分达到13500
+#+END_EXAMPLE
+
+** 战船铁炮·柒
+- 船只评分达到14000
+#+BEGIN_EXAMPLE
+船只评分达到14000
+#+END_EXAMPLE
+
+** 战船铁炮·捌
+- 船只评分达到14500
+#+BEGIN_EXAMPLE
+船只评分达到14500
+#+END_EXAMPLE
+
+** 战船铁炮·玖
+- 船只评分达到15000
+#+BEGIN_EXAMPLE
+船只评分达到15000
+#+END_EXAMPLE
+
+** 战船铁炮·拾
+- 船只评分达到15500
+#+BEGIN_EXAMPLE
+船只评分达到15500
+#+END_EXAMPLE
+
+** 战船铁炮·拾壹
+- 船只评分达到16000
+#+BEGIN_EXAMPLE
+船只评分达到16000
+#+END_EXAMPLE
+
+** 战船铁炮·拾贰
+- 船只评分达到16500
+#+BEGIN_EXAMPLE
+船只评分达到16500
+#+END_EXAMPLE
+
+** 战船铁炮·拾叁
+- 船只评分达到17000
+#+BEGIN_EXAMPLE
+船只评分达到17000
+#+END_EXAMPLE
+
+** 战船铁炮·拾肆
+- 船只评分达到17500
+#+BEGIN_EXAMPLE
+船只评分达到17500
+#+END_EXAMPLE
+
+** 战船铁炮·拾伍
+- 船只评分达到18000
+#+BEGIN_EXAMPLE
+船只评分达到18000
+#+END_EXAMPLE
+
+** 战船铁炮·拾陆
+- 船只评分达到18500
+#+BEGIN_EXAMPLE
+船只评分达到18500
+#+END_EXAMPLE
+
+** 战船铁炮·拾柒
+- 船只评分达到19000
+#+BEGIN_EXAMPLE
+船只评分达到19000
+#+END_EXAMPLE
+
+** 战船铁炮·拾捌
+- 船只评分达到19500
+#+BEGIN_EXAMPLE
+船只评分达到19500
+#+END_EXAMPLE
+
+** 战船铁炮·拾玖
+- 船只评分达到20000
+#+BEGIN_EXAMPLE
+船只评分达到20000
+#+END_EXAMPLE
+
+** 战船铁炮·贰拾
+- 船只评分达到20500
+#+BEGIN_EXAMPLE
+船只评分达到20500
+#+END_EXAMPLE
+
+** 海上强者·壹
+- 累计击沉5艘玩家船只
+#+BEGIN_EXAMPLE
+击沉5艘玩家船只
+#+END_EXAMPLE
+
+** 海上强者·贰
+- 累计击沉15艘玩家船只
+#+BEGIN_EXAMPLE
+击沉15艘玩家船只
+#+END_EXAMPLE
+
+** 海上强者·叁
+- 累计击沉50艘玩家船只
+#+BEGIN_EXAMPLE
+击沉50艘玩家船只
+#+END_EXAMPLE
+
+** 海上强者·肆
+- 累计击沉100艘玩家船只
+#+BEGIN_EXAMPLE
+击沉100艘玩家船只
+#+END_EXAMPLE
+
+** 海上强者·伍
+- 累计击沉200艘玩家船只
+#+BEGIN_EXAMPLE
+击沉200艘玩家船只
+#+END_EXAMPLE
+
+** 海上强者·陆
+- 累计击沉300艘玩家船只
+#+BEGIN_EXAMPLE
+击沉300艘玩家船只
+#+END_EXAMPLE
+
+** 海上强者·柒
+- 累计击沉600艘玩家船只
+#+BEGIN_EXAMPLE
+击沉600艘玩家船只
+#+END_EXAMPLE
+
+** 海上强者·捌
+- 累计击沉1000艘玩家船只
+#+BEGIN_EXAMPLE
+击沉1000艘玩家船只
+#+END_EXAMPLE
+
+** 海上强者·玖
+- 累计击沉2000艘玩家船只
+#+BEGIN_EXAMPLE
+击沉2000艘玩家船只
+#+END_EXAMPLE
+
+** 海上强者·拾
+- 累计击沉5000艘玩家船只
+#+BEGIN_EXAMPLE
+击沉5000艘玩家船只
+#+END_EXAMPLE
+
+** 炮火无情·壹
+- 在弹药模式下消耗20发炮弹
+#+BEGIN_EXAMPLE
+在弹药模式下消耗20发炮弹
+#+END_EXAMPLE
+
+** 炮火无情·贰
+- 在弹药模式下消耗100发炮弹
+#+BEGIN_EXAMPLE
+在弹药模式下消耗100发炮弹
+#+END_EXAMPLE
+
+** 炮火无情·叁
+- 在弹药模式下消耗500发炮弹
+#+BEGIN_EXAMPLE
+在弹药模式下消耗500发炮弹
+#+END_EXAMPLE
+
+** 炮火无情·肆
+- 在弹药模式下消耗2000发炮弹
+#+BEGIN_EXAMPLE
+在弹药模式下消耗2000发炮弹
+#+END_EXAMPLE
+
+** 炮火无情·伍
+- 在弹药模式下消耗10000发炮弹
+#+BEGIN_EXAMPLE
+在弹药模式下消耗10000发炮弹
+#+END_EXAMPLE
+
+** 海上奇遇·壹
+- 打捞5次沉船物资
+#+BEGIN_EXAMPLE
+打捞5次沉船物资
+#+END_EXAMPLE
+
+** 海上奇遇·贰
+- 打捞25次沉船物资
+#+BEGIN_EXAMPLE
+打捞25次沉船物资
+#+END_EXAMPLE
+
+** 海上奇遇·叁
+- 打捞125次沉船物资
+#+BEGIN_EXAMPLE
+打捞125次沉船物资
+#+END_EXAMPLE
+
+** 海上奇遇·肆
+- 打捞500次沉船物资
+#+BEGIN_EXAMPLE
+打捞500次沉船物资
+#+END_EXAMPLE
+
+** 海上奇遇·伍
+- 打捞2500次沉船物资
+#+BEGIN_EXAMPLE
+打捞2500次沉船物资
+#+END_EXAMPLE
+
+** 船坚甲厉·壹
+- 解锁船只装备:火炮
+#+BEGIN_EXAMPLE
+解锁火炮
+#+END_EXAMPLE
+
+** 船坚甲厉·贰
+- 解锁船只装备:护甲
+#+BEGIN_EXAMPLE
+解锁护甲
+#+END_EXAMPLE
+
+** 船坚甲厉·叁
+- 解锁船只装备:船首像
+#+BEGIN_EXAMPLE
+解锁船首像
+#+END_EXAMPLE
+
+** 飞龙在天·壹
+- 获得潜龙之渊战场胜利1次
+#+BEGIN_EXAMPLE
+获得潜龙之渊战场胜利1次
+#+END_EXAMPLE
+
+** 飞龙在天·贰
+- 获得潜龙之渊战场胜利5次
+#+BEGIN_EXAMPLE
+获得潜龙之渊战场胜利5次
+#+END_EXAMPLE
+
+** 飞龙在天·叁
+- 获得潜龙之渊战场胜利10次
+#+BEGIN_EXAMPLE
+获得潜龙之渊战场胜利10次
+#+END_EXAMPLE
+
+** 飞龙在天·肆
+- 获得潜龙之渊战场胜利15次
+#+BEGIN_EXAMPLE
+获得潜龙之渊战场胜利15次
+#+END_EXAMPLE
+
+** 飞龙在天·伍
+- 获得潜龙之渊战场胜利20次
+#+BEGIN_EXAMPLE
+获得潜龙之渊战场胜利20次
+#+END_EXAMPLE
+
+** 飞龙在天·陆
+- 获得潜龙之渊战场胜利50次
+#+BEGIN_EXAMPLE
+获得潜龙之渊战场胜利50次
+#+END_EXAMPLE
+
+** 飞龙在天·柒
+- 获得潜龙之渊战场胜利100次
+#+BEGIN_EXAMPLE
+获得潜龙之渊战场胜利100次
+#+END_EXAMPLE
+
+** 飞龙在天·捌
+- 获得潜龙之渊战场胜利200次
+#+BEGIN_EXAMPLE
+获得潜龙之渊战场胜利200次
+#+END_EXAMPLE
+
+** 飞龙在天·玖
+- 获得潜龙之渊战场胜利500次
+#+BEGIN_EXAMPLE
+获得潜龙之渊战场胜利500次
+#+END_EXAMPLE
+
+** 飞龙在天·拾
+- 获得潜龙之渊战场胜利1000次
+#+BEGIN_EXAMPLE
+获得潜龙之渊战场胜利1000次
+#+END_EXAMPLE
+
+** 降龙伏虎·壹
+- 在潜龙之渊战场击沉1艘敌方船只
+#+BEGIN_EXAMPLE
+在潜龙之渊战场击沉1艘敌方船只
+#+END_EXAMPLE
+
+** 降龙伏虎·贰
+- 在潜龙之渊战场击沉5艘敌方船只
+#+BEGIN_EXAMPLE
+在潜龙之渊战场击沉5艘敌方船只
+#+END_EXAMPLE
+
+** 降龙伏虎·叁
+- 在潜龙之渊战场击沉10艘敌方船只
+#+BEGIN_EXAMPLE
+在潜龙之渊战场击沉10艘敌方船只
+#+END_EXAMPLE
+
+** 降龙伏虎·肆
+- 在潜龙之渊战场击沉15艘敌方船只
+#+BEGIN_EXAMPLE
+在潜龙之渊战场击沉15艘敌方船只
+#+END_EXAMPLE
+
+** 降龙伏虎·伍
+- 在潜龙之渊战场击沉20艘敌方船只
+#+BEGIN_EXAMPLE
+在潜龙之渊战场击沉20艘敌方船只
+#+END_EXAMPLE
+
+** 降龙伏虎·陆
+- 在潜龙之渊战场击沉50艘敌方船只
+#+BEGIN_EXAMPLE
+在潜龙之渊战场击沉50艘敌方船只
+#+END_EXAMPLE
+
+** 降龙伏虎·柒
+- 在潜龙之渊战场击沉100艘敌方船只
+#+BEGIN_EXAMPLE
+在潜龙之渊战场击沉100艘敌方船只
+#+END_EXAMPLE
+
+** 降龙伏虎·捌
+- 在潜龙之渊战场击沉200艘敌方船只
+#+BEGIN_EXAMPLE
+在潜龙之渊战场击沉200艘敌方船只
+#+END_EXAMPLE
+
+** 降龙伏虎·玖
+- 在潜龙之渊战场击沉500艘敌方船只
+#+BEGIN_EXAMPLE
+在潜龙之渊战场击沉500艘敌方船只
+#+END_EXAMPLE
+
+** 降龙伏虎·拾
+- 在潜龙之渊战场击沉1000艘敌方船只
+#+BEGIN_EXAMPLE
+在潜龙之渊战场击沉1000艘敌方船只
+#+END_EXAMPLE
+
